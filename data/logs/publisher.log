@@ -78,3 +78,14 @@ Share this with someone who needs it today! 💛
 #YouGotThis #KeepGoing #Never...
 2026-06-16 13:27:04,541 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-06-16 13:27:04,542 [INFO] ✅ Slot [midday_encouragement] published successfully!
+2026-06-16 15:51:23,673 [INFO] Failed posts list is empty.
+2026-06-16 15:51:23,834 [INFO] ──────────────────────────────────────────────────
+2026-06-16 15:51:23,834 [INFO] ▶  Running slot: morning_motivation
+2026-06-16 15:51:23,834 [INFO] ──────────────────────────────────────────────────
+2026-06-16 15:51:23,835 [INFO] 📝 Content selected: Believe this: keep going. everything you need will come to you at the perfect ti...
+2026-06-16 15:51:23,977 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260616_155123.png
+2026-06-16 15:51:23,977 [INFO] Caption preview: ☀️ Believe this: keep going. everything you need will come to you at the perfect time.
+
+Share this with someone who need...
+2026-06-16 15:51:28,766 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-16 15:51:28,767 [INFO] ✅ Slot [morning_motivation] published successfully!

@@ -81,5 +81,26 @@
       "post_id": "1181533578372151_122097205569364831"
     },
     "timestamp": "2026-06-16T13:27:04.542221"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Believe this: keep going. everything you need will come to you at the perfect time.",
+      "content_index": 300,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T15:51:23.835797",
+      "weight_used": 0.6542077023109732
+    },
+    "caption": "\u2600\ufe0f Believe this: keep going. everything you need will come to you at the perfect time.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122097290313364831",
+      "post_id": "1181533578372151_122097290337364831"
+    },
+    "timestamp": "2026-06-16T15:51:28.767044"
   }
 ]

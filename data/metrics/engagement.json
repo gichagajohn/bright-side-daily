@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-16T15:29:36.768847",
-  "total_posts_tracked": 83,
+  "last_updated": "2026-06-16T15:51:30.165831",
+  "total_posts_tracked": 88,
   "engagement_by_category": {
     "motivational_quotes": [
       {
@@ -170,6 +170,38 @@
         "shares": 0,
         "reach": 0,
         "timestamp": "2026-06-16T10:49:52.443431"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T10:47:04.290807"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T10:47:17.278204"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T10:49:52.443431"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T15:51:28.767044"
       }
     ],
     "positive_life_quotes": [
@@ -514,6 +546,14 @@
         "shares": 0,
         "reach": 0,
         "timestamp": "2026-06-16T13:27:04.542221"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T13:27:04.542221"
       }
     ],
     "gratitude_quotes": [
@@ -682,22 +722,22 @@
     ]
   },
   "avg_engagement_by_category": {
-    "motivational_quotes": 59.76285714285715,
+    "motivational_quotes": 50.20080000000001,
     "positive_life_quotes": 82.58500000000001,
     "meme_captions": 169.639,
     "self_improvement_quotes": 73.04,
-    "encouragement_quotes": 83.98666666666666,
+    "encouragement_quotes": 77.52615384615385,
     "gratitude_quotes": 55.842,
     "engagement_questions": 114.60499999999999
   },
   "weights": {
-    "motivational_quotes": 0.7579453916176813,
-    "positive_life_quotes": 0.9328248342669203,
-    "meme_captions": 1.599894315677255,
-    "self_improvement_quotes": 0.8596842755325527,
-    "encouragement_quotes": 0.9435653982438021,
-    "gratitude_quotes": 0.7279010037553231,
-    "engagement_questions": 1.1781847809064647
+    "motivational_quotes": 0.6945603864545944,
+    "positive_life_quotes": 0.9490886502874989,
+    "meme_captions": 1.633302046934928,
+    "self_improvement_quotes": 0.8740683540231147,
+    "encouragement_quotes": 0.9093279234967728,
+    "gratitude_quotes": 0.7388982068094025,
+    "engagement_questions": 1.200754431993689
   },
   "top_performing_content": [
     {
@@ -724,6 +764,13 @@
     {
       "content": "You have the power to change your story.",
       "category": "encouragement_quotes",
+      "score": 0.0,
+      "likes": 0,
+      "shares": 0
+    },
+    {
+      "content": "Believe this: keep going. everything you need will come to you at the perfect time.",
+      "category": "motivational_quotes",
       "score": 0.0,
       "likes": 0,
       "shares": 0
