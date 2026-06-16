@@ -104,3 +104,14 @@ Drop your answer in the comments below 👇
 2026-06-16 18:07:21,654 [INFO] Retrying in 30s...
 2026-06-16 18:07:58,973 [INFO] ✅ Posted successfully [engagement_question]
 2026-06-16 18:07:58,974 [INFO] ✅ Slot [engagement_question] published successfully!
+2026-06-16 19:25:15,789 [INFO] Failed posts list is empty.
+2026-06-16 19:25:15,945 [INFO] ──────────────────────────────────────────────────
+2026-06-16 19:25:15,945 [INFO] ▶  Running slot: morning_motivation
+2026-06-16 19:25:15,945 [INFO] ──────────────────────────────────────────────────
+2026-06-16 19:25:15,946 [INFO] 📝 Content selected: Many of life's failures are people who did not realize how close they were to su...
+2026-06-16 19:25:16,058 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260616_192515.png
+2026-06-16 19:25:16,058 [INFO] Caption preview: ☀️ Many of life's failures are people who did not realize how close they were to success when they gave up.
+
+Share this ...
+2026-06-16 19:25:21,855 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-16 19:25:21,855 [INFO] ✅ Slot [morning_motivation] published successfully!
