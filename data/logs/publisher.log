@@ -1,0 +1,18 @@
+2026-06-16 10:15:01,822 [INFO] No failed posts to retry.
+2026-06-16 10:15:01,996 [INFO] ──────────────────────────────────────────────────
+2026-06-16 10:15:01,996 [INFO] ▶  Running slot: morning_motivation
+2026-06-16 10:15:01,996 [INFO] ──────────────────────────────────────────────────
+2026-06-16 10:15:01,997 [INFO] 📝 Content selected: Worth repeating: dream bigger. do bigger....
+2026-06-16 10:15:02,107 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260616_101502.png
+2026-06-16 10:15:02,107 [INFO] Caption preview: ☀️ Worth repeating: dream bigger. do bigger.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Minds...
+2026-06-16 10:15:02,107 [INFO] [DRY RUN] Post would be published:
+2026-06-16 10:15:02,107 [INFO] ☀️ Worth repeating: dream bigger. do bigger.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily
+2026-06-16 10:15:02,107 [INFO] ✅ Slot [morning_motivation] published successfully!
