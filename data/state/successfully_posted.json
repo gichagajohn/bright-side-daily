@@ -1,0 +1,43 @@
+[
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "It does not matter how slowly you go as long as you do not stop.",
+      "content_index": 28,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T10:36:59.436524",
+      "weight_used": 1.2167834492387088
+    },
+    "caption": "\u2600\ufe0f It does not matter how slowly you go as long as you do not stop.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "1181533578372151_122097076989364831"
+    },
+    "timestamp": "2026-06-16T10:47:04.290807"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Wake up with determination. Go to bed with satisfaction. \u2014 pass it on.",
+      "content_index": 74,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "beautiful sunrise over mountains"
+      },
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T10:47:04.451690",
+      "weight_used": 1.2167834492387088
+    },
+    "caption": "\u2600\ufe0f Wake up with determination. Go to bed with satisfaction. \u2014 pass it on.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122097077061364831",
+      "post_id": "1181533578372151_122097077193364831"
+    },
+    "timestamp": "2026-06-16T10:47:17.278204"
+  }
+]

@@ -34,3 +34,23 @@ Share this with someone who needs it today! 💛
 2026-06-16 10:38:00,257 [WARNING] Attempt 3/3 failed: {'message': '(#200) The permission(s) publish_actions are not available. It has been deprecated. If you want to provide a way for your app users to share content to Facebook, we encourage you to use our Sharing products instead.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'Aj6C8DjTO_1Ms1lpvx0CApe'}
 2026-06-16 10:38:00,257 [ERROR] ❌ All retries failed for [morning_motivation]
 2026-06-16 10:38:00,258 [ERROR] ❌ Slot [morning_motivation] failed to publish.
+2026-06-16 10:47:01,338 [INFO] Retrying 1 failed posts...
+2026-06-16 10:47:01,338 [INFO] Publishing [morning_motivation] | image: none
+2026-06-16 10:47:01,338 [INFO] Caption preview: ☀️ It does not matter how slowly you go as long as you do not stop.
+
+Share this with someone who needs it today! 💛
+
+#Mot...
+2026-06-16 10:47:01,338 [WARNING] No image found — posting text only.
+2026-06-16 10:47:04,290 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-16 10:47:04,291 [INFO] Retry complete. 0 still failing.
+2026-06-16 10:47:04,450 [INFO] ──────────────────────────────────────────────────
+2026-06-16 10:47:04,450 [INFO] ▶  Running slot: morning_motivation
+2026-06-16 10:47:04,450 [INFO] ──────────────────────────────────────────────────
+2026-06-16 10:47:04,451 [INFO] 📝 Content selected: Wake up with determination. Go to bed with satisfaction. — pass it on....
+2026-06-16 10:47:04,567 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260616_104704.png
+2026-06-16 10:47:04,567 [INFO] Caption preview: ☀️ Wake up with determination. Go to bed with satisfaction. — pass it on.
+
+Share this with someone who needs it today! 💛...
+2026-06-16 10:47:17,277 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-16 10:47:17,278 [INFO] ✅ Slot [morning_motivation] published successfully!
