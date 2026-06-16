@@ -54,3 +54,14 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it today! 💛...
 2026-06-16 10:47:17,277 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-16 10:47:17,278 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-16 10:49:44,823 [INFO] Failed posts list is empty.
+2026-06-16 10:49:44,982 [INFO] ──────────────────────────────────────────────────
+2026-06-16 10:49:44,982 [INFO] ▶  Running slot: morning_motivation
+2026-06-16 10:49:44,982 [INFO] ──────────────────────────────────────────────────
+2026-06-16 10:49:44,983 [INFO] 📝 Content selected: Push yourself because no one else will do it for you. — you've got this....
+2026-06-16 10:49:45,093 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260616_104945.png
+2026-06-16 10:49:45,094 [INFO] Caption preview: ☀️ Push yourself because no one else will do it for you. — you've got this.
+
+Share this with someone who needs it today!...
+2026-06-16 10:49:52,443 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-16 10:49:52,443 [INFO] ✅ Slot [morning_motivation] published successfully!

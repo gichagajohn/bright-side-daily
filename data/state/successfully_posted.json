@@ -39,5 +39,26 @@
       "post_id": "1181533578372151_122097077193364831"
     },
     "timestamp": "2026-06-16T10:47:17.278204"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Push yourself because no one else will do it for you. \u2014 you've got this.",
+      "content_index": 211,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T10:49:44.983927",
+      "weight_used": 1.0442388885719178
+    },
+    "caption": "\u2600\ufe0f Push yourself because no one else will do it for you. \u2014 you've got this.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122097078915364831",
+      "post_id": "1181533578372151_122097078933364831"
+    },
+    "timestamp": "2026-06-16T10:49:52.443431"
   }
 ]

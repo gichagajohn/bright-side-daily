@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-16T10:47:17.934459",
-  "total_posts_tracked": 72,
+  "last_updated": "2026-06-16T10:49:53.531404",
+  "total_posts_tracked": 75,
   "engagement_by_category": {
     "motivational_quotes": [
       {
@@ -98,6 +98,30 @@
         "shares": 0,
         "reach": 0,
         "timestamp": "2026-06-16T10:47:17.278204"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T10:47:04.290807"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T10:47:17.278204"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T10:49:52.443431"
       }
     ],
     "positive_life_quotes": [
@@ -594,7 +618,7 @@
     ]
   },
   "avg_engagement_by_category": {
-    "motivational_quotes": 104.58500000000002,
+    "motivational_quotes": 83.66800000000002,
     "positive_life_quotes": 82.58500000000001,
     "meme_captions": 169.639,
     "self_improvement_quotes": 73.04,
@@ -603,13 +627,13 @@
     "engagement_questions": 114.60499999999999
   },
   "weights": {
-    "motivational_quotes": 1.0309672220003425,
-    "positive_life_quotes": 0.877204455982199,
-    "meme_captions": 1.4856437211159925,
-    "self_improvement_quotes": 0.8104923831802362,
-    "encouragement_quotes": 1.0044012095623893,
-    "gratitude_quotes": 0.6902918354538712,
-    "engagement_questions": 1.1009991727049693
+    "motivational_quotes": 0.9027572802401778,
+    "positive_life_quotes": 0.8949551798612978,
+    "meme_captions": 1.522105730538121,
+    "self_improvement_quotes": 0.8261915158572282,
+    "encouragement_quotes": 1.0260636053416605,
+    "gratitude_quotes": 0.7022944500068364,
+    "engagement_questions": 1.1256322381546775
   },
   "top_performing_content": [
     {
@@ -621,6 +645,13 @@
     },
     {
       "content": "Wake up with determination. Go to bed with satisfaction. \u2014 pass it on.",
+      "category": "motivational_quotes",
+      "score": 0.0,
+      "likes": 0,
+      "shares": 0
+    },
+    {
+      "content": "Push yourself because no one else will do it for you. \u2014 you've got this.",
       "category": "motivational_quotes",
       "score": 0.0,
       "likes": 0,
