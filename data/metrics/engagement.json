@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-16T19:25:25.691917",
-  "total_posts_tracked": 101,
+  "last_updated": "2026-06-16T20:44:08.622363",
+  "total_posts_tracked": 109,
   "engagement_by_category": {
     "motivational_quotes": [
       {
@@ -274,6 +274,54 @@
         "shares": 0,
         "reach": 0,
         "timestamp": "2026-06-16T19:25:21.855470"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T10:47:04.290807"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T10:47:17.278204"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T10:49:52.443431"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T15:51:28.767044"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T19:25:21.855470"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T20:44:05.355238"
       }
     ],
     "positive_life_quotes": [
@@ -642,6 +690,14 @@
         "shares": 0,
         "reach": 0,
         "timestamp": "2026-06-16T13:27:04.542221"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T13:27:04.542221"
       }
     ],
     "gratitude_quotes": [
@@ -822,26 +878,34 @@
         "shares": 0,
         "reach": 0,
         "timestamp": "2026-06-16T18:07:58.974093"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T18:07:58.974093"
       }
     ]
   },
   "avg_engagement_by_category": {
-    "motivational_quotes": 36.91235294117648,
+    "motivational_quotes": 31.375500000000006,
     "positive_life_quotes": 82.58500000000001,
     "meme_captions": 169.639,
     "self_improvement_quotes": 73.04,
-    "encouragement_quotes": 67.18933333333334,
+    "encouragement_quotes": 62.99,
     "gratitude_quotes": 55.842,
-    "engagement_questions": 95.50416666666666
+    "engagement_questions": 88.1576923076923
   },
   "weights": {
-    "motivational_quotes": 0.6114634710755356,
-    "positive_life_quotes": 0.9968456007061921,
-    "meme_captions": 1.7314002646751558,
-    "self_improvement_quotes": 0.9163056569059791,
-    "encouragement_quotes": 0.8669382012195344,
-    "gratitude_quotes": 0.7711903134302256,
-    "engagement_questions": 1.1058564919873781
+    "motivational_quotes": 0.5727678979339867,
+    "positive_life_quotes": 1.017965828461006,
+    "meme_captions": 1.7747836189900903,
+    "self_improvement_quotes": 0.9349848533122465,
+    "encouragement_quotes": 0.8476135803688172,
+    "gratitude_quotes": 0.7854713058414905,
+    "engagement_questions": 1.0664129150923625
   },
   "top_performing_content": [
     {
@@ -888,6 +952,13 @@
     },
     {
       "content": "Many of life's failures are people who did not realize how close they were to success when they gave",
+      "category": "motivational_quotes",
+      "score": 0.0,
+      "likes": 0,
+      "shares": 0
+    },
+    {
+      "content": "[Motivational] You have brains in your head. You have feet in your shoes. You can steer yourself any",
       "category": "motivational_quotes",
       "score": 0.0,
       "likes": 0,

@@ -115,3 +115,12 @@ Drop your answer in the comments below 👇
 Share this ...
 2026-06-16 19:25:21,855 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-16 19:25:21,855 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-16 20:43:56,951 [INFO] Failed posts list is empty.
+2026-06-16 20:43:57,118 [INFO] ──────────────────────────────────────────────────
+2026-06-16 20:43:57,118 [INFO] ▶  Running slot: morning_motivation
+2026-06-16 20:43:57,118 [INFO] ──────────────────────────────────────────────────
+2026-06-16 20:43:57,120 [INFO] 📝 Content selected: [Motivational] You have brains in your head. You have feet in your shoes. You ca...
+2026-06-16 20:43:57,248 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260616_204357.png
+2026-06-16 20:43:57,248 [INFO] Caption preview: ☀️ [Motivational] You have brains in your head. You have feet in your shoes. You can steer yourself any direction you ch...
+2026-06-16 20:44:05,354 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-16 20:44:05,355 [INFO] ✅ Slot [morning_motivation] published successfully!
