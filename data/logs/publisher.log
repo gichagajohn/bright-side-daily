@@ -89,3 +89,18 @@ Share this with someone who needs it today! 💛
 Share this with someone who need...
 2026-06-16 15:51:28,766 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-16 15:51:28,767 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-16 18:07:01,303 [INFO] Failed posts list is empty.
+2026-06-16 18:07:01,460 [INFO] ──────────────────────────────────────────────────
+2026-06-16 18:07:01,460 [INFO] ▶  Running slot: engagement_question
+2026-06-16 18:07:01,460 [INFO] ──────────────────────────────────────────────────
+2026-06-16 18:07:01,462 [INFO] 📝 Content selected: Never forget: what would you do if you knew you couldn't fail?...
+2026-06-16 18:07:01,573 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260616_180701.png
+2026-06-16 18:07:01,573 [INFO] Caption preview: 💬 Never forget: what would you do if you knew you couldn't fail?
+
+Drop your answer in the comments below 👇
+
+#Community #...
+2026-06-16 18:07:21,654 [WARNING] Attempt 1/3 failed: {'code': 1, 'message': "Please reduce the amount of data you're asking for, then retry your request"}
+2026-06-16 18:07:21,654 [INFO] Retrying in 30s...
+2026-06-16 18:07:58,973 [INFO] ✅ Posted successfully [engagement_question]
+2026-06-16 18:07:58,974 [INFO] ✅ Slot [engagement_question] published successfully!

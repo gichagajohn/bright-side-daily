@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-16T15:51:30.165831",
-  "total_posts_tracked": 88,
+  "last_updated": "2026-06-16T18:08:00.943133",
+  "total_posts_tracked": 94,
   "engagement_by_category": {
     "motivational_quotes": [
       {
@@ -170,6 +170,38 @@
         "shares": 0,
         "reach": 0,
         "timestamp": "2026-06-16T10:49:52.443431"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T10:47:04.290807"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T10:47:17.278204"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T10:49:52.443431"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T15:51:28.767044"
       },
       {
         "score": 0.0,
@@ -554,6 +586,14 @@
         "shares": 0,
         "reach": 0,
         "timestamp": "2026-06-16T13:27:04.542221"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T13:27:04.542221"
       }
     ],
     "gratitude_quotes": [
@@ -718,26 +758,34 @@
         "shares": 1,
         "reach": 197,
         "timestamp": "2026-06-16T07:27:01.690082"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T18:07:58.974093"
       }
     ]
   },
   "avg_engagement_by_category": {
-    "motivational_quotes": 50.20080000000001,
+    "motivational_quotes": 43.27655172413794,
     "positive_life_quotes": 82.58500000000001,
     "meme_captions": 169.639,
     "self_improvement_quotes": 73.04,
-    "encouragement_quotes": 77.52615384615385,
+    "encouragement_quotes": 71.98857142857143,
     "gratitude_quotes": 55.842,
-    "engagement_questions": 114.60499999999999
+    "engagement_questions": 104.18636363636364
   },
   "weights": {
-    "motivational_quotes": 0.6945603864545944,
-    "positive_life_quotes": 0.9490886502874989,
-    "meme_captions": 1.633302046934928,
-    "self_improvement_quotes": 0.8740683540231147,
-    "encouragement_quotes": 0.9093279234967728,
-    "gratitude_quotes": 0.7388982068094025,
-    "engagement_questions": 1.200754431993689
+    "motivational_quotes": 0.6530970941383895,
+    "positive_life_quotes": 0.9738180921922741,
+    "meme_captions": 1.6840991383593291,
+    "self_improvement_quotes": 0.8959396192253279,
+    "encouragement_quotes": 0.8873609234079707,
+    "gratitude_quotes": 0.755619663427995,
+    "engagement_questions": 1.1500654692487142
   },
   "top_performing_content": [
     {
@@ -771,6 +819,13 @@
     {
       "content": "Believe this: keep going. everything you need will come to you at the perfect time.",
       "category": "motivational_quotes",
+      "score": 0.0,
+      "likes": 0,
+      "shares": 0
+    },
+    {
+      "content": "Never forget: what would you do if you knew you couldn't fail?",
+      "category": "engagement_questions",
       "score": 0.0,
       "likes": 0,
       "shares": 0
