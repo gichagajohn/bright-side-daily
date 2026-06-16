@@ -1,0 +1,149 @@
+name: 🌟 Bright Side Daily — Auto Poster
+
+on:
+  schedule:
+    # All times in UTC (Kenya/EAT = UTC+3)
+    - cron: '0 5 * * *'   # Morning Motivation   — 8:00 AM EAT
+    - cron: '0 7 * * *'   # Positive Quote        — 10:00 AM EAT
+    - cron: '0 9 * * *'   # Funny Meme            — 12:00 PM EAT
+    - cron: '0 11 * * *'  # Self Improvement      — 2:00 PM EAT
+    - cron: '0 13 * * *'  # Midday Encouragement  — 4:00 PM EAT
+    - cron: '0 16 * * *'  # Evening Reflection    — 7:00 PM EAT
+    - cron: '0 18 * * *'  # Engagement Question   — 9:00 PM EAT
+
+  # Manual trigger for testing
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: 'Which slot to post (leave empty for auto-detect)'
+        required: false
+        default: ''
+      dry_run:
+        description: 'Dry run (true/false) — skips actual Facebook posting'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write   # needed to push state files back to repo
+
+jobs:
+  post:
+    name: 📢 Post to Facebook
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # ── 2. Setup Python ───────────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # ── 3. Install dependencies ───────────────────────────────────────────────
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # ── 4. Generate content library (if missing) ──────────────────────────────
+      - name: Generate content library (if missing)
+        run: |
+          if [ ! -f "content/library.json" ]; then
+            echo "📚 Content library not found — generating..."
+            python scripts/generate_content_library.py
+          else
+            echo "✅ Content library exists."
+          fi
+
+      # ── 5. Determine which slot to run ────────────────────────────────────────
+      - name: Determine slot
+        id: slot_detect
+        run: |
+          HOUR=$(date -u +%H)
+          INPUT_SLOT="${{ github.event.inputs.slot }}"
+
+          if [ -n "$INPUT_SLOT" ]; then
+            echo "slot=$INPUT_SLOT" >> $GITHUB_OUTPUT
+            echo "Manually specified slot: $INPUT_SLOT"
+          elif [ "$HOUR" = "05" ]; then
+            echo "slot=morning_motivation" >> $GITHUB_OUTPUT
+          elif [ "$HOUR" = "07" ]; then
+            echo "slot=positive_quote" >> $GITHUB_OUTPUT
+          elif [ "$HOUR" = "09" ]; then
+            echo "slot=funny_meme" >> $GITHUB_OUTPUT
+          elif [ "$HOUR" = "11" ]; then
+            echo "slot=self_improvement" >> $GITHUB_OUTPUT
+          elif [ "$HOUR" = "13" ]; then
+            echo "slot=midday_encouragement" >> $GITHUB_OUTPUT
+          elif [ "$HOUR" = "16" ]; then
+            echo "slot=evening_reflection" >> $GITHUB_OUTPUT
+          elif [ "$HOUR" = "18" ]; then
+            echo "slot=engagement_question" >> $GITHUB_OUTPUT
+          else
+            echo "slot=morning_motivation" >> $GITHUB_OUTPUT
+            echo "⚠️  Unknown hour $HOUR, defaulting to morning_motivation"
+          fi
+
+      # ── 6. Retry any previously failed posts ─────────────────────────────────
+      - name: Retry failed posts
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+        run: |
+          python src/scheduler.py --retry-failed || echo "No failed posts to retry."
+
+      # ── 7. Run the post slot ──────────────────────────────────────────────────
+      - name: Post to Facebook
+        id: post
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+        run: |
+          SLOT="${{ steps.slot_detect.outputs.slot }}"
+          echo "🚀 Posting slot: $SLOT"
+          python src/scheduler.py --slot "$SLOT"
+
+      # ── 8. Collect performance metrics ────────────────────────────────────────
+      - name: Collect engagement metrics
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+        run: |
+          python src/agents/performance_agent.py || echo "⚠️  Metrics collection skipped."
+        continue-on-error: true
+
+      # ── 9. Save state back to repo ────────────────────────────────────────────
+      - name: Commit state files
+        run: |
+          git config --local user.email "brightside-bot@users.noreply.github.com"
+          git config --local user.name "Bright Side Daily Bot"
+          git add data/ content/ --force
+          git diff --staged --quiet || git commit -m "🤖 Auto: state update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
+        continue-on-error: true
+
+      # ── 10. Upload generated images as artifacts ──────────────────────────────
+      - name: Upload post images
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: post-images-${{ steps.slot_detect.outputs.slot }}-${{ github.run_number }}
+          path: images/output/
+          retention-days: 30
+
+      # ── 11. Upload logs ───────────────────────────────────────────────────────
+      - name: Upload logs
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: logs-${{ steps.slot_detect.outputs.slot }}-${{ github.run_number }}
+          path: data/logs/
+          retention-days: 14

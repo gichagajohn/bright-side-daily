@@ -1,0 +1,600 @@
+{
+  "last_updated": "2026-06-16T07:27:01.691062",
+  "total_posts_tracked": 70,
+  "engagement_by_category": {
+    "motivational_quotes": [
+      {
+        "score": 149.21,
+        "likes": 53,
+        "comments": 9,
+        "shares": 13,
+        "reach": 421,
+        "timestamp": "2026-06-16T07:27:01.689695"
+      },
+      {
+        "score": 110.64,
+        "likes": 43,
+        "comments": 2,
+        "shares": 12,
+        "reach": 164,
+        "timestamp": "2026-06-16T07:27:01.689719"
+      },
+      {
+        "score": 120.77,
+        "likes": 15,
+        "comments": 9,
+        "shares": 15,
+        "reach": 377,
+        "timestamp": "2026-06-16T07:27:01.689728"
+      },
+      {
+        "score": 175.07,
+        "likes": 83,
+        "comments": 8,
+        "shares": 13,
+        "reach": 307,
+        "timestamp": "2026-06-16T07:27:01.689734"
+      },
+      {
+        "score": 67.44,
+        "likes": 46,
+        "comments": 3,
+        "shares": 2,
+        "reach": 244,
+        "timestamp": "2026-06-16T07:27:01.689740"
+      },
+      {
+        "score": 140.11,
+        "likes": 42,
+        "comments": 10,
+        "shares": 13,
+        "reach": 311,
+        "timestamp": "2026-06-16T07:27:01.689745"
+      },
+      {
+        "score": 112.51,
+        "likes": 43,
+        "comments": 9,
+        "shares": 8,
+        "reach": 251,
+        "timestamp": "2026-06-16T07:27:01.689751"
+      },
+      {
+        "score": 121.81,
+        "likes": 62,
+        "comments": 7,
+        "shares": 7,
+        "reach": 381,
+        "timestamp": "2026-06-16T07:27:01.689756"
+      },
+      {
+        "score": 125.01,
+        "likes": 28,
+        "comments": 8,
+        "shares": 14,
+        "reach": 301,
+        "timestamp": "2026-06-16T07:27:01.689761"
+      },
+      {
+        "score": 132.45,
+        "likes": 13,
+        "comments": 7,
+        "shares": 19,
+        "reach": 345,
+        "timestamp": "2026-06-16T07:27:01.689765"
+      }
+    ],
+    "positive_life_quotes": [
+      {
+        "score": 56.86,
+        "likes": 24,
+        "comments": 5,
+        "shares": 3,
+        "reach": 286,
+        "timestamp": "2026-06-16T07:27:01.689770"
+      },
+      {
+        "score": 56.89,
+        "likes": 19,
+        "comments": 5,
+        "shares": 4,
+        "reach": 289,
+        "timestamp": "2026-06-16T07:27:01.689778"
+      },
+      {
+        "score": 80.54,
+        "likes": 29,
+        "comments": 3,
+        "shares": 8,
+        "reach": 254,
+        "timestamp": "2026-06-16T07:27:01.689783"
+      },
+      {
+        "score": 85.87,
+        "likes": 38,
+        "comments": 3,
+        "shares": 7,
+        "reach": 387,
+        "timestamp": "2026-06-16T07:27:01.689787"
+      },
+      {
+        "score": 106.37,
+        "likes": 44,
+        "comments": 5,
+        "shares": 9,
+        "reach": 237,
+        "timestamp": "2026-06-16T07:27:01.689792"
+      },
+      {
+        "score": 95.44,
+        "likes": 29,
+        "comments": 8,
+        "shares": 8,
+        "reach": 244,
+        "timestamp": "2026-06-16T07:27:01.689796"
+      },
+      {
+        "score": 75.98,
+        "likes": 16,
+        "comments": 6,
+        "shares": 8,
+        "reach": 198,
+        "timestamp": "2026-06-16T07:27:01.689801"
+      },
+      {
+        "score": 72.31,
+        "likes": 23,
+        "comments": 6,
+        "shares": 6,
+        "reach": 131,
+        "timestamp": "2026-06-16T07:27:01.689805"
+      },
+      {
+        "score": 92.11,
+        "likes": 32,
+        "comments": 4,
+        "shares": 9,
+        "reach": 311,
+        "timestamp": "2026-06-16T07:27:01.689810"
+      },
+      {
+        "score": 103.48,
+        "likes": 48,
+        "comments": 4,
+        "shares": 8,
+        "reach": 348,
+        "timestamp": "2026-06-16T07:27:01.689814"
+      }
+    ],
+    "meme_captions": [
+      {
+        "score": 150.18,
+        "likes": 62,
+        "comments": 8,
+        "shares": 12,
+        "reach": 418,
+        "timestamp": "2026-06-16T07:27:01.689819"
+      },
+      {
+        "score": 200.93,
+        "likes": 71,
+        "comments": 13,
+        "shares": 17,
+        "reach": 593,
+        "timestamp": "2026-06-16T07:27:01.689824"
+      },
+      {
+        "score": 194.04,
+        "likes": 49,
+        "comments": 7,
+        "shares": 24,
+        "reach": 404,
+        "timestamp": "2026-06-16T07:27:01.689828"
+      },
+      {
+        "score": 186.56,
+        "likes": 55,
+        "comments": 11,
+        "shares": 19,
+        "reach": 356,
+        "timestamp": "2026-06-16T07:27:01.689832"
+      },
+      {
+        "score": 167.81,
+        "likes": 45,
+        "comments": 14,
+        "shares": 15,
+        "reach": 581,
+        "timestamp": "2026-06-16T07:27:01.689837"
+      },
+      {
+        "score": 158.26,
+        "likes": 59,
+        "comments": 13,
+        "shares": 11,
+        "reach": 526,
+        "timestamp": "2026-06-16T07:27:01.689841"
+      },
+      {
+        "score": 185.19,
+        "likes": 63,
+        "comments": 16,
+        "shares": 14,
+        "reach": 419,
+        "timestamp": "2026-06-16T07:27:01.689847"
+      },
+      {
+        "score": 158.81,
+        "likes": 28,
+        "comments": 19,
+        "shares": 14,
+        "reach": 381,
+        "timestamp": "2026-06-16T07:27:01.689852"
+      },
+      {
+        "score": 173.22,
+        "likes": 74,
+        "comments": 12,
+        "shares": 12,
+        "reach": 322,
+        "timestamp": "2026-06-16T07:27:01.689856"
+      },
+      {
+        "score": 121.39,
+        "likes": 14,
+        "comments": 14,
+        "shares": 12,
+        "reach": 539,
+        "timestamp": "2026-06-16T07:27:01.689861"
+      }
+    ],
+    "self_improvement_quotes": [
+      {
+        "score": 66.17,
+        "likes": 14,
+        "comments": 5,
+        "shares": 7,
+        "reach": 217,
+        "timestamp": "2026-06-16T07:27:01.689867"
+      },
+      {
+        "score": 71.63,
+        "likes": 20,
+        "comments": 5,
+        "shares": 7,
+        "reach": 163,
+        "timestamp": "2026-06-16T07:27:01.689873"
+      },
+      {
+        "score": 58.69,
+        "likes": 23,
+        "comments": 4,
+        "shares": 4,
+        "reach": 369,
+        "timestamp": "2026-06-16T07:27:01.689878"
+      },
+      {
+        "score": 62.52,
+        "likes": 27,
+        "comments": 3,
+        "shares": 5,
+        "reach": 152,
+        "timestamp": "2026-06-16T07:27:01.689882"
+      },
+      {
+        "score": 67.73,
+        "likes": 28,
+        "comments": 4,
+        "shares": 5,
+        "reach": 273,
+        "timestamp": "2026-06-16T07:27:01.689887"
+      },
+      {
+        "score": 95.47,
+        "likes": 50,
+        "comments": 4,
+        "shares": 6,
+        "reach": 347,
+        "timestamp": "2026-06-16T07:27:01.689891"
+      },
+      {
+        "score": 67.55,
+        "likes": 23,
+        "comments": 4,
+        "shares": 6,
+        "reach": 255,
+        "timestamp": "2026-06-16T07:27:01.689895"
+      },
+      {
+        "score": 81.93,
+        "likes": 57,
+        "comments": 3,
+        "shares": 3,
+        "reach": 93,
+        "timestamp": "2026-06-16T07:27:01.689900"
+      },
+      {
+        "score": 81.59,
+        "likes": 31,
+        "comments": 4,
+        "shares": 7,
+        "reach": 359,
+        "timestamp": "2026-06-16T07:27:01.689904"
+      },
+      {
+        "score": 77.12,
+        "likes": 24,
+        "comments": 2,
+        "shares": 9,
+        "reach": 212,
+        "timestamp": "2026-06-16T07:27:01.689908"
+      }
+    ],
+    "encouragement_quotes": [
+      {
+        "score": 101.48,
+        "likes": 34,
+        "comments": 8,
+        "shares": 8,
+        "reach": 348,
+        "timestamp": "2026-06-16T07:27:01.689913"
+      },
+      {
+        "score": 121.95,
+        "likes": 34,
+        "comments": 6,
+        "shares": 13,
+        "reach": 495,
+        "timestamp": "2026-06-16T07:27:01.689918"
+      },
+      {
+        "score": 108.95,
+        "likes": 31,
+        "comments": 7,
+        "shares": 11,
+        "reach": 195,
+        "timestamp": "2026-06-16T07:27:01.689922"
+      },
+      {
+        "score": 61.6,
+        "likes": 33,
+        "comments": 5,
+        "shares": 2,
+        "reach": 360,
+        "timestamp": "2026-06-16T07:27:01.689927"
+      },
+      {
+        "score": 76.83,
+        "likes": 29,
+        "comments": 3,
+        "shares": 7,
+        "reach": 383,
+        "timestamp": "2026-06-16T07:27:01.689931"
+      },
+      {
+        "score": 123.6,
+        "likes": 61,
+        "comments": 5,
+        "shares": 9,
+        "reach": 260,
+        "timestamp": "2026-06-16T07:27:01.689935"
+      },
+      {
+        "score": 84.96,
+        "likes": 25,
+        "comments": 6,
+        "shares": 8,
+        "reach": 196,
+        "timestamp": "2026-06-16T07:27:01.689940"
+      },
+      {
+        "score": 96.0,
+        "likes": 37,
+        "comments": 2,
+        "shares": 10,
+        "reach": 300,
+        "timestamp": "2026-06-16T07:27:01.689944"
+      },
+      {
+        "score": 136.83,
+        "likes": 52,
+        "comments": 4,
+        "shares": 14,
+        "reach": 283,
+        "timestamp": "2026-06-16T07:27:01.689971"
+      },
+      {
+        "score": 95.64,
+        "likes": 44,
+        "comments": 6,
+        "shares": 6,
+        "reach": 364,
+        "timestamp": "2026-06-16T07:27:01.689981"
+      }
+    ],
+    "gratitude_quotes": [
+      {
+        "score": 69.09,
+        "likes": 20,
+        "comments": 4,
+        "shares": 7,
+        "reach": 209,
+        "timestamp": "2026-06-16T07:27:01.689992"
+      },
+      {
+        "score": 46.36,
+        "likes": 23,
+        "comments": 2,
+        "shares": 3,
+        "reach": 236,
+        "timestamp": "2026-06-16T07:27:01.689998"
+      },
+      {
+        "score": 61.2,
+        "likes": 35,
+        "comments": 3,
+        "shares": 3,
+        "reach": 220,
+        "timestamp": "2026-06-16T07:27:01.690003"
+      },
+      {
+        "score": 62.52,
+        "likes": 32,
+        "comments": 3,
+        "shares": 4,
+        "reach": 152,
+        "timestamp": "2026-06-16T07:27:01.690008"
+      },
+      {
+        "score": 68.52,
+        "likes": 28,
+        "comments": 1,
+        "shares": 7,
+        "reach": 252,
+        "timestamp": "2026-06-16T07:27:01.690013"
+      },
+      {
+        "score": 45.8,
+        "likes": 16,
+        "comments": 4,
+        "shares": 3,
+        "reach": 280,
+        "timestamp": "2026-06-16T07:27:01.690017"
+      },
+      {
+        "score": 43.36,
+        "likes": 2,
+        "comments": 3,
+        "shares": 6,
+        "reach": 236,
+        "timestamp": "2026-06-16T07:27:01.690022"
+      },
+      {
+        "score": 52.91,
+        "likes": 35,
+        "comments": 2,
+        "shares": 2,
+        "reach": 191,
+        "timestamp": "2026-06-16T07:27:01.690027"
+      },
+      {
+        "score": 53.49,
+        "likes": 27,
+        "comments": 3,
+        "shares": 3,
+        "reach": 249,
+        "timestamp": "2026-06-16T07:27:01.690032"
+      },
+      {
+        "score": 55.17,
+        "likes": 16,
+        "comments": 4,
+        "shares": 5,
+        "reach": 217,
+        "timestamp": "2026-06-16T07:27:01.690036"
+      }
+    ],
+    "engagement_questions": [
+      {
+        "score": 98.24,
+        "likes": 13,
+        "comments": 23,
+        "shares": 3,
+        "reach": 124,
+        "timestamp": "2026-06-16T07:27:01.690042"
+      },
+      {
+        "score": 132.06,
+        "likes": 16,
+        "comments": 35,
+        "shares": 2,
+        "reach": 106,
+        "timestamp": "2026-06-16T07:27:01.690046"
+      },
+      {
+        "score": 147.19,
+        "likes": 25,
+        "comments": 37,
+        "shares": 2,
+        "reach": 119,
+        "timestamp": "2026-06-16T07:27:01.690050"
+      },
+      {
+        "score": 136.16,
+        "likes": 15,
+        "comments": 35,
+        "shares": 3,
+        "reach": 116,
+        "timestamp": "2026-06-16T07:27:01.690055"
+      },
+      {
+        "score": 133.12,
+        "likes": 16,
+        "comments": 37,
+        "shares": 1,
+        "reach": 112,
+        "timestamp": "2026-06-16T07:27:01.690059"
+      },
+      {
+        "score": 60.42,
+        "likes": 32,
+        "comments": 4,
+        "shares": 3,
+        "reach": 142,
+        "timestamp": "2026-06-16T07:27:01.690063"
+      },
+      {
+        "score": 130.11,
+        "likes": 28,
+        "comments": 27,
+        "shares": 4,
+        "reach": 111,
+        "timestamp": "2026-06-16T07:27:01.690068"
+      },
+      {
+        "score": 78.87,
+        "likes": 15,
+        "comments": 19,
+        "shares": 1,
+        "reach": 187,
+        "timestamp": "2026-06-16T07:27:01.690072"
+      },
+      {
+        "score": 115.91,
+        "likes": 22,
+        "comments": 24,
+        "shares": 4,
+        "reach": 191,
+        "timestamp": "2026-06-16T07:27:01.690078"
+      },
+      {
+        "score": 113.97,
+        "likes": 26,
+        "comments": 27,
+        "shares": 1,
+        "reach": 197,
+        "timestamp": "2026-06-16T07:27:01.690082"
+      }
+    ]
+  },
+  "avg_engagement_by_category": {
+    "motivational_quotes": 125.502,
+    "positive_life_quotes": 82.58500000000001,
+    "meme_captions": 169.639,
+    "self_improvement_quotes": 73.03999999999999,
+    "encouragement_quotes": 100.784,
+    "gratitude_quotes": 55.842,
+    "engagement_questions": 114.60499999999999
+  },
+  "weights": {
+    "motivational_quotes": 1.1517484144670962,
+    "positive_life_quotes": 0.8604822457711043,
+    "meme_captions": 1.4512943959600941,
+    "self_improvement_quotes": 0.7957028907322329,
+    "encouragement_quotes": 0.9839939778143123,
+    "gratitude_quotes": 0.6789846772216505,
+    "engagement_questions": 1.0777933980335097
+  },
+  "top_performing_content": [],
+  "history": []
+}

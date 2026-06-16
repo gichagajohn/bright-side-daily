@@ -1,0 +1,48 @@
+name: 📊 Weekly Performance Report
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'   # Every Monday 9AM EAT
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  performance_report:
+    name: Generate Weekly Report
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: Collect & update metrics
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+        run: python src/agents/performance_agent.py
+
+      - name: Print report
+        run: python src/agents/performance_agent.py report
+
+      - name: Commit updated metrics
+        run: |
+          git config --local user.email "brightside-bot@users.noreply.github.com"
+          git config --local user.name "Bright Side Daily Bot"
+          git add data/metrics/
+          git diff --staged --quiet || git commit -m "📊 Weekly metrics update $(date -u +'%Y-%m-%d')"
+          git push
+        continue-on-error: true
+
+      - name: Upload metrics report
+        uses: actions/upload-artifact@v4
+        with:
+          name: weekly-metrics-${{ github.run_number }}
+          path: data/metrics/
+          retention-days: 90
