@@ -190,3 +190,35 @@ Sha...
 2026-06-17 16:42:18,515 [WARNING] Attempt 3/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'Abe_Us8hmQmMStLvahSB-8D'}
 2026-06-17 16:42:18,515 [ERROR] ❌ All retries failed for [evening_reflection]
 2026-06-17 16:42:18,516 [ERROR] ❌ Slot [evening_reflection] failed to publish.
+2026-06-17 18:06:49,129 [INFO] Retrying 1 failed posts...
+2026-06-17 18:06:49,129 [INFO] Publishing [evening_reflection] | image: none
+2026-06-17 18:06:49,129 [INFO] Caption preview: 🌙 Remember: enjoy the little things in life, because one day you'll look back and realize they were the big things.
+
+Sha...
+2026-06-17 18:06:49,129 [WARNING] No image found — posting text only.
+2026-06-17 18:06:49,431 [WARNING] Attempt 1/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AMuqIOqHjyD9QSZTSzYpRNR'}
+2026-06-17 18:06:49,431 [INFO] Retrying in 30s...
+2026-06-17 18:07:19,431 [WARNING] No image found — posting text only.
+2026-06-17 18:07:19,714 [WARNING] Attempt 2/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AUfw-ZO5ZfrNztMBKfLVaXx'}
+2026-06-17 18:07:19,714 [INFO] Retrying in 30s...
+2026-06-17 18:07:49,714 [WARNING] No image found — posting text only.
+2026-06-17 18:07:49,887 [WARNING] Attempt 3/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'A-mn2ziR7g01q-phaS62D18'}
+2026-06-17 18:07:49,888 [ERROR] ❌ All retries failed for [evening_reflection]
+2026-06-17 18:07:49,889 [INFO] Retry complete. 1 still failing.
+2026-06-17 18:07:50,058 [INFO] ──────────────────────────────────────────────────
+2026-06-17 18:07:50,058 [INFO] ▶  Running slot: engagement_question
+2026-06-17 18:07:50,058 [INFO] ──────────────────────────────────────────────────
+2026-06-17 18:07:50,059 [INFO] 📝 Content selected: What's the kindest thing someone has done for you recently? — keep going....
+2026-06-17 18:07:50,176 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260617_180750.png
+2026-06-17 18:07:50,176 [INFO] Caption preview: 💬 What's the kindest thing someone has done for you recently? — keep going.
+
+Drop your answer in the comments below 👇
+
+#...
+2026-06-17 18:07:50,517 [WARNING] Attempt 1/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AQXd86qqHpu2LJnyX5Dihh9'}
+2026-06-17 18:07:50,517 [INFO] Retrying in 30s...
+2026-06-17 18:08:20,786 [WARNING] Attempt 2/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AXCNYY5Ofm6NLibqiSVQyuC'}
+2026-06-17 18:08:20,786 [INFO] Retrying in 30s...
+2026-06-17 18:08:51,064 [WARNING] Attempt 3/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'Agqyvablw0hP8O0g0AkuccL'}
+2026-06-17 18:08:51,064 [ERROR] ❌ All retries failed for [engagement_question]
+2026-06-17 18:08:51,065 [ERROR] ❌ Slot [engagement_question] failed to publish.
