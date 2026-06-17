@@ -163,3 +163,14 @@ Share this with someone who needs it today! 💛
 #Motivation #Succe...
 2026-06-17 12:51:01,017 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-17 12:51:01,018 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-17 14:25:43,864 [INFO] Failed posts list is empty.
+2026-06-17 14:25:44,023 [INFO] ──────────────────────────────────────────────────
+2026-06-17 14:25:44,023 [INFO] ▶  Running slot: morning_motivation
+2026-06-17 14:25:44,023 [INFO] ──────────────────────────────────────────────────
+2026-06-17 14:25:44,024 [INFO] 📝 Content selected: Remember: don't judge each day by the harvest you reap but by the seeds that you...
+2026-06-17 14:25:44,135 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260617_142544.png
+2026-06-17 14:25:44,135 [INFO] Caption preview: ☀️ Remember: don't judge each day by the harvest you reap but by the seeds that you plant.
+
+Share this with someone who ...
+2026-06-17 14:25:47,779 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-17 14:25:47,780 [INFO] ✅ Slot [morning_motivation] published successfully!
