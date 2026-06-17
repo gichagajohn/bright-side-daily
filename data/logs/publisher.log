@@ -174,3 +174,19 @@ Share this with someone who needs it today! 💛
 Share this with someone who ...
 2026-06-17 14:25:47,779 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-17 14:25:47,780 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-17 16:41:17,115 [INFO] Failed posts list is empty.
+2026-06-17 16:41:17,278 [INFO] ──────────────────────────────────────────────────
+2026-06-17 16:41:17,278 [INFO] ▶  Running slot: evening_reflection
+2026-06-17 16:41:17,278 [INFO] ──────────────────────────────────────────────────
+2026-06-17 16:41:17,280 [INFO] 📝 Content selected: Remember: enjoy the little things in life, because one day you'll look back and ...
+2026-06-17 16:41:17,393 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260617_164117.png
+2026-06-17 16:41:17,393 [INFO] Caption preview: 🌙 Remember: enjoy the little things in life, because one day you'll look back and realize they were the big things.
+
+Sha...
+2026-06-17 16:41:18,123 [WARNING] Attempt 1/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'A5T_9M0IjBTTL9W8cepNKCr'}
+2026-06-17 16:41:18,123 [INFO] Retrying in 30s...
+2026-06-17 16:41:48,326 [WARNING] Attempt 2/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AVUvdI9xGdksuwSgYGEZw1h'}
+2026-06-17 16:41:48,326 [INFO] Retrying in 30s...
+2026-06-17 16:42:18,515 [WARNING] Attempt 3/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'Abe_Us8hmQmMStLvahSB-8D'}
+2026-06-17 16:42:18,515 [ERROR] ❌ All retries failed for [evening_reflection]
+2026-06-17 16:42:18,516 [ERROR] ❌ Slot [evening_reflection] failed to publish.
