@@ -186,5 +186,26 @@
       "post_id": "1181533578372151_122097971571364831"
     },
     "timestamp": "2026-06-17T09:51:12.823106"
+  },
+  {
+    "post": {
+      "slot": "self_improvement",
+      "category": "self_improvement_quotes",
+      "content": "Focus on being productive instead of busy.",
+      "content_index": 24,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "warm coffee on table beside a sunrise window"
+      },
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T11:50:59.468600",
+      "weight_used": 0.9572510917290131
+    },
+    "caption": "\ud83d\udcc8 Focus on being productive instead of busy.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#PersonalGrowth #SelfImprovement #BetterEveryDay #GrowthMindset #Habits #BrightSideDaily",
+    "fb_response": {
+      "id": "122098034517364831",
+      "post_id": "1181533578372151_122098034535364831"
+    },
+    "timestamp": "2026-06-17T11:51:04.359764"
   }
 ]

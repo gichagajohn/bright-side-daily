@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17T09:51:15.642381",
-  "total_posts_tracked": 118,
+  "last_updated": "2026-06-17T11:51:06.687666",
+  "total_posts_tracked": 128,
   "engagement_by_category": {
     "motivational_quotes": [
       {
@@ -370,6 +370,54 @@
         "shares": 0,
         "reach": 0,
         "timestamp": "2026-06-16T20:44:05.355238"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T10:47:04.290807"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T10:47:17.278204"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T10:49:52.443431"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T15:51:28.767044"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T19:25:21.855470"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T20:44:05.355238"
       }
     ],
     "positive_life_quotes": [
@@ -542,6 +590,14 @@
         "shares": 0,
         "reach": 0,
         "timestamp": "2026-06-17T09:51:12.823106"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-17T09:51:12.823106"
       }
     ],
     "self_improvement_quotes": [
@@ -624,6 +680,14 @@
         "shares": 9,
         "reach": 212,
         "timestamp": "2026-06-16T07:27:01.689908"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-17T11:51:04.359764"
       }
     ],
     "encouragement_quotes": [
@@ -706,6 +770,14 @@
         "shares": 6,
         "reach": 364,
         "timestamp": "2026-06-16T07:27:01.689981"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T13:27:04.542221"
       },
       {
         "score": 0.0,
@@ -958,26 +1030,34 @@
         "shares": 0,
         "reach": 0,
         "timestamp": "2026-06-16T18:07:58.974093"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T18:07:58.974093"
       }
     ]
   },
   "avg_engagement_by_category": {
-    "motivational_quotes": 27.283043478260876,
+    "motivational_quotes": 19.9034,
     "positive_life_quotes": 82.58500000000001,
-    "meme_captions": 154.21727272727273,
-    "self_improvement_quotes": 73.04,
-    "encouragement_quotes": 59.284705882352945,
+    "meme_captions": 141.36583333333334,
+    "self_improvement_quotes": 66.4,
+    "encouragement_quotes": 55.99111111111111,
     "gratitude_quotes": 55.842,
-    "engagement_questions": 81.86071428571428
+    "engagement_questions": 76.40333333333334
   },
   "weights": {
-    "motivational_quotes": 0.5502971824846488,
-    "positive_life_quotes": 1.0576424833968836,
-    "meme_captions": 1.7148036264670992,
-    "self_improvement_quotes": 0.970075764210309,
-    "encouragement_quotes": 0.8438834145687439,
-    "gratitude_quotes": 0.8122997100908007,
-    "engagement_questions": 1.0509978187815139
+    "motivational_quotes": 0.5,
+    "positive_life_quotes": 1.1117834857092281,
+    "meme_captions": 1.6895798140524685,
+    "self_improvement_quotes": 0.9526902397662136,
+    "encouragement_quotes": 0.8503742731308406,
+    "gratitude_quotes": 0.8489085597744712,
+    "engagement_questions": 1.0510197281968563
   },
   "top_performing_content": [
     {
@@ -1039,6 +1119,13 @@
     {
       "content": "The bags under my eyes are designer, I'll have you know. \u2014 pass it on.",
       "category": "meme_captions",
+      "score": 0.0,
+      "likes": 0,
+      "shares": 0
+    },
+    {
+      "content": "Focus on being productive instead of busy.",
+      "category": "self_improvement_quotes",
       "score": 0.0,
       "likes": 0,
       "shares": 0
