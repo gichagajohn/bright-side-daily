@@ -222,3 +222,50 @@ Drop your answer in the comments below 👇
 2026-06-17 18:08:51,064 [WARNING] Attempt 3/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'Agqyvablw0hP8O0g0AkuccL'}
 2026-06-17 18:08:51,064 [ERROR] ❌ All retries failed for [engagement_question]
 2026-06-17 18:08:51,065 [ERROR] ❌ Slot [engagement_question] failed to publish.
+2026-06-17 20:06:13,906 [INFO] Retrying 2 failed posts...
+2026-06-17 20:06:13,906 [INFO] Publishing [evening_reflection] | image: none
+2026-06-17 20:06:13,907 [INFO] Caption preview: 🌙 Remember: enjoy the little things in life, because one day you'll look back and realize they were the big things.
+
+Sha...
+2026-06-17 20:06:13,907 [WARNING] No image found — posting text only.
+2026-06-17 20:06:14,350 [WARNING] Attempt 1/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'A8ra-gTR3OTV_RwIxvq_c-K'}
+2026-06-17 20:06:14,350 [INFO] Retrying in 30s...
+2026-06-17 20:06:44,350 [WARNING] No image found — posting text only.
+2026-06-17 20:06:44,448 [WARNING] Attempt 2/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AllorAir6zIGcbWI-r7b73S'}
+2026-06-17 20:06:44,448 [INFO] Retrying in 30s...
+2026-06-17 20:07:14,449 [WARNING] No image found — posting text only.
+2026-06-17 20:07:14,570 [WARNING] Attempt 3/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'A-FxvybLPtb5EsMpOxU3ylH'}
+2026-06-17 20:07:14,570 [ERROR] ❌ All retries failed for [evening_reflection]
+2026-06-17 20:07:14,571 [INFO] Publishing [engagement_question] | image: none
+2026-06-17 20:07:14,571 [INFO] Caption preview: 💬 What's the kindest thing someone has done for you recently? — keep going.
+
+Drop your answer in the comments below 👇
+
+#...
+2026-06-17 20:07:14,571 [WARNING] No image found — posting text only.
+2026-06-17 20:07:14,676 [WARNING] Attempt 1/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'ANjb_Klidq9sXim0ABlEV1-'}
+2026-06-17 20:07:14,677 [INFO] Retrying in 30s...
+2026-06-17 20:07:44,677 [WARNING] No image found — posting text only.
+2026-06-17 20:07:44,776 [WARNING] Attempt 2/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AP2AXnZtY26Ud6zKsPD3doi'}
+2026-06-17 20:07:44,776 [INFO] Retrying in 30s...
+2026-06-17 20:08:14,777 [WARNING] No image found — posting text only.
+2026-06-17 20:08:14,908 [WARNING] Attempt 3/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AG6-RncwBXqWtUtB1cvx4rs'}
+2026-06-17 20:08:14,909 [ERROR] ❌ All retries failed for [engagement_question]
+2026-06-17 20:08:14,910 [INFO] Retry complete. 2 still failing.
+2026-06-17 20:08:15,069 [INFO] ──────────────────────────────────────────────────
+2026-06-17 20:08:15,069 [INFO] ▶  Running slot: morning_motivation
+2026-06-17 20:08:15,069 [INFO] ──────────────────────────────────────────────────
+2026-06-17 20:08:15,070 [INFO] 📝 Content selected: Don't limit your challenges. Challenge your limits. — start today....
+2026-06-17 20:08:15,183 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260617_200815.png
+2026-06-17 20:08:15,183 [INFO] Caption preview: ☀️ Don't limit your challenges. Challenge your limits. — start today.
+
+Share this with someone who needs it today! 💛
+
+#M...
+2026-06-17 20:08:15,344 [WARNING] Attempt 1/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AZ7IlNKjqoJLyMevVfAm4-F'}
+2026-06-17 20:08:15,344 [INFO] Retrying in 30s...
+2026-06-17 20:08:45,492 [WARNING] Attempt 2/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'ADg1U8CEV0341-xAflfxEF8'}
+2026-06-17 20:08:45,492 [INFO] Retrying in 30s...
+2026-06-17 20:09:15,669 [WARNING] Attempt 3/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AH-r80sBtXq27R7t6bcJWKl'}
+2026-06-17 20:09:15,669 [ERROR] ❌ All retries failed for [morning_motivation]
+2026-06-17 20:09:15,670 [ERROR] ❌ Slot [morning_motivation] failed to publish.
