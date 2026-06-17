@@ -207,5 +207,26 @@
       "post_id": "1181533578372151_122098034535364831"
     },
     "timestamp": "2026-06-17T11:51:04.359764"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "It's going to be hard, but hard is not impossible.",
+      "content_index": 11,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T12:50:55.033821",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f It's going to be hard, but hard is not impossible.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122098071867364831",
+      "post_id": "1181533578372151_122098071921364831"
+    },
+    "timestamp": "2026-06-17T12:51:01.017872"
   }
 ]
