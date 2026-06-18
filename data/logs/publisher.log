@@ -948,3 +948,16 @@ Drop your answer in the comments below 👇
 #Community #...
 2026-06-18 18:19:04,614 [INFO] ✅ Posted successfully [engagement_question]
 2026-06-18 18:19:04,615 [INFO] ✅ Slot [engagement_question] published successfully!
+2026-06-18 20:16:43,674 [INFO] Failed posts list is empty.
+2026-06-18 20:16:43,830 [INFO] ──────────────────────────────────────────────────
+2026-06-18 20:16:43,830 [INFO] ▶  Running slot: morning_motivation
+2026-06-18 20:16:43,830 [INFO] ──────────────────────────────────────────────────
+2026-06-18 20:16:43,832 [INFO] 📝 Content selected: [Motivational] Push yourself because no one else will do it for you....
+2026-06-18 20:16:43,940 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260618_201643.png
+2026-06-18 20:16:43,940 [INFO] Caption preview: ☀️ [Motivational] Push yourself because no one else will do it for you.
+
+Share this with someone who needs it today! 💛
+
+...
+2026-06-18 20:16:55,228 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-18 20:16:55,229 [INFO] ✅ Slot [morning_motivation] published successfully!
