@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18T15:49:19.133521",
-  "total_posts_tracked": 247,
+  "last_updated": "2026-06-18T16:00:35.690744",
+  "total_posts_tracked": 259,
   "engagement_by_category": {
     "motivational_quotes": [
       {
@@ -1050,6 +1050,70 @@
         "shares": 0,
         "reach": 0,
         "timestamp": "2026-06-17T14:25:47.780096"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T10:47:04.290807"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T10:47:17.278204"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T10:49:52.443431"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T15:51:28.767044"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T19:25:21.855470"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T20:44:05.355238"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-17T12:51:01.017872"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-17T14:25:47.780096"
       }
     ],
     "positive_life_quotes": [
@@ -1214,6 +1278,14 @@
         "shares": 12,
         "reach": 539,
         "timestamp": "2026-06-16T07:27:01.689861"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-17T09:51:12.823106"
       },
       {
         "score": 0.0,
@@ -1480,6 +1552,14 @@
         "shares": 0,
         "reach": 0,
         "timestamp": "2026-06-17T11:51:04.359764"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-17T11:51:04.359764"
       }
     ],
     "encouragement_quotes": [
@@ -1562,6 +1642,14 @@
         "shares": 6,
         "reach": 364,
         "timestamp": "2026-06-16T07:27:01.689981"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T13:27:04.542221"
       },
       {
         "score": 0.0,
@@ -1990,26 +2078,34 @@
         "shares": 0,
         "reach": 0,
         "timestamp": "2026-06-16T18:07:58.974093"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T18:07:58.974093"
       }
     ]
   },
   "avg_engagement_by_category": {
     "motivational_quotes": 0.0,
     "positive_life_quotes": 82.58500000000001,
-    "meme_captions": 77.10863636363636,
-    "self_improvement_quotes": 34.780952380952385,
-    "encouragement_quotes": 35.994285714285716,
+    "meme_captions": 73.75608695652174,
+    "self_improvement_quotes": 33.2,
+    "encouragement_quotes": 34.753103448275866,
     "gratitude_quotes": 55.842,
-    "engagement_questions": 45.842
+    "engagement_questions": 44.07884615384615
   },
   "weights": {
     "motivational_quotes": 0.5,
-    "positive_life_quotes": 1.5183140087505216,
-    "meme_captions": 1.4375253602647944,
-    "self_improvement_quotes": 0.8130970699691118,
-    "encouragement_quotes": 0.8309964584450331,
-    "gratitude_quotes": 1.1237947675321984,
-    "engagement_questions": 0.9762723350383411
+    "positive_life_quotes": 1.5481422956051094,
+    "meme_captions": 1.414707170657663,
+    "self_improvement_quotes": 0.8017657469769284,
+    "encouragement_quotes": 0.8252384611894761,
+    "gratitude_quotes": 1.143963941044748,
+    "engagement_questions": 0.9661823845260757
   },
   "top_performing_content": [
     {
