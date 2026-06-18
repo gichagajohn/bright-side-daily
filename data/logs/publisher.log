@@ -331,3 +331,80 @@ Tag someone who can relate! 😂
 2026-06-18 09:18:10,270 [WARNING] Attempt 3/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AoRGonQUMuNWQ4WWnmDHcte'}
 2026-06-18 09:18:10,270 [ERROR] ❌ All retries failed for [funny_meme]
 2026-06-18 09:18:10,270 [ERROR] ❌ Slot [funny_meme] failed to publish.
+2026-06-18 11:10:14,786 [INFO] Retrying 4 failed posts...
+2026-06-18 11:10:14,786 [INFO] Publishing [evening_reflection] | image: none
+2026-06-18 11:10:14,786 [INFO] Caption preview: 🌙 Remember: enjoy the little things in life, because one day you'll look back and realize they were the big things.
+
+Sha...
+2026-06-18 11:10:14,786 [WARNING] No image found — posting text only.
+2026-06-18 11:10:15,411 [WARNING] Attempt 1/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AXl5dCfLFwlZ34vhukICAFc'}
+2026-06-18 11:10:15,411 [INFO] Retrying in 30s...
+2026-06-18 11:10:45,411 [WARNING] No image found — posting text only.
+2026-06-18 11:10:45,798 [WARNING] Attempt 2/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AfLF0uNMWFlEJJL0sq_TPM_'}
+2026-06-18 11:10:45,798 [INFO] Retrying in 30s...
+2026-06-18 11:11:15,798 [WARNING] No image found — posting text only.
+2026-06-18 11:11:16,415 [WARNING] Attempt 3/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AWTpPdmfY5rUq8G86azixOI'}
+2026-06-18 11:11:16,415 [ERROR] ❌ All retries failed for [evening_reflection]
+2026-06-18 11:11:16,416 [INFO] Publishing [engagement_question] | image: none
+2026-06-18 11:11:16,416 [INFO] Caption preview: 💬 What's the kindest thing someone has done for you recently? — keep going.
+
+Drop your answer in the comments below 👇
+
+#...
+2026-06-18 11:11:16,416 [WARNING] No image found — posting text only.
+2026-06-18 11:11:16,781 [WARNING] Attempt 1/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'A8h3xx68rypNPIxn0cDT2pr'}
+2026-06-18 11:11:16,781 [INFO] Retrying in 30s...
+2026-06-18 11:11:46,781 [WARNING] No image found — posting text only.
+2026-06-18 11:11:47,139 [WARNING] Attempt 2/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AVT7aaoY-UF1qb1QCE6IRhs'}
+2026-06-18 11:11:47,139 [INFO] Retrying in 30s...
+2026-06-18 11:12:17,139 [WARNING] No image found — posting text only.
+2026-06-18 11:12:17,478 [WARNING] Attempt 3/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'A_Fv2OkjiodeHIHf1yEWTQt'}
+2026-06-18 11:12:17,478 [ERROR] ❌ All retries failed for [engagement_question]
+2026-06-18 11:12:17,479 [INFO] Publishing [morning_motivation] | image: none
+2026-06-18 11:12:17,479 [INFO] Caption preview: ☀️ Don't limit your challenges. Challenge your limits. — start today.
+
+Share this with someone who needs it today! 💛
+
+#M...
+2026-06-18 11:12:17,479 [WARNING] No image found — posting text only.
+2026-06-18 11:12:17,835 [WARNING] Attempt 1/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AHl6M8JLNb472O16AOxY4I0'}
+2026-06-18 11:12:17,835 [INFO] Retrying in 30s...
+2026-06-18 11:12:47,836 [WARNING] No image found — posting text only.
+2026-06-18 11:12:48,251 [WARNING] Attempt 2/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AyC71wARIUkMfnH9yOId_ga'}
+2026-06-18 11:12:48,251 [INFO] Retrying in 30s...
+2026-06-18 11:13:18,251 [WARNING] No image found — posting text only.
+2026-06-18 11:13:18,590 [WARNING] Attempt 3/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AzH6AQbSiSMS4A3U_PpNbkr'}
+2026-06-18 11:13:18,590 [ERROR] ❌ All retries failed for [morning_motivation]
+2026-06-18 11:13:18,591 [INFO] Publishing [funny_meme] | image: none
+2026-06-18 11:13:18,591 [INFO] Caption preview: 😄 Worth repeating: adulting is mostly just googling things and hoping for the best.
+
+Tag someone who can relate! 😂
+
+#Rel...
+2026-06-18 11:13:18,591 [WARNING] No image found — posting text only.
+2026-06-18 11:13:18,924 [WARNING] Attempt 1/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'A2p16iCffsJDQj_fChBuKd7'}
+2026-06-18 11:13:18,925 [INFO] Retrying in 30s...
+2026-06-18 11:13:48,925 [WARNING] No image found — posting text only.
+2026-06-18 11:13:49,306 [WARNING] Attempt 2/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AOnQKsyS9_-P2NMi72JVYgT'}
+2026-06-18 11:13:49,307 [INFO] Retrying in 30s...
+2026-06-18 11:14:19,307 [WARNING] No image found — posting text only.
+2026-06-18 11:14:19,710 [WARNING] Attempt 3/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'Awv4Qq30cGo_CggMBzQpI09'}
+2026-06-18 11:14:19,710 [ERROR] ❌ All retries failed for [funny_meme]
+2026-06-18 11:14:19,711 [INFO] Retry complete. 4 still failing.
+2026-06-18 11:14:19,867 [INFO] ──────────────────────────────────────────────────
+2026-06-18 11:14:19,867 [INFO] ▶  Running slot: self_improvement
+2026-06-18 11:14:19,867 [INFO] ──────────────────────────────────────────────────
+2026-06-18 11:14:19,868 [INFO] 📝 Content selected: You are always... different life....
+2026-06-18 11:14:20,046 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260618_111420.png
+2026-06-18 11:14:20,046 [INFO] Caption preview: 📈 You are always... different life.
+
+Share this with someone who needs it today! 💛
+
+#PersonalGrowth #SelfImprovement #Be...
+2026-06-18 11:14:20,511 [WARNING] Attempt 1/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AEyG6-4Rbni8q8eLVzujA62'}
+2026-06-18 11:14:20,511 [INFO] Retrying in 30s...
+2026-06-18 11:14:51,046 [WARNING] Attempt 2/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AadmmHcqKzPqIW7jO4slqK0'}
+2026-06-18 11:14:51,046 [INFO] Retrying in 30s...
+2026-06-18 11:15:21,677 [WARNING] Attempt 3/3 failed: {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'ApsXZilKoKdbVZtlbXMugZL'}
+2026-06-18 11:15:21,678 [ERROR] ❌ All retries failed for [self_improvement]
+2026-06-18 11:15:21,678 [ERROR] ❌ Slot [self_improvement] failed to publish.
