@@ -847,3 +847,78 @@ Share this with someone who needs it today! 💛
 2026-06-18 16:00:33,515 [WARNING] Attempt 3/3 failed: {'message': '(#200) The permission(s) publish_actions are not available. It has been deprecated. If you want to provide a way for your app users to share content to Facebook, we encourage you to use our Sharing products instead.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AbdYTrU2j1oTulWRWnaYGm6'}
 2026-06-18 16:00:33,515 [ERROR] ❌ All retries failed for [morning_motivation]
 2026-06-18 16:00:33,515 [ERROR] ❌ Slot [morning_motivation] failed to publish.
+2026-06-18 16:04:20,493 [INFO] Retrying 9 failed posts...
+2026-06-18 16:04:20,493 [INFO] Publishing [evening_reflection] | image: none
+2026-06-18 16:04:20,493 [INFO] Caption preview: 🌙 Remember: enjoy the little things in life, because one day you'll look back and realize they were the big things.
+
+Sha...
+2026-06-18 16:04:20,493 [WARNING] No image found — posting text only.
+2026-06-18 16:04:23,728 [INFO] ✅ Posted successfully [evening_reflection]
+2026-06-18 16:04:23,729 [INFO] Publishing [engagement_question] | image: none
+2026-06-18 16:04:23,729 [INFO] Caption preview: 💬 What's the kindest thing someone has done for you recently? — keep going.
+
+Drop your answer in the comments below 👇
+
+#...
+2026-06-18 16:04:23,729 [WARNING] No image found — posting text only.
+2026-06-18 16:04:26,359 [INFO] ✅ Posted successfully [engagement_question]
+2026-06-18 16:04:26,360 [INFO] Publishing [morning_motivation] | image: none
+2026-06-18 16:04:26,360 [INFO] Caption preview: ☀️ Don't limit your challenges. Challenge your limits. — start today.
+
+Share this with someone who needs it today! 💛
+
+#M...
+2026-06-18 16:04:26,360 [WARNING] No image found — posting text only.
+2026-06-18 16:04:28,640 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-18 16:04:28,641 [INFO] Publishing [funny_meme] | image: none
+2026-06-18 16:04:28,641 [INFO] Caption preview: 😄 Worth repeating: adulting is mostly just googling things and hoping for the best.
+
+Tag someone who can relate! 😂
+
+#Rel...
+2026-06-18 16:04:28,641 [WARNING] No image found — posting text only.
+2026-06-18 16:04:30,559 [INFO] ✅ Posted successfully [funny_meme]
+2026-06-18 16:04:30,560 [INFO] Publishing [self_improvement] | image: none
+2026-06-18 16:04:30,561 [INFO] Caption preview: 📈 You are always... different life.
+
+Share this with someone who needs it today! 💛
+
+#PersonalGrowth #SelfImprovement #Be...
+2026-06-18 16:04:30,561 [WARNING] No image found — posting text only.
+2026-06-18 16:04:33,513 [INFO] ✅ Posted successfully [self_improvement]
+2026-06-18 16:04:33,514 [INFO] Publishing [morning_motivation] | image: none
+2026-06-18 16:04:33,514 [INFO] Caption preview: ☀️ Truth: if you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.
+
+Shar...
+2026-06-18 16:04:33,514 [WARNING] No image found — posting text only.
+2026-06-18 16:04:38,398 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-18 16:04:38,399 [INFO] Publishing [morning_motivation] | image: none
+2026-06-18 16:04:38,399 [INFO] Caption preview: ☀️ Start where you are. Use what you have. Do what you can. — share this!
+
+Share this with someone who needs it today! 💛...
+2026-06-18 16:04:38,400 [WARNING] No image found — posting text only.
+2026-06-18 16:04:40,392 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-18 16:04:40,393 [INFO] Publishing [morning_motivation] | image: none
+2026-06-18 16:04:40,393 [INFO] Caption preview: ☀️ It does not matter how slowly you go as long as you do not stop. — share this!
+
+Share this with someone who needs it ...
+2026-06-18 16:04:40,393 [WARNING] No image found — posting text only.
+2026-06-18 16:04:42,941 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-18 16:04:42,942 [INFO] Publishing [morning_motivation] | image: none
+2026-06-18 16:04:42,942 [INFO] Caption preview: ☀️ Always know that don't stop when you're tired. stop when you're done.
+
+Share this with someone who needs it today! 💛
+...
+2026-06-18 16:04:42,942 [WARNING] No image found — posting text only.
+2026-06-18 16:04:48,572 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-18 16:04:48,573 [INFO] Retry complete. 0 still failing.
+2026-06-18 16:04:48,729 [INFO] ──────────────────────────────────────────────────
+2026-06-18 16:04:48,729 [INFO] ▶  Running slot: evening_reflection
+2026-06-18 16:04:48,729 [INFO] ──────────────────────────────────────────────────
+2026-06-18 16:04:48,730 [INFO] 📝 Content selected: The roots of all goodness lie in the soil of appreciation for goodness. — share ...
+2026-06-18 16:04:48,845 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260618_160448.png
+2026-06-18 16:04:48,845 [INFO] Caption preview: 🌙 The roots of all goodness lie in the soil of appreciation for goodness. — share this!
+
+Share this with someone who nee...
+2026-06-18 16:04:52,814 [INFO] ✅ Posted successfully [evening_reflection]
+2026-06-18 16:04:52,815 [INFO] ✅ Slot [evening_reflection] published successfully!
