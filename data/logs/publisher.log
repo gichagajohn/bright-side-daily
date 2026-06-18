@@ -935,3 +935,16 @@ Share this with someone who needs it today! 💛
 #Gratitude #Th...
 2026-06-18 16:38:16,832 [INFO] ✅ Posted successfully [evening_reflection]
 2026-06-18 16:38:16,833 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-06-18 18:18:57,526 [INFO] Failed posts list is empty.
+2026-06-18 18:18:57,683 [INFO] ──────────────────────────────────────────────────
+2026-06-18 18:18:57,683 [INFO] ▶  Running slot: engagement_question
+2026-06-18 18:18:57,683 [INFO] ──────────────────────────────────────────────────
+2026-06-18 18:18:57,685 [INFO] 📝 Content selected: Today's reminder: what book has most influenced your thinking?...
+2026-06-18 18:18:57,916 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260618_181857.png
+2026-06-18 18:18:57,916 [INFO] Caption preview: 💬 Today's reminder: what book has most influenced your thinking?
+
+Drop your answer in the comments below 👇
+
+#Community #...
+2026-06-18 18:19:04,614 [INFO] ✅ Posted successfully [engagement_question]
+2026-06-18 18:19:04,615 [INFO] ✅ Slot [engagement_question] published successfully!

@@ -471,5 +471,26 @@
       "post_id": "1181533578372151_122099008359364831"
     },
     "timestamp": "2026-06-18T16:38:16.832582"
+  },
+  {
+    "post": {
+      "slot": "engagement_question",
+      "category": "engagement_questions",
+      "content": "Today's reminder: what book has most influenced your thinking?",
+      "content_index": 22,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open book and coffee in a cozy reading nook"
+      },
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T18:18:57.685047",
+      "weight_used": 0.9501308429230351
+    },
+    "caption": "\ud83d\udcac Today's reminder: what book has most influenced your thinking?\n\nDrop your answer in the comments below \ud83d\udc47\n\n#Community #ShareYourThoughts #QuestionOfTheDay #ChatWithUs #BrightSideFamily #BrightSideDaily",
+    "fb_response": {
+      "id": "122099064921364831",
+      "post_id": "1181533578372151_122099064945364831"
+    },
+    "timestamp": "2026-06-18T18:19:04.614822"
   }
 ]
