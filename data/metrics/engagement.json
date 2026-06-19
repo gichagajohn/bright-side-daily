@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-19T12:44:28.537997",
-  "total_posts_tracked": 434,
+  "last_updated": "2026-06-19T14:12:55.337230",
+  "total_posts_tracked": 463,
   "engagement_by_category": {
     "motivational_quotes": [
       {
@@ -1882,6 +1882,134 @@
         "shares": 0,
         "reach": 0,
         "timestamp": "2026-06-19T12:44:17.216326"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T10:47:04.290807"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T10:47:17.278204"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T10:49:52.443431"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T15:51:28.767044"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T19:25:21.855470"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T20:44:05.355238"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-17T12:51:01.017872"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-17T14:25:47.780096"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-18T16:04:28.640516"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-18T16:04:38.399380"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-18T16:04:40.392508"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-18T16:04:42.941954"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-18T16:04:48.572652"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-18T20:16:55.229226"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-19T12:44:17.216326"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-19T14:12:46.067322"
       }
     ],
     "positive_life_quotes": [
@@ -2286,6 +2414,30 @@
         "shares": 0,
         "reach": 0,
         "timestamp": "2026-06-19T09:28:29.887470"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-17T09:51:12.823106"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-18T16:04:30.560273"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-19T09:28:29.887470"
       }
     ],
     "self_improvement_quotes": [
@@ -2544,6 +2696,30 @@
         "shares": 0,
         "reach": 0,
         "timestamp": "2026-06-18T16:04:33.513724"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-17T11:51:04.359764"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-18T16:04:33.513724"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-19T11:26:08.961708"
       },
       {
         "score": 0.0,
@@ -2882,6 +3058,14 @@
         "shares": 0,
         "reach": 0,
         "timestamp": "2026-06-16T13:27:04.542221"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T13:27:04.542221"
       }
     ],
     "gratitude_quotes": [
@@ -2980,6 +3164,30 @@
         "shares": 0,
         "reach": 0,
         "timestamp": "2026-06-18T16:04:52.814949"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-18T16:04:23.729324"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-18T16:04:52.814949"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-18T16:38:16.832582"
       },
       {
         "score": 0.0,
@@ -3486,26 +3694,50 @@
         "shares": 0,
         "reach": 0,
         "timestamp": "2026-06-18T18:19:04.614822"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-16T18:07:58.974093"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-18T16:04:26.360285"
+      },
+      {
+        "score": 0.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "reach": 0,
+        "timestamp": "2026-06-18T18:19:04.614822"
       }
     ]
   },
   "avg_engagement_by_category": {
     "motivational_quotes": 0.0,
     "positive_life_quotes": 82.58500000000001,
-    "meme_captions": 42.40975,
-    "self_improvement_quotes": 19.22105263157895,
-    "encouragement_quotes": 27.995555555555555,
-    "gratitude_quotes": 18.613999999999997,
-    "engagement_questions": 25.467777777777776
+    "meme_captions": 39.45093023255814,
+    "self_improvement_quotes": 17.814634146341465,
+    "encouragement_quotes": 27.23891891891892,
+    "gratitude_quotes": 16.921818181818182,
+    "engagement_questions": 23.876041666666666
   },
   "weights": {
     "motivational_quotes": 0.5,
     "positive_life_quotes": 2.0,
-    "meme_captions": 1.2607691620584351,
-    "self_improvement_quotes": 0.7354421950311706,
-    "encouragement_quotes": 0.9342236502802181,
-    "gratitude_quotes": 0.7216897572505311,
-    "engagement_questions": 0.876958258774126
+    "meme_captions": 1.2298765149136128,
+    "self_improvement_quotes": 0.7198990953270326,
+    "encouragement_quotes": 0.9420338087094171,
+    "gratitude_quotes": 0.6988550136626416,
+    "engagement_questions": 0.8627692499024899
   },
   "top_performing_content": [
     {
