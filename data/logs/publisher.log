@@ -1022,3 +1022,14 @@ Share this with someone who needs it today! 💛
 #Gratitude #Thank...
 2026-06-19 16:10:38,400 [INFO] ✅ Posted successfully [evening_reflection]
 2026-06-19 16:10:38,402 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-06-19 17:45:12,734 [INFO] Failed posts list is empty.
+2026-06-19 17:45:12,900 [INFO] ──────────────────────────────────────────────────
+2026-06-19 17:45:12,900 [INFO] ▶  Running slot: morning_motivation
+2026-06-19 17:45:12,900 [INFO] ──────────────────────────────────────────────────
+2026-06-19 17:45:12,902 [INFO] 📝 Content selected: Today's reminder: the only way to do great work is to love what you do....
+2026-06-19 17:45:13,008 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260619_174512.png
+2026-06-19 17:45:13,009 [INFO] Caption preview: ☀️ Today's reminder: the only way to do great work is to love what you do.
+
+Share this with someone who needs it today! ...
+2026-06-19 17:45:20,343 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-19 17:45:20,345 [INFO] ✅ Slot [morning_motivation] published successfully!
