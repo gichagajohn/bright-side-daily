@@ -972,3 +972,16 @@ Share this with someone who needs it today! 💛
 Tag someone who ca...
 2026-06-19 09:28:29,887 [INFO] ✅ Posted successfully [funny_meme]
 2026-06-19 09:28:29,888 [INFO] ✅ Slot [funny_meme] published successfully!
+2026-06-19 11:25:59,265 [INFO] Failed posts list is empty.
+2026-06-19 11:25:59,422 [INFO] ──────────────────────────────────────────────────
+2026-06-19 11:25:59,422 [INFO] ▶  Running slot: self_improvement
+2026-06-19 11:25:59,422 [INFO] ──────────────────────────────────────────────────
+2026-06-19 11:25:59,424 [INFO] 📝 Content selected: Truth: growth begins at the end of your comfort zone....
+2026-06-19 11:25:59,530 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260619_112559.png
+2026-06-19 11:25:59,530 [INFO] Caption preview: 📈 Truth: growth begins at the end of your comfort zone.
+
+Share this with someone who needs it today! 💛
+
+#PersonalGrowth ...
+2026-06-19 11:26:08,961 [INFO] ✅ Posted successfully [self_improvement]
+2026-06-19 11:26:08,962 [INFO] ✅ Slot [self_improvement] published successfully!
