@@ -1057,3 +1057,16 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it today...
 2026-06-20 08:22:05,438 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-20 08:22:05,439 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-20 10:10:01,618 [INFO] Failed posts list is empty.
+2026-06-20 10:10:01,786 [INFO] ──────────────────────────────────────────────────
+2026-06-20 10:10:01,787 [INFO] ▶  Running slot: morning_motivation
+2026-06-20 10:10:01,787 [INFO] ──────────────────────────────────────────────────
+2026-06-20 10:10:01,788 [INFO] 📝 Content selected: Never forget: in the middle of every difficulty lies opportunity....
+2026-06-20 10:10:01,901 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260620_101001.png
+2026-06-20 10:10:01,901 [INFO] Caption preview: ☀️ Never forget: in the middle of every difficulty lies opportunity.
+
+Share this with someone who needs it today! 💛
+
+#Mo...
+2026-06-20 10:10:06,431 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-20 10:10:06,433 [INFO] ✅ Slot [morning_motivation] published successfully!
