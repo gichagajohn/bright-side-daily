@@ -1107,3 +1107,12 @@ Share this with someone who needs it today! 💛
 #Motivatio...
 2026-06-20 15:06:23,557 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-20 15:06:23,558 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-20 17:10:53,816 [INFO] Failed posts list is empty.
+2026-06-20 17:10:53,973 [INFO] ──────────────────────────────────────────────────
+2026-06-20 17:10:53,974 [INFO] ▶  Running slot: morning_motivation
+2026-06-20 17:10:53,974 [INFO] ──────────────────────────────────────────────────
+2026-06-20 17:10:53,976 [INFO] 📝 Content selected: Always know that if you set your goals ridiculously high and it's a failure, you...
+2026-06-20 17:10:54,092 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260620_171054.png
+2026-06-20 17:10:54,092 [INFO] Caption preview: ☀️ Always know that if you set your goals ridiculously high and it's a failure, you will fail above everyone else's succ...
+2026-06-20 17:11:00,012 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-20 17:11:00,013 [INFO] ✅ Slot [morning_motivation] published successfully!
