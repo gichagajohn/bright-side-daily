@@ -1046,3 +1046,14 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #M...
 2026-06-19 19:41:48,985 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-19 19:41:48,986 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-20 08:22:01,096 [INFO] Failed posts list is empty.
+2026-06-20 08:22:01,262 [INFO] ──────────────────────────────────────────────────
+2026-06-20 08:22:01,262 [INFO] ▶  Running slot: morning_motivation
+2026-06-20 08:22:01,262 [INFO] ──────────────────────────────────────────────────
+2026-06-20 08:22:01,264 [INFO] 📝 Content selected: Truth: never let the fear of striking out keep you from playing the game....
+2026-06-20 08:22:01,375 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260620_082201.png
+2026-06-20 08:22:01,375 [INFO] Caption preview: ☀️ Truth: never let the fear of striking out keep you from playing the game.
+
+Share this with someone who needs it today...
+2026-06-20 08:22:05,438 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-20 08:22:05,439 [INFO] ✅ Slot [morning_motivation] published successfully!
