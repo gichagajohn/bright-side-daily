@@ -702,5 +702,26 @@
       "post_id": "1181533578372151_122100594453364831"
     },
     "timestamp": "2026-06-20T10:10:06.432162"
+  },
+  {
+    "post": {
+      "slot": "self_improvement",
+      "category": "self_improvement_quotes",
+      "content": "The beautiful thing about learning is that no one can take it away from you. \u2014 believe it.",
+      "content_index": 159,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open book and coffee in a cozy reading nook"
+      },
+      "date": "2026-06-20",
+      "timestamp": "2026-06-20T11:16:00.343695",
+      "weight_used": 0.5
+    },
+    "caption": "\ud83d\udcc8 The beautiful thing about learning is that no one can take it away from you. \u2014 believe it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#PersonalGrowth #SelfImprovement #BetterEveryDay #GrowthMindset #Habits #BrightSideDaily",
+    "fb_response": {
+      "id": "122100637551364831",
+      "post_id": "1181533578372151_122100637569364831"
+    },
+    "timestamp": "2026-06-20T11:16:04.764984"
   }
 ]

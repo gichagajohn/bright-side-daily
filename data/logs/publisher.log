@@ -1070,3 +1070,14 @@ Share this with someone who needs it today! 💛
 #Mo...
 2026-06-20 10:10:06,431 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-20 10:10:06,433 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-20 11:16:00,185 [INFO] Failed posts list is empty.
+2026-06-20 11:16:00,341 [INFO] ──────────────────────────────────────────────────
+2026-06-20 11:16:00,341 [INFO] ▶  Running slot: self_improvement
+2026-06-20 11:16:00,341 [INFO] ──────────────────────────────────────────────────
+2026-06-20 11:16:00,343 [INFO] 📝 Content selected: The beautiful thing about learning is that no one can take it away from you. — b...
+2026-06-20 11:16:00,520 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260620_111600.png
+2026-06-20 11:16:00,520 [INFO] Caption preview: 📈 The beautiful thing about learning is that no one can take it away from you. — believe it.
+
+Share this with someone wh...
+2026-06-20 11:16:04,764 [INFO] ✅ Posted successfully [self_improvement]
+2026-06-20 11:16:04,765 [INFO] ✅ Slot [self_improvement] published successfully!
