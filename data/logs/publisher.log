@@ -1116,3 +1116,16 @@ Share this with someone who needs it today! 💛
 2026-06-20 17:10:54,092 [INFO] Caption preview: ☀️ Always know that if you set your goals ridiculously high and it's a failure, you will fail above everyone else's succ...
 2026-06-20 17:11:00,012 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-20 17:11:00,013 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-20 19:16:33,803 [INFO] Failed posts list is empty.
+2026-06-20 19:16:33,900 [INFO] ──────────────────────────────────────────────────
+2026-06-20 19:16:33,900 [INFO] ▶  Running slot: morning_motivation
+2026-06-20 19:16:33,900 [INFO] ──────────────────────────────────────────────────
+2026-06-20 19:16:33,901 [INFO] 📝 Content selected: If life were... without flavor....
+2026-06-20 19:16:34,026 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260620_191634.png
+2026-06-20 19:16:34,026 [INFO] Caption preview: ☀️ If life were... without flavor.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters ...
+2026-06-20 19:16:44,295 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-20 19:16:44,296 [INFO] ✅ Slot [morning_motivation] published successfully!
