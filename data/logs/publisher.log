@@ -1094,3 +1094,16 @@ Share this with someone who needs it today! 💛
 #Mo...
 2026-06-20 12:26:05,389 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-20 12:26:05,391 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-20 15:06:17,931 [INFO] Failed posts list is empty.
+2026-06-20 15:06:18,101 [INFO] ──────────────────────────────────────────────────
+2026-06-20 15:06:18,101 [INFO] ▶  Running slot: morning_motivation
+2026-06-20 15:06:18,101 [INFO] ──────────────────────────────────────────────────
+2026-06-20 15:06:18,103 [INFO] 📝 Content selected: Worth repeating: believe you can and you're halfway there....
+2026-06-20 15:06:18,216 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260620_150618.png
+2026-06-20 15:06:18,216 [INFO] Caption preview: ☀️ Worth repeating: believe you can and you're halfway there.
+
+Share this with someone who needs it today! 💛
+
+#Motivatio...
+2026-06-20 15:06:23,557 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-20 15:06:23,558 [INFO] ✅ Slot [morning_motivation] published successfully!

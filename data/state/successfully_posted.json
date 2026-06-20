@@ -744,5 +744,26 @@
       "post_id": "1181533578372151_122100685725364831"
     },
     "timestamp": "2026-06-20T12:26:05.390272"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Worth repeating: believe you can and you're halfway there.",
+      "content_index": 436,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-06-20",
+      "timestamp": "2026-06-20T15:06:18.103460",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f Worth repeating: believe you can and you're halfway there.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122100789891364831",
+      "post_id": "1181533578372151_122100789909364831"
+    },
+    "timestamp": "2026-06-20T15:06:23.557677"
   }
 ]
