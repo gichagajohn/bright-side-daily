@@ -1179,3 +1179,14 @@ Share this with someone who needs it today! 💛
 #YouGotThis #KeepGoing #NeverGiveUp #St...
 2026-06-21 13:03:43,834 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-06-21 13:03:43,835 [INFO] ✅ Slot [midday_encouragement] published successfully!
+2026-06-21 15:12:59,254 [INFO] Failed posts list is empty.
+2026-06-21 15:12:59,411 [INFO] ──────────────────────────────────────────────────
+2026-06-21 15:12:59,411 [INFO] ▶  Running slot: morning_motivation
+2026-06-21 15:12:59,411 [INFO] ──────────────────────────────────────────────────
+2026-06-21 15:12:59,415 [INFO] 📝 Content selected: The greatest glory in living lies not in never falling, but in rising every time...
+2026-06-21 15:12:59,677 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260621_151259.png
+2026-06-21 15:12:59,677 [INFO] Caption preview: ☀️ The greatest glory in living lies not in never falling, but in rising every time we fall. — start today.
+
+Share this ...
+2026-06-21 15:13:03,507 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-21 15:13:03,509 [INFO] ✅ Slot [morning_motivation] published successfully!

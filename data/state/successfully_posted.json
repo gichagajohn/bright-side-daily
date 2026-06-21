@@ -891,5 +891,26 @@
       "post_id": "1181533578372151_122101525017364831"
     },
     "timestamp": "2026-06-21T13:03:43.835141"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The greatest glory in living lies not in never falling, but in rising every time we fall. \u2014 start today.",
+      "content_index": 297,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-06-21",
+      "timestamp": "2026-06-21T15:12:59.415233",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f The greatest glory in living lies not in never falling, but in rising every time we fall. \u2014 start today.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122101595919364831",
+      "post_id": "1181533578372151_122101595937364831"
+    },
+    "timestamp": "2026-06-21T15:13:03.508169"
   }
 ]
