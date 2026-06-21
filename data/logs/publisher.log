@@ -1142,3 +1142,16 @@ Share this with someone who needs it today! 💛
 #Motivation #S...
 2026-06-21 08:57:46,600 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-21 08:57:46,602 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-21 10:32:24,888 [INFO] Failed posts list is empty.
+2026-06-21 10:32:25,045 [INFO] ──────────────────────────────────────────────────
+2026-06-21 10:32:25,045 [INFO] ▶  Running slot: morning_motivation
+2026-06-21 10:32:25,045 [INFO] ──────────────────────────────────────────────────
+2026-06-21 10:32:25,047 [INFO] 📝 Content selected: Believe this: the only way to do great work is to love what you do....
+2026-06-21 10:32:25,155 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260621_103225.png
+2026-06-21 10:32:25,155 [INFO] Caption preview: ☀️ Believe this: the only way to do great work is to love what you do.
+
+Share this with someone who needs it today! 💛
+
+#...
+2026-06-21 10:32:28,644 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-21 10:32:28,646 [INFO] ✅ Slot [morning_motivation] published successfully!
