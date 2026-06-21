@@ -870,5 +870,26 @@
       "post_id": "1181533578372151_122101486461364831"
     },
     "timestamp": "2026-06-21T11:44:15.338160"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "Be gentle with... in progress.",
+      "content_index": 119,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "sunrise breaking through storm clouds"
+      },
+      "date": "2026-06-21",
+      "timestamp": "2026-06-21T13:03:39.073949",
+      "weight_used": 1.3733222505348357
+    },
+    "caption": "\ud83d\udcaa Be gentle with... in progress.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122101524999364831",
+      "post_id": "1181533578372151_122101525017364831"
+    },
+    "timestamp": "2026-06-21T13:03:43.835141"
   }
 ]
