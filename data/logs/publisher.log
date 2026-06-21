@@ -1203,3 +1203,14 @@ Share this with someone who needs it today! 💛
 #Motivation #Succe...
 2026-06-21 17:13:54,404 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-21 17:13:54,406 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-21 19:22:15,491 [INFO] Failed posts list is empty.
+2026-06-21 19:22:15,652 [INFO] ──────────────────────────────────────────────────
+2026-06-21 19:22:15,652 [INFO] ▶  Running slot: morning_motivation
+2026-06-21 19:22:15,652 [INFO] ──────────────────────────────────────────────────
+2026-06-21 19:22:15,655 [INFO] 📝 Content selected: The best time to plant a tree was 20 years ago. The second best time is now....
+2026-06-21 19:22:15,764 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260621_192215.png
+2026-06-21 19:22:15,765 [INFO] Caption preview: ☀️ The best time to plant a tree was 20 years ago. The second best time is now.
+
+Share this with someone who needs it to...
+2026-06-21 19:22:20,596 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-21 19:22:20,597 [INFO] ✅ Slot [morning_motivation] published successfully!
