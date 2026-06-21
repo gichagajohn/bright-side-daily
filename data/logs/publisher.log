@@ -1129,3 +1129,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters ...
 2026-06-20 19:16:44,295 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-20 19:16:44,296 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-21 08:57:41,213 [INFO] Failed posts list is empty.
+2026-06-21 08:57:41,375 [INFO] ──────────────────────────────────────────────────
+2026-06-21 08:57:41,375 [INFO] ▶  Running slot: morning_motivation
+2026-06-21 08:57:41,375 [INFO] ──────────────────────────────────────────────────
+2026-06-21 08:57:41,377 [INFO] 📝 Content selected: Truth: always remember that you are absolutely unique....
+2026-06-21 08:57:41,442 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260621_085741.png
+2026-06-21 08:57:41,442 [INFO] Caption preview: ☀️ Truth: always remember that you are absolutely unique.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #S...
+2026-06-21 08:57:46,600 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-21 08:57:46,602 [INFO] ✅ Slot [morning_motivation] published successfully!
