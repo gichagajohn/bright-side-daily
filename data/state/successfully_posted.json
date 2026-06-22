@@ -1038,5 +1038,26 @@
       "post_id": "1181533578372151_122102525331364831"
     },
     "timestamp": "2026-06-22T15:49:59.926733"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Never forget: life is either a daring adventure or nothing at all.",
+      "content_index": 178,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-06-22",
+      "timestamp": "2026-06-22T17:43:18.047591",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f Never forget: life is either a daring adventure or nothing at all.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122102597895364831",
+      "post_id": "1181533578372151_122102597919364831"
+    },
+    "timestamp": "2026-06-22T17:43:23.140570"
   }
 ]

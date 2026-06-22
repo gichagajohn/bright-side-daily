@@ -1264,3 +1264,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mindset...
 2026-06-22 15:49:59,925 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-22 15:49:59,928 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-22 17:43:17,878 [INFO] Failed posts list is empty.
+2026-06-22 17:43:18,044 [INFO] ──────────────────────────────────────────────────
+2026-06-22 17:43:18,044 [INFO] ▶  Running slot: morning_motivation
+2026-06-22 17:43:18,044 [INFO] ──────────────────────────────────────────────────
+2026-06-22 17:43:18,047 [INFO] 📝 Content selected: Never forget: life is either a daring adventure or nothing at all....
+2026-06-22 17:43:18,214 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260622_174318.png
+2026-06-22 17:43:18,214 [INFO] Caption preview: ☀️ Never forget: life is either a daring adventure or nothing at all.
+
+Share this with someone who needs it today! 💛
+
+#M...
+2026-06-22 17:43:23,140 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-22 17:43:23,141 [INFO] ✅ Slot [morning_motivation] published successfully!
