@@ -975,5 +975,26 @@
       "post_id": "1181533578372151_122102305629364831"
     },
     "timestamp": "2026-06-22T10:38:40.133562"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "[Motivational] Don't limit your challenges. Challenge your limits.",
+      "content_index": 133,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-06-22",
+      "timestamp": "2026-06-22T12:51:39.437021",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f [Motivational] Don't limit your challenges. Challenge your limits.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122102402409364831",
+      "post_id": "1181533578372151_122102402475364831"
+    },
+    "timestamp": "2026-06-22T12:51:44.519976"
   }
 ]
