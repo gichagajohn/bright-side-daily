@@ -1059,5 +1059,26 @@
       "post_id": "1181533578372151_122102597919364831"
     },
     "timestamp": "2026-06-22T17:43:23.140570"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Remember: when one door of happiness closes, another opens.",
+      "content_index": 421,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-06-22",
+      "timestamp": "2026-06-22T19:01:11.394706",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f Remember: when one door of happiness closes, another opens.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122102650677364831",
+      "post_id": "1181533578372151_122102650695364831"
+    },
+    "timestamp": "2026-06-22T19:01:16.028989"
   }
 ]
