@@ -954,5 +954,26 @@
       "post_id": "1181533578372151_122101736751364831"
     },
     "timestamp": "2026-06-21T19:22:20.596735"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Spread love everywhere you go. \u2014 believe it.",
+      "content_index": 408,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open book and coffee in a cozy reading nook"
+      },
+      "date": "2026-06-22",
+      "timestamp": "2026-06-22T10:38:34.938749",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f Spread love everywhere you go. \u2014 believe it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122102305611364831",
+      "post_id": "1181533578372151_122102305629364831"
+    },
+    "timestamp": "2026-06-22T10:38:40.133562"
   }
 ]
