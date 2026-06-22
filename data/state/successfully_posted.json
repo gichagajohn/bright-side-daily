@@ -996,5 +996,26 @@
       "post_id": "1181533578372151_122102402475364831"
     },
     "timestamp": "2026-06-22T12:51:44.519976"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "[Motivational] The harder you work for something, the greater you'll feel when you achieve it.",
+      "content_index": 366,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-06-22",
+      "timestamp": "2026-06-22T14:36:29.760018",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f [Motivational] The harder you work for something, the greater you'll feel when you achieve it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122102476161364831",
+      "post_id": "1181533578372151_122102476203364831"
+    },
+    "timestamp": "2026-06-22T14:36:36.320805"
   }
 ]
