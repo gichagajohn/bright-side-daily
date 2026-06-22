@@ -1251,3 +1251,16 @@ Share this with someone who needs it today! 💛
 Share this with someo...
 2026-06-22 14:36:36,320 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-22 14:36:36,322 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-22 15:49:56,381 [INFO] Failed posts list is empty.
+2026-06-22 15:49:56,546 [INFO] ──────────────────────────────────────────────────
+2026-06-22 15:49:56,546 [INFO] ▶  Running slot: morning_motivation
+2026-06-22 15:49:56,546 [INFO] ──────────────────────────────────────────────────
+2026-06-22 15:49:56,549 [INFO] 📝 Content selected: Dream it. Wish it. Do it. — keep going....
+2026-06-22 15:49:56,663 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260622_154956.png
+2026-06-22 15:49:56,663 [INFO] Caption preview: ☀️ Dream it. Wish it. Do it. — keep going.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mindset...
+2026-06-22 15:49:59,925 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-22 15:49:59,928 [INFO] ✅ Slot [morning_motivation] published successfully!
