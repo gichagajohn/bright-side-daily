@@ -1206,5 +1206,26 @@
       "post_id": "1181533578372151_122103295161364831"
     },
     "timestamp": "2026-06-23T15:55:31.561165"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "[Motivational] If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+      "content_index": 302,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T17:42:51.171655",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f [Motivational] If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122103382185364831",
+      "post_id": "1181533578372151_122103382269364831"
+    },
+    "timestamp": "2026-06-23T17:42:57.152285"
   }
 ]
