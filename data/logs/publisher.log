@@ -1301,3 +1301,14 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs ...
 2026-06-22 20:38:06,562 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-22 20:38:06,564 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-23 08:29:30,767 [INFO] Failed posts list is empty.
+2026-06-23 08:29:30,927 [INFO] ──────────────────────────────────────────────────
+2026-06-23 08:29:30,927 [INFO] ▶  Running slot: morning_motivation
+2026-06-23 08:29:30,927 [INFO] ──────────────────────────────────────────────────
+2026-06-23 08:29:30,931 [INFO] 📝 Content selected: Worth repeating: the future belongs to those who believe in the beauty of their ...
+2026-06-23 08:29:31,044 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260623_082930.png
+2026-06-23 08:29:31,044 [INFO] Caption preview: ☀️ Worth repeating: the future belongs to those who believe in the beauty of their dreams.
+
+Share this with someone who ...
+2026-06-23 08:29:34,253 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-23 08:29:34,255 [INFO] ✅ Slot [morning_motivation] published successfully!
