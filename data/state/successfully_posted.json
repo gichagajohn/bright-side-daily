@@ -1164,5 +1164,26 @@
       "post_id": "1181533578372151_122103118917364831"
     },
     "timestamp": "2026-06-23T11:58:54.507911"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "You matter more than you know.",
+      "content_index": 27,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "sprout pushing through cracked concrete"
+      },
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T13:42:44.601285",
+      "weight_used": 0.5
+    },
+    "caption": "\ud83d\udcaa You matter more than you know.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122103192081364831",
+      "post_id": "1181533578372151_122103192117364831"
+    },
+    "timestamp": "2026-06-23T13:42:49.576471"
   }
 ]
