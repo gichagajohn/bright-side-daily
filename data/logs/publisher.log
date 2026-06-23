@@ -1373,3 +1373,16 @@ Share this with someone who needs it today! 💛
 2026-06-23 17:42:51,341 [INFO] Caption preview: ☀️ [Motivational] If you set your goals ridiculously high and it's a failure, you will fail above everyone else's succes...
 2026-06-23 17:42:57,151 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-23 17:42:57,153 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-23 19:53:54,767 [INFO] Failed posts list is empty.
+2026-06-23 19:53:54,924 [INFO] ──────────────────────────────────────────────────
+2026-06-23 19:53:54,924 [INFO] ▶  Running slot: morning_motivation
+2026-06-23 19:53:54,924 [INFO] ──────────────────────────────────────────────────
+2026-06-23 19:53:54,928 [INFO] 📝 Content selected: Great things never come from comfort zones. — keep going....
+2026-06-23 19:53:55,083 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260623_195355.png
+2026-06-23 19:53:55,083 [INFO] Caption preview: ☀️ Great things never come from comfort zones. — keep going.
+
+Share this with someone who needs it today! 💛
+
+#Motivation...
+2026-06-23 19:54:02,217 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-23 19:54:02,219 [INFO] ✅ Slot [morning_motivation] published successfully!
