@@ -1325,3 +1325,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMa...
 2026-06-23 10:38:01,404 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-23 10:38:01,406 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-23 11:58:49,750 [INFO] Failed posts list is empty.
+2026-06-23 11:58:49,908 [INFO] ──────────────────────────────────────────────────
+2026-06-23 11:58:49,908 [INFO] ▶  Running slot: self_improvement
+2026-06-23 11:58:49,908 [INFO] ──────────────────────────────────────────────────
+2026-06-23 11:58:49,911 [INFO] 📝 Content selected: Be yourself, but always your better self. — believe it....
+2026-06-23 11:58:50,022 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260623_115849.png
+2026-06-23 11:58:50,022 [INFO] Caption preview: 📈 Be yourself, but always your better self. — believe it.
+
+Share this with someone who needs it today! 💛
+
+#PersonalGrowt...
+2026-06-23 11:58:54,507 [INFO] ✅ Posted successfully [self_improvement]
+2026-06-23 11:58:54,509 [INFO] ✅ Slot [self_improvement] published successfully!
