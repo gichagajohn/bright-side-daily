@@ -1290,5 +1290,26 @@
       "post_id": "1181533578372151_122104034205364831"
     },
     "timestamp": "2026-06-24T10:24:07.299609"
+  },
+  {
+    "post": {
+      "slot": "self_improvement",
+      "category": "self_improvement_quotes",
+      "content": "[SelfImprovement] The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice.",
+      "content_index": 114,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "open book and coffee in a cozy reading nook"
+      },
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T11:43:40.658565",
+      "weight_used": 0.5
+    },
+    "caption": "\ud83d\udcc8 [SelfImprovement] The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#PersonalGrowth #SelfImprovement #BetterEveryDay #GrowthMindset #Habits #BrightSideDaily",
+    "fb_response": {
+      "id": "122104060209364831",
+      "post_id": "1181533578372151_122104060233364831"
+    },
+    "timestamp": "2026-06-24T11:43:46.246519"
   }
 ]

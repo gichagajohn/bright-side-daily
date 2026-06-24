@@ -1410,3 +1410,12 @@ Share this with someone who needs it today! 💛
 #Motiv...
 2026-06-24 10:24:07,298 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-24 10:24:07,301 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-24 11:43:40,500 [INFO] Failed posts list is empty.
+2026-06-24 11:43:40,654 [INFO] ──────────────────────────────────────────────────
+2026-06-24 11:43:40,654 [INFO] ▶  Running slot: self_improvement
+2026-06-24 11:43:40,654 [INFO] ──────────────────────────────────────────────────
+2026-06-24 11:43:40,658 [INFO] 📝 Content selected: [SelfImprovement] The capacity to learn is a gift; the ability to learn is a ski...
+2026-06-24 11:43:40,791 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260624_114340.png
+2026-06-24 11:43:40,791 [INFO] Caption preview: 📈 [SelfImprovement] The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choi...
+2026-06-24 11:43:46,245 [INFO] ✅ Posted successfully [self_improvement]
+2026-06-24 11:43:46,247 [INFO] ✅ Slot [self_improvement] published successfully!
