@@ -1311,5 +1311,26 @@
       "post_id": "1181533578372151_122104060233364831"
     },
     "timestamp": "2026-06-24T11:43:46.246519"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "[Encouragement] You are exactly where you need to be.",
+      "content_index": 74,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "sprout pushing through cracked concrete"
+      },
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T13:19:07.518418",
+      "weight_used": 0.5
+    },
+    "caption": "\ud83d\udcaa [Encouragement] You are exactly where you need to be.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122104086369364831",
+      "post_id": "1181533578372151_122104086393364831"
+    },
+    "timestamp": "2026-06-24T13:19:16.581210"
   }
 ]
