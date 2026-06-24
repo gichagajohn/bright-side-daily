@@ -1445,3 +1445,16 @@ Share this with someone who needs it today! 💛
 #Mot...
 2026-06-24 15:35:42,479 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-24 15:35:42,481 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-24 17:44:59,974 [INFO] Failed posts list is empty.
+2026-06-24 17:45:00,096 [INFO] ──────────────────────────────────────────────────
+2026-06-24 17:45:00,096 [INFO] ▶  Running slot: morning_motivation
+2026-06-24 17:45:00,096 [INFO] ──────────────────────────────────────────────────
+2026-06-24 17:45:00,099 [INFO] 📝 Content selected: Dream it. Believe it. Build it....
+2026-06-24 17:45:00,182 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260624_174500.png
+2026-06-24 17:45:00,182 [INFO] Caption preview: ☀️ Dream it. Believe it. Build it.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters ...
+2026-06-24 17:45:08,027 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-24 17:45:08,029 [INFO] ✅ Slot [morning_motivation] published successfully!
