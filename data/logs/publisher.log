@@ -1432,3 +1432,16 @@ Share this with someone who needs it today! 💛
 #YouGotThis #Kee...
 2026-06-24 13:19:16,580 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-06-24 13:19:16,582 [INFO] ✅ Slot [midday_encouragement] published successfully!
+2026-06-24 15:35:37,410 [INFO] Failed posts list is empty.
+2026-06-24 15:35:37,569 [INFO] ──────────────────────────────────────────────────
+2026-06-24 15:35:37,569 [INFO] ▶  Running slot: morning_motivation
+2026-06-24 15:35:37,569 [INFO] ──────────────────────────────────────────────────
+2026-06-24 15:35:37,573 [INFO] 📝 Content selected: It's going to be hard, but hard is not impossible. — share this!...
+2026-06-24 15:35:37,677 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260624_153537.png
+2026-06-24 15:35:37,677 [INFO] Caption preview: ☀️ It's going to be hard, but hard is not impossible. — share this!
+
+Share this with someone who needs it today! 💛
+
+#Mot...
+2026-06-24 15:35:42,479 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-24 15:35:42,481 [INFO] ✅ Slot [morning_motivation] published successfully!
