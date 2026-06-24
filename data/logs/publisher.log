@@ -1458,3 +1458,14 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters ...
 2026-06-24 17:45:08,027 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-24 17:45:08,029 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-24 19:38:40,051 [INFO] Failed posts list is empty.
+2026-06-24 19:38:40,195 [INFO] ──────────────────────────────────────────────────
+2026-06-24 19:38:40,196 [INFO] ▶  Running slot: morning_motivation
+2026-06-24 19:38:40,196 [INFO] ──────────────────────────────────────────────────
+2026-06-24 19:38:40,200 [INFO] 📝 Content selected: If you look at what you have in life, you'll always have more. — spread this....
+2026-06-24 19:38:40,307 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260624_193840.png
+2026-06-24 19:38:40,307 [INFO] Caption preview: ☀️ If you look at what you have in life, you'll always have more. — spread this.
+
+Share this with someone who needs it t...
+2026-06-24 19:38:49,179 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-24 19:38:49,181 [INFO] ✅ Slot [morning_motivation] published successfully!
