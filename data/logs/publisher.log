@@ -1386,3 +1386,14 @@ Share this with someone who needs it today! 💛
 #Motivation...
 2026-06-23 19:54:02,217 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-23 19:54:02,219 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-24 08:22:09,704 [INFO] Failed posts list is empty.
+2026-06-24 08:22:09,864 [INFO] ──────────────────────────────────────────────────
+2026-06-24 08:22:09,864 [INFO] ▶  Running slot: morning_motivation
+2026-06-24 08:22:09,864 [INFO] ──────────────────────────────────────────────────
+2026-06-24 08:22:09,868 [INFO] 📝 Content selected: Today's reminder: in the end, it's not the years in your life that count. it's t...
+2026-06-24 08:22:09,961 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260624_082209.png
+2026-06-24 08:22:09,961 [INFO] Caption preview: ☀️ Today's reminder: in the end, it's not the years in your life that count. it's the life in your years.
+
+Share this wi...
+2026-06-24 08:22:13,980 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-24 08:22:13,983 [INFO] ✅ Slot [morning_motivation] published successfully!

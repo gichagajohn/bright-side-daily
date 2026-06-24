@@ -1248,5 +1248,26 @@
       "post_id": "1181533578372151_122103472233364831"
     },
     "timestamp": "2026-06-23T19:54:02.217676"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Today's reminder: in the end, it's not the years in your life that count. it's the life in your years.",
+      "content_index": 124,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T08:22:09.868428",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f Today's reminder: in the end, it's not the years in your life that count. it's the life in your years.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122103956403364831",
+      "post_id": "1181533578372151_122103956427364831"
+    },
+    "timestamp": "2026-06-24T08:22:13.981111"
   }
 ]
