@@ -1495,3 +1495,16 @@ Share this with someone who needs it today! 💛
 ...
 2026-06-25 10:16:47,744 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-25 10:16:47,747 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-25 11:38:55,145 [INFO] Failed posts list is empty.
+2026-06-25 11:38:55,306 [INFO] ──────────────────────────────────────────────────
+2026-06-25 11:38:55,306 [INFO] ▶  Running slot: self_improvement
+2026-06-25 11:38:55,306 [INFO] ──────────────────────────────────────────────────
+2026-06-25 11:38:55,311 [INFO] 📝 Content selected: Never forget: an investment in knowledge pays the best dividends....
+2026-06-25 11:38:55,415 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260625_113855.png
+2026-06-25 11:38:55,416 [INFO] Caption preview: 📈 Never forget: an investment in knowledge pays the best dividends.
+
+Share this with someone who needs it today! 💛
+
+#Per...
+2026-06-25 11:39:00,791 [INFO] ✅ Posted successfully [self_improvement]
+2026-06-25 11:39:00,793 [INFO] ✅ Slot [self_improvement] published successfully!
