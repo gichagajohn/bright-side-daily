@@ -1482,3 +1482,16 @@ Share this with someone who needs it today! 💛
 #Motivation #S...
 2026-06-25 08:23:21,793 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-25 08:23:21,795 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-25 10:16:41,706 [INFO] Failed posts list is empty.
+2026-06-25 10:16:41,868 [INFO] ──────────────────────────────────────────────────
+2026-06-25 10:16:41,868 [INFO] ▶  Running slot: morning_motivation
+2026-06-25 10:16:41,868 [INFO] ──────────────────────────────────────────────────
+2026-06-25 10:16:41,873 [INFO] 📝 Content selected: Today's reminder: it's going to be hard, but hard is not impossible....
+2026-06-25 10:16:41,982 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260625_101641.png
+2026-06-25 10:16:41,982 [INFO] Caption preview: ☀️ Today's reminder: it's going to be hard, but hard is not impossible.
+
+Share this with someone who needs it today! 💛
+
+...
+2026-06-25 10:16:47,744 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-25 10:16:47,747 [INFO] ✅ Slot [morning_motivation] published successfully!
