@@ -1469,3 +1469,16 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it t...
 2026-06-24 19:38:49,179 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-24 19:38:49,181 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-25 08:23:16,503 [INFO] Failed posts list is empty.
+2026-06-25 08:23:16,691 [INFO] ──────────────────────────────────────────────────
+2026-06-25 08:23:16,691 [INFO] ▶  Running slot: morning_motivation
+2026-06-25 08:23:16,691 [INFO] ──────────────────────────────────────────────────
+2026-06-25 08:23:16,698 [INFO] 📝 Content selected: Truth: the secret of getting ahead is getting started....
+2026-06-25 08:23:16,896 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260625_082316.png
+2026-06-25 08:23:16,896 [INFO] Caption preview: ☀️ Truth: the secret of getting ahead is getting started.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #S...
+2026-06-25 08:23:21,793 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-25 08:23:21,795 [INFO] ✅ Slot [morning_motivation] published successfully!
