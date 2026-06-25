@@ -1458,5 +1458,26 @@
       "post_id": "1181533578372151_122104418013364831"
     },
     "timestamp": "2026-06-25T11:39:00.791706"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "Your story isn't over yet. \u2014 spread this.",
+      "content_index": 135,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open book and coffee in a cozy reading nook"
+      },
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T13:14:19.665383",
+      "weight_used": 0.5
+    },
+    "caption": "\ud83d\udcaa Your story isn't over yet. \u2014 spread this.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122104444983364831",
+      "post_id": "1181533578372151_122104445043364831"
+    },
+    "timestamp": "2026-06-25T13:14:25.089259"
   }
 ]

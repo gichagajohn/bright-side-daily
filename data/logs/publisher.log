@@ -1508,3 +1508,16 @@ Share this with someone who needs it today! 💛
 #Per...
 2026-06-25 11:39:00,791 [INFO] ✅ Posted successfully [self_improvement]
 2026-06-25 11:39:00,793 [INFO] ✅ Slot [self_improvement] published successfully!
+2026-06-25 13:14:19,504 [INFO] Failed posts list is empty.
+2026-06-25 13:14:19,661 [INFO] ──────────────────────────────────────────────────
+2026-06-25 13:14:19,661 [INFO] ▶  Running slot: midday_encouragement
+2026-06-25 13:14:19,661 [INFO] ──────────────────────────────────────────────────
+2026-06-25 13:14:19,665 [INFO] 📝 Content selected: Your story isn't over yet. — spread this....
+2026-06-25 13:14:19,995 [INFO] Publishing [midday_encouragement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/midday_encouragement_20260625_131419.png
+2026-06-25 13:14:19,995 [INFO] Caption preview: 💪 Your story isn't over yet. — spread this.
+
+Share this with someone who needs it today! 💛
+
+#YouGotThis #KeepGoing #Neve...
+2026-06-25 13:14:25,088 [INFO] ✅ Posted successfully [midday_encouragement]
+2026-06-25 13:14:25,090 [INFO] ✅ Slot [midday_encouragement] published successfully!
