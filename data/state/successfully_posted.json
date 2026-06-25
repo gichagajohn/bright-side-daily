@@ -1521,5 +1521,26 @@
       "post_id": "1181533578372151_122104578867364831"
     },
     "timestamp": "2026-06-25T17:58:52.279332"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Truth: you don't have to be great to start, but you have to start to be great.",
+      "content_index": 146,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T19:50:55.445632",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f Truth: you don't have to be great to start, but you have to start to be great.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122104605789364831",
+      "post_id": "1181533578372151_122104605807364831"
+    },
+    "timestamp": "2026-06-25T19:51:02.500448"
   }
 ]

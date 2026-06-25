@@ -1547,3 +1547,14 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #...
 2026-06-25 17:58:52,278 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-25 17:58:52,280 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-25 19:50:55,276 [INFO] Failed posts list is empty.
+2026-06-25 19:50:55,440 [INFO] ──────────────────────────────────────────────────
+2026-06-25 19:50:55,440 [INFO] ▶  Running slot: morning_motivation
+2026-06-25 19:50:55,440 [INFO] ──────────────────────────────────────────────────
+2026-06-25 19:50:55,445 [INFO] 📝 Content selected: Truth: you don't have to be great to start, but you have to start to be great....
+2026-06-25 19:50:55,607 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260625_195055.png
+2026-06-25 19:50:55,607 [INFO] Caption preview: ☀️ Truth: you don't have to be great to start, but you have to start to be great.
+
+Share this with someone who needs it ...
+2026-06-25 19:51:02,499 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-25 19:51:02,502 [INFO] ✅ Slot [morning_motivation] published successfully!
