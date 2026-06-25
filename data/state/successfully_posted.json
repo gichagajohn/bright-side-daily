@@ -1479,5 +1479,26 @@
       "post_id": "1181533578372151_122104445043364831"
     },
     "timestamp": "2026-06-25T13:14:25.089259"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Worth repeating: it's going to be hard, but hard is not impossible.",
+      "content_index": 238,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T15:43:15.154198",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f Worth repeating: it's going to be hard, but hard is not impossible.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122104500873364831",
+      "post_id": "1181533578372151_122104500891364831"
+    },
+    "timestamp": "2026-06-25T15:43:20.842213"
   }
 ]
