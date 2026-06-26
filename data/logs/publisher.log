@@ -1580,3 +1580,14 @@ Share this with someone w...
 Share this with someone who needs it t...
 2026-06-26 10:24:31,290 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-26 10:24:31,293 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-26 11:43:30,080 [INFO] Failed posts list is empty.
+2026-06-26 11:43:30,245 [INFO] ──────────────────────────────────────────────────
+2026-06-26 11:43:30,245 [INFO] ▶  Running slot: self_improvement
+2026-06-26 11:43:30,245 [INFO] ──────────────────────────────────────────────────
+2026-06-26 11:43:30,250 [INFO] 📝 Content selected: [SelfImprovement] Small daily improvements over time lead to stunning results....
+2026-06-26 11:43:30,368 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260626_114330.png
+2026-06-26 11:43:30,368 [INFO] Caption preview: 📈 [SelfImprovement] Small daily improvements over time lead to stunning results.
+
+Share this with someone who needs it t...
+2026-06-26 11:43:37,317 [INFO] ✅ Posted successfully [self_improvement]
+2026-06-26 11:43:37,319 [INFO] ✅ Slot [self_improvement] published successfully!
