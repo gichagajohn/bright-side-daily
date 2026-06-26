@@ -1628,3 +1628,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #DailyM...
 2026-06-26 17:26:36,242 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-26 17:26:36,244 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-26 19:40:10,378 [INFO] Failed posts list is empty.
+2026-06-26 19:40:10,533 [INFO] ──────────────────────────────────────────────────
+2026-06-26 19:40:10,533 [INFO] ▶  Running slot: morning_motivation
+2026-06-26 19:40:10,533 [INFO] ──────────────────────────────────────────────────
+2026-06-26 19:40:10,539 [INFO] 📝 Content selected: When you reach the end of your rope, tie a knot in it and hang on....
+2026-06-26 19:40:10,633 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260626_194010.png
+2026-06-26 19:40:10,633 [INFO] Caption preview: ☀️ When you reach the end of your rope, tie a knot in it and hang on.
+
+Share this with someone who needs it today! 💛
+
+#M...
+2026-06-26 19:40:19,760 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-26 19:40:19,763 [INFO] ✅ Slot [morning_motivation] published successfully!
