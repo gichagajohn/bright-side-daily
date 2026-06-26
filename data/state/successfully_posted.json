@@ -1563,5 +1563,26 @@
       "post_id": "1181533578372151_122104738443364831"
     },
     "timestamp": "2026-06-26T08:30:05.992114"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "If you look at what you have in life, you'll always have more. \u2014 start today.",
+      "content_index": 479,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T10:24:25.096022",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f If you look at what you have in life, you'll always have more. \u2014 start today.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122104776417364831",
+      "post_id": "1181533578372151_122104776441364831"
+    },
+    "timestamp": "2026-06-26T10:24:31.291379"
   }
 ]
