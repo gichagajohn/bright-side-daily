@@ -1558,3 +1558,14 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it ...
 2026-06-25 19:51:02,499 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-25 19:51:02,502 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-26 08:29:59,686 [INFO] Failed posts list is empty.
+2026-06-26 08:29:59,841 [INFO] ──────────────────────────────────────────────────
+2026-06-26 08:29:59,841 [INFO] ▶  Running slot: morning_motivation
+2026-06-26 08:29:59,841 [INFO] ──────────────────────────────────────────────────
+2026-06-26 08:29:59,846 [INFO] 📝 Content selected: Worth repeating: if life were predictable it would cease to be life and be witho...
+2026-06-26 08:29:59,958 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260626_082959.png
+2026-06-26 08:29:59,958 [INFO] Caption preview: ☀️ Worth repeating: if life were predictable it would cease to be life and be without flavor.
+
+Share this with someone w...
+2026-06-26 08:30:05,991 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-26 08:30:05,993 [INFO] ✅ Slot [morning_motivation] published successfully!
