@@ -1641,3 +1641,16 @@ Share this with someone who needs it today! 💛
 #M...
 2026-06-26 19:40:19,760 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-26 19:40:19,763 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-27 07:49:25,965 [INFO] Failed posts list is empty.
+2026-06-27 07:49:26,106 [INFO] ──────────────────────────────────────────────────
+2026-06-27 07:49:26,106 [INFO] ▶  Running slot: positive_quote
+2026-06-27 07:49:26,106 [INFO] ──────────────────────────────────────────────────
+2026-06-27 07:49:26,111 [INFO] 📝 Content selected: Fact: if you're not positive energy, you're negative energy....
+2026-06-27 07:49:26,214 [INFO] Publishing [positive_quote] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/positive_quote_20260627_074926.png
+2026-06-27 07:49:26,214 [INFO] Caption preview: 🌟 Fact: if you're not positive energy, you're negative energy.
+
+Share this with someone who needs it today! 💛
+
+#Positive...
+2026-06-27 07:49:37,170 [INFO] ✅ Posted successfully [positive_quote]
+2026-06-27 07:49:37,174 [INFO] ✅ Slot [positive_quote] published successfully!
