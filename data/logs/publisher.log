@@ -1706,3 +1706,14 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #Daily...
 2026-06-27 14:47:09,467 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-27 14:47:09,470 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-27 16:52:13,094 [INFO] Failed posts list is empty.
+2026-06-27 16:52:13,256 [INFO] ──────────────────────────────────────────────────
+2026-06-27 16:52:13,256 [INFO] ▶  Running slot: evening_reflection
+2026-06-27 16:52:13,256 [INFO] ──────────────────────────────────────────────────
+2026-06-27 16:52:13,262 [INFO] 📝 Content selected: This is a wonderful day. I've never seen this one before. — start today....
+2026-06-27 16:52:13,401 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260627_165213.png
+2026-06-27 16:52:13,401 [INFO] Caption preview: 🌙 This is a wonderful day. I've never seen this one before. — start today.
+
+Share this with someone who needs it today! ...
+2026-06-27 16:52:20,237 [INFO] ✅ Posted successfully [evening_reflection]
+2026-06-27 16:52:20,240 [INFO] ✅ Slot [evening_reflection] published successfully!
