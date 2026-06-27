@@ -1693,3 +1693,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Succes...
 2026-06-27 12:07:15,945 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-27 12:07:15,948 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-27 14:47:03,284 [INFO] Failed posts list is empty.
+2026-06-27 14:47:03,453 [INFO] ──────────────────────────────────────────────────
+2026-06-27 14:47:03,453 [INFO] ▶  Running slot: morning_motivation
+2026-06-27 14:47:03,453 [INFO] ──────────────────────────────────────────────────
+2026-06-27 14:47:03,459 [INFO] 📝 Content selected: Life is either... at all....
+2026-06-27 14:47:03,800 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260627_144703.png
+2026-06-27 14:47:03,800 [INFO] Caption preview: ☀️ Life is either... at all.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #Daily...
+2026-06-27 14:47:09,467 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-27 14:47:09,470 [INFO] ✅ Slot [morning_motivation] published successfully!
