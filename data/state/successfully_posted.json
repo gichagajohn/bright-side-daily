@@ -1815,5 +1815,26 @@
       "post_id": "1181533578372151_122105160459364831"
     },
     "timestamp": "2026-06-27T16:52:20.238453"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "An unexamined life... worth living.",
+      "content_index": 101,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T19:11:38.169626",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f An unexamined life... worth living.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122105198793364831",
+      "post_id": "1181533578372151_122105198823364831"
+    },
+    "timestamp": "2026-06-27T19:11:47.321405"
   }
 ]

@@ -1717,3 +1717,16 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it today! ...
 2026-06-27 16:52:20,237 [INFO] ✅ Posted successfully [evening_reflection]
 2026-06-27 16:52:20,240 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-06-27 19:11:38,004 [INFO] Failed posts list is empty.
+2026-06-27 19:11:38,163 [INFO] ──────────────────────────────────────────────────
+2026-06-27 19:11:38,163 [INFO] ▶  Running slot: morning_motivation
+2026-06-27 19:11:38,163 [INFO] ──────────────────────────────────────────────────
+2026-06-27 19:11:38,169 [INFO] 📝 Content selected: An unexamined life... worth living....
+2026-06-27 19:11:38,304 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260627_191138.png
+2026-06-27 19:11:38,304 [INFO] Caption preview: ☀️ An unexamined life... worth living.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatt...
+2026-06-27 19:11:47,320 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-27 19:11:47,323 [INFO] ✅ Slot [morning_motivation] published successfully!
