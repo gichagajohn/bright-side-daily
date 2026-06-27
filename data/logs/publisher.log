@@ -1680,3 +1680,16 @@ Share this with someone who needs it today! 💛
 #M...
 2026-06-27 10:56:09,918 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-27 10:56:09,921 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-27 12:07:08,456 [INFO] Failed posts list is empty.
+2026-06-27 12:07:08,617 [INFO] ──────────────────────────────────────────────────
+2026-06-27 12:07:08,617 [INFO] ▶  Running slot: morning_motivation
+2026-06-27 12:07:08,617 [INFO] ──────────────────────────────────────────────────
+2026-06-27 12:07:08,623 [INFO] 📝 Content selected: Fact: it always seems impossible until it's done....
+2026-06-27 12:07:08,752 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260627_120708.png
+2026-06-27 12:07:08,752 [INFO] Caption preview: ☀️ Fact: it always seems impossible until it's done.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succes...
+2026-06-27 12:07:15,945 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-27 12:07:15,948 [INFO] ✅ Slot [morning_motivation] published successfully!

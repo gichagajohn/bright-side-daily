@@ -1752,5 +1752,26 @@
       "post_id": "1181533578372151_122105083869364831"
     },
     "timestamp": "2026-06-27T10:56:09.919411"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Fact: it always seems impossible until it's done.",
+      "content_index": 322,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T12:07:08.623067",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f Fact: it always seems impossible until it's done.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122105097237364831",
+      "post_id": "1181533578372151_122105097309364831"
+    },
+    "timestamp": "2026-06-27T12:07:15.946161"
   }
 ]
