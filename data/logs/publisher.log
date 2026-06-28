@@ -1790,3 +1790,16 @@ Share this with someone who needs it today! 💛
 Share this...
 2026-06-28 14:51:00,623 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-28 14:51:00,625 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-28 16:53:20,409 [INFO] Failed posts list is empty.
+2026-06-28 16:53:20,568 [INFO] ──────────────────────────────────────────────────
+2026-06-28 16:53:20,568 [INFO] ▶  Running slot: evening_reflection
+2026-06-28 16:53:20,568 [INFO] ──────────────────────────────────────────────────
+2026-06-28 16:53:20,575 [INFO] 📝 Content selected: Happiness is when... in harmony....
+2026-06-28 16:53:20,717 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260628_165320.png
+2026-06-28 16:53:20,717 [INFO] Caption preview: 🌙 Happiness is when... in harmony.
+
+Share this with someone who needs it today! 💛
+
+#Gratitude #Thankful #CountYourBlessi...
+2026-06-28 16:53:27,209 [INFO] ✅ Posted successfully [evening_reflection]
+2026-06-28 16:53:27,212 [INFO] ✅ Slot [evening_reflection] published successfully!

@@ -1941,5 +1941,26 @@
       "post_id": "1181533578372151_122105489991364831"
     },
     "timestamp": "2026-06-28T14:51:00.623770"
+  },
+  {
+    "post": {
+      "slot": "evening_reflection",
+      "category": "gratitude_quotes",
+      "content": "Happiness is when... in harmony.",
+      "content_index": 57,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "freshly baked bread in morning light"
+      },
+      "date": "2026-06-28",
+      "timestamp": "2026-06-28T16:53:20.575446",
+      "weight_used": 0.5
+    },
+    "caption": "\ud83c\udf19 Happiness is when... in harmony.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Gratitude #Thankful #CountYourBlessings #GratefulHeart #Blessed #BrightSideDaily",
+    "fb_response": {
+      "id": "122105514915364831",
+      "post_id": "1181533578372151_122105514939364831"
+    },
+    "timestamp": "2026-06-28T16:53:27.210356"
   }
 ]
