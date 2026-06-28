@@ -1767,3 +1767,15 @@ Share this with someone who needs it today! 💛
 #PersonalGro...
 2026-06-28 11:05:10,834 [INFO] ✅ Posted successfully [self_improvement]
 2026-06-28 11:05:10,838 [INFO] ✅ Slot [self_improvement] published successfully!
+2026-06-28 12:14:46,697 [INFO] Failed posts list is empty.
+2026-06-28 12:14:46,819 [INFO] ──────────────────────────────────────────────────
+2026-06-28 12:14:46,819 [INFO] ▶  Running slot: morning_motivation
+2026-06-28 12:14:46,819 [INFO] ──────────────────────────────────────────────────
+2026-06-28 12:14:46,825 [INFO] 📝 Content selected: Keep going. Everything you need will come to you at the perfect time....
+2026-06-28 12:14:46,930 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260628_121446.png
+2026-06-28 12:14:46,930 [INFO] Caption preview: ☀️ Keep going. Everything you need will come to you at the perfect time.
+
+Share this with someone who needs it today! 💛
+...
+2026-06-28 12:14:50,468 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-28 12:14:50,470 [INFO] ✅ Slot [morning_motivation] published successfully!
