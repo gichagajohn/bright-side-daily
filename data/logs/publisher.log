@@ -1754,3 +1754,16 @@ Tag someone who can relate! 😂
 ...
 2026-06-28 10:00:08,187 [INFO] ✅ Posted successfully [funny_meme]
 2026-06-28 10:00:08,190 [INFO] ✅ Slot [funny_meme] published successfully!
+2026-06-28 11:05:05,844 [INFO] Failed posts list is empty.
+2026-06-28 11:05:06,004 [INFO] ──────────────────────────────────────────────────
+2026-06-28 11:05:06,004 [INFO] ▶  Running slot: self_improvement
+2026-06-28 11:05:06,004 [INFO] ──────────────────────────────────────────────────
+2026-06-28 11:05:06,011 [INFO] 📝 Content selected: Don't count the days; make the days count. — spread this....
+2026-06-28 11:05:06,211 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260628_110506.png
+2026-06-28 11:05:06,211 [INFO] Caption preview: 📈 Don't count the days; make the days count. — spread this.
+
+Share this with someone who needs it today! 💛
+
+#PersonalGro...
+2026-06-28 11:05:10,834 [INFO] ✅ Posted successfully [self_improvement]
+2026-06-28 11:05:10,838 [INFO] ✅ Slot [self_improvement] published successfully!
