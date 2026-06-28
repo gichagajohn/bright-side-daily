@@ -1857,5 +1857,26 @@
       "post_id": "1181533578372151_122105385267364831"
     },
     "timestamp": "2026-06-28T08:21:42.664843"
+  },
+  {
+    "post": {
+      "slot": "funny_meme",
+      "category": "meme_captions",
+      "content": "I don't always go the extra mile, but when I do, I took the wrong exit. \u2014 believe it.",
+      "content_index": 71,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "cozy blanket pile on a rainy day"
+      },
+      "date": "2026-06-28",
+      "timestamp": "2026-06-28T09:59:59.859210",
+      "weight_used": 0.5
+    },
+    "caption": "\ud83d\ude04 I don't always go the extra mile, but when I do, I took the wrong exit. \u2014 believe it.\n\nTag someone who can relate! \ud83d\ude02\n\n#RelatableLife #Funny #MondayMood #TooReal #WeekdayVibes #BrightSideDaily",
+    "fb_response": {
+      "id": "122105404161364831",
+      "post_id": "1181533578372151_122105404191364831"
+    },
+    "timestamp": "2026-06-28T10:00:08.188164"
   }
 ]
