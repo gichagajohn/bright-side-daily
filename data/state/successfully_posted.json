@@ -1920,5 +1920,26 @@
       "post_id": "1181533578372151_122105430009364831"
     },
     "timestamp": "2026-06-28T12:14:50.468898"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Today's reminder: do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "content_index": 88,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "warm coffee on table beside a sunrise window"
+      },
+      "date": "2026-06-28",
+      "timestamp": "2026-06-28T14:50:54.657820",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f Today's reminder: do not go where the path may lead, go instead where there is no path and leave a trail.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122105489973364831",
+      "post_id": "1181533578372151_122105489991364831"
+    },
+    "timestamp": "2026-06-28T14:51:00.623770"
   }
 ]

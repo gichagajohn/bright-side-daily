@@ -1779,3 +1779,14 @@ Share this with someone who needs it today! 💛
 ...
 2026-06-28 12:14:50,468 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-28 12:14:50,470 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-28 14:50:54,508 [INFO] Failed posts list is empty.
+2026-06-28 14:50:54,650 [INFO] ──────────────────────────────────────────────────
+2026-06-28 14:50:54,650 [INFO] ▶  Running slot: morning_motivation
+2026-06-28 14:50:54,650 [INFO] ──────────────────────────────────────────────────
+2026-06-28 14:50:54,657 [INFO] 📝 Content selected: Today's reminder: do not go where the path may lead, go instead where there is n...
+2026-06-28 14:50:54,785 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260628_145054.png
+2026-06-28 14:50:54,786 [INFO] Caption preview: ☀️ Today's reminder: do not go where the path may lead, go instead where there is no path and leave a trail.
+
+Share this...
+2026-06-28 14:51:00,623 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-28 14:51:00,625 [INFO] ✅ Slot [morning_motivation] published successfully!
