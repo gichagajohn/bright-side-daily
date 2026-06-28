@@ -1836,5 +1836,26 @@
       "post_id": "1181533578372151_122105198823364831"
     },
     "timestamp": "2026-06-27T19:11:47.321405"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+      "content_index": 35,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-06-28",
+      "timestamp": "2026-06-28T08:21:38.212213",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f Don't judge each day by the harvest you reap but by the seeds that you plant.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122105385249364831",
+      "post_id": "1181533578372151_122105385267364831"
+    },
+    "timestamp": "2026-06-28T08:21:42.664843"
   }
 ]
