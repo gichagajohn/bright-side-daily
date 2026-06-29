@@ -1893,3 +1893,14 @@ Drop your answer in the comments below 👇
 ...
 2026-06-29 18:01:26,553 [INFO] ✅ Posted successfully [engagement_question]
 2026-06-29 18:01:26,556 [INFO] ✅ Slot [engagement_question] published successfully!
+2026-06-29 19:49:29,189 [INFO] Failed posts list is empty.
+2026-06-29 19:49:29,326 [INFO] ──────────────────────────────────────────────────
+2026-06-29 19:49:29,326 [INFO] ▶  Running slot: morning_motivation
+2026-06-29 19:49:29,326 [INFO] ──────────────────────────────────────────────────
+2026-06-29 19:49:29,334 [INFO] 📝 Content selected: [Motivational] When you reach the end of your rope, tie a knot in it and hang on...
+2026-06-29 19:49:29,403 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260629_194929.png
+2026-06-29 19:49:29,403 [INFO] Caption preview: ☀️ [Motivational] When you reach the end of your rope, tie a knot in it and hang on.
+
+Share this with someone who needs ...
+2026-06-29 19:49:34,272 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-29 19:49:34,276 [INFO] ✅ Slot [morning_motivation] published successfully!
