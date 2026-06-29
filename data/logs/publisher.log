@@ -1829,3 +1829,16 @@ Tag someone who can relate! 😂
 #RelatableLife ...
 2026-06-29 09:26:24,330 [INFO] ✅ Posted successfully [funny_meme]
 2026-06-29 09:26:24,332 [INFO] ✅ Slot [funny_meme] published successfully!
+2026-06-29 12:01:27,217 [INFO] Failed posts list is empty.
+2026-06-29 12:01:27,374 [INFO] ──────────────────────────────────────────────────
+2026-06-29 12:01:27,374 [INFO] ▶  Running slot: morning_motivation
+2026-06-29 12:01:27,374 [INFO] ──────────────────────────────────────────────────
+2026-06-29 12:01:27,382 [INFO] 📝 Content selected: Never forget: great things never come from comfort zones....
+2026-06-29 12:01:27,555 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260629_120127.png
+2026-06-29 12:01:27,555 [INFO] Caption preview: ☀️ Never forget: great things never come from comfort zones.
+
+Share this with someone who needs it today! 💛
+
+#Motivation...
+2026-06-29 12:01:32,703 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-29 12:01:32,706 [INFO] ✅ Slot [morning_motivation] published successfully!
