@@ -2025,5 +2025,26 @@
       "post_id": "1181533578372151_122105717709364831"
     },
     "timestamp": "2026-06-29T12:01:32.704569"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "Your best days are still ahead of you. \u2014 you've got this.",
+      "content_index": 40,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "sunrise breaking through storm clouds"
+      },
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T13:04:50.098598",
+      "weight_used": 0.5
+    },
+    "caption": "\ud83d\udcaa Your best days are still ahead of you. \u2014 you've got this.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122105732481364831",
+      "post_id": "1181533578372151_122105732505364831"
+    },
+    "timestamp": "2026-06-29T13:04:55.773092"
   }
 ]
