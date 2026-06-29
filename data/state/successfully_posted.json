@@ -2046,5 +2046,26 @@
       "post_id": "1181533578372151_122105732505364831"
     },
     "timestamp": "2026-06-29T13:04:55.773092"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Believe this: energy and persistence conquer all things.",
+      "content_index": 419,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T14:46:18.318253",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f Believe this: energy and persistence conquer all things.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122105771163364831",
+      "post_id": "1181533578372151_122105771181364831"
+    },
+    "timestamp": "2026-06-29T14:46:24.069463"
   }
 ]
