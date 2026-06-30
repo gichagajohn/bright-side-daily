@@ -1928,3 +1928,16 @@ Share this with someone who needs it today! 💛
 #Motiva...
 2026-06-30 10:33:01,696 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-30 10:33:01,699 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-30 11:43:50,293 [INFO] Failed posts list is empty.
+2026-06-30 11:43:50,453 [INFO] ──────────────────────────────────────────────────
+2026-06-30 11:43:50,453 [INFO] ▶  Running slot: self_improvement
+2026-06-30 11:43:50,453 [INFO] ──────────────────────────────────────────────────
+2026-06-30 11:43:50,462 [INFO] 📝 Content selected: Always know that the expert in anything was once a beginner....
+2026-06-30 11:43:50,605 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260630_114350.png
+2026-06-30 11:43:50,605 [INFO] Caption preview: 📈 Always know that the expert in anything was once a beginner.
+
+Share this with someone who needs it today! 💛
+
+#Personal...
+2026-06-30 11:43:55,812 [INFO] ✅ Posted successfully [self_improvement]
+2026-06-30 11:43:55,815 [INFO] ✅ Slot [self_improvement] published successfully!
