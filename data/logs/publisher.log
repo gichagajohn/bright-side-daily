@@ -1904,3 +1904,14 @@ Drop your answer in the comments below 👇
 Share this with someone who needs ...
 2026-06-29 19:49:34,272 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-29 19:49:34,276 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-30 08:30:34,771 [INFO] Failed posts list is empty.
+2026-06-30 08:30:34,935 [INFO] ──────────────────────────────────────────────────
+2026-06-30 08:30:34,935 [INFO] ▶  Running slot: morning_motivation
+2026-06-30 08:30:34,935 [INFO] ──────────────────────────────────────────────────
+2026-06-30 08:30:34,944 [INFO] 📝 Content selected: Remember: if life were predictable it would cease to be life and be without flav...
+2026-06-30 08:30:35,104 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260630_083035.png
+2026-06-30 08:30:35,104 [INFO] Caption preview: ☀️ Remember: if life were predictable it would cease to be life and be without flavor.
+
+Share this with someone who need...
+2026-06-30 08:30:39,923 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-30 08:30:39,926 [INFO] ✅ Slot [morning_motivation] published successfully!
