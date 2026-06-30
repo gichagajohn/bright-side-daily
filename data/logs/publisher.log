@@ -1941,3 +1941,14 @@ Share this with someone who needs it today! 💛
 #Personal...
 2026-06-30 11:43:55,812 [INFO] ✅ Posted successfully [self_improvement]
 2026-06-30 11:43:55,815 [INFO] ✅ Slot [self_improvement] published successfully!
+2026-06-30 13:08:27,598 [INFO] Failed posts list is empty.
+2026-06-30 13:08:27,760 [INFO] ──────────────────────────────────────────────────
+2026-06-30 13:08:27,761 [INFO] ▶  Running slot: midday_encouragement
+2026-06-30 13:08:27,761 [INFO] ──────────────────────────────────────────────────
+2026-06-30 13:08:27,769 [INFO] 📝 Content selected: You don't have to have it all figured out to move forward. — start today....
+2026-06-30 13:08:27,884 [INFO] Publishing [midday_encouragement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/midday_encouragement_20260630_130827.png
+2026-06-30 13:08:27,884 [INFO] Caption preview: 💪 You don't have to have it all figured out to move forward. — start today.
+
+Share this with someone who needs it today!...
+2026-06-30 13:08:32,703 [INFO] ✅ Posted successfully [midday_encouragement]
+2026-06-30 13:08:32,706 [INFO] ✅ Slot [midday_encouragement] published successfully!
