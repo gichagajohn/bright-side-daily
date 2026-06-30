@@ -1976,3 +1976,16 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it ...
 2026-06-30 17:44:14,201 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-30 17:44:14,204 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-06-30 19:46:56,629 [INFO] Failed posts list is empty.
+2026-06-30 19:46:56,790 [INFO] ──────────────────────────────────────────────────
+2026-06-30 19:46:56,791 [INFO] ▶  Running slot: morning_motivation
+2026-06-30 19:46:56,791 [INFO] ──────────────────────────────────────────────────
+2026-06-30 19:46:56,800 [INFO] 📝 Content selected: Always know that great things never come from comfort zones....
+2026-06-30 19:46:56,904 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260630_194656.png
+2026-06-30 19:46:56,904 [INFO] Caption preview: ☀️ Always know that great things never come from comfort zones.
+
+Share this with someone who needs it today! 💛
+
+#Motivat...
+2026-06-30 19:47:00,914 [INFO] ✅ Posted successfully [morning_motivation]
+2026-06-30 19:47:00,917 [INFO] ✅ Slot [morning_motivation] published successfully!
