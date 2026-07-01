@@ -2361,5 +2361,26 @@
       "post_id": "1181533578372151_122106322209364831"
     },
     "timestamp": "2026-07-01T13:32:48.578276"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You will face many defeats in life, but never let yourself be defeated. \u2014 believe it.",
+      "content_index": 216,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T15:47:16.246018",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f You will face many defeats in life, but never let yourself be defeated. \u2014 believe it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122106352965364831",
+      "post_id": "1181533578372151_122106352983364831"
+    },
+    "timestamp": "2026-07-01T15:47:21.711967"
   }
 ]

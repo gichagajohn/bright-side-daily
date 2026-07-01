@@ -2039,3 +2039,14 @@ Share this with someone who needs it today! 💛
 #YouGotThis #KeepGoing #NeverGiveUp #StayS...
 2026-07-01 13:32:48,577 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-07-01 13:32:48,580 [INFO] ✅ Slot [midday_encouragement] published successfully!
+2026-07-01 15:47:16,079 [INFO] Failed posts list is empty.
+2026-07-01 15:47:16,236 [INFO] ──────────────────────────────────────────────────
+2026-07-01 15:47:16,236 [INFO] ▶  Running slot: morning_motivation
+2026-07-01 15:47:16,236 [INFO] ──────────────────────────────────────────────────
+2026-07-01 15:47:16,246 [INFO] 📝 Content selected: You will face many defeats in life, but never let yourself be defeated. — believ...
+2026-07-01 15:47:16,313 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260701_154716.png
+2026-07-01 15:47:16,314 [INFO] Caption preview: ☀️ You will face many defeats in life, but never let yourself be defeated. — believe it.
+
+Share this with someone who ne...
+2026-07-01 15:47:21,710 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-01 15:47:21,714 [INFO] ✅ Slot [morning_motivation] published successfully!
