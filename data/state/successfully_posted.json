@@ -2382,5 +2382,26 @@
       "post_id": "1181533578372151_122106352983364831"
     },
     "timestamp": "2026-07-01T15:47:21.711967"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Do something today that your future self will thank you for. \u2014 start today.",
+      "content_index": 476,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T17:43:50.638140",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f Do something today that your future self will thank you for. \u2014 start today.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122106375531364831",
+      "post_id": "1181533578372151_122106375549364831"
+    },
+    "timestamp": "2026-07-01T17:43:55.317851"
   }
 ]
