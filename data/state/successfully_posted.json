@@ -2340,5 +2340,26 @@
       "post_id": "1181533578372151_122106302307364831"
     },
     "timestamp": "2026-07-01T11:59:21.249150"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "Not every day... every day.",
+      "content_index": 109,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "lighthouse in stormy sea"
+      },
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T13:32:44.932570",
+      "weight_used": 0.5
+    },
+    "caption": "\ud83d\udcaa Not every day... every day.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122106322185364831",
+      "post_id": "1181533578372151_122106322209364831"
+    },
+    "timestamp": "2026-07-01T13:32:48.578276"
   }
 ]
