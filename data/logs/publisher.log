@@ -2013,3 +2013,16 @@ Share this with someone who needs it today! 💛
 #Motivation ...
 2026-07-01 10:43:59,093 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-01 10:43:59,096 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-01 11:59:15,212 [INFO] Failed posts list is empty.
+2026-07-01 11:59:15,367 [INFO] ──────────────────────────────────────────────────
+2026-07-01 11:59:15,367 [INFO] ▶  Running slot: self_improvement
+2026-07-01 11:59:15,367 [INFO] ──────────────────────────────────────────────────
+2026-07-01 11:59:15,376 [INFO] 📝 Content selected: Your life does not get better by chance. It gets better by change....
+2026-07-01 11:59:15,480 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260701_115915.png
+2026-07-01 11:59:15,480 [INFO] Caption preview: 📈 Your life does not get better by chance. It gets better by change.
+
+Share this with someone who needs it today! 💛
+
+#Pe...
+2026-07-01 11:59:21,248 [INFO] ✅ Posted successfully [self_improvement]
+2026-07-01 11:59:21,251 [INFO] ✅ Slot [self_improvement] published successfully!
