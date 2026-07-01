@@ -1989,3 +1989,14 @@ Share this with someone who needs it today! 💛
 #Motivat...
 2026-06-30 19:47:00,914 [INFO] ✅ Posted successfully [morning_motivation]
 2026-06-30 19:47:00,917 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-01 08:49:49,842 [INFO] Failed posts list is empty.
+2026-07-01 08:49:50,012 [INFO] ──────────────────────────────────────────────────
+2026-07-01 08:49:50,012 [INFO] ▶  Running slot: morning_motivation
+2026-07-01 08:49:50,012 [INFO] ──────────────────────────────────────────────────
+2026-07-01 08:49:50,022 [INFO] 📝 Content selected: You will face many defeats in life, but never let yourself be defeated....
+2026-07-01 08:49:50,136 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260701_084950.png
+2026-07-01 08:49:50,136 [INFO] Caption preview: ☀️ You will face many defeats in life, but never let yourself be defeated.
+
+Share this with someone who needs it today! ...
+2026-07-01 08:49:55,557 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-01 08:49:55,560 [INFO] ✅ Slot [morning_motivation] published successfully!
