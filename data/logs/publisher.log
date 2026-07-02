@@ -2120,3 +2120,12 @@ Share this with someone who needs it today! 💛
 #Motivation ...
 2026-07-02 12:55:06,119 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-02 12:55:06,122 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-02 15:22:06,413 [INFO] Failed posts list is empty.
+2026-07-02 15:22:06,570 [INFO] ──────────────────────────────────────────────────
+2026-07-02 15:22:06,570 [INFO] ▶  Running slot: morning_motivation
+2026-07-02 15:22:06,570 [INFO] ──────────────────────────────────────────────────
+2026-07-02 15:22:06,581 [INFO] 📝 Content selected: [Motivational] Many of life's failures are people who did not realize how close ...
+2026-07-02 15:22:06,691 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260702_152206.png
+2026-07-02 15:22:06,691 [INFO] Caption preview: ☀️ [Motivational] Many of life's failures are people who did not realize how close they were to success when they gave u...
+2026-07-02 15:22:11,109 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-02 15:22:11,112 [INFO] ✅ Slot [morning_motivation] published successfully!

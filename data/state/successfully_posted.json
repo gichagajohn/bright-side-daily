@@ -2508,5 +2508,26 @@
       "post_id": "1181533578372151_122106641019364831"
     },
     "timestamp": "2026-07-02T12:55:06.119902"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "[Motivational] Many of life's failures are people who did not realize how close they were to success when they gave up.",
+      "content_index": 104,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-07-02",
+      "timestamp": "2026-07-02T15:22:06.581123",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f [Motivational] Many of life's failures are people who did not realize how close they were to success when they gave up.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122106687813364831",
+      "post_id": "1181533578372151_122106687831364831"
+    },
+    "timestamp": "2026-07-02T15:22:11.110064"
   }
 ]
