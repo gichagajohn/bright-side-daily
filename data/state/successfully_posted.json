@@ -2529,5 +2529,26 @@
       "post_id": "1181533578372151_122106687831364831"
     },
     "timestamp": "2026-07-02T15:22:11.110064"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Never forget: the future belongs to those who believe in the beauty of their dreams.",
+      "content_index": 194,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-07-02",
+      "timestamp": "2026-07-02T17:22:15.072142",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f Never forget: the future belongs to those who believe in the beauty of their dreams.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122106717123364831",
+      "post_id": "1181533578372151_122106717141364831"
+    },
+    "timestamp": "2026-07-02T17:22:22.685338"
   }
 ]

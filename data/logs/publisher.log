@@ -2129,3 +2129,14 @@ Share this with someone who needs it today! 💛
 2026-07-02 15:22:06,691 [INFO] Caption preview: ☀️ [Motivational] Many of life's failures are people who did not realize how close they were to success when they gave u...
 2026-07-02 15:22:11,109 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-02 15:22:11,112 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-02 17:22:14,906 [INFO] Failed posts list is empty.
+2026-07-02 17:22:15,061 [INFO] ──────────────────────────────────────────────────
+2026-07-02 17:22:15,061 [INFO] ▶  Running slot: morning_motivation
+2026-07-02 17:22:15,061 [INFO] ──────────────────────────────────────────────────
+2026-07-02 17:22:15,072 [INFO] 📝 Content selected: Never forget: the future belongs to those who believe in the beauty of their dre...
+2026-07-02 17:22:15,272 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260702_172215.png
+2026-07-02 17:22:15,272 [INFO] Caption preview: ☀️ Never forget: the future belongs to those who believe in the beauty of their dreams.
+
+Share this with someone who nee...
+2026-07-02 17:22:22,684 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-02 17:22:22,687 [INFO] ✅ Slot [morning_motivation] published successfully!
