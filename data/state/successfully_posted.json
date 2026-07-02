@@ -2550,5 +2550,26 @@
       "post_id": "1181533578372151_122106717141364831"
     },
     "timestamp": "2026-07-02T17:22:22.685338"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Never forget: start where you are. use what you have. do what you can.",
+      "content_index": 116,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-07-02",
+      "timestamp": "2026-07-02T19:15:54.393553",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f Never forget: start where you are. use what you have. do what you can.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122106746781364831",
+      "post_id": "1181533578372151_122106746799364831"
+    },
+    "timestamp": "2026-07-02T19:16:00.847933"
   }
 ]
