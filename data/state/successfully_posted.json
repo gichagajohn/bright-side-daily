@@ -2487,5 +2487,26 @@
       "post_id": "1181533578372151_122106606957364831"
     },
     "timestamp": "2026-07-02T11:32:00.590419"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "[Motivational] Believe you can and you're halfway there.",
+      "content_index": 265,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-07-02",
+      "timestamp": "2026-07-02T12:55:00.588675",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f [Motivational] Believe you can and you're halfway there.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122106640995364831",
+      "post_id": "1181533578372151_122106641019364831"
+    },
+    "timestamp": "2026-07-02T12:55:06.119902"
   }
 ]

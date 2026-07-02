@@ -2107,3 +2107,16 @@ Share this with someone who needs it today! 💛
 #PersonalGrowth #SelfImprovement #B...
 2026-07-02 11:32:00,589 [INFO] ✅ Posted successfully [self_improvement]
 2026-07-02 11:32:00,592 [INFO] ✅ Slot [self_improvement] published successfully!
+2026-07-02 12:55:00,409 [INFO] Failed posts list is empty.
+2026-07-02 12:55:00,576 [INFO] ──────────────────────────────────────────────────
+2026-07-02 12:55:00,576 [INFO] ▶  Running slot: morning_motivation
+2026-07-02 12:55:00,576 [INFO] ──────────────────────────────────────────────────
+2026-07-02 12:55:00,588 [INFO] 📝 Content selected: [Motivational] Believe you can and you're halfway there....
+2026-07-02 12:55:00,703 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260702_125500.png
+2026-07-02 12:55:00,703 [INFO] Caption preview: ☀️ [Motivational] Believe you can and you're halfway there.
+
+Share this with someone who needs it today! 💛
+
+#Motivation ...
+2026-07-02 12:55:06,119 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-02 12:55:06,122 [INFO] ✅ Slot [morning_motivation] published successfully!
