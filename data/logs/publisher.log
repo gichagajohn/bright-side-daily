@@ -2072,3 +2072,16 @@ Share this with someone who needs it tod...
 Share this with someone who needs i...
 2026-07-01 19:45:12,257 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-01 19:45:12,261 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-02 08:11:37,247 [INFO] Failed posts list is empty.
+2026-07-02 08:11:37,405 [INFO] ──────────────────────────────────────────────────
+2026-07-02 08:11:37,405 [INFO] ▶  Running slot: morning_motivation
+2026-07-02 08:11:37,405 [INFO] ──────────────────────────────────────────────────
+2026-07-02 08:11:37,415 [INFO] 📝 Content selected: The harder you... achieve it....
+2026-07-02 08:11:37,521 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260702_081137.png
+2026-07-02 08:11:37,521 [INFO] Caption preview: ☀️ The harder you... achieve it.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #D...
+2026-07-02 08:11:42,382 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-02 08:11:42,386 [INFO] ✅ Slot [morning_motivation] published successfully!
