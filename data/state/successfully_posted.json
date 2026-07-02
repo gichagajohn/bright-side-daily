@@ -2466,5 +2466,26 @@
       "post_id": "1181533578372151_122106593619364831"
     },
     "timestamp": "2026-07-02T10:11:46.589750"
+  },
+  {
+    "post": {
+      "slot": "self_improvement",
+      "category": "self_improvement_quotes",
+      "content": "The only person... were yesterday.",
+      "content_index": 199,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "person doing yoga on a rooftop at dawn"
+      },
+      "date": "2026-07-02",
+      "timestamp": "2026-07-02T11:31:54.148470",
+      "weight_used": 0.5
+    },
+    "caption": "\ud83d\udcc8 The only person... were yesterday.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#PersonalGrowth #SelfImprovement #BetterEveryDay #GrowthMindset #Habits #BrightSideDaily",
+    "fb_response": {
+      "id": "122106606939364831",
+      "post_id": "1181533578372151_122106606957364831"
+    },
+    "timestamp": "2026-07-02T11:32:00.590419"
   }
 ]

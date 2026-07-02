@@ -2094,3 +2094,16 @@ Share this with someone who needs it today! 💛
 2026-07-02 10:11:39,585 [INFO] Caption preview: ☀️ Believe this: you have brains in your head. you have feet in your shoes. you can steer yourself any direction you cho...
 2026-07-02 10:11:46,588 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-02 10:11:46,592 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-02 11:31:53,978 [INFO] Failed posts list is empty.
+2026-07-02 11:31:54,137 [INFO] ──────────────────────────────────────────────────
+2026-07-02 11:31:54,137 [INFO] ▶  Running slot: self_improvement
+2026-07-02 11:31:54,137 [INFO] ──────────────────────────────────────────────────
+2026-07-02 11:31:54,148 [INFO] 📝 Content selected: The only person... were yesterday....
+2026-07-02 11:31:54,205 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260702_113154.png
+2026-07-02 11:31:54,205 [INFO] Caption preview: 📈 The only person... were yesterday.
+
+Share this with someone who needs it today! 💛
+
+#PersonalGrowth #SelfImprovement #B...
+2026-07-02 11:32:00,589 [INFO] ✅ Posted successfully [self_improvement]
+2026-07-02 11:32:00,592 [INFO] ✅ Slot [self_improvement] published successfully!
