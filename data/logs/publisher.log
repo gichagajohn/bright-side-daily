@@ -2085,3 +2085,12 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #D...
 2026-07-02 08:11:42,382 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-02 08:11:42,386 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-02 10:11:39,273 [INFO] Failed posts list is empty.
+2026-07-02 10:11:39,444 [INFO] ──────────────────────────────────────────────────
+2026-07-02 10:11:39,444 [INFO] ▶  Running slot: morning_motivation
+2026-07-02 10:11:39,444 [INFO] ──────────────────────────────────────────────────
+2026-07-02 10:11:39,454 [INFO] 📝 Content selected: Believe this: you have brains in your head. you have feet in your shoes. you can...
+2026-07-02 10:11:39,585 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260702_101139.png
+2026-07-02 10:11:39,585 [INFO] Caption preview: ☀️ Believe this: you have brains in your head. you have feet in your shoes. you can steer yourself any direction you cho...
+2026-07-02 10:11:46,588 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-02 10:11:46,592 [INFO] ✅ Slot [morning_motivation] published successfully!
