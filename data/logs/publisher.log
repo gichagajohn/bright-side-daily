@@ -2190,3 +2190,14 @@ Share this with someone who needs it today! 💛
 #Per...
 2026-07-03 11:30:20,522 [INFO] ✅ Posted successfully [self_improvement]
 2026-07-03 11:30:20,525 [INFO] ✅ Slot [self_improvement] published successfully!
+2026-07-03 12:54:41,037 [INFO] Failed posts list is empty.
+2026-07-03 12:54:41,196 [INFO] ──────────────────────────────────────────────────
+2026-07-03 12:54:41,196 [INFO] ▶  Running slot: morning_motivation
+2026-07-03 12:54:41,197 [INFO] ──────────────────────────────────────────────────
+2026-07-03 12:54:41,208 [INFO] 📝 Content selected: Always know that do something today that your future self will thank you for....
+2026-07-03 12:54:41,320 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260703_125441.png
+2026-07-03 12:54:41,321 [INFO] Caption preview: ☀️ Always know that do something today that your future self will thank you for.
+
+Share this with someone who needs it t...
+2026-07-03 12:54:45,699 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-03 12:54:45,703 [INFO] ✅ Slot [morning_motivation] published successfully!
