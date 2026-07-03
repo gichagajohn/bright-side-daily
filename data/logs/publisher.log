@@ -2164,3 +2164,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #...
 2026-07-03 08:08:59,975 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-03 08:08:59,978 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-03 10:06:47,116 [INFO] Failed posts list is empty.
+2026-07-03 10:06:47,282 [INFO] ──────────────────────────────────────────────────
+2026-07-03 10:06:47,282 [INFO] ▶  Running slot: morning_motivation
+2026-07-03 10:06:47,282 [INFO] ──────────────────────────────────────────────────
+2026-07-03 10:06:47,294 [INFO] 📝 Content selected: The only way to do great work is to love what you do. — keep going....
+2026-07-03 10:06:47,406 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260703_100647.png
+2026-07-03 10:06:47,406 [INFO] Caption preview: ☀️ The only way to do great work is to love what you do. — keep going.
+
+Share this with someone who needs it today! 💛
+
+#...
+2026-07-03 10:06:58,211 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-03 10:06:58,215 [INFO] ✅ Slot [morning_motivation] published successfully!
