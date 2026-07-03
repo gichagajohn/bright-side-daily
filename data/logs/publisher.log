@@ -2214,3 +2214,14 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters ...
 2026-07-03 15:15:01,632 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-03 15:15:01,636 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-03 17:07:02,374 [INFO] Failed posts list is empty.
+2026-07-03 17:07:02,533 [INFO] ──────────────────────────────────────────────────
+2026-07-03 17:07:02,533 [INFO] ▶  Running slot: morning_motivation
+2026-07-03 17:07:02,534 [INFO] ──────────────────────────────────────────────────
+2026-07-03 17:07:02,547 [INFO] 📝 Content selected: [Motivational] If life were predictable it would cease to be life and be without...
+2026-07-03 17:07:02,783 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260703_170702.png
+2026-07-03 17:07:02,783 [INFO] Caption preview: ☀️ [Motivational] If life were predictable it would cease to be life and be without flavor.
+
+Share this with someone who...
+2026-07-03 17:07:12,380 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-03 17:07:12,385 [INFO] ✅ Slot [morning_motivation] published successfully!
