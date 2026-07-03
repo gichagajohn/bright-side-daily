@@ -2225,3 +2225,16 @@ Share this with someone who needs it today! 💛
 Share this with someone who...
 2026-07-03 17:07:12,380 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-03 17:07:12,385 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-03 19:10:12,071 [INFO] Failed posts list is empty.
+2026-07-03 19:10:12,236 [INFO] ──────────────────────────────────────────────────
+2026-07-03 19:10:12,236 [INFO] ▶  Running slot: morning_motivation
+2026-07-03 19:10:12,236 [INFO] ──────────────────────────────────────────────────
+2026-07-03 19:10:12,248 [INFO] 📝 Content selected: Don't limit your challenges. Challenge your limits. — believe it....
+2026-07-03 19:10:12,366 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260703_191012.png
+2026-07-03 19:10:12,366 [INFO] Caption preview: ☀️ Don't limit your challenges. Challenge your limits. — believe it.
+
+Share this with someone who needs it today! 💛
+
+#Mo...
+2026-07-03 19:10:19,980 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-03 19:10:19,984 [INFO] ✅ Slot [morning_motivation] published successfully!
