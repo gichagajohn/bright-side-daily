@@ -2201,3 +2201,16 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it t...
 2026-07-03 12:54:45,699 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-03 12:54:45,703 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-03 15:14:53,730 [INFO] Failed posts list is empty.
+2026-07-03 15:14:53,886 [INFO] ──────────────────────────────────────────────────
+2026-07-03 15:14:53,887 [INFO] ▶  Running slot: morning_motivation
+2026-07-03 15:14:53,887 [INFO] ──────────────────────────────────────────────────
+2026-07-03 15:14:53,898 [INFO] 📝 Content selected: Little things make... big days....
+2026-07-03 15:14:54,003 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260703_151453.png
+2026-07-03 15:14:54,003 [INFO] Caption preview: ☀️ Little things make... big days.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters ...
+2026-07-03 15:15:01,632 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-03 15:15:01,636 [INFO] ✅ Slot [morning_motivation] published successfully!
