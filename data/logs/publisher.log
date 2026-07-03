@@ -2177,3 +2177,16 @@ Share this with someone who needs it today! 💛
 #...
 2026-07-03 10:06:58,211 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-03 10:06:58,215 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-03 11:30:09,733 [INFO] Failed posts list is empty.
+2026-07-03 11:30:09,896 [INFO] ──────────────────────────────────────────────────
+2026-07-03 11:30:09,896 [INFO] ▶  Running slot: self_improvement
+2026-07-03 11:30:09,896 [INFO] ──────────────────────────────────────────────────
+2026-07-03 11:30:09,907 [INFO] 📝 Content selected: Invest in yourself. It pays the best interest. — you've got this....
+2026-07-03 11:30:09,967 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260703_113009.png
+2026-07-03 11:30:09,967 [INFO] Caption preview: 📈 Invest in yourself. It pays the best interest. — you've got this.
+
+Share this with someone who needs it today! 💛
+
+#Per...
+2026-07-03 11:30:20,522 [INFO] ✅ Posted successfully [self_improvement]
+2026-07-03 11:30:20,525 [INFO] ✅ Slot [self_improvement] published successfully!
