@@ -2571,5 +2571,26 @@
       "post_id": "1181533578372151_122106746799364831"
     },
     "timestamp": "2026-07-02T19:16:00.847933"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Do something today... you for.",
+      "content_index": 150,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T08:08:54.994293",
+      "weight_used": 0.5
+    },
+    "caption": "\u2600\ufe0f Do something today... you for.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122107054455364831",
+      "post_id": "1181533578372151_122107054485364831"
+    },
+    "timestamp": "2026-07-03T08:08:59.976260"
   }
 ]
