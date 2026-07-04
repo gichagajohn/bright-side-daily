@@ -2739,5 +2739,26 @@
       "post_id": "1181533578372151_122107484733364831"
     },
     "timestamp": "2026-07-04T07:46:24.740798"
+  },
+  {
+    "post": {
+      "slot": "funny_meme",
+      "category": "meme_captions",
+      "content": "Truth: woke up this morning feeling great... then i remembered i have to adult.",
+      "content_index": 239,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "beautiful sunrise over mountains"
+      },
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T09:24:57.575109",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\ude04 Truth: woke up this morning feeling great... then i remembered i have to adult.\n\nTag someone who can relate! \ud83d\ude02\n\n#RelatableLife #Funny #MondayMood #TooReal #WeekdayVibes #BrightSideDaily",
+    "fb_response": {
+      "id": "122107546449364831",
+      "post_id": "1181533578372151_122107546479364831"
+    },
+    "timestamp": "2026-07-04T09:25:02.530499"
   }
 ]
