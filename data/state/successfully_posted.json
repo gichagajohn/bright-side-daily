@@ -2802,5 +2802,26 @@
       "post_id": "1181533578372151_122107603929364831"
     },
     "timestamp": "2026-07-04T12:04:45.041121"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Success doesn't just find you. You have to go out and get it.",
+      "content_index": 4,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T14:41:07.190364",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Success doesn't just find you. You have to go out and get it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122107637409364831",
+      "post_id": "1181533578372151_122107637439364831"
+    },
+    "timestamp": "2026-07-04T14:41:15.628187"
   }
 ]

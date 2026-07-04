@@ -2286,3 +2286,16 @@ Share this with someone who needs it today! 💛
 Share this with someone who nee...
 2026-07-04 12:04:45,040 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-04 12:04:45,043 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-04 14:41:07,013 [INFO] Failed posts list is empty.
+2026-07-04 14:41:07,177 [INFO] ──────────────────────────────────────────────────
+2026-07-04 14:41:07,177 [INFO] ▶  Running slot: morning_motivation
+2026-07-04 14:41:07,177 [INFO] ──────────────────────────────────────────────────
+2026-07-04 14:41:07,190 [INFO] 📝 Content selected: Success doesn't just find you. You have to go out and get it....
+2026-07-04 14:41:07,363 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260704_144107.png
+2026-07-04 14:41:07,363 [INFO] Caption preview: ☀️ Success doesn't just find you. You have to go out and get it.
+
+Share this with someone who needs it today! 💛
+
+#Motiva...
+2026-07-04 14:41:15,627 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-04 14:41:15,630 [INFO] ✅ Slot [morning_motivation] published successfully!
