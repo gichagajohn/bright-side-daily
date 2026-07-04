@@ -2781,5 +2781,26 @@
       "post_id": "1181533578372151_122107592187364831"
     },
     "timestamp": "2026-07-04T10:52:25.144481"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Tell me and I forget. Teach me and I remember. Involve me and I learn. \u2014 share this!",
+      "content_index": 256,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "warm coffee on table beside a sunrise window"
+      },
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T12:04:40.102094",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Tell me and I forget. Teach me and I remember. Involve me and I learn. \u2014 share this!\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122107603905364831",
+      "post_id": "1181533578372151_122107603929364831"
+    },
+    "timestamp": "2026-07-04T12:04:45.041121"
   }
 ]

@@ -2275,3 +2275,14 @@ Share this with someone who needs it today! 💛
 #Motivation #S...
 2026-07-04 10:52:25,143 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-04 10:52:25,147 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-04 12:04:39,920 [INFO] Failed posts list is empty.
+2026-07-04 12:04:40,088 [INFO] ──────────────────────────────────────────────────
+2026-07-04 12:04:40,088 [INFO] ▶  Running slot: morning_motivation
+2026-07-04 12:04:40,088 [INFO] ──────────────────────────────────────────────────
+2026-07-04 12:04:40,102 [INFO] 📝 Content selected: Tell me and I forget. Teach me and I remember. Involve me and I learn. — share t...
+2026-07-04 12:04:40,211 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260704_120440.png
+2026-07-04 12:04:40,211 [INFO] Caption preview: ☀️ Tell me and I forget. Teach me and I remember. Involve me and I learn. — share this!
+
+Share this with someone who nee...
+2026-07-04 12:04:45,040 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-04 12:04:45,043 [INFO] ✅ Slot [morning_motivation] published successfully!
