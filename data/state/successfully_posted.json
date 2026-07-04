@@ -2844,5 +2844,26 @@
       "post_id": "1181533578372151_122107671105364831"
     },
     "timestamp": "2026-07-04T16:46:21.496818"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Sometimes we're tested not to show our weaknesses, but to discover our strengths. \u2014 start today.",
+      "content_index": 414,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T19:01:34.033247",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Sometimes we're tested not to show our weaknesses, but to discover our strengths. \u2014 start today.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122107709553364831",
+      "post_id": "1181533578372151_122107709601364831"
+    },
+    "timestamp": "2026-07-04T19:01:48.216619"
   }
 ]

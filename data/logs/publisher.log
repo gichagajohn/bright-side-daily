@@ -2310,3 +2310,14 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it t...
 2026-07-04 16:46:21,495 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-04 16:46:21,499 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-04 19:01:33,852 [INFO] Failed posts list is empty.
+2026-07-04 19:01:34,018 [INFO] ──────────────────────────────────────────────────
+2026-07-04 19:01:34,018 [INFO] ▶  Running slot: morning_motivation
+2026-07-04 19:01:34,019 [INFO] ──────────────────────────────────────────────────
+2026-07-04 19:01:34,033 [INFO] 📝 Content selected: Sometimes we're tested not to show our weaknesses, but to discover our strengths...
+2026-07-04 19:01:34,197 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260704_190134.png
+2026-07-04 19:01:34,197 [INFO] Caption preview: ☀️ Sometimes we're tested not to show our weaknesses, but to discover our strengths. — start today.
+
+Share this with som...
+2026-07-04 19:01:48,215 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-04 19:01:48,219 [INFO] ✅ Slot [morning_motivation] published successfully!
