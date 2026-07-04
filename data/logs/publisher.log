@@ -2299,3 +2299,14 @@ Share this with someone who needs it today! 💛
 #Motiva...
 2026-07-04 14:41:15,627 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-04 14:41:15,630 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-04 16:46:13,315 [INFO] Failed posts list is empty.
+2026-07-04 16:46:13,486 [INFO] ──────────────────────────────────────────────────
+2026-07-04 16:46:13,486 [INFO] ▶  Running slot: evening_reflection
+2026-07-04 16:46:13,486 [INFO] ──────────────────────────────────────────────────
+2026-07-04 16:46:13,500 [INFO] 📝 Content selected: [Gratitude] Happiness cannot be traveled to, owned, earned, worn, or consumed....
+2026-07-04 16:46:13,618 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260704_164613.png
+2026-07-04 16:46:13,619 [INFO] Caption preview: 🌙 [Gratitude] Happiness cannot be traveled to, owned, earned, worn, or consumed.
+
+Share this with someone who needs it t...
+2026-07-04 16:46:21,495 [INFO] ✅ Posted successfully [evening_reflection]
+2026-07-04 16:46:21,499 [INFO] ✅ Slot [evening_reflection] published successfully!
