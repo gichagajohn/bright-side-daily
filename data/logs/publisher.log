@@ -2262,3 +2262,16 @@ Tag someone who can relate! 😂
 #Relat...
 2026-07-04 09:25:02,529 [INFO] ✅ Posted successfully [funny_meme]
 2026-07-04 09:25:02,533 [INFO] ✅ Slot [funny_meme] published successfully!
+2026-07-04 10:52:20,422 [INFO] Failed posts list is empty.
+2026-07-04 10:52:20,586 [INFO] ──────────────────────────────────────────────────
+2026-07-04 10:52:20,586 [INFO] ▶  Running slot: morning_motivation
+2026-07-04 10:52:20,586 [INFO] ──────────────────────────────────────────────────
+2026-07-04 10:52:20,599 [INFO] 📝 Content selected: An unexamined life is not worth living. — spread this....
+2026-07-04 10:52:20,706 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260704_105220.png
+2026-07-04 10:52:20,706 [INFO] Caption preview: ☀️ An unexamined life is not worth living. — spread this.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #S...
+2026-07-04 10:52:25,143 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-04 10:52:25,147 [INFO] ✅ Slot [morning_motivation] published successfully!
