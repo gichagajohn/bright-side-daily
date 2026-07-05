@@ -2380,3 +2380,13 @@ Share this with someone who needs it today! 💛
 #Motivation...
 2026-07-05 14:48:47,014 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-05 14:48:47,018 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-05 16:50:03,067 [INFO] Failed posts list is empty.
+2026-07-05 16:50:03,191 [INFO] ──────────────────────────────────────────────────
+2026-07-05 16:50:03,191 [INFO] ▶  Running slot: evening_reflection
+2026-07-05 16:50:03,191 [INFO] ──────────────────────────────────────────────────
+2026-07-05 16:50:03,202 [INFO] 📝 Content selected: Never forget: enjoy the little things in life, because one day you'll look back ...
+2026-07-05 16:50:03,322 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260705_165003.png
+2026-07-05 16:50:03,322 [INFO] Caption preview: 🌙 Never forget: enjoy the little things in life, because one day you'll look back and realize they were the big things.
+...
+2026-07-05 16:50:07,537 [INFO] ✅ Posted successfully [evening_reflection]
+2026-07-05 16:50:07,540 [INFO] ✅ Slot [evening_reflection] published successfully!
