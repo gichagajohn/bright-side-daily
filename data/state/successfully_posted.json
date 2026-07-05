@@ -2865,5 +2865,26 @@
       "post_id": "1181533578372151_122107709601364831"
     },
     "timestamp": "2026-07-04T19:01:48.216619"
+  },
+  {
+    "post": {
+      "slot": "positive_quote",
+      "category": "positive_life_quotes",
+      "content": "Whether you think you can, or you think you can't \u2014 you're right. \u2014 believe it.",
+      "content_index": 175,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "family walking in a sunlit park"
+      },
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T07:56:43.030694",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83c\udf1f Whether you think you can, or you think you can't \u2014 you're right. \u2014 believe it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#PositiveVibes #HappyLife #GoodVibesOnly #LifeIsBeautiful #Positivity #BrightSideDaily",
+    "fb_response": {
+      "id": "122107916547364831",
+      "post_id": "1181533578372151_122107916565364831"
+    },
+    "timestamp": "2026-07-05T07:56:47.810960"
   }
 ]

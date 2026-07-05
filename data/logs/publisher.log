@@ -2321,3 +2321,14 @@ Share this with someone who needs it t...
 Share this with som...
 2026-07-04 19:01:48,215 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-04 19:01:48,219 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-05 07:56:42,848 [INFO] Failed posts list is empty.
+2026-07-05 07:56:43,016 [INFO] ──────────────────────────────────────────────────
+2026-07-05 07:56:43,016 [INFO] ▶  Running slot: positive_quote
+2026-07-05 07:56:43,016 [INFO] ──────────────────────────────────────────────────
+2026-07-05 07:56:43,030 [INFO] 📝 Content selected: Whether you think you can, or you think you can't — you're right. — believe it....
+2026-07-05 07:56:43,190 [INFO] Publishing [positive_quote] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/positive_quote_20260705_075643.png
+2026-07-05 07:56:43,190 [INFO] Caption preview: 🌟 Whether you think you can, or you think you can't — you're right. — believe it.
+
+Share this with someone who needs it ...
+2026-07-05 07:56:47,810 [INFO] ✅ Posted successfully [positive_quote]
+2026-07-05 07:56:47,813 [INFO] ✅ Slot [positive_quote] published successfully!
