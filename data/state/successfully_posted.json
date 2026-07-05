@@ -2949,5 +2949,26 @@
       "post_id": "1181533578372151_122108041203364831"
     },
     "timestamp": "2026-07-05T12:13:43.386437"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Don't wait for opportunity. Create it. \u2014 you've got this.",
+      "content_index": 235,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T14:48:34.259286",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Don't wait for opportunity. Create it. \u2014 you've got this.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122108091765364831",
+      "post_id": "1181533578372151_122108091783364831"
+    },
+    "timestamp": "2026-07-05T14:48:47.015118"
   }
 ]
