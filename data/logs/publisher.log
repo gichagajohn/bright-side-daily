@@ -2390,3 +2390,16 @@ Share this with someone who needs it today! 💛
 ...
 2026-07-05 16:50:07,537 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-05 16:50:07,540 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-05 19:07:30,042 [INFO] Failed posts list is empty.
+2026-07-05 19:07:30,204 [INFO] ──────────────────────────────────────────────────
+2026-07-05 19:07:30,204 [INFO] ▶  Running slot: morning_motivation
+2026-07-05 19:07:30,204 [INFO] ──────────────────────────────────────────────────
+2026-07-05 19:07:30,219 [INFO] 📝 Content selected: Worth repeating: act as if what you do makes a difference. it does....
+2026-07-05 19:07:30,326 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260705_190730.png
+2026-07-05 19:07:30,326 [INFO] Caption preview: ☀️ Worth repeating: act as if what you do makes a difference. it does.
+
+Share this with someone who needs it today! 💛
+
+#...
+2026-07-05 19:07:34,680 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-05 19:07:34,684 [INFO] ✅ Slot [morning_motivation] published successfully!
