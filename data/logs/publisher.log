@@ -2356,3 +2356,14 @@ Tag someone who can relate! 😂
 Share this with someone who needs it today! ...
 2026-07-05 11:02:47,881 [INFO] ✅ Posted successfully [self_improvement]
 2026-07-05 11:02:47,884 [INFO] ✅ Slot [self_improvement] published successfully!
+2026-07-05 12:13:35,485 [INFO] Failed posts list is empty.
+2026-07-05 12:13:35,645 [INFO] ──────────────────────────────────────────────────
+2026-07-05 12:13:35,645 [INFO] ▶  Running slot: morning_motivation
+2026-07-05 12:13:35,645 [INFO] ──────────────────────────────────────────────────
+2026-07-05 12:13:35,659 [INFO] 📝 Content selected: You have brains in your head. You have feet in your shoes. You can steer yoursel...
+2026-07-05 12:13:35,827 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260705_121335.png
+2026-07-05 12:13:35,827 [INFO] Caption preview: ☀️ You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.
+
+Share th...
+2026-07-05 12:13:43,385 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-05 12:13:43,389 [INFO] ✅ Slot [morning_motivation] published successfully!
