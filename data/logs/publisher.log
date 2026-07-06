@@ -2477,3 +2477,14 @@ Drop your answer in the comments below 👇
 #Community ...
 2026-07-06 18:01:36,834 [INFO] ✅ Posted successfully [engagement_question]
 2026-07-06 18:01:36,840 [INFO] ✅ Slot [engagement_question] published successfully!
+2026-07-06 19:47:47,458 [INFO] Failed posts list is empty.
+2026-07-06 19:47:47,581 [INFO] ──────────────────────────────────────────────────
+2026-07-06 19:47:47,582 [INFO] ▶  Running slot: morning_motivation
+2026-07-06 19:47:47,582 [INFO] ──────────────────────────────────────────────────
+2026-07-06 19:47:47,595 [INFO] 📝 Content selected: Believe this: success is the sum of small efforts repeated day in and day out....
+2026-07-06 19:47:47,756 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260706_194747.png
+2026-07-06 19:47:47,756 [INFO] Caption preview: ☀️ Believe this: success is the sum of small efforts repeated day in and day out.
+
+Share this with someone who needs it ...
+2026-07-06 19:47:55,058 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-06 19:47:55,062 [INFO] ✅ Slot [morning_motivation] published successfully!

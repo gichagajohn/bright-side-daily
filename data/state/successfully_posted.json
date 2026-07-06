@@ -3138,5 +3138,26 @@
       "post_id": "1181533578372151_122108475321364831"
     },
     "timestamp": "2026-07-06T18:01:36.835958"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Believe this: success is the sum of small efforts repeated day in and day out.",
+      "content_index": 181,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T19:47:47.595513",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Believe this: success is the sum of small efforts repeated day in and day out.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122108495793364831",
+      "post_id": "1181533578372151_122108495817364831"
+    },
+    "timestamp": "2026-07-06T19:47:55.060138"
   }
 ]
