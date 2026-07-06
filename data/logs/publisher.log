@@ -2414,3 +2414,16 @@ Share this with someone who needs it today! 💛
 Tag someone who can relate! ...
 2026-07-06 09:00:13,256 [INFO] ✅ Posted successfully [funny_meme]
 2026-07-06 09:00:13,262 [INFO] ✅ Slot [funny_meme] published successfully!
+2026-07-06 11:39:01,841 [INFO] Failed posts list is empty.
+2026-07-06 11:39:02,024 [INFO] ──────────────────────────────────────────────────
+2026-07-06 11:39:02,024 [INFO] ▶  Running slot: self_improvement
+2026-07-06 11:39:02,024 [INFO] ──────────────────────────────────────────────────
+2026-07-06 11:39:02,040 [INFO] 📝 Content selected: Truth: small daily improvements over time lead to stunning results....
+2026-07-06 11:39:02,151 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260706_113902.png
+2026-07-06 11:39:02,152 [INFO] Caption preview: 📈 Truth: small daily improvements over time lead to stunning results.
+
+Share this with someone who needs it today! 💛
+
+#P...
+2026-07-06 11:39:09,483 [INFO] ✅ Posted successfully [self_improvement]
+2026-07-06 11:39:09,488 [INFO] ✅ Slot [self_improvement] published successfully!
