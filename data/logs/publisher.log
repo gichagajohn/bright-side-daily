@@ -2464,3 +2464,16 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it to...
 2026-07-06 16:25:01,697 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-06 16:25:01,701 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-06 18:01:31,715 [INFO] Failed posts list is empty.
+2026-07-06 18:01:31,847 [INFO] ──────────────────────────────────────────────────
+2026-07-06 18:01:31,847 [INFO] ▶  Running slot: engagement_question
+2026-07-06 18:01:31,848 [INFO] ──────────────────────────────────────────────────
+2026-07-06 18:01:31,863 [INFO] 📝 Content selected: What does 'success' mean to you in one word? — you've got this....
+2026-07-06 18:01:31,965 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260706_180131.png
+2026-07-06 18:01:31,965 [INFO] Caption preview: 💬 What does 'success' mean to you in one word? — you've got this.
+
+Drop your answer in the comments below 👇
+
+#Community ...
+2026-07-06 18:01:36,834 [INFO] ✅ Posted successfully [engagement_question]
+2026-07-06 18:01:36,840 [INFO] ✅ Slot [engagement_question] published successfully!
