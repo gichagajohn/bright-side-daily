@@ -3054,5 +3054,26 @@
       "post_id": "1181533578372151_122108382171364831"
     },
     "timestamp": "2026-07-06T11:39:09.484918"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "When one door of happiness closes, another opens. \u2014 spread this.",
+      "content_index": 129,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "open book and coffee in a cozy reading nook"
+      },
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T12:43:53.809537",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f When one door of happiness closes, another opens. \u2014 spread this.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122108393025364831",
+      "post_id": "1181533578372151_122108393043364831"
+    },
+    "timestamp": "2026-07-06T12:43:59.102360"
   }
 ]

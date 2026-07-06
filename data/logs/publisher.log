@@ -2427,3 +2427,16 @@ Share this with someone who needs it today! 💛
 #P...
 2026-07-06 11:39:09,483 [INFO] ✅ Posted successfully [self_improvement]
 2026-07-06 11:39:09,488 [INFO] ✅ Slot [self_improvement] published successfully!
+2026-07-06 12:43:53,638 [INFO] Failed posts list is empty.
+2026-07-06 12:43:53,793 [INFO] ──────────────────────────────────────────────────
+2026-07-06 12:43:53,793 [INFO] ▶  Running slot: morning_motivation
+2026-07-06 12:43:53,793 [INFO] ──────────────────────────────────────────────────
+2026-07-06 12:43:53,809 [INFO] 📝 Content selected: When one door of happiness closes, another opens. — spread this....
+2026-07-06 12:43:53,968 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260706_124353.png
+2026-07-06 12:43:53,968 [INFO] Caption preview: ☀️ When one door of happiness closes, another opens. — spread this.
+
+Share this with someone who needs it today! 💛
+
+#Mot...
+2026-07-06 12:43:59,101 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-06 12:43:59,105 [INFO] ✅ Slot [morning_motivation] published successfully!
