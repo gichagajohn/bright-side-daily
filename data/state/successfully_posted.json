@@ -3075,5 +3075,26 @@
       "post_id": "1181533578372151_122108393043364831"
     },
     "timestamp": "2026-07-06T12:43:59.102360"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Fact: an unexamined life is not worth living.",
+      "content_index": 499,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T14:22:24.331659",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Fact: an unexamined life is not worth living.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122108414421364831",
+      "post_id": "1181533578372151_122108414439364831"
+    },
+    "timestamp": "2026-07-06T14:22:29.355097"
   }
 ]

@@ -2440,3 +2440,16 @@ Share this with someone who needs it today! 💛
 #Mot...
 2026-07-06 12:43:59,101 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-06 12:43:59,105 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-06 14:22:24,151 [INFO] Failed posts list is empty.
+2026-07-06 14:22:24,315 [INFO] ──────────────────────────────────────────────────
+2026-07-06 14:22:24,315 [INFO] ▶  Running slot: morning_motivation
+2026-07-06 14:22:24,315 [INFO] ──────────────────────────────────────────────────
+2026-07-06 14:22:24,331 [INFO] 📝 Content selected: Fact: an unexamined life is not worth living....
+2026-07-06 14:22:24,424 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260706_142224.png
+2026-07-06 14:22:24,425 [INFO] Caption preview: ☀️ Fact: an unexamined life is not worth living.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #M...
+2026-07-06 14:22:29,353 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-06 14:22:29,358 [INFO] ✅ Slot [morning_motivation] published successfully!
