@@ -2453,3 +2453,14 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #M...
 2026-07-06 14:22:29,353 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-06 14:22:29,358 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-06 16:24:55,668 [INFO] Failed posts list is empty.
+2026-07-06 16:24:55,817 [INFO] ──────────────────────────────────────────────────
+2026-07-06 16:24:55,817 [INFO] ▶  Running slot: evening_reflection
+2026-07-06 16:24:55,817 [INFO] ──────────────────────────────────────────────────
+2026-07-06 16:24:55,832 [INFO] 📝 Content selected: A moment of gratitude makes a difference in your attitude. — you've got this....
+2026-07-06 16:24:55,894 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260706_162455.png
+2026-07-06 16:24:55,894 [INFO] Caption preview: 🌙 A moment of gratitude makes a difference in your attitude. — you've got this.
+
+Share this with someone who needs it to...
+2026-07-06 16:25:01,697 [INFO] ✅ Posted successfully [evening_reflection]
+2026-07-06 16:25:01,701 [INFO] ✅ Slot [evening_reflection] published successfully!
