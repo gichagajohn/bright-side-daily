@@ -2488,3 +2488,16 @@ Drop your answer in the comments below 👇
 Share this with someone who needs it ...
 2026-07-06 19:47:55,058 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-06 19:47:55,062 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-07 08:23:11,159 [INFO] Failed posts list is empty.
+2026-07-07 08:23:11,302 [INFO] ──────────────────────────────────────────────────
+2026-07-07 08:23:11,302 [INFO] ▶  Running slot: morning_motivation
+2026-07-07 08:23:11,302 [INFO] ──────────────────────────────────────────────────
+2026-07-07 08:23:11,319 [INFO] 📝 Content selected: Life is either a daring adventure or nothing at all....
+2026-07-07 08:23:11,432 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260707_082311.png
+2026-07-07 08:23:11,432 [INFO] Caption preview: ☀️ Life is either a daring adventure or nothing at all.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Suc...
+2026-07-07 08:23:16,057 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-07 08:23:16,061 [INFO] ✅ Slot [morning_motivation] published successfully!
