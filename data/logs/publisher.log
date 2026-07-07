@@ -2560,3 +2560,16 @@ Share this wit...
 Share this with someone who needs...
 2026-07-07 17:48:02,842 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-07 17:48:02,847 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-07 19:46:35,060 [INFO] Failed posts list is empty.
+2026-07-07 19:46:35,199 [INFO] ──────────────────────────────────────────────────
+2026-07-07 19:46:35,199 [INFO] ▶  Running slot: morning_motivation
+2026-07-07 19:46:35,199 [INFO] ──────────────────────────────────────────────────
+2026-07-07 19:46:35,217 [INFO] 📝 Content selected: Life is either a daring adventure or nothing at all. — spread this....
+2026-07-07 19:46:35,386 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260707_194635.png
+2026-07-07 19:46:35,386 [INFO] Caption preview: ☀️ Life is either a daring adventure or nothing at all. — spread this.
+
+Share this with someone who needs it today! 💛
+
+#...
+2026-07-07 19:46:40,853 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-07 19:46:40,858 [INFO] ✅ Slot [morning_motivation] published successfully!

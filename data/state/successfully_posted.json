@@ -3285,5 +3285,26 @@
       "post_id": "1181533578372151_122108853369364831"
     },
     "timestamp": "2026-07-07T17:48:02.843789"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Life is either a daring adventure or nothing at all. \u2014 spread this.",
+      "content_index": 276,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "open book and coffee in a cozy reading nook"
+      },
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T19:46:35.217030",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Life is either a daring adventure or nothing at all. \u2014 spread this.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122108906721364831",
+      "post_id": "1181533578372151_122108906739364831"
+    },
+    "timestamp": "2026-07-07T19:46:40.855000"
   }
 ]
