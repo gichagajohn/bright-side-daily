@@ -3264,5 +3264,26 @@
       "post_id": "1181533578372151_122108813475364831"
     },
     "timestamp": "2026-07-07T15:45:26.750754"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Fact: the best time to plant a tree was 20 years ago. the second best time is now.",
+      "content_index": 435,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "serene nature landscape with soft morning light"
+      },
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T17:47:55.323655",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Fact: the best time to plant a tree was 20 years ago. the second best time is now.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122108853351364831",
+      "post_id": "1181533578372151_122108853369364831"
+    },
+    "timestamp": "2026-07-07T17:48:02.843789"
   }
 ]
