@@ -3243,5 +3243,26 @@
       "post_id": "1181533578372151_122108753331364831"
     },
     "timestamp": "2026-07-07T13:16:41.215139"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Do not go where the path may lead, go instead where there is no path and leave a trail. \u2014 pass it on.",
+      "content_index": 337,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "warm coffee on table beside a sunrise window"
+      },
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T15:45:20.310305",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Do not go where the path may lead, go instead where there is no path and leave a trail. \u2014 pass it on.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122108813451364831",
+      "post_id": "1181533578372151_122108813475364831"
+    },
+    "timestamp": "2026-07-07T15:45:26.750754"
   }
 ]
