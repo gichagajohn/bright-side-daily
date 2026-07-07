@@ -3222,5 +3222,26 @@
       "post_id": "1181533578372151_122108735325364831"
     },
     "timestamp": "2026-07-07T11:46:18.559606"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "Worth repeating: progress is progress, no matter how small.",
+      "content_index": 253,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "sprout pushing through cracked concrete"
+      },
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T13:16:36.151994",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa Worth repeating: progress is progress, no matter how small.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122108753313364831",
+      "post_id": "1181533578372151_122108753331364831"
+    },
+    "timestamp": "2026-07-07T13:16:41.215139"
   }
 ]
