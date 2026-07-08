@@ -3390,5 +3390,26 @@
       "post_id": "1181533578372151_122109232011364831"
     },
     "timestamp": "2026-07-08T12:18:06.066925"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Never let the fear of striking out keep you from playing the game.",
+      "content_index": 43,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T15:26:30.513631",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Never let the fear of striking out keep you from playing the game.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122109297501364831",
+      "post_id": "1181533578372151_122109297519364831"
+    },
+    "timestamp": "2026-07-08T15:26:38.648560"
   }
 ]

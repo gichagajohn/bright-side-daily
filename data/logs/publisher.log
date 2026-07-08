@@ -2623,3 +2623,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMa...
 2026-07-08 12:18:06,065 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-08 12:18:06,070 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-08 15:26:30,345 [INFO] Failed posts list is empty.
+2026-07-08 15:26:30,494 [INFO] ──────────────────────────────────────────────────
+2026-07-08 15:26:30,495 [INFO] ▶  Running slot: morning_motivation
+2026-07-08 15:26:30,495 [INFO] ──────────────────────────────────────────────────
+2026-07-08 15:26:30,513 [INFO] 📝 Content selected: Never let the fear of striking out keep you from playing the game....
+2026-07-08 15:26:30,627 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260708_152630.png
+2026-07-08 15:26:30,628 [INFO] Caption preview: ☀️ Never let the fear of striking out keep you from playing the game.
+
+Share this with someone who needs it today! 💛
+
+#M...
+2026-07-08 15:26:38,647 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-08 15:26:38,651 [INFO] ✅ Slot [morning_motivation] published successfully!
