@@ -3411,5 +3411,26 @@
       "post_id": "1181533578372151_122109297519364831"
     },
     "timestamp": "2026-07-08T15:26:38.648560"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "It does not matter how slowly you go as long as you do not stop. \u2014 start today.",
+      "content_index": 308,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T17:14:04.551066",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f It does not matter how slowly you go as long as you do not stop. \u2014 start today.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122109331365364831",
+      "post_id": "1181533578372151_122109331383364831"
+    },
+    "timestamp": "2026-07-08T17:14:13.072478"
   }
 ]
