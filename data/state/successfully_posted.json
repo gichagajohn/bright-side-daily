@@ -3432,5 +3432,26 @@
       "post_id": "1181533578372151_122109331383364831"
     },
     "timestamp": "2026-07-08T17:14:13.072478"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Worth repeating: never let the fear of striking out keep you from playing the game.",
+      "content_index": 363,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T19:15:23.471714",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Worth repeating: never let the fear of striking out keep you from playing the game.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122109395619364831",
+      "post_id": "1181533578372151_122109395637364831"
+    },
+    "timestamp": "2026-07-08T19:15:37.303867"
   }
 ]

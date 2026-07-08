@@ -2647,3 +2647,14 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it...
 2026-07-08 17:14:13,071 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-08 17:14:13,075 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-08 19:15:23,297 [INFO] Failed posts list is empty.
+2026-07-08 19:15:23,453 [INFO] ──────────────────────────────────────────────────
+2026-07-08 19:15:23,453 [INFO] ▶  Running slot: morning_motivation
+2026-07-08 19:15:23,453 [INFO] ──────────────────────────────────────────────────
+2026-07-08 19:15:23,471 [INFO] 📝 Content selected: Worth repeating: never let the fear of striking out keep you from playing the ga...
+2026-07-08 19:15:23,641 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260708_191523.png
+2026-07-08 19:15:23,641 [INFO] Caption preview: ☀️ Worth repeating: never let the fear of striking out keep you from playing the game.
+
+Share this with someone who need...
+2026-07-08 19:15:37,302 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-08 19:15:37,307 [INFO] ✅ Slot [morning_motivation] published successfully!
