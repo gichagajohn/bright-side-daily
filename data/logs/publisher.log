@@ -2610,3 +2610,16 @@ Share this with someone who needs it today! 💛
 #PersonalGrowth #...
 2026-07-08 11:01:57,343 [INFO] ✅ Posted successfully [self_improvement]
 2026-07-08 11:01:57,348 [INFO] ✅ Slot [self_improvement] published successfully!
+2026-07-08 12:18:00,326 [INFO] Failed posts list is empty.
+2026-07-08 12:18:00,468 [INFO] ──────────────────────────────────────────────────
+2026-07-08 12:18:00,468 [INFO] ▶  Running slot: morning_motivation
+2026-07-08 12:18:00,468 [INFO] ──────────────────────────────────────────────────
+2026-07-08 12:18:00,486 [INFO] 📝 Content selected: Truth: spread love everywhere you go....
+2026-07-08 12:18:00,601 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260708_121800.png
+2026-07-08 12:18:00,601 [INFO] Caption preview: ☀️ Truth: spread love everywhere you go.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMa...
+2026-07-08 12:18:06,065 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-08 12:18:06,070 [INFO] ✅ Slot [morning_motivation] published successfully!

@@ -3369,5 +3369,26 @@
       "post_id": "1181533578372151_122109218511364831"
     },
     "timestamp": "2026-07-08T11:01:57.345280"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Truth: spread love everywhere you go.",
+      "content_index": 192,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open book and coffee in a cozy reading nook"
+      },
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T12:18:00.486596",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Truth: spread love everywhere you go.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122109231945364831",
+      "post_id": "1181533578372151_122109232011364831"
+    },
+    "timestamp": "2026-07-08T12:18:06.066925"
   }
 ]
