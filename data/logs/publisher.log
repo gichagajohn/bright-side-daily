@@ -2704,3 +2704,16 @@ Share this with someone who needs it today! 💛
 #You...
 2026-07-09 13:46:41,066 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-07-09 13:46:41,070 [INFO] ✅ Slot [midday_encouragement] published successfully!
+2026-07-09 16:04:33,619 [INFO] Failed posts list is empty.
+2026-07-09 16:04:33,759 [INFO] ──────────────────────────────────────────────────
+2026-07-09 16:04:33,759 [INFO] ▶  Running slot: evening_reflection
+2026-07-09 16:04:33,759 [INFO] ──────────────────────────────────────────────────
+2026-07-09 16:04:33,778 [INFO] 📝 Content selected: Fact: the more grateful i am, the more beauty i see....
+2026-07-09 16:04:33,893 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260709_160433.png
+2026-07-09 16:04:33,893 [INFO] Caption preview: 🌙 Fact: the more grateful i am, the more beauty i see.
+
+Share this with someone who needs it today! 💛
+
+#Gratitude #Thank...
+2026-07-09 16:04:37,856 [INFO] ✅ Posted successfully [evening_reflection]
+2026-07-09 16:04:37,860 [INFO] ✅ Slot [evening_reflection] published successfully!
