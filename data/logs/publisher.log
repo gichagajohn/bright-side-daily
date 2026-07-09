@@ -2680,3 +2680,14 @@ Share this with someone who ...
 Share this with someone who needs it tod...
 2026-07-09 10:31:49,575 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-09 10:31:49,580 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-09 11:54:55,124 [INFO] Failed posts list is empty.
+2026-07-09 11:54:55,251 [INFO] ──────────────────────────────────────────────────
+2026-07-09 11:54:55,251 [INFO] ▶  Running slot: self_improvement
+2026-07-09 11:54:55,251 [INFO] ──────────────────────────────────────────────────
+2026-07-09 11:54:55,270 [INFO] 📝 Content selected: Never forget: success is not final; failure is not fatal. it is the courage to c...
+2026-07-09 11:54:55,585 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260709_115455.png
+2026-07-09 11:54:55,585 [INFO] Caption preview: 📈 Never forget: success is not final; failure is not fatal. it is the courage to continue that counts.
+
+Share this with ...
+2026-07-09 11:55:02,988 [INFO] ✅ Posted successfully [self_improvement]
+2026-07-09 11:55:02,992 [INFO] ✅ Slot [self_improvement] published successfully!
