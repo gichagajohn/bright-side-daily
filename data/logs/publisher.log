@@ -2717,3 +2717,14 @@ Share this with someone who needs it today! 💛
 #Gratitude #Thank...
 2026-07-09 16:04:37,856 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-09 16:04:37,860 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-09 17:43:57,871 [INFO] Failed posts list is empty.
+2026-07-09 17:43:58,014 [INFO] ──────────────────────────────────────────────────
+2026-07-09 17:43:58,014 [INFO] ▶  Running slot: morning_motivation
+2026-07-09 17:43:58,014 [INFO] ──────────────────────────────────────────────────
+2026-07-09 17:43:58,034 [INFO] 📝 Content selected: Always know that success is the sum of small efforts repeated day in and day out...
+2026-07-09 17:43:58,144 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260709_174358.png
+2026-07-09 17:43:58,144 [INFO] Caption preview: ☀️ Always know that success is the sum of small efforts repeated day in and day out.
+
+Share this with someone who needs ...
+2026-07-09 17:44:05,827 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-09 17:44:05,832 [INFO] ✅ Slot [morning_motivation] published successfully!

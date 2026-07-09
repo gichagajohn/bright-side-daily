@@ -3558,5 +3558,26 @@
       "post_id": "1181533578372151_122110923891364831"
     },
     "timestamp": "2026-07-09T16:04:37.857341"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Always know that success is the sum of small efforts repeated day in and day out.",
+      "content_index": 409,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T17:43:58.034087",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Always know that success is the sum of small efforts repeated day in and day out.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122111108571364831",
+      "post_id": "1181533578372151_122111108625364831"
+    },
+    "timestamp": "2026-07-09T17:44:05.828719"
   }
 ]
