@@ -2793,3 +2793,14 @@ Share this with someone who needs it today! 💛
 #YouGotThis #Keep...
 2026-07-10 13:09:27,964 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-07-10 13:09:27,970 [INFO] ✅ Slot [midday_encouragement] published successfully!
+2026-07-10 15:34:32,082 [INFO] Failed posts list is empty.
+2026-07-10 15:34:32,230 [INFO] ──────────────────────────────────────────────────
+2026-07-10 15:34:32,230 [INFO] ▶  Running slot: morning_motivation
+2026-07-10 15:34:32,231 [INFO] ──────────────────────────────────────────────────
+2026-07-10 15:34:32,251 [INFO] 📝 Content selected: When you reach the end of your rope, tie a knot in it and hang on. — spread this...
+2026-07-10 15:34:32,475 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260710_153432.png
+2026-07-10 15:34:32,475 [INFO] Caption preview: ☀️ When you reach the end of your rope, tie a knot in it and hang on. — spread this.
+
+Share this with someone who needs ...
+2026-07-10 15:34:38,325 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-10 15:34:38,330 [INFO] ✅ Slot [morning_motivation] published successfully!
