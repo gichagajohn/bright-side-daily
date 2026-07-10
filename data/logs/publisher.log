@@ -2754,3 +2754,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #Dail...
 2026-07-10 08:22:51,320 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-10 08:22:51,325 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-10 10:25:06,414 [INFO] Failed posts list is empty.
+2026-07-10 10:25:06,547 [INFO] ──────────────────────────────────────────────────
+2026-07-10 10:25:06,547 [INFO] ▶  Running slot: morning_motivation
+2026-07-10 10:25:06,547 [INFO] ──────────────────────────────────────────────────
+2026-07-10 10:25:06,566 [INFO] 📝 Content selected: You have brains... you choose....
+2026-07-10 10:25:06,675 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260710_102506.png
+2026-07-10 10:25:06,675 [INFO] Caption preview: ☀️ You have brains... you choose.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #...
+2026-07-10 10:25:13,080 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-10 10:25:13,085 [INFO] ✅ Slot [morning_motivation] published successfully!

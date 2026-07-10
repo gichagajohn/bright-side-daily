@@ -3621,5 +3621,26 @@
       "post_id": "1181533578372151_122111793717364831"
     },
     "timestamp": "2026-07-10T08:22:51.321956"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You have brains... you choose.",
+      "content_index": 71,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T10:25:06.566408",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You have brains... you choose.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122111812155364831",
+      "post_id": "1181533578372151_122111812173364831"
+    },
+    "timestamp": "2026-07-10T10:25:13.081907"
   }
 ]
