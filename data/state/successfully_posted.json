@@ -3663,5 +3663,26 @@
       "post_id": "1181533578372151_122111839011364831"
     },
     "timestamp": "2026-07-10T11:48:36.966294"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "Your best days are still ahead of you. \u2014 share this!",
+      "content_index": 103,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "friends laughing together outdoors in golden hour"
+      },
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T13:09:21.488160",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa Your best days are still ahead of you. \u2014 share this!\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122111853681364831",
+      "post_id": "1181533578372151_122111853699364831"
+    },
+    "timestamp": "2026-07-10T13:09:27.965591"
   }
 ]
