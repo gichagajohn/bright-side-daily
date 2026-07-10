@@ -2767,3 +2767,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #...
 2026-07-10 10:25:13,080 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-10 10:25:13,085 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-10 11:48:32,730 [INFO] Failed posts list is empty.
+2026-07-10 11:48:32,871 [INFO] ──────────────────────────────────────────────────
+2026-07-10 11:48:32,871 [INFO] ▶  Running slot: self_improvement
+2026-07-10 11:48:32,871 [INFO] ──────────────────────────────────────────────────
+2026-07-10 11:48:32,891 [INFO] 📝 Content selected: Remember: the expert in anything was once a beginner....
+2026-07-10 11:48:33,053 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260710_114832.png
+2026-07-10 11:48:33,053 [INFO] Caption preview: 📈 Remember: the expert in anything was once a beginner.
+
+Share this with someone who needs it today! 💛
+
+#PersonalGrowth ...
+2026-07-10 11:48:36,965 [INFO] ✅ Posted successfully [self_improvement]
+2026-07-10 11:48:36,969 [INFO] ✅ Slot [self_improvement] published successfully!
