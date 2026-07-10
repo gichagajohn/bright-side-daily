@@ -2741,3 +2741,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetM...
 2026-07-09 19:28:56,262 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-09 19:28:56,267 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-10 08:22:44,750 [INFO] Failed posts list is empty.
+2026-07-10 08:22:44,902 [INFO] ──────────────────────────────────────────────────
+2026-07-10 08:22:44,902 [INFO] ▶  Running slot: morning_motivation
+2026-07-10 08:22:44,902 [INFO] ──────────────────────────────────────────────────
+2026-07-10 08:22:44,922 [INFO] 📝 Content selected: Success is the... day out....
+2026-07-10 08:22:44,976 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260710_082244.png
+2026-07-10 08:22:44,976 [INFO] Caption preview: ☀️ Success is the... day out.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #Dail...
+2026-07-10 08:22:51,320 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-10 08:22:51,325 [INFO] ✅ Slot [morning_motivation] published successfully!

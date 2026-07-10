@@ -3600,5 +3600,26 @@
       "post_id": "1181533578372151_122111224095364831"
     },
     "timestamp": "2026-07-09T19:28:56.263611"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Success is the... day out.",
+      "content_index": 67,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T08:22:44.922778",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Success is the... day out.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122111793699364831",
+      "post_id": "1181533578372151_122111793717364831"
+    },
+    "timestamp": "2026-07-10T08:22:51.321956"
   }
 ]
