@@ -3726,5 +3726,26 @@
       "post_id": "1181533578372151_122111920593364831"
     },
     "timestamp": "2026-07-10T17:37:57.802624"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Today's reminder: dream it. wish it. do it.",
+      "content_index": 389,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T19:19:53.029477",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Today's reminder: dream it. wish it. do it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122111954433364831",
+      "post_id": "1181533578372151_122111954451364831"
+    },
+    "timestamp": "2026-07-10T19:20:00.128079"
   }
 ]

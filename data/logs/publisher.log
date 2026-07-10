@@ -2817,3 +2817,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #...
 2026-07-10 17:37:57,801 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-10 17:37:57,807 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-10 19:19:52,876 [INFO] Failed posts list is empty.
+2026-07-10 19:19:53,007 [INFO] ──────────────────────────────────────────────────
+2026-07-10 19:19:53,008 [INFO] ▶  Running slot: morning_motivation
+2026-07-10 19:19:53,008 [INFO] ──────────────────────────────────────────────────
+2026-07-10 19:19:53,029 [INFO] 📝 Content selected: Today's reminder: dream it. wish it. do it....
+2026-07-10 19:19:53,186 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260710_191953.png
+2026-07-10 19:19:53,186 [INFO] Caption preview: ☀️ Today's reminder: dream it. wish it. do it.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Min...
+2026-07-10 19:20:00,126 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-10 19:20:00,132 [INFO] ✅ Slot [morning_motivation] published successfully!
