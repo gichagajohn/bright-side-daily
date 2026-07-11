@@ -2880,3 +2880,14 @@ Share this with someone who needs it today! 💛
 #Per...
 2026-07-11 11:50:29,223 [INFO] ✅ Posted successfully [self_improvement]
 2026-07-11 11:50:29,228 [INFO] ✅ Slot [self_improvement] published successfully!
+2026-07-11 14:23:46,119 [INFO] Failed posts list is empty.
+2026-07-11 14:23:46,236 [INFO] ──────────────────────────────────────────────────
+2026-07-11 14:23:46,236 [INFO] ▶  Running slot: morning_motivation
+2026-07-11 14:23:46,236 [INFO] ──────────────────────────────────────────────────
+2026-07-11 14:23:46,255 [INFO] 📝 Content selected: Remember: if you look at what you have in life, you'll always have more....
+2026-07-11 14:23:46,352 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260711_142346.png
+2026-07-11 14:23:46,352 [INFO] Caption preview: ☀️ Remember: if you look at what you have in life, you'll always have more.
+
+Share this with someone who needs it today!...
+2026-07-11 14:23:52,679 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-11 14:23:52,683 [INFO] ✅ Slot [morning_motivation] published successfully!

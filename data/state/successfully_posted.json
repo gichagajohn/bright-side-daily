@@ -3831,5 +3831,26 @@
       "post_id": "1181533578372151_122112236559364831"
     },
     "timestamp": "2026-07-11T11:50:29.224927"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Remember: if you look at what you have in life, you'll always have more.",
+      "content_index": 59,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T14:23:46.255072",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Remember: if you look at what you have in life, you'll always have more.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122112308355364831",
+      "post_id": "1181533578372151_122112308379364831"
+    },
+    "timestamp": "2026-07-11T14:23:52.680295"
   }
 ]
