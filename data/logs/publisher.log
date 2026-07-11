@@ -2891,3 +2891,14 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it today!...
 2026-07-11 14:23:52,679 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-11 14:23:52,683 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-11 16:38:20,918 [INFO] Failed posts list is empty.
+2026-07-11 16:38:21,080 [INFO] ──────────────────────────────────────────────────
+2026-07-11 16:38:21,080 [INFO] ▶  Running slot: evening_reflection
+2026-07-11 16:38:21,080 [INFO] ──────────────────────────────────────────────────
+2026-07-11 16:38:21,103 [INFO] 📝 Content selected: The roots of all goodness lie in the soil of appreciation for goodness....
+2026-07-11 16:38:21,214 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260711_163821.png
+2026-07-11 16:38:21,214 [INFO] Caption preview: 🌙 The roots of all goodness lie in the soil of appreciation for goodness.
+
+Share this with someone who needs it today! 💛...
+2026-07-11 16:38:26,020 [INFO] ✅ Posted successfully [evening_reflection]
+2026-07-11 16:38:26,025 [INFO] ✅ Slot [evening_reflection] published successfully!
