@@ -2867,3 +2867,16 @@ Share this with someone who needs it today! 💛
 #Motivation...
 2026-07-11 10:12:20,139 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-11 10:12:20,143 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-11 11:50:19,807 [INFO] Failed posts list is empty.
+2026-07-11 11:50:19,953 [INFO] ──────────────────────────────────────────────────
+2026-07-11 11:50:19,953 [INFO] ▶  Running slot: self_improvement
+2026-07-11 11:50:19,953 [INFO] ──────────────────────────────────────────────────
+2026-07-11 11:50:19,975 [INFO] 📝 Content selected: Truth: discipline is the bridge between goals and accomplishment....
+2026-07-11 11:50:20,161 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260711_115020.png
+2026-07-11 11:50:20,161 [INFO] Caption preview: 📈 Truth: discipline is the bridge between goals and accomplishment.
+
+Share this with someone who needs it today! 💛
+
+#Per...
+2026-07-11 11:50:29,223 [INFO] ✅ Posted successfully [self_improvement]
+2026-07-11 11:50:29,228 [INFO] ✅ Slot [self_improvement] published successfully!
