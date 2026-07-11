@@ -2902,3 +2902,16 @@ Share this with someone who needs it today!...
 Share this with someone who needs it today! 💛...
 2026-07-11 16:38:26,020 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-11 16:38:26,025 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-11 18:52:50,010 [INFO] Failed posts list is empty.
+2026-07-11 18:52:50,156 [INFO] ──────────────────────────────────────────────────
+2026-07-11 18:52:50,156 [INFO] ▶  Running slot: engagement_question
+2026-07-11 18:52:50,156 [INFO] ──────────────────────────────────────────────────
+2026-07-11 18:52:50,179 [INFO] 📝 Content selected: Remember: weekend plans? big or small, we want to hear! 🎉...
+2026-07-11 18:52:50,333 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260711_185250.png
+2026-07-11 18:52:50,333 [INFO] Caption preview: 💬 Remember: weekend plans? big or small, we want to hear! 🎉
+
+Drop your answer in the comments below 👇
+
+#Community #Share...
+2026-07-11 18:52:56,156 [INFO] ✅ Posted successfully [engagement_question]
+2026-07-11 18:52:56,161 [INFO] ✅ Slot [engagement_question] published successfully!
