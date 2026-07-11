@@ -2854,3 +2854,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters ...
 2026-07-11 08:49:30,627 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-11 08:49:30,632 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-11 10:12:14,244 [INFO] Failed posts list is empty.
+2026-07-11 10:12:14,390 [INFO] ──────────────────────────────────────────────────
+2026-07-11 10:12:14,390 [INFO] ▶  Running slot: morning_motivation
+2026-07-11 10:12:14,390 [INFO] ──────────────────────────────────────────────────
+2026-07-11 10:12:14,412 [INFO] 📝 Content selected: Believe this: great things never come from comfort zones....
+2026-07-11 10:12:14,566 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260711_101214.png
+2026-07-11 10:12:14,566 [INFO] Caption preview: ☀️ Believe this: great things never come from comfort zones.
+
+Share this with someone who needs it today! 💛
+
+#Motivation...
+2026-07-11 10:12:20,139 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-11 10:12:20,143 [INFO] ✅ Slot [morning_motivation] published successfully!
