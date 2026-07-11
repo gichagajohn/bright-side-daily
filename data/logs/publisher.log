@@ -2841,3 +2841,16 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it ...
 2026-07-11 07:11:25,271 [INFO] ✅ Posted successfully [positive_quote]
 2026-07-11 07:11:25,276 [INFO] ✅ Slot [positive_quote] published successfully!
+2026-07-11 08:49:17,949 [INFO] Failed posts list is empty.
+2026-07-11 08:49:18,088 [INFO] ──────────────────────────────────────────────────
+2026-07-11 08:49:18,088 [INFO] ▶  Running slot: morning_motivation
+2026-07-11 08:49:18,088 [INFO] ──────────────────────────────────────────────────
+2026-07-11 08:49:18,109 [INFO] 📝 Content selected: Truth: dream bigger. do bigger....
+2026-07-11 08:49:18,174 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260711_084918.png
+2026-07-11 08:49:18,174 [INFO] Caption preview: ☀️ Truth: dream bigger. do bigger.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters ...
+2026-07-11 08:49:30,627 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-11 08:49:30,632 [INFO] ✅ Slot [morning_motivation] published successfully!

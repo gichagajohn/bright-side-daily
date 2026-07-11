@@ -3768,5 +3768,26 @@
       "post_id": "1181533578372151_122112178755364831"
     },
     "timestamp": "2026-07-11T07:11:25.273244"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Truth: dream bigger. do bigger.",
+      "content_index": 289,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T08:49:18.109664",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Truth: dream bigger. do bigger.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122112206961364831",
+      "post_id": "1181533578372151_122112206979364831"
+    },
+    "timestamp": "2026-07-11T08:49:30.629234"
   }
 ]
