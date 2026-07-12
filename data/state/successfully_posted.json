@@ -3894,5 +3894,26 @@
       "post_id": "1181533578372151_122112388059364831"
     },
     "timestamp": "2026-07-11T18:52:56.157792"
+  },
+  {
+    "post": {
+      "slot": "positive_quote",
+      "category": "positive_life_quotes",
+      "content": "With the right attitude, self-imposed limitations vanish. \u2014 you've got this.",
+      "content_index": 206,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "colorful flowers in morning light"
+      },
+      "date": "2026-07-12",
+      "timestamp": "2026-07-12T07:28:50.965352",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83c\udf1f With the right attitude, self-imposed limitations vanish. \u2014 you've got this.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#PositiveVibes #HappyLife #GoodVibesOnly #LifeIsBeautiful #Positivity #BrightSideDaily",
+    "fb_response": {
+      "id": "122112552087364831",
+      "post_id": "1181533578372151_122112552105364831"
+    },
+    "timestamp": "2026-07-12T07:28:57.398172"
   }
 ]

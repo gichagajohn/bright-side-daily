@@ -2915,3 +2915,14 @@ Drop your answer in the comments below 👇
 #Community #Share...
 2026-07-11 18:52:56,156 [INFO] ✅ Posted successfully [engagement_question]
 2026-07-11 18:52:56,161 [INFO] ✅ Slot [engagement_question] published successfully!
+2026-07-12 07:28:50,794 [INFO] Failed posts list is empty.
+2026-07-12 07:28:50,942 [INFO] ──────────────────────────────────────────────────
+2026-07-12 07:28:50,942 [INFO] ▶  Running slot: positive_quote
+2026-07-12 07:28:50,942 [INFO] ──────────────────────────────────────────────────
+2026-07-12 07:28:50,965 [INFO] 📝 Content selected: With the right attitude, self-imposed limitations vanish. — you've got this....
+2026-07-12 07:28:51,164 [INFO] Publishing [positive_quote] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/positive_quote_20260712_072851.png
+2026-07-12 07:28:51,164 [INFO] Caption preview: 🌟 With the right attitude, self-imposed limitations vanish. — you've got this.
+
+Share this with someone who needs it tod...
+2026-07-12 07:28:57,396 [INFO] ✅ Posted successfully [positive_quote]
+2026-07-12 07:28:57,402 [INFO] ✅ Slot [positive_quote] published successfully!
