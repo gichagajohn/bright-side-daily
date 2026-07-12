@@ -2991,3 +2991,14 @@ Share this with someone who needs it today! 💛
 #Gratitude #Thankful #CountYourBlessi...
 2026-07-12 16:40:21,989 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-12 16:40:21,994 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-12 18:57:20,644 [INFO] Failed posts list is empty.
+2026-07-12 18:57:20,788 [INFO] ──────────────────────────────────────────────────
+2026-07-12 18:57:20,788 [INFO] ▶  Running slot: engagement_question
+2026-07-12 18:57:20,788 [INFO] ──────────────────────────────────────────────────
+2026-07-12 18:57:20,812 [INFO] 📝 Content selected: If you could send a message to your younger self, what would you say? — believe ...
+2026-07-12 18:57:21,006 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260712_185720.png
+2026-07-12 18:57:21,007 [INFO] Caption preview: 💬 If you could send a message to your younger self, what would you say? — believe it.
+
+Drop your answer in the comments ...
+2026-07-12 18:57:25,511 [INFO] ✅ Posted successfully [engagement_question]
+2026-07-12 18:57:25,516 [INFO] ✅ Slot [engagement_question] published successfully!
