@@ -2939,3 +2939,16 @@ Tag someone who can relate! 😂
 #RelatableLife #Funny #MondayMood #TooReal #WeekdayVibes ...
 2026-07-12 09:04:04,201 [INFO] ✅ Posted successfully [funny_meme]
 2026-07-12 09:04:04,206 [INFO] ✅ Slot [funny_meme] published successfully!
+2026-07-12 10:24:48,976 [INFO] Failed posts list is empty.
+2026-07-12 10:24:49,125 [INFO] ──────────────────────────────────────────────────
+2026-07-12 10:24:49,125 [INFO] ▶  Running slot: morning_motivation
+2026-07-12 10:24:49,125 [INFO] ──────────────────────────────────────────────────
+2026-07-12 10:24:49,150 [INFO] 📝 Content selected: [Motivational] Don't wait for opportunity. Create it....
+2026-07-12 10:24:49,314 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260712_102449.png
+2026-07-12 10:24:49,314 [INFO] Caption preview: ☀️ [Motivational] Don't wait for opportunity. Create it.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Su...
+2026-07-12 10:24:55,766 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-12 10:24:55,771 [INFO] ✅ Slot [morning_motivation] published successfully!
