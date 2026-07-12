@@ -2952,3 +2952,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Su...
 2026-07-12 10:24:55,766 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-12 10:24:55,771 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-12 11:56:14,644 [INFO] Failed posts list is empty.
+2026-07-12 11:56:14,794 [INFO] ──────────────────────────────────────────────────
+2026-07-12 11:56:14,794 [INFO] ▶  Running slot: self_improvement
+2026-07-12 11:56:14,794 [INFO] ──────────────────────────────────────────────────
+2026-07-12 11:56:14,818 [INFO] 📝 Content selected: Never forget: growth begins at the end of your comfort zone....
+2026-07-12 11:56:14,990 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260712_115614.png
+2026-07-12 11:56:14,990 [INFO] Caption preview: 📈 Never forget: growth begins at the end of your comfort zone.
+
+Share this with someone who needs it today! 💛
+
+#Personal...
+2026-07-12 11:56:27,101 [INFO] ✅ Posted successfully [self_improvement]
+2026-07-12 11:56:27,106 [INFO] ✅ Slot [self_improvement] published successfully!
