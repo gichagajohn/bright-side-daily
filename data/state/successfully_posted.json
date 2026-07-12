@@ -3978,5 +3978,26 @@
       "post_id": "1181533578372151_122112606915364831"
     },
     "timestamp": "2026-07-12T11:56:27.102368"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Great things never come from comfort zones.",
+      "content_index": 2,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-07-12",
+      "timestamp": "2026-07-12T14:35:19.277446",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Great things never come from comfort zones.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122112699459364831",
+      "post_id": "1181533578372151_122112699483364831"
+    },
+    "timestamp": "2026-07-12T14:35:23.156736"
   }
 ]
