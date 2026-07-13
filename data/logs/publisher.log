@@ -3025,3 +3025,16 @@ Share this with someone who needs it today! 💛
 ...
 2026-07-13 10:29:54,106 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-13 10:29:54,112 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-13 11:58:27,549 [INFO] Failed posts list is empty.
+2026-07-13 11:58:27,681 [INFO] ──────────────────────────────────────────────────
+2026-07-13 11:58:27,681 [INFO] ▶  Running slot: self_improvement
+2026-07-13 11:58:27,681 [INFO] ──────────────────────────────────────────────────
+2026-07-13 11:58:27,706 [INFO] 📝 Content selected: Be yourself, but always your better self. — pass it on....
+2026-07-13 11:58:27,808 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260713_115827.png
+2026-07-13 11:58:27,808 [INFO] Caption preview: 📈 Be yourself, but always your better self. — pass it on.
+
+Share this with someone who needs it today! 💛
+
+#PersonalGrowt...
+2026-07-13 11:58:34,008 [INFO] ✅ Posted successfully [self_improvement]
+2026-07-13 11:58:34,014 [INFO] ✅ Slot [self_improvement] published successfully!
