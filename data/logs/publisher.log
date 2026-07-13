@@ -3062,3 +3062,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Succes...
 2026-07-13 17:46:50,977 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-13 17:46:50,982 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-13 19:17:01,506 [INFO] Failed posts list is empty.
+2026-07-13 19:17:01,672 [INFO] ──────────────────────────────────────────────────
+2026-07-13 19:17:01,672 [INFO] ▶  Running slot: morning_motivation
+2026-07-13 19:17:01,672 [INFO] ──────────────────────────────────────────────────
+2026-07-13 19:17:01,699 [INFO] 📝 Content selected: Energy and persistence conquer all things. — spread this....
+2026-07-13 19:17:01,806 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260713_191701.png
+2026-07-13 19:17:01,806 [INFO] Caption preview: ☀️ Energy and persistence conquer all things. — spread this.
+
+Share this with someone who needs it today! 💛
+
+#Motivation...
+2026-07-13 19:17:17,957 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-13 19:17:17,962 [INFO] ✅ Slot [morning_motivation] published successfully!
