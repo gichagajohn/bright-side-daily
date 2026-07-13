@@ -3002,3 +3002,14 @@ Share this with someone who needs it today! 💛
 Drop your answer in the comments ...
 2026-07-12 18:57:25,511 [INFO] ✅ Posted successfully [engagement_question]
 2026-07-12 18:57:25,516 [INFO] ✅ Slot [engagement_question] published successfully!
+2026-07-13 08:17:11,684 [INFO] Failed posts list is empty.
+2026-07-13 08:17:11,824 [INFO] ──────────────────────────────────────────────────
+2026-07-13 08:17:11,824 [INFO] ▶  Running slot: morning_motivation
+2026-07-13 08:17:11,824 [INFO] ──────────────────────────────────────────────────
+2026-07-13 08:17:11,847 [INFO] 📝 Content selected: The key to success is to focus on goals, not obstacles. — spread this....
+2026-07-13 08:17:12,035 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260713_081711.png
+2026-07-13 08:17:12,035 [INFO] Caption preview: ☀️ The key to success is to focus on goals, not obstacles. — spread this.
+
+Share this with someone who needs it today! 💛...
+2026-07-13 08:17:17,845 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-13 08:17:17,850 [INFO] ✅ Slot [morning_motivation] published successfully!
