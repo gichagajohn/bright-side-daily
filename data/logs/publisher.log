@@ -3013,3 +3013,15 @@ Drop your answer in the comments ...
 Share this with someone who needs it today! 💛...
 2026-07-13 08:17:17,845 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-13 08:17:17,850 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-13 10:29:41,698 [INFO] Failed posts list is empty.
+2026-07-13 10:29:41,843 [INFO] ──────────────────────────────────────────────────
+2026-07-13 10:29:41,843 [INFO] ▶  Running slot: morning_motivation
+2026-07-13 10:29:41,843 [INFO] ──────────────────────────────────────────────────
+2026-07-13 10:29:41,866 [INFO] 📝 Content selected: Worth repeating: don't stop when you're tired. stop when you're done....
+2026-07-13 10:29:41,980 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260713_102941.png
+2026-07-13 10:29:41,980 [INFO] Caption preview: ☀️ Worth repeating: don't stop when you're tired. stop when you're done.
+
+Share this with someone who needs it today! 💛
+...
+2026-07-13 10:29:54,106 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-13 10:29:54,112 [INFO] ✅ Slot [morning_motivation] published successfully!

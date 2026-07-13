@@ -4062,5 +4062,26 @@
       "post_id": "1181533578372151_122112967221364831"
     },
     "timestamp": "2026-07-13T08:17:17.846464"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Worth repeating: don't stop when you're tired. stop when you're done.",
+      "content_index": 123,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T10:29:41.866751",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Worth repeating: don't stop when you're tired. stop when you're done.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122112986475364831",
+      "post_id": "1181533578372151_122112986499364831"
+    },
+    "timestamp": "2026-07-13T10:29:54.108490"
   }
 ]
