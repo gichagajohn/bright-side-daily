@@ -3125,3 +3125,16 @@ Share this with someone who needs it today! 💛
 #M...
 2026-07-14 12:08:06,291 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-14 12:08:06,296 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-14 14:58:24,705 [INFO] Failed posts list is empty.
+2026-07-14 14:58:24,847 [INFO] ──────────────────────────────────────────────────
+2026-07-14 14:58:24,847 [INFO] ▶  Running slot: morning_motivation
+2026-07-14 14:58:24,847 [INFO] ──────────────────────────────────────────────────
+2026-07-14 14:58:24,875 [INFO] 📝 Content selected: [Motivational] Success begins when excuses end....
+2026-07-14 14:58:24,980 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260714_145824.png
+2026-07-14 14:58:24,981 [INFO] Caption preview: ☀️ [Motivational] Success begins when excuses end.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success ...
+2026-07-14 14:58:29,168 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-14 14:58:29,173 [INFO] ✅ Slot [morning_motivation] published successfully!
