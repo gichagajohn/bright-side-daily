@@ -3112,3 +3112,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mindset...
 2026-07-14 10:42:52,165 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-14 10:42:52,170 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-14 12:08:01,104 [INFO] Failed posts list is empty.
+2026-07-14 12:08:01,222 [INFO] ──────────────────────────────────────────────────
+2026-07-14 12:08:01,222 [INFO] ▶  Running slot: morning_motivation
+2026-07-14 12:08:01,222 [INFO] ──────────────────────────────────────────────────
+2026-07-14 12:08:01,245 [INFO] 📝 Content selected: Remember: start where you are. use what you have. do what you can....
+2026-07-14 12:08:01,491 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260714_120801.png
+2026-07-14 12:08:01,491 [INFO] Caption preview: ☀️ Remember: start where you are. use what you have. do what you can.
+
+Share this with someone who needs it today! 💛
+
+#M...
+2026-07-14 12:08:06,291 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-14 12:08:06,296 [INFO] ✅ Slot [morning_motivation] published successfully!
