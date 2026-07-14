@@ -4272,5 +4272,26 @@
       "post_id": "1181533578372151_122113451349364831"
     },
     "timestamp": "2026-07-14T14:58:29.169777"
+  },
+  {
+    "post": {
+      "slot": "evening_reflection",
+      "category": "gratitude_quotes",
+      "content": "Gratitude is the... human emotions.",
+      "content_index": 60,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "warm coffee mug on table beside rainy window"
+      },
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T16:58:04.319355",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83c\udf19 Gratitude is the... human emotions.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Gratitude #Thankful #CountYourBlessings #GratefulHeart #Blessed #BrightSideDaily",
+    "fb_response": {
+      "id": "122113475271364831",
+      "post_id": "1181533578372151_122113475289364831"
+    },
+    "timestamp": "2026-07-14T16:58:13.834010"
   }
 ]
