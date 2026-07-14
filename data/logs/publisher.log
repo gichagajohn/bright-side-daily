@@ -3151,3 +3151,16 @@ Share this with someone who needs it today! 💛
 #Gratitude #Thankful #CountYourBle...
 2026-07-14 16:58:13,832 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-14 16:58:13,838 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-14 19:09:47,081 [INFO] Failed posts list is empty.
+2026-07-14 19:09:47,213 [INFO] ──────────────────────────────────────────────────
+2026-07-14 19:09:47,213 [INFO] ▶  Running slot: morning_motivation
+2026-07-14 19:09:47,213 [INFO] ──────────────────────────────────────────────────
+2026-07-14 19:09:47,240 [INFO] 📝 Content selected: Never forget: dream it. believe it. build it....
+2026-07-14 19:09:47,338 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260714_190947.png
+2026-07-14 19:09:47,338 [INFO] Caption preview: ☀️ Never forget: dream it. believe it. build it.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #M...
+2026-07-14 19:09:54,509 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-14 19:09:54,515 [INFO] ✅ Slot [morning_motivation] published successfully!

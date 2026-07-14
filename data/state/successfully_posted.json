@@ -4293,5 +4293,26 @@
       "post_id": "1181533578372151_122113475289364831"
     },
     "timestamp": "2026-07-14T16:58:13.834010"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Never forget: dream it. believe it. build it.",
+      "content_index": 279,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T19:09:47.240536",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Never forget: dream it. believe it. build it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122113529403364831",
+      "post_id": "1181533578372151_122113529427364831"
+    },
+    "timestamp": "2026-07-14T19:09:54.511344"
   }
 ]
