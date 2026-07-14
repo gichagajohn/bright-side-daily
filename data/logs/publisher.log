@@ -3075,3 +3075,14 @@ Share this with someone who needs it today! 💛
 #Motivation...
 2026-07-13 19:17:17,957 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-13 19:17:17,962 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-14 07:10:25,240 [INFO] Failed posts list is empty.
+2026-07-14 07:10:25,381 [INFO] ──────────────────────────────────────────────────
+2026-07-14 07:10:25,381 [INFO] ▶  Running slot: positive_quote
+2026-07-14 07:10:25,381 [INFO] ──────────────────────────────────────────────────
+2026-07-14 07:10:25,407 [INFO] 📝 Content selected: Definiteness of purpose is the starting point of all achievement. — pass it on....
+2026-07-14 07:10:25,647 [INFO] Publishing [positive_quote] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/positive_quote_20260714_071025.png
+2026-07-14 07:10:25,647 [INFO] Caption preview: 🌟 Definiteness of purpose is the starting point of all achievement. — pass it on.
+
+Share this with someone who needs it ...
+2026-07-14 07:10:32,634 [INFO] ✅ Posted successfully [positive_quote]
+2026-07-14 07:10:32,639 [INFO] ✅ Slot [positive_quote] published successfully!
