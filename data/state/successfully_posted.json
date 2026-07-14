@@ -4209,5 +4209,26 @@
       "post_id": "1181533578372151_122113356117364831"
     },
     "timestamp": "2026-07-14T09:06:18.032564"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "[Motivational] Dream bigger. Do bigger.",
+      "content_index": 328,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T10:42:46.204196",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f [Motivational] Dream bigger. Do bigger.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122113371237364831",
+      "post_id": "1181533578372151_122113371255364831"
+    },
+    "timestamp": "2026-07-14T10:42:52.166902"
   }
 ]

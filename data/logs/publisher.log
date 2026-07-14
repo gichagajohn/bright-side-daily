@@ -3099,3 +3099,16 @@ Tag someone who can relate! 😂
 #RelatableLife #...
 2026-07-14 09:06:18,031 [INFO] ✅ Posted successfully [funny_meme]
 2026-07-14 09:06:18,036 [INFO] ✅ Slot [funny_meme] published successfully!
+2026-07-14 10:42:46,030 [INFO] Failed posts list is empty.
+2026-07-14 10:42:46,176 [INFO] ──────────────────────────────────────────────────
+2026-07-14 10:42:46,176 [INFO] ▶  Running slot: morning_motivation
+2026-07-14 10:42:46,177 [INFO] ──────────────────────────────────────────────────
+2026-07-14 10:42:46,204 [INFO] 📝 Content selected: [Motivational] Dream bigger. Do bigger....
+2026-07-14 10:42:46,320 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260714_104246.png
+2026-07-14 10:42:46,320 [INFO] Caption preview: ☀️ [Motivational] Dream bigger. Do bigger.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mindset...
+2026-07-14 10:42:52,165 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-14 10:42:52,170 [INFO] ✅ Slot [morning_motivation] published successfully!
