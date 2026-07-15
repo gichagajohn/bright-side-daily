@@ -4398,5 +4398,26 @@
       "post_id": "1181533578372151_122113785543364831"
     },
     "timestamp": "2026-07-15T12:12:23.015061"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Fact: don't wait for opportunity. create it.",
+      "content_index": 60,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-07-15",
+      "timestamp": "2026-07-15T14:57:10.612152",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Fact: don't wait for opportunity. create it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122113853991364831",
+      "post_id": "1181533578372151_122113854009364831"
+    },
+    "timestamp": "2026-07-15T14:57:15.780901"
   }
 ]

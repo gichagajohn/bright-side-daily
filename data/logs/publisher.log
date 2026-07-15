@@ -3216,3 +3216,16 @@ Share this with someone who needs it today! 💛
 #Mo...
 2026-07-15 12:12:23,013 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-15 12:12:23,019 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-15 14:57:10,440 [INFO] Failed posts list is empty.
+2026-07-15 14:57:10,584 [INFO] ──────────────────────────────────────────────────
+2026-07-15 14:57:10,584 [INFO] ▶  Running slot: morning_motivation
+2026-07-15 14:57:10,584 [INFO] ──────────────────────────────────────────────────
+2026-07-15 14:57:10,612 [INFO] 📝 Content selected: Fact: don't wait for opportunity. create it....
+2026-07-15 14:57:10,760 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260715_145710.png
+2026-07-15 14:57:10,761 [INFO] Caption preview: ☀️ Fact: don't wait for opportunity. create it.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mi...
+2026-07-15 14:57:15,779 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-15 14:57:15,785 [INFO] ✅ Slot [morning_motivation] published successfully!
