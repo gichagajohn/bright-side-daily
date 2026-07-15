@@ -4356,5 +4356,26 @@
       "post_id": "1181533578372151_122113756767364831"
     },
     "timestamp": "2026-07-15T09:10:39.580849"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "When you reach... hang on.",
+      "content_index": 143,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-07-15",
+      "timestamp": "2026-07-15T10:46:43.796166",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f When you reach... hang on.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122113770759364831",
+      "post_id": "1181533578372151_122113770777364831"
+    },
+    "timestamp": "2026-07-15T10:46:48.405210"
   }
 ]
