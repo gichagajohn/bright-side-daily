@@ -3242,3 +3242,14 @@ Share this with someone who needs it today! 💛
 #Gr...
 2026-07-15 17:00:06,255 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-15 17:00:06,260 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-15 19:01:49,028 [INFO] Failed posts list is empty.
+2026-07-15 19:01:49,167 [INFO] ──────────────────────────────────────────────────
+2026-07-15 19:01:49,167 [INFO] ▶  Running slot: morning_motivation
+2026-07-15 19:01:49,167 [INFO] ──────────────────────────────────────────────────
+2026-07-15 19:01:49,196 [INFO] 📝 Content selected: The future belongs to those who believe in the beauty of their dreams. — keep go...
+2026-07-15 19:01:49,366 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260715_190149.png
+2026-07-15 19:01:49,366 [INFO] Caption preview: ☀️ The future belongs to those who believe in the beauty of their dreams. — keep going.
+
+Share this with someone who nee...
+2026-07-15 19:01:54,714 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-15 19:01:54,719 [INFO] ✅ Slot [morning_motivation] published successfully!

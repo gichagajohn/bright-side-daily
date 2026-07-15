@@ -4440,5 +4440,26 @@
       "post_id": "1181533578372151_122113877901364831"
     },
     "timestamp": "2026-07-15T17:00:06.256526"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The future belongs to those who believe in the beauty of their dreams. \u2014 keep going.",
+      "content_index": 392,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-07-15",
+      "timestamp": "2026-07-15T19:01:49.196462",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The future belongs to those who believe in the beauty of their dreams. \u2014 keep going.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122113900263364831",
+      "post_id": "1181533578372151_122113900281364831"
+    },
+    "timestamp": "2026-07-15T19:01:54.715571"
   }
 ]
