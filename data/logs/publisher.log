@@ -3203,3 +3203,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #Dail...
 2026-07-15 10:46:48,403 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-15 10:46:48,409 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-15 12:12:16,790 [INFO] Failed posts list is empty.
+2026-07-15 12:12:16,934 [INFO] ──────────────────────────────────────────────────
+2026-07-15 12:12:16,934 [INFO] ▶  Running slot: morning_motivation
+2026-07-15 12:12:16,934 [INFO] ──────────────────────────────────────────────────
+2026-07-15 12:12:16,963 [INFO] 📝 Content selected: Don't limit your challenges. Challenge your limits. — keep going....
+2026-07-15 12:12:17,097 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260715_121217.png
+2026-07-15 12:12:17,097 [INFO] Caption preview: ☀️ Don't limit your challenges. Challenge your limits. — keep going.
+
+Share this with someone who needs it today! 💛
+
+#Mo...
+2026-07-15 12:12:23,013 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-15 12:12:23,019 [INFO] ✅ Slot [morning_motivation] published successfully!
