@@ -3303,3 +3303,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Suc...
 2026-07-16 12:18:51,399 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-16 12:18:51,404 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-16 15:07:29,683 [INFO] Failed posts list is empty.
+2026-07-16 15:07:29,778 [INFO] ──────────────────────────────────────────────────
+2026-07-16 15:07:29,778 [INFO] ▶  Running slot: morning_motivation
+2026-07-16 15:07:29,778 [INFO] ──────────────────────────────────────────────────
+2026-07-16 15:07:29,797 [INFO] 📝 Content selected: It's going to... not impossible....
+2026-07-16 15:07:29,857 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260716_150729.png
+2026-07-16 15:07:29,857 [INFO] Caption preview: ☀️ It's going to... not impossible.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters...
+2026-07-16 15:07:35,297 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-16 15:07:35,300 [INFO] ✅ Slot [morning_motivation] published successfully!
