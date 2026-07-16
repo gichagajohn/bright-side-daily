@@ -3329,3 +3329,12 @@ Share this with someone who needs it today! 💛
 #Gratitude #Thankful #CountYourB...
 2026-07-16 16:57:58,481 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-16 16:57:58,487 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-16 19:01:12,118 [INFO] Failed posts list is empty.
+2026-07-16 19:01:12,273 [INFO] ──────────────────────────────────────────────────
+2026-07-16 19:01:12,274 [INFO] ▶  Running slot: morning_motivation
+2026-07-16 19:01:12,274 [INFO] ──────────────────────────────────────────────────
+2026-07-16 19:01:12,305 [INFO] 📝 Content selected: Never forget: if you set your goals ridiculously high and it's a failure, you wi...
+2026-07-16 19:01:12,420 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260716_190112.png
+2026-07-16 19:01:12,420 [INFO] Caption preview: ☀️ Never forget: if you set your goals ridiculously high and it's a failure, you will fail above everyone else's success...
+2026-07-16 19:01:19,041 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-16 19:01:19,047 [INFO] ✅ Slot [morning_motivation] published successfully!

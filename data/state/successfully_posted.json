@@ -4587,5 +4587,26 @@
       "post_id": "1181533578372151_122114133093364831"
     },
     "timestamp": "2026-07-16T16:57:58.483056"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Never forget: if you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+      "content_index": 372,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T19:01:12.305430",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Never forget: if you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122114201085364831",
+      "post_id": "1181533578372151_122114201109364831"
+    },
+    "timestamp": "2026-07-16T19:01:19.042948"
   }
 ]
