@@ -4503,5 +4503,26 @@
       "post_id": "1181533578372151_122114051025364831"
     },
     "timestamp": "2026-07-16T09:17:32.694515"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Do not go... a trail.",
+      "content_index": 118,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T10:56:26.065295",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Do not go... a trail.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122114065683364831",
+      "post_id": "1181533578372151_122114065701364831"
+    },
+    "timestamp": "2026-07-16T10:56:34.970377"
   }
 ]
