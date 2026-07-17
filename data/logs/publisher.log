@@ -3397,3 +3397,16 @@ Share this with someone who needs it today! 💛
 #Mo...
 2026-07-17 14:47:51,216 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-17 14:47:51,222 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-17 16:54:42,367 [INFO] Failed posts list is empty.
+2026-07-17 16:54:42,511 [INFO] ──────────────────────────────────────────────────
+2026-07-17 16:54:42,511 [INFO] ▶  Running slot: evening_reflection
+2026-07-17 16:54:42,511 [INFO] ──────────────────────────────────────────────────
+2026-07-17 16:54:42,546 [INFO] 📝 Content selected: Joy is the simplest form of gratitude....
+2026-07-17 16:54:42,661 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260717_165442.png
+2026-07-17 16:54:42,661 [INFO] Caption preview: 🌙 Joy is the simplest form of gratitude.
+
+Share this with someone who needs it today! 💛
+
+#Gratitude #Thankful #CountYour...
+2026-07-17 16:54:51,525 [INFO] ✅ Posted successfully [evening_reflection]
+2026-07-17 16:54:51,531 [INFO] ✅ Slot [evening_reflection] published successfully!
