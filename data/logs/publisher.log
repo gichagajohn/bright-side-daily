@@ -3338,3 +3338,14 @@ Share this with someone who needs it today! 💛
 2026-07-16 19:01:12,420 [INFO] Caption preview: ☀️ Never forget: if you set your goals ridiculously high and it's a failure, you will fail above everyone else's success...
 2026-07-16 19:01:19,041 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-16 19:01:19,047 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-17 07:16:36,692 [INFO] Failed posts list is empty.
+2026-07-17 07:16:36,836 [INFO] ──────────────────────────────────────────────────
+2026-07-17 07:16:36,836 [INFO] ▶  Running slot: positive_quote
+2026-07-17 07:16:36,836 [INFO] ──────────────────────────────────────────────────
+2026-07-17 07:16:36,866 [INFO] 📝 Content selected: People who are crazy enough to think they can change the world are the ones who ...
+2026-07-17 07:16:37,053 [INFO] Publishing [positive_quote] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/positive_quote_20260717_071636.png
+2026-07-17 07:16:37,054 [INFO] Caption preview: 🌟 People who are crazy enough to think they can change the world are the ones who do. — believe it.
+
+Share this with som...
+2026-07-17 07:16:42,255 [INFO] ✅ Posted successfully [positive_quote]
+2026-07-17 07:16:42,260 [INFO] ✅ Slot [positive_quote] published successfully!
