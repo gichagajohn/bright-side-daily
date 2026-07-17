@@ -3410,3 +3410,16 @@ Share this with someone who needs it today! 💛
 #Gratitude #Thankful #CountYour...
 2026-07-17 16:54:51,525 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-17 16:54:51,531 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-17 18:58:39,707 [INFO] Failed posts list is empty.
+2026-07-17 18:58:39,865 [INFO] ──────────────────────────────────────────────────
+2026-07-17 18:58:39,865 [INFO] ▶  Running slot: engagement_question
+2026-07-17 18:58:39,865 [INFO] ──────────────────────────────────────────────────
+2026-07-17 18:58:39,897 [INFO] 📝 Content selected: What's something you've... do today?...
+2026-07-17 18:58:40,006 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260717_185839.png
+2026-07-17 18:58:40,006 [INFO] Caption preview: 💬 What's something you've... do today?
+
+Drop your answer in the comments below 👇
+
+#Community #ShareYourThoughts #Questio...
+2026-07-17 18:58:45,824 [INFO] ✅ Posted successfully [engagement_question]
+2026-07-17 18:58:45,830 [INFO] ✅ Slot [engagement_question] published successfully!
