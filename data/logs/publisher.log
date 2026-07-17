@@ -3371,3 +3371,16 @@ Tag someone who can r...
 Share this with someone who need...
 2026-07-17 10:44:23,802 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-17 10:44:23,808 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-17 12:06:02,727 [INFO] Failed posts list is empty.
+2026-07-17 12:06:02,872 [INFO] ──────────────────────────────────────────────────
+2026-07-17 12:06:02,872 [INFO] ▶  Running slot: morning_motivation
+2026-07-17 12:06:02,872 [INFO] ──────────────────────────────────────────────────
+2026-07-17 12:06:02,903 [INFO] 📝 Content selected: Fact: dream it. wish it. do it....
+2026-07-17 12:06:03,048 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260717_120602.png
+2026-07-17 12:06:03,048 [INFO] Caption preview: ☀️ Fact: dream it. wish it. do it.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters ...
+2026-07-17 12:06:12,945 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-17 12:06:12,951 [INFO] ✅ Slot [morning_motivation] published successfully!

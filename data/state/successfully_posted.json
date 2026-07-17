@@ -4671,5 +4671,26 @@
       "post_id": "1181533578372151_122114462499364831"
     },
     "timestamp": "2026-07-17T10:44:23.803986"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Fact: dream it. wish it. do it.",
+      "content_index": 223,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T12:06:02.903720",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Fact: dream it. wish it. do it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122114470923364831",
+      "post_id": "1181533578372151_122114470947364831"
+    },
+    "timestamp": "2026-07-17T12:06:12.947134"
   }
 ]
