@@ -3360,3 +3360,14 @@ Share this with som...
 Tag someone who can r...
 2026-07-17 09:11:33,478 [INFO] ✅ Posted successfully [funny_meme]
 2026-07-17 09:11:33,483 [INFO] ✅ Slot [funny_meme] published successfully!
+2026-07-17 10:44:11,287 [INFO] Failed posts list is empty.
+2026-07-17 10:44:11,442 [INFO] ──────────────────────────────────────────────────
+2026-07-17 10:44:11,442 [INFO] ▶  Running slot: morning_motivation
+2026-07-17 10:44:11,442 [INFO] ──────────────────────────────────────────────────
+2026-07-17 10:44:11,473 [INFO] 📝 Content selected: It does not matter how slowly you go as long as you do not stop. — you've got th...
+2026-07-17 10:44:11,624 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260717_104411.png
+2026-07-17 10:44:11,624 [INFO] Caption preview: ☀️ It does not matter how slowly you go as long as you do not stop. — you've got this.
+
+Share this with someone who need...
+2026-07-17 10:44:23,802 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-17 10:44:23,808 [INFO] ✅ Slot [morning_motivation] published successfully!
