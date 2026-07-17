@@ -3384,3 +3384,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters ...
 2026-07-17 12:06:12,945 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-17 12:06:12,951 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-17 14:47:38,957 [INFO] Failed posts list is empty.
+2026-07-17 14:47:39,135 [INFO] ──────────────────────────────────────────────────
+2026-07-17 14:47:39,135 [INFO] ▶  Running slot: morning_motivation
+2026-07-17 14:47:39,135 [INFO] ──────────────────────────────────────────────────
+2026-07-17 14:47:39,168 [INFO] 📝 Content selected: [Motivational] Act as if what you do makes a difference. It does....
+2026-07-17 14:47:39,278 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260717_144739.png
+2026-07-17 14:47:39,279 [INFO] Caption preview: ☀️ [Motivational] Act as if what you do makes a difference. It does.
+
+Share this with someone who needs it today! 💛
+
+#Mo...
+2026-07-17 14:47:51,216 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-17 14:47:51,222 [INFO] ✅ Slot [morning_motivation] published successfully!
