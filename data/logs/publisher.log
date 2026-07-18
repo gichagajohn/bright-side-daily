@@ -3445,3 +3445,14 @@ Share this with someone who needs it today! 💛...
 Share this with someone w...
 2026-07-18 08:50:01,204 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-18 08:50:01,210 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-18 10:16:31,394 [INFO] Failed posts list is empty.
+2026-07-18 10:16:31,562 [INFO] ──────────────────────────────────────────────────
+2026-07-18 10:16:31,562 [INFO] ▶  Running slot: morning_motivation
+2026-07-18 10:16:31,562 [INFO] ──────────────────────────────────────────────────
+2026-07-18 10:16:31,599 [INFO] 📝 Content selected: In the end, it's not the years in your life that count. It's the life in your ye...
+2026-07-18 10:16:31,762 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260718_101631.png
+2026-07-18 10:16:31,762 [INFO] Caption preview: ☀️ In the end, it's not the years in your life that count. It's the life in your years. — you've got this.
+
+Share this w...
+2026-07-18 10:16:44,507 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-18 10:16:44,513 [INFO] ✅ Slot [morning_motivation] published successfully!
