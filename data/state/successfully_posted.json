@@ -4902,5 +4902,26 @@
       "post_id": "1181533578372151_122114921937364831"
     },
     "timestamp": "2026-07-18T18:54:37.188886"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The greatest battle is the one within. Win that first.",
+      "content_index": 526,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T20:59:16.768094",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The greatest battle is the one within. Win that first.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122114986983364831",
+      "post_id": "1181533578372151_122114987001364831"
+    },
+    "timestamp": "2026-07-18T20:59:23.124434"
   }
 ]

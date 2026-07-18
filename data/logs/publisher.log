@@ -3506,3 +3506,16 @@ Drop your answer in the comments below 👇
 #Commu...
 2026-07-18 18:54:37,187 [INFO] ✅ Posted successfully [engagement_question]
 2026-07-18 18:54:37,193 [INFO] ✅ Slot [engagement_question] published successfully!
+2026-07-18 20:59:16,589 [INFO] Failed posts list is empty.
+2026-07-18 20:59:16,733 [INFO] ──────────────────────────────────────────────────
+2026-07-18 20:59:16,733 [INFO] ▶  Running slot: morning_motivation
+2026-07-18 20:59:16,733 [INFO] ──────────────────────────────────────────────────
+2026-07-18 20:59:16,768 [INFO] 📝 Content selected: The greatest battle is the one within. Win that first....
+2026-07-18 20:59:16,956 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260718_205916.png
+2026-07-18 20:59:16,956 [INFO] Caption preview: ☀️ The greatest battle is the one within. Win that first.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #S...
+2026-07-18 20:59:23,122 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-18 20:59:23,128 [INFO] ✅ Slot [morning_motivation] published successfully!
