@@ -3434,3 +3434,14 @@ Drop your answer in the comments below 👇
 Share this with someone who needs it today! 💛...
 2026-07-18 07:00:45,792 [INFO] ✅ Posted successfully [positive_quote]
 2026-07-18 07:00:45,797 [INFO] ✅ Slot [positive_quote] published successfully!
+2026-07-18 08:49:55,032 [INFO] Failed posts list is empty.
+2026-07-18 08:49:55,187 [INFO] ──────────────────────────────────────────────────
+2026-07-18 08:49:55,187 [INFO] ▶  Running slot: morning_motivation
+2026-07-18 08:49:55,187 [INFO] ──────────────────────────────────────────────────
+2026-07-18 08:49:55,220 [INFO] 📝 Content selected: You don't have to be great to start, but you have to start to be great. — you've...
+2026-07-18 08:49:55,379 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260718_084955.png
+2026-07-18 08:49:55,379 [INFO] Caption preview: ☀️ You don't have to be great to start, but you have to start to be great. — you've got this.
+
+Share this with someone w...
+2026-07-18 08:50:01,204 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-18 08:50:01,210 [INFO] ✅ Slot [morning_motivation] published successfully!
