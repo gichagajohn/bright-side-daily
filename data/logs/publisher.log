@@ -3456,3 +3456,16 @@ Share this with someone w...
 Share this w...
 2026-07-18 10:16:44,507 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-18 10:16:44,513 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-18 11:50:55,717 [INFO] Failed posts list is empty.
+2026-07-18 11:50:55,834 [INFO] ──────────────────────────────────────────────────
+2026-07-18 11:50:55,834 [INFO] ▶  Running slot: self_improvement
+2026-07-18 11:50:55,834 [INFO] ──────────────────────────────────────────────────
+2026-07-18 11:50:55,860 [INFO] 📝 Content selected: You must do the things you think you cannot do. — start today....
+2026-07-18 11:50:55,973 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260718_115055.png
+2026-07-18 11:50:55,973 [INFO] Caption preview: 📈 You must do the things you think you cannot do. — start today.
+
+Share this with someone who needs it today! 💛
+
+#Person...
+2026-07-18 11:51:03,688 [INFO] ✅ Posted successfully [self_improvement]
+2026-07-18 11:51:03,692 [INFO] ✅ Slot [self_improvement] published successfully!
