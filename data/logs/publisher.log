@@ -3493,3 +3493,16 @@ Share this with someone who needs it today! 💛
 #Gratitude ...
 2026-07-18 16:40:04,212 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-18 16:40:04,218 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-18 18:54:30,225 [INFO] Failed posts list is empty.
+2026-07-18 18:54:30,375 [INFO] ──────────────────────────────────────────────────
+2026-07-18 18:54:30,375 [INFO] ▶  Running slot: engagement_question
+2026-07-18 18:54:30,375 [INFO] ──────────────────────────────────────────────────
+2026-07-18 18:54:30,409 [INFO] 📝 Content selected: What's the best piece of advice you've ever received? — start today....
+2026-07-18 18:54:30,647 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260718_185430.png
+2026-07-18 18:54:30,647 [INFO] Caption preview: 💬 What's the best piece of advice you've ever received? — start today.
+
+Drop your answer in the comments below 👇
+
+#Commu...
+2026-07-18 18:54:37,187 [INFO] ✅ Posted successfully [engagement_question]
+2026-07-18 18:54:37,193 [INFO] ✅ Slot [engagement_question] published successfully!
