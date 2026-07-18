@@ -4944,5 +4944,26 @@
       "post_id": "1181533578372151_122114988033364831"
     },
     "timestamp": "2026-07-18T21:09:44.905326"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Today's choices are tomorrow's results.",
+      "content_index": 239,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T21:38:18.642018",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Today's choices are tomorrow's results.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122114990745364831",
+      "post_id": "1181533578372151_122114990763364831"
+    },
+    "timestamp": "2026-07-18T21:39:16.600979"
   }
 ]
