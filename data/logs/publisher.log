@@ -3469,3 +3469,14 @@ Share this with someone who needs it today! 💛
 #Person...
 2026-07-18 11:51:03,688 [INFO] ✅ Posted successfully [self_improvement]
 2026-07-18 11:51:03,692 [INFO] ✅ Slot [self_improvement] published successfully!
+2026-07-18 14:21:54,226 [INFO] Failed posts list is empty.
+2026-07-18 14:21:54,378 [INFO] ──────────────────────────────────────────────────
+2026-07-18 14:21:54,379 [INFO] ▶  Running slot: morning_motivation
+2026-07-18 14:21:54,379 [INFO] ──────────────────────────────────────────────────
+2026-07-18 14:21:54,412 [INFO] 📝 Content selected: Life is 10% what happens to you and 90% how you react to it. — keep going....
+2026-07-18 14:21:54,518 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260718_142154.png
+2026-07-18 14:21:54,518 [INFO] Caption preview: ☀️ Life is 10% what happens to you and 90% how you react to it. — keep going.
+
+Share this with someone who needs it toda...
+2026-07-18 14:21:59,656 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-18 14:21:59,662 [INFO] ✅ Slot [morning_motivation] published successfully!
