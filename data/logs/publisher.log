@@ -3519,3 +3519,16 @@ Share this with someone who needs it today! 💛
 #Motivation #S...
 2026-07-18 20:59:23,122 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-18 20:59:23,128 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-18 21:09:33,911 [INFO] Failed posts list is empty.
+2026-07-18 21:09:34,016 [INFO] ──────────────────────────────────────────────────
+2026-07-18 21:09:34,016 [INFO] ▶  Running slot: morning_motivation
+2026-07-18 21:09:34,016 [INFO] ──────────────────────────────────────────────────
+2026-07-18 21:09:34,044 [INFO] 📝 Content selected: Don't stop until you're proud....
+2026-07-18 21:09:34,153 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260718_210934.png
+2026-07-18 21:09:34,154 [INFO] Caption preview: ☀️ Don't stop until you're proud.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #...
+2026-07-18 21:09:44,903 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-18 21:09:44,908 [INFO] ✅ Slot [morning_motivation] published successfully!
