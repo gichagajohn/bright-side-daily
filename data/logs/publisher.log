@@ -3637,3 +3637,16 @@ Share this with someone who needs it today! 💛
 #Mo...
 2026-07-19 14:25:10,097 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-19 14:25:10,104 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-19 14:45:43,922 [INFO] Failed posts list is empty.
+2026-07-19 14:45:44,048 [INFO] ──────────────────────────────────────────────────
+2026-07-19 14:45:44,048 [INFO] ▶  Running slot: morning_motivation
+2026-07-19 14:45:44,049 [INFO] ──────────────────────────────────────────────────
+2026-07-19 14:45:44,083 [INFO] 📝 Content selected: Don't tell people your dreams. Show them....
+2026-07-19 14:45:44,184 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260719_144544.png
+2026-07-19 14:45:44,184 [INFO] Caption preview: ☀️ Don't tell people your dreams. Show them.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Minds...
+2026-07-19 14:45:49,940 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-19 14:45:50,019 [INFO] ✅ Slot [morning_motivation] published successfully!
