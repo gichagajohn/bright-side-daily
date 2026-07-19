@@ -3624,3 +3624,16 @@ Share this with someone who needs it today! 💛
 2026-07-19 11:54:25,384 [INFO] ▶  Running slot: afternoon_wisdom
 2026-07-19 11:54:25,384 [INFO] ──────────────────────────────────────────────────
 2026-07-19 11:54:25,420 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-07-19 14:25:05,429 [INFO] Failed posts list is empty.
+2026-07-19 14:25:05,583 [INFO] ──────────────────────────────────────────────────
+2026-07-19 14:25:05,583 [INFO] ▶  Running slot: morning_motivation
+2026-07-19 14:25:05,583 [INFO] ──────────────────────────────────────────────────
+2026-07-19 14:25:05,626 [INFO] 📝 Content selected: Rise up, start fresh, see the bright opportunity in each new day....
+2026-07-19 14:25:05,772 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260719_142505.png
+2026-07-19 14:25:05,773 [INFO] Caption preview: ☀️ Rise up, start fresh, see the bright opportunity in each new day.
+
+Share this with someone who needs it today! 💛
+
+#Mo...
+2026-07-19 14:25:10,097 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-19 14:25:10,104 [INFO] ✅ Slot [morning_motivation] published successfully!

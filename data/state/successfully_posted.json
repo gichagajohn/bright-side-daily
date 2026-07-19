@@ -5070,5 +5070,26 @@
       "post_id": "1181533578372151_122115146673364831"
     },
     "timestamp": "2026-07-19T10:25:32.576078"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Rise up, start fresh, see the bright opportunity in each new day.",
+      "content_index": 94,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T14:25:05.626855",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Rise up, start fresh, see the bright opportunity in each new day.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122115222513364831",
+      "post_id": "1181533578372151_122115222531364831"
+    },
+    "timestamp": "2026-07-19T14:25:10.099426"
   }
 ]
