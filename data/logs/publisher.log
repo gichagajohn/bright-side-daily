@@ -3650,3 +3650,14 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Minds...
 2026-07-19 14:45:49,940 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-19 14:45:50,019 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-19 15:59:11,945 [INFO] Failed posts list is empty.
+2026-07-19 15:59:12,112 [INFO] ──────────────────────────────────────────────────
+2026-07-19 15:59:12,112 [INFO] ▶  Running slot: engagement_question
+2026-07-19 15:59:12,112 [INFO] ──────────────────────────────────────────────────
+2026-07-19 15:59:12,151 [INFO] 📝 Content selected: What's a question you keep asking yourself that might be the most important one?...
+2026-07-19 15:59:12,317 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260719_155912.png
+2026-07-19 15:59:12,317 [INFO] Caption preview: 💬 What's a question you keep asking yourself that might be the most important one?
+
+Drop your answer in the comments bel...
+2026-07-19 15:59:18,325 [INFO] ✅ Posted successfully [engagement_question]
+2026-07-19 15:59:18,331 [INFO] ✅ Slot [engagement_question] published successfully!
