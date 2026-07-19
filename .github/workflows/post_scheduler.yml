@@ -2,29 +2,34 @@ name: 🌟 Bright Side Daily — Auto Poster
 
 on:
   schedule:
-    # All times in UTC (Kenya/EAT = UTC+3)
-    - cron: '0 5 * * *'   # Morning Motivation   — 8:00 AM EAT
-    - cron: '0 7 * * *'   # Positive Quote        — 10:00 AM EAT
-    - cron: '0 9 * * *'   # Funny Meme            — 12:00 PM EAT
-    - cron: '0 11 * * *'  # Self Improvement      — 2:00 PM EAT
-    - cron: '0 13 * * *'  # Midday Encouragement  — 4:00 PM EAT
-    - cron: '0 16 * * *'  # Evening Reflection    — 7:00 PM EAT
-    - cron: '0 18 * * *'  # Engagement Question   — 9:00 PM EAT
+    # ── All times UTC. Kenya EAT = UTC+3 ──────────────────────────────────
+    # Facebook allows up to ~25 posts/day. 10 posts is well within limits.
+    #
+    #  UTC   →  EAT      Slot
+    - cron: '0 5 * * *'   # 08:00 AM EAT — Morning Motivation
+    - cron: '0 7 * * *'   # 10:00 AM EAT — Positive Quote
+    - cron: '0 8 * * *'   # 11:00 AM EAT — Self Improvement
+    - cron: '0 9 * * *'   # 12:00 PM EAT — Funny Meme
+    - cron: '0 10 * * *'  # 01:00 PM EAT — Midday Encouragement
+    - cron: '0 11 * * *'  # 02:00 PM EAT — Afternoon Wisdom
+    - cron: '0 13 * * *'  # 04:00 PM EAT — Gratitude Moment
+    - cron: '0 15 * * *'  # 06:00 PM EAT — Engagement Question
+    - cron: '0 16 * * *'  # 07:00 PM EAT — Evening Reflection
+    - cron: '0 18 * * *'  # 09:00 PM EAT — Night Inspiration
 
-  # Manual trigger for testing
   workflow_dispatch:
     inputs:
       slot:
-        description: 'Which slot to post (leave empty for auto-detect)'
+        description: 'Slot to post (leave empty for auto-detect)'
         required: false
         default: ''
       dry_run:
-        description: 'Dry run (true/false) — skips actual Facebook posting'
+        description: 'Dry run — true skips actual Facebook posting'
         required: false
         default: 'false'
 
 permissions:
-  contents: write   # needed to push state files back to repo
+  contents: write
 
 jobs:
   post:
@@ -33,36 +38,36 @@ jobs:
     timeout-minutes: 15
 
     steps:
-      # ── 1. Checkout ──────────────────────────────────────────────────────────
+      # ── 1. Checkout ────────────────────────────────────────────────────────
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
 
-      # ── 2. Setup Python ───────────────────────────────────────────────────────
+      # ── 2. Python setup ────────────────────────────────────────────────────
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
 
-      # ── 3. Install dependencies ───────────────────────────────────────────────
+      # ── 3. Dependencies ────────────────────────────────────────────────────
       - name: Install dependencies
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      # ── 4. Generate content library (if missing) ──────────────────────────────
+      # ── 4. Content library check ───────────────────────────────────────────
       - name: Generate content library (if missing)
         run: |
           if [ ! -f "content/library.json" ]; then
-            echo "📚 Content library not found — generating..."
+            echo "Content library missing — generating..."
             python scripts/generate_content_library.py
           else
-            echo "✅ Content library exists."
+            echo "Content library exists."
           fi
 
-      # ── 5. Determine which slot to run ────────────────────────────────────────
+      # ── 5. Detect slot ─────────────────────────────────────────────────────
       - name: Determine slot
         id: slot_detect
         run: |
@@ -70,28 +75,37 @@ jobs:
           INPUT_SLOT="${{ github.event.inputs.slot }}"
 
           if [ -n "$INPUT_SLOT" ]; then
-            echo "slot=$INPUT_SLOT" >> $GITHUB_OUTPUT
-            echo "Manually specified slot: $INPUT_SLOT"
+            SLOT="$INPUT_SLOT"
+            echo "Manual slot: $SLOT"
           elif [ "$HOUR" = "05" ]; then
-            echo "slot=morning_motivation" >> $GITHUB_OUTPUT
+            SLOT="morning_motivation"
           elif [ "$HOUR" = "07" ]; then
-            echo "slot=positive_quote" >> $GITHUB_OUTPUT
+            SLOT="positive_quote"
+          elif [ "$HOUR" = "08" ]; then
+            SLOT="self_improvement"
           elif [ "$HOUR" = "09" ]; then
-            echo "slot=funny_meme" >> $GITHUB_OUTPUT
+            SLOT="funny_meme"
+          elif [ "$HOUR" = "10" ]; then
+            SLOT="midday_encouragement"
           elif [ "$HOUR" = "11" ]; then
-            echo "slot=self_improvement" >> $GITHUB_OUTPUT
+            SLOT="afternoon_wisdom"
           elif [ "$HOUR" = "13" ]; then
-            echo "slot=midday_encouragement" >> $GITHUB_OUTPUT
+            SLOT="gratitude_moment"
+          elif [ "$HOUR" = "15" ]; then
+            SLOT="engagement_question"
           elif [ "$HOUR" = "16" ]; then
-            echo "slot=evening_reflection" >> $GITHUB_OUTPUT
+            SLOT="evening_reflection"
           elif [ "$HOUR" = "18" ]; then
-            echo "slot=engagement_question" >> $GITHUB_OUTPUT
+            SLOT="night_inspiration"
           else
-            echo "slot=morning_motivation" >> $GITHUB_OUTPUT
-            echo "⚠️  Unknown hour $HOUR, defaulting to morning_motivation"
+            SLOT="morning_motivation"
+            echo "Unknown hour $HOUR — defaulting to morning_motivation"
           fi
 
-      # ── 6. Retry any previously failed posts ─────────────────────────────────
+          echo "slot=$SLOT" >> $GITHUB_OUTPUT
+          echo "Selected slot: $SLOT"
+
+      # ── 6. Retry failed posts ──────────────────────────────────────────────
       - name: Retry failed posts
         env:
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
@@ -99,7 +113,7 @@ jobs:
         run: |
           python src/scheduler.py --retry-failed || echo "No failed posts to retry."
 
-      # ── 7. Run the post slot ──────────────────────────────────────────────────
+      # ── 7. Post to Facebook ────────────────────────────────────────────────
       - name: Post to Facebook
         id: post
         env:
@@ -108,19 +122,19 @@ jobs:
           DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
         run: |
           SLOT="${{ steps.slot_detect.outputs.slot }}"
-          echo "🚀 Posting slot: $SLOT"
+          echo "Posting slot: $SLOT"
           python src/scheduler.py --slot "$SLOT"
 
-      # ── 8. Collect performance metrics ────────────────────────────────────────
+      # ── 8. Collect metrics ─────────────────────────────────────────────────
       - name: Collect engagement metrics
         env:
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
         run: |
-          python src/agents/performance_agent.py || echo "⚠️  Metrics collection skipped."
+          python src/agents/performance_agent.py || echo "Metrics skipped."
         continue-on-error: true
 
-      # ── 9. Save state back to repo ────────────────────────────────────────────
+      # ── 9. Commit state ────────────────────────────────────────────────────
       - name: Commit state files
         run: |
           git config --local user.email "brightside-bot@users.noreply.github.com"
@@ -130,7 +144,7 @@ jobs:
           git push
         continue-on-error: true
 
-      # ── 10. Upload generated images as artifacts ──────────────────────────────
+      # ── 10. Upload images ──────────────────────────────────────────────────
       - name: Upload post images
         uses: actions/upload-artifact@v4
         if: always()
@@ -139,7 +153,7 @@ jobs:
           path: images/output/
           retention-days: 30
 
-      # ── 11. Upload logs ───────────────────────────────────────────────────────
+      # ── 11. Upload logs ────────────────────────────────────────────────────
       - name: Upload logs
         uses: actions/upload-artifact@v4
         if: always()
