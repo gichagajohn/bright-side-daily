@@ -3599,3 +3599,18 @@ Tag someone who can relate! 😂
 #Relat...
 2026-07-19 09:44:56,062 [INFO] ✅ Posted successfully [funny_meme]
 2026-07-19 09:44:56,068 [INFO] ✅ Slot [funny_meme] published successfully!
+2026-07-19 10:24:47,308 [INFO] Failed posts list is empty.
+2026-07-19 10:24:47,458 [INFO] ──────────────────────────────────────────────────
+2026-07-19 10:24:47,458 [INFO] ▶  Running slot: midday_encouragement
+2026-07-19 10:24:47,459 [INFO] ──────────────────────────────────────────────────
+2026-07-19 10:24:47,496 [INFO] 📝 Content selected: One brave decision at a time — that's how champions are made....
+2026-07-19 10:24:47,652 [INFO] Publishing [midday_encouragement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/midday_encouragement_20260719_102447.png
+2026-07-19 10:24:47,652 [INFO] Caption preview: 💪 One brave decision at a time — that's how champions are made.
+
+Share this with someone who needs it today! 💛
+
+#YouGotT...
+2026-07-19 10:24:48,667 [WARNING] Attempt 1/3 failed: {'message': 'An unexpected error has occurred. Please retry your request later.', 'type': 'OAuthException', 'is_transient': True, 'code': 2, 'fbtrace_id': 'AkVx9zLp0vuPPfpgwmSsQed'}
+2026-07-19 10:24:48,667 [INFO] Retrying in 30s...
+2026-07-19 10:25:32,574 [INFO] ✅ Posted successfully [midday_encouragement]
+2026-07-19 10:25:32,580 [INFO] ✅ Slot [midday_encouragement] published successfully!
