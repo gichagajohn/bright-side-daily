@@ -5301,5 +5301,26 @@
       "post_id": "1181533578372151_122115612177364831"
     },
     "timestamp": "2026-07-20T17:14:01.804062"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Be brave enough to live life creatively.",
+      "content_index": 214,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T19:36:56.357453",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Be brave enough to live life creatively.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122115683973364831",
+      "post_id": "1181533578372151_122115683991364831"
+    },
+    "timestamp": "2026-07-20T19:37:03.681373"
   }
 ]

@@ -3778,3 +3778,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Succes...
 2026-07-20 17:14:01,802 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-20 17:14:01,808 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-20 19:36:56,166 [INFO] Failed posts list is empty.
+2026-07-20 19:36:56,316 [INFO] ──────────────────────────────────────────────────
+2026-07-20 19:36:56,316 [INFO] ▶  Running slot: morning_motivation
+2026-07-20 19:36:56,316 [INFO] ──────────────────────────────────────────────────
+2026-07-20 19:36:56,357 [INFO] 📝 Content selected: Be brave enough to live life creatively....
+2026-07-20 19:36:56,633 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260720_193656.png
+2026-07-20 19:36:56,633 [INFO] Caption preview: ☀️ Be brave enough to live life creatively.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mindse...
+2026-07-20 19:37:03,679 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-20 19:37:03,686 [INFO] ✅ Slot [morning_motivation] published successfully!
