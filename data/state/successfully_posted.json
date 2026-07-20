@@ -5217,5 +5217,26 @@
       "post_id": "1181533578372151_122115493107364831"
     },
     "timestamp": "2026-07-20T10:14:32.319288"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "Even when you feel least like a warrior, you are still very much in the fight.",
+      "content_index": 655,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "lone hiker emerging from a dense forest"
+      },
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T10:41:54.186659",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa Even when you feel least like a warrior, you are still very much in the fight.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122115501615364831",
+      "post_id": "1181533578372151_122115501639364831"
+    },
+    "timestamp": "2026-07-20T10:42:01.214582"
   }
 ]
