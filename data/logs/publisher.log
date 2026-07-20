@@ -3747,3 +3747,8 @@ Share this with someone who needs it today! 💛
 #Motivatio...
 2026-07-20 12:22:13,533 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-20 12:22:13,538 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-20 13:03:03,794 [INFO] Failed posts list is empty.
+2026-07-20 13:03:03,946 [INFO] ──────────────────────────────────────────────────
+2026-07-20 13:03:03,946 [INFO] ▶  Running slot: gratitude_moment
+2026-07-20 13:03:03,946 [INFO] ──────────────────────────────────────────────────
+2026-07-20 13:03:03,985 [ERROR] ❌ Content selection failed: 'gratitude_moment'
