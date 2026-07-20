@@ -3734,3 +3734,16 @@ Share this with someone who needs it t...
 2026-07-20 11:42:30,507 [INFO] ▶  Running slot: afternoon_wisdom
 2026-07-20 11:42:30,508 [INFO] ──────────────────────────────────────────────────
 2026-07-20 11:42:30,546 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-07-20 12:22:07,520 [INFO] Failed posts list is empty.
+2026-07-20 12:22:07,639 [INFO] ──────────────────────────────────────────────────
+2026-07-20 12:22:07,639 [INFO] ▶  Running slot: morning_motivation
+2026-07-20 12:22:07,639 [INFO] ──────────────────────────────────────────────────
+2026-07-20 12:22:07,677 [INFO] 📝 Content selected: Don't lose yourself in the process of becoming successful....
+2026-07-20 12:22:07,761 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260720_122207.png
+2026-07-20 12:22:07,761 [INFO] Caption preview: ☀️ Don't lose yourself in the process of becoming successful.
+
+Share this with someone who needs it today! 💛
+
+#Motivatio...
+2026-07-20 12:22:13,533 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-20 12:22:13,538 [INFO] ✅ Slot [morning_motivation] published successfully!

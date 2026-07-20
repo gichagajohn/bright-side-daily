@@ -5238,5 +5238,26 @@
       "post_id": "1181533578372151_122115501639364831"
     },
     "timestamp": "2026-07-20T10:42:01.214582"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Don't lose yourself in the process of becoming successful.",
+      "content_index": 343,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T12:22:07.677214",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Don't lose yourself in the process of becoming successful.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122115554265364831",
+      "post_id": "1181533578372151_122115554289364831"
+    },
+    "timestamp": "2026-07-20T12:22:13.534739"
   }
 ]
