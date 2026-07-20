@@ -3765,3 +3765,16 @@ Share this with someone who needs it today! 💛
 #Gr...
 2026-07-20 16:25:38,182 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-20 16:25:38,187 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-20 17:13:55,760 [INFO] Failed posts list is empty.
+2026-07-20 17:13:55,923 [INFO] ──────────────────────────────────────────────────
+2026-07-20 17:13:55,923 [INFO] ▶  Running slot: morning_motivation
+2026-07-20 17:13:55,923 [INFO] ──────────────────────────────────────────────────
+2026-07-20 17:13:55,965 [INFO] 📝 Content selected: Put your whole heart into it. Watch what happens....
+2026-07-20 17:13:56,136 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260720_171356.png
+2026-07-20 17:13:56,136 [INFO] Caption preview: ☀️ Put your whole heart into it. Watch what happens.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succes...
+2026-07-20 17:14:01,802 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-20 17:14:01,808 [INFO] ✅ Slot [morning_motivation] published successfully!

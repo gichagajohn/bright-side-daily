@@ -5280,5 +5280,26 @@
       "post_id": "1181533578372151_122115601251364831"
     },
     "timestamp": "2026-07-20T16:25:38.183963"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Put your whole heart into it. Watch what happens.",
+      "content_index": 652,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T17:13:55.965670",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Put your whole heart into it. Watch what happens.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122115612153364831",
+      "post_id": "1181533578372151_122115612177364831"
+    },
+    "timestamp": "2026-07-20T17:14:01.804062"
   }
 ]
