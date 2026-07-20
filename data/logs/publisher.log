@@ -3752,3 +3752,16 @@ Share this with someone who needs it today! 💛
 2026-07-20 13:03:03,946 [INFO] ▶  Running slot: gratitude_moment
 2026-07-20 13:03:03,946 [INFO] ──────────────────────────────────────────────────
 2026-07-20 13:03:03,985 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-07-20 16:25:32,604 [INFO] Failed posts list is empty.
+2026-07-20 16:25:32,726 [INFO] ──────────────────────────────────────────────────
+2026-07-20 16:25:32,726 [INFO] ▶  Running slot: evening_reflection
+2026-07-20 16:25:32,726 [INFO] ──────────────────────────────────────────────────
+2026-07-20 16:25:32,756 [INFO] 📝 Content selected: Your life is an answer to someone's prayer somewhere. Be grateful....
+2026-07-20 16:25:32,968 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260720_162532.png
+2026-07-20 16:25:32,968 [INFO] Caption preview: 🌙 Your life is an answer to someone's prayer somewhere. Be grateful.
+
+Share this with someone who needs it today! 💛
+
+#Gr...
+2026-07-20 16:25:38,182 [INFO] ✅ Posted successfully [evening_reflection]
+2026-07-20 16:25:38,187 [INFO] ✅ Slot [evening_reflection] published successfully!
