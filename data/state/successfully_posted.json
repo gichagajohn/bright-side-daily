@@ -5196,5 +5196,26 @@
       "post_id": "1181533578372151_122115476049364831"
     },
     "timestamp": "2026-07-20T07:58:29.470540"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "Don't let a hard season make you forget your worth.",
+      "content_index": 26,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "lighthouse in stormy sea"
+      },
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T10:14:26.662887",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa Don't let a hard season make you forget your worth.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122115493089364831",
+      "post_id": "1181533578372151_122115493107364831"
+    },
+    "timestamp": "2026-07-20T10:14:32.319288"
   }
 ]
