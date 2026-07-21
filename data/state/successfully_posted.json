@@ -5469,5 +5469,26 @@
       "post_id": "1181533578372151_122116034409364831"
     },
     "timestamp": "2026-07-21T17:03:49.523368"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Chase your vision so hard the world has no choice but to notice.",
+      "content_index": 604,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T19:10:12.625126",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Chase your vision so hard the world has no choice but to notice.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122116103823364831",
+      "post_id": "1181533578372151_122116103841364831"
+    },
+    "timestamp": "2026-07-21T19:10:17.723226"
   }
 ]

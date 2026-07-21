@@ -3892,3 +3892,16 @@ Share this with someone who needs it today! 💛
 #Motivation #...
 2026-07-21 17:03:49,521 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-21 17:03:49,528 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-21 19:10:12,476 [INFO] Failed posts list is empty.
+2026-07-21 19:10:12,592 [INFO] ──────────────────────────────────────────────────
+2026-07-21 19:10:12,592 [INFO] ▶  Running slot: morning_motivation
+2026-07-21 19:10:12,592 [INFO] ──────────────────────────────────────────────────
+2026-07-21 19:10:12,625 [INFO] 📝 Content selected: Chase your vision so hard the world has no choice but to notice....
+2026-07-21 19:10:12,721 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260721_191012.png
+2026-07-21 19:10:12,721 [INFO] Caption preview: ☀️ Chase your vision so hard the world has no choice but to notice.
+
+Share this with someone who needs it today! 💛
+
+#Mot...
+2026-07-21 19:10:17,721 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-21 19:10:17,727 [INFO] ✅ Slot [morning_motivation] published successfully!
