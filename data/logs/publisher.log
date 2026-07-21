@@ -3879,3 +3879,16 @@ Share this with someone who needs it today! 💛
 #Gratitude #...
 2026-07-21 16:24:40,688 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-21 16:24:40,695 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-21 17:03:42,117 [INFO] Failed posts list is empty.
+2026-07-21 17:03:42,269 [INFO] ──────────────────────────────────────────────────
+2026-07-21 17:03:42,269 [INFO] ▶  Running slot: morning_motivation
+2026-07-21 17:03:42,269 [INFO] ──────────────────────────────────────────────────
+2026-07-21 17:03:42,311 [INFO] 📝 Content selected: Strong people don't put others down. They lift them up....
+2026-07-21 17:03:42,524 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260721_170342.png
+2026-07-21 17:03:42,524 [INFO] Caption preview: ☀️ Strong people don't put others down. They lift them up.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #...
+2026-07-21 17:03:49,521 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-21 17:03:49,528 [INFO] ✅ Slot [morning_motivation] published successfully!

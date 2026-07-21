@@ -5448,5 +5448,26 @@
       "post_id": "1181533578372151_122116023093364831"
     },
     "timestamp": "2026-07-21T16:24:40.690416"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Strong people don't put others down. They lift them up.",
+      "content_index": 161,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T17:03:42.311677",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Strong people don't put others down. They lift them up.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122116034391364831",
+      "post_id": "1181533578372151_122116034409364831"
+    },
+    "timestamp": "2026-07-21T17:03:49.523368"
   }
 ]
