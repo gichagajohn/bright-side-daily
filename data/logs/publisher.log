@@ -3833,3 +3833,8 @@ Share this with someone who needs it today! 💛
 2026-07-21 11:05:46,005 [INFO] ▶  Running slot: afternoon_wisdom
 2026-07-21 11:05:46,005 [INFO] ──────────────────────────────────────────────────
 2026-07-21 11:05:46,047 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-07-21 11:52:01,056 [INFO] Failed posts list is empty.
+2026-07-21 11:52:01,203 [INFO] ──────────────────────────────────────────────────
+2026-07-21 11:52:01,203 [INFO] ▶  Running slot: afternoon_wisdom
+2026-07-21 11:52:01,203 [INFO] ──────────────────────────────────────────────────
+2026-07-21 11:52:01,245 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
