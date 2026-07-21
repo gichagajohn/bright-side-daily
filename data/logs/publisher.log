@@ -3791,3 +3791,14 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mindse...
 2026-07-20 19:37:03,679 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-20 19:37:03,686 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-21 07:32:46,221 [INFO] Failed posts list is empty.
+2026-07-21 07:32:46,375 [INFO] ──────────────────────────────────────────────────
+2026-07-21 07:32:46,375 [INFO] ▶  Running slot: positive_quote
+2026-07-21 07:32:46,375 [INFO] ──────────────────────────────────────────────────
+2026-07-21 07:32:46,416 [INFO] 📝 Content selected: Life is not measured by the number of breaths we take, but by the moments that t...
+2026-07-21 07:32:46,585 [INFO] Publishing [positive_quote] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/positive_quote_20260721_073246.png
+2026-07-21 07:32:46,585 [INFO] Caption preview: 🌟 Life is not measured by the number of breaths we take, but by the moments that take our breath away.
+
+Share this with ...
+2026-07-21 07:32:52,586 [INFO] ✅ Posted successfully [positive_quote]
+2026-07-21 07:32:52,592 [INFO] ✅ Slot [positive_quote] published successfully!
