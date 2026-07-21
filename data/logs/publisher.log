@@ -3866,3 +3866,16 @@ Drop your answer in the comments below 👇
 #Com...
 2026-07-21 15:07:53,150 [INFO] ✅ Posted successfully [engagement_question]
 2026-07-21 15:07:53,156 [INFO] ✅ Slot [engagement_question] published successfully!
+2026-07-21 16:24:30,564 [INFO] Failed posts list is empty.
+2026-07-21 16:24:30,718 [INFO] ──────────────────────────────────────────────────
+2026-07-21 16:24:30,718 [INFO] ▶  Running slot: evening_reflection
+2026-07-21 16:24:30,718 [INFO] ──────────────────────────────────────────────────
+2026-07-21 16:24:30,761 [INFO] 📝 Content selected: Your gratitude is a light that lights the way for others....
+2026-07-21 16:24:30,940 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260721_162430.png
+2026-07-21 16:24:30,940 [INFO] Caption preview: 🌙 Your gratitude is a light that lights the way for others.
+
+Share this with someone who needs it today! 💛
+
+#Gratitude #...
+2026-07-21 16:24:40,688 [INFO] ✅ Posted successfully [evening_reflection]
+2026-07-21 16:24:40,695 [INFO] ✅ Slot [evening_reflection] published successfully!
