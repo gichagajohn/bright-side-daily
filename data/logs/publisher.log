@@ -3853,3 +3853,16 @@ Share this with someone who needs it today! 💛
 2026-07-21 12:22:31,452 [INFO] Retrying in 30s...
 2026-07-21 12:23:07,055 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-21 12:23:07,061 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-21 15:07:47,266 [INFO] Failed posts list is empty.
+2026-07-21 15:07:47,383 [INFO] ──────────────────────────────────────────────────
+2026-07-21 15:07:47,383 [INFO] ▶  Running slot: engagement_question
+2026-07-21 15:07:47,383 [INFO] ──────────────────────────────────────────────────
+2026-07-21 15:07:47,424 [INFO] 📝 Content selected: What's a practice that connects you to what matters most in your life?...
+2026-07-21 15:07:47,514 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260721_150747.png
+2026-07-21 15:07:47,514 [INFO] Caption preview: 💬 What's a practice that connects you to what matters most in your life?
+
+Drop your answer in the comments below 👇
+
+#Com...
+2026-07-21 15:07:53,150 [INFO] ✅ Posted successfully [engagement_question]
+2026-07-21 15:07:53,156 [INFO] ✅ Slot [engagement_question] published successfully!
