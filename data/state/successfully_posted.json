@@ -5364,5 +5364,26 @@
       "post_id": "1181533578372151_122115915219364831"
     },
     "timestamp": "2026-07-21T09:28:55.669069"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "Your season of breakthrough is approaching.",
+      "content_index": 231,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "caterpillar becoming butterfly illustration"
+      },
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T10:16:03.458849",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa Your season of breakthrough is approaching.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122115921135364831",
+      "post_id": "1181533578372151_122115921153364831"
+    },
+    "timestamp": "2026-07-21T10:16:07.926379"
   }
 ]
