@@ -3993,3 +3993,16 @@ Share this with someone who needs it today! 💛
 #Gratitude #Thankfu...
 2026-07-22 16:21:15,401 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-22 16:21:15,408 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-22 17:03:26,129 [INFO] Failed posts list is empty.
+2026-07-22 17:03:26,236 [INFO] ──────────────────────────────────────────────────
+2026-07-22 17:03:26,236 [INFO] ▶  Running slot: morning_motivation
+2026-07-22 17:03:26,236 [INFO] ──────────────────────────────────────────────────
+2026-07-22 17:03:26,268 [INFO] 📝 Content selected: Stop wishing and start doing....
+2026-07-22 17:03:26,566 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260722_170326.png
+2026-07-22 17:03:26,566 [INFO] Caption preview: ☀️ Stop wishing and start doing.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #D...
+2026-07-22 17:03:31,703 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-22 17:03:31,708 [INFO] ✅ Slot [morning_motivation] published successfully!
