@@ -4006,3 +4006,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #D...
 2026-07-22 17:03:31,703 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-22 17:03:31,708 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-22 19:04:10,428 [INFO] Failed posts list is empty.
+2026-07-22 19:04:10,596 [INFO] ──────────────────────────────────────────────────
+2026-07-22 19:04:10,596 [INFO] ▶  Running slot: morning_motivation
+2026-07-22 19:04:10,596 [INFO] ──────────────────────────────────────────────────
+2026-07-22 19:04:10,645 [INFO] 📝 Content selected: Your actions are your legacy....
+2026-07-22 19:04:10,788 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260722_190410.png
+2026-07-22 19:04:10,788 [INFO] Caption preview: ☀️ Your actions are your legacy.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #D...
+2026-07-22 19:04:15,827 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-22 19:04:15,894 [INFO] ✅ Slot [morning_motivation] published successfully!

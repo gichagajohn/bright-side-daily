@@ -5637,5 +5637,26 @@
       "post_id": "1181533578372151_122116480647364831"
     },
     "timestamp": "2026-07-22T17:03:31.705075"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your actions are your legacy.",
+      "content_index": 428,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T19:04:10.645548",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your actions are your legacy.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122116507107364831",
+      "post_id": "1181533578372151_122116507137364831"
+    },
+    "timestamp": "2026-07-22T19:04:15.829258"
   }
 ]
