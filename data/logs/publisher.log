@@ -3905,3 +3905,16 @@ Share this with someone who needs it today! 💛
 #Mot...
 2026-07-21 19:10:17,721 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-21 19:10:17,727 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-22 07:33:53,963 [INFO] Failed posts list is empty.
+2026-07-22 07:33:54,114 [INFO] ──────────────────────────────────────────────────
+2026-07-22 07:33:54,114 [INFO] ▶  Running slot: positive_quote
+2026-07-22 07:33:54,114 [INFO] ──────────────────────────────────────────────────
+2026-07-22 07:33:54,157 [INFO] 📝 Content selected: Let life surprise you with its goodness....
+2026-07-22 07:33:54,289 [INFO] Publishing [positive_quote] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/positive_quote_20260722_073354.png
+2026-07-22 07:33:54,289 [INFO] Caption preview: 🌟 Let life surprise you with its goodness.
+
+Share this with someone who needs it today! 💛
+
+#PositiveVibes #HappyLife #Go...
+2026-07-22 07:34:00,069 [INFO] ✅ Posted successfully [positive_quote]
+2026-07-22 07:34:00,076 [INFO] ✅ Slot [positive_quote] published successfully!
