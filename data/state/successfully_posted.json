@@ -5553,5 +5553,26 @@
       "post_id": "1181533578372151_122116333953364831"
     },
     "timestamp": "2026-07-22T10:15:36.397431"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your discipline will outlast any talent in the room.",
+      "content_index": 651,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T12:23:23.694052",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your discipline will outlast any talent in the room.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122116363791364831",
+      "post_id": "1181533578372151_122116363815364831"
+    },
+    "timestamp": "2026-07-22T12:23:31.403294"
   }
 ]

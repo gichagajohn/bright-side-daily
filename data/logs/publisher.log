@@ -3954,3 +3954,16 @@ Share this with someone who needs it today! 💛
 2026-07-22 11:54:13,049 [INFO] ▶  Running slot: afternoon_wisdom
 2026-07-22 11:54:13,049 [INFO] ──────────────────────────────────────────────────
 2026-07-22 11:54:13,093 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-07-22 12:23:23,500 [INFO] Failed posts list is empty.
+2026-07-22 12:23:23,649 [INFO] ──────────────────────────────────────────────────
+2026-07-22 12:23:23,649 [INFO] ▶  Running slot: morning_motivation
+2026-07-22 12:23:23,649 [INFO] ──────────────────────────────────────────────────
+2026-07-22 12:23:23,694 [INFO] 📝 Content selected: Your discipline will outlast any talent in the room....
+2026-07-22 12:23:23,875 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260722_122323.png
+2026-07-22 12:23:23,875 [INFO] Caption preview: ☀️ Your discipline will outlast any talent in the room.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Suc...
+2026-07-22 12:23:31,401 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-22 12:23:31,408 [INFO] ✅ Slot [morning_motivation] published successfully!
