@@ -5595,5 +5595,26 @@
       "post_id": "1181533578372151_122116442631364831"
     },
     "timestamp": "2026-07-22T15:08:17.937174"
+  },
+  {
+    "post": {
+      "slot": "evening_reflection",
+      "category": "gratitude_quotes",
+      "content": "A heart full of thanks has no room for bitterness.",
+      "content_index": 296,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "journal with flowers and morning light"
+      },
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T16:21:10.202684",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83c\udf19 A heart full of thanks has no room for bitterness.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Gratitude #Thankful #CountYourBlessings #GratefulHeart #Blessed #BrightSideDaily",
+    "fb_response": {
+      "id": "122116470639364831",
+      "post_id": "1181533578372151_122116470657364831"
+    },
+    "timestamp": "2026-07-22T16:21:15.403131"
   }
 ]
