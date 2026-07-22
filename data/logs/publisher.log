@@ -3967,3 +3967,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Suc...
 2026-07-22 12:23:31,401 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-22 12:23:31,408 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-22 15:08:11,631 [INFO] Failed posts list is empty.
+2026-07-22 15:08:11,781 [INFO] ──────────────────────────────────────────────────
+2026-07-22 15:08:11,782 [INFO] ▶  Running slot: engagement_question
+2026-07-22 15:08:11,782 [INFO] ──────────────────────────────────────────────────
+2026-07-22 15:08:11,828 [INFO] 📝 Content selected: What's a conversation that changed your life?...
+2026-07-22 15:08:11,964 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260722_150811.png
+2026-07-22 15:08:11,965 [INFO] Caption preview: 💬 What's a conversation that changed your life?
+
+Drop your answer in the comments below 👇
+
+#Community #ShareYourThoughts...
+2026-07-22 15:08:17,935 [INFO] ✅ Posted successfully [engagement_question]
+2026-07-22 15:08:18,162 [INFO] ✅ Slot [engagement_question] published successfully!
