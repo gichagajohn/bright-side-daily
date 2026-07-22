@@ -5532,5 +5532,26 @@
       "post_id": "1181533578372151_122116329669364831"
     },
     "timestamp": "2026-07-22T09:28:23.096620"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "In your hardest moment, you are doing something extraordinary.",
+      "content_index": 309,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "sprout pushing through cracked concrete"
+      },
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T10:15:30.905072",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa In your hardest moment, you are doing something extraordinary.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122116333935364831",
+      "post_id": "1181533578372151_122116333953364831"
+    },
+    "timestamp": "2026-07-22T10:15:36.397431"
   }
 ]
