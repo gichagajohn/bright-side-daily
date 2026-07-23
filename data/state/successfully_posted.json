@@ -5721,5 +5721,26 @@
       "post_id": "1181533578372151_122116741497364831"
     },
     "timestamp": "2026-07-23T10:12:07.835394"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Stop looking for shortcuts. There aren't any to where you want to go.",
+      "content_index": 678,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T12:21:44.000690",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Stop looking for shortcuts. There aren't any to where you want to go.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122116784295364831",
+      "post_id": "1181533578372151_122116784313364831"
+    },
+    "timestamp": "2026-07-23T12:21:48.850948"
   }
 ]

@@ -4068,3 +4068,15 @@ Share this with someone who needs it today! 💛
 2026-07-23 11:55:22,633 [INFO] ▶  Running slot: afternoon_wisdom
 2026-07-23 11:55:22,633 [INFO] ──────────────────────────────────────────────────
 2026-07-23 11:55:22,682 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-07-23 12:21:43,815 [INFO] Failed posts list is empty.
+2026-07-23 12:21:43,952 [INFO] ──────────────────────────────────────────────────
+2026-07-23 12:21:43,952 [INFO] ▶  Running slot: morning_motivation
+2026-07-23 12:21:43,952 [INFO] ──────────────────────────────────────────────────
+2026-07-23 12:21:44,000 [INFO] 📝 Content selected: Stop looking for shortcuts. There aren't any to where you want to go....
+2026-07-23 12:21:44,131 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260723_122144.png
+2026-07-23 12:21:44,131 [INFO] Caption preview: ☀️ Stop looking for shortcuts. There aren't any to where you want to go.
+
+Share this with someone who needs it today! 💛
+...
+2026-07-23 12:21:48,849 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-23 12:21:48,855 [INFO] ✅ Slot [morning_motivation] published successfully!
