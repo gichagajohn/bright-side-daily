@@ -4063,3 +4063,8 @@ Share this with someone who needs it today! 💛
 2026-07-23 11:06:49,511 [INFO] ▶  Running slot: afternoon_wisdom
 2026-07-23 11:06:49,511 [INFO] ──────────────────────────────────────────────────
 2026-07-23 11:06:49,557 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-07-23 11:55:22,477 [INFO] Failed posts list is empty.
+2026-07-23 11:55:22,633 [INFO] ──────────────────────────────────────────────────
+2026-07-23 11:55:22,633 [INFO] ▶  Running slot: afternoon_wisdom
+2026-07-23 11:55:22,633 [INFO] ──────────────────────────────────────────────────
+2026-07-23 11:55:22,682 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
