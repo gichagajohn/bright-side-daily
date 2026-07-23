@@ -5805,5 +5805,26 @@
       "post_id": "1181533578372151_122116888203364831"
     },
     "timestamp": "2026-07-23T17:06:36.643021"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Do more than survive. Thrive.",
+      "content_index": 584,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T19:05:22.882263",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Do more than survive. Thrive.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122116922595364831",
+      "post_id": "1181533578372151_122116922613364831"
+    },
+    "timestamp": "2026-07-23T19:05:26.530747"
   }
 ]
