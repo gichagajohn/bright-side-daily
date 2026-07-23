@@ -4106,3 +4106,16 @@ Share this with someone who needs it today! 💛
 #Gratitude ...
 2026-07-23 16:37:26,945 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-23 16:37:26,953 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-23 17:06:31,892 [INFO] Failed posts list is empty.
+2026-07-23 17:06:32,044 [INFO] ──────────────────────────────────────────────────
+2026-07-23 17:06:32,044 [INFO] ▶  Running slot: morning_motivation
+2026-07-23 17:06:32,044 [INFO] ──────────────────────────────────────────────────
+2026-07-23 17:06:32,091 [INFO] 📝 Content selected: You were created to create....
+2026-07-23 17:06:32,197 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260723_170632.png
+2026-07-23 17:06:32,198 [INFO] Caption preview: ☀️ You were created to create.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #Dai...
+2026-07-23 17:06:36,641 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-23 17:06:36,648 [INFO] ✅ Slot [morning_motivation] published successfully!

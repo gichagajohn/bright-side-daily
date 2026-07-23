@@ -5784,5 +5784,26 @@
       "post_id": "1181533578372151_122116883979364831"
     },
     "timestamp": "2026-07-23T16:37:26.947117"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You were created to create.",
+      "content_index": 309,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T17:06:32.091428",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You were created to create.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122116888185364831",
+      "post_id": "1181533578372151_122116888203364831"
+    },
+    "timestamp": "2026-07-23T17:06:36.643021"
   }
 ]
