@@ -4080,3 +4080,16 @@ Share this with someone who needs it today! 💛
 ...
 2026-07-23 12:21:48,849 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-23 12:21:48,855 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-23 15:14:36,351 [INFO] Failed posts list is empty.
+2026-07-23 15:14:36,473 [INFO] ──────────────────────────────────────────────────
+2026-07-23 15:14:36,473 [INFO] ▶  Running slot: engagement_question
+2026-07-23 15:14:36,474 [INFO] ──────────────────────────────────────────────────
+2026-07-23 15:14:36,516 [INFO] 📝 Content selected: What are you becoming right now — and are you proud of it?...
+2026-07-23 15:14:36,613 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260723_151436.png
+2026-07-23 15:14:36,614 [INFO] Caption preview: 💬 What are you becoming right now — and are you proud of it?
+
+Drop your answer in the comments below 👇
+
+#Community #Shar...
+2026-07-23 15:14:41,566 [INFO] ✅ Posted successfully [engagement_question]
+2026-07-23 15:14:41,572 [INFO] ✅ Slot [engagement_question] published successfully!
