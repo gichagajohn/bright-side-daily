@@ -5700,5 +5700,26 @@
       "post_id": "1181533578372151_122116725675364831"
     },
     "timestamp": "2026-07-23T09:25:20.843975"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "You are not your mistakes. You are your potential.",
+      "content_index": 56,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "sprout pushing through cracked concrete"
+      },
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T10:12:02.065781",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa You are not your mistakes. You are your potential.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122116741479364831",
+      "post_id": "1181533578372151_122116741497364831"
+    },
+    "timestamp": "2026-07-23T10:12:07.835394"
   }
 ]
