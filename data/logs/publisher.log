@@ -4220,3 +4220,16 @@ Share this with someone who needs it today! 💛
 #Gratitude #Tha...
 2026-07-24 16:44:35,714 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-24 16:44:35,721 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-24 17:16:49,140 [INFO] Failed posts list is empty.
+2026-07-24 17:16:49,279 [INFO] ──────────────────────────────────────────────────
+2026-07-24 17:16:49,279 [INFO] ▶  Running slot: morning_motivation
+2026-07-24 17:16:49,279 [INFO] ──────────────────────────────────────────────────
+2026-07-24 17:16:49,329 [INFO] 📝 Content selected: You are a warrior, not a worrier....
+2026-07-24 17:16:49,433 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260724_171649.png
+2026-07-24 17:16:49,433 [INFO] Caption preview: ☀️ You are a warrior, not a worrier.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatter...
+2026-07-24 17:17:13,417 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-24 17:17:13,424 [INFO] ✅ Slot [morning_motivation] published successfully!

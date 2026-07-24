@@ -5952,5 +5952,26 @@
       "post_id": "1181533578372151_122117234661364831"
     },
     "timestamp": "2026-07-24T16:44:35.716250"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are a warrior, not a worrier.",
+      "content_index": 215,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-07-24",
+      "timestamp": "2026-07-24T17:16:49.329296",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are a warrior, not a worrier.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122117237931364831",
+      "post_id": "1181533578372151_122117237949364831"
+    },
+    "timestamp": "2026-07-24T17:17:13.419324"
   }
 ]
