@@ -4181,3 +4181,16 @@ Share this with someone who needs it today! 💛
 2026-07-24 11:47:32,612 [INFO] ▶  Running slot: afternoon_wisdom
 2026-07-24 11:47:32,612 [INFO] ──────────────────────────────────────────────────
 2026-07-24 11:47:32,662 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-07-24 12:16:46,442 [INFO] Failed posts list is empty.
+2026-07-24 12:16:46,593 [INFO] ──────────────────────────────────────────────────
+2026-07-24 12:16:46,593 [INFO] ▶  Running slot: morning_motivation
+2026-07-24 12:16:46,593 [INFO] ──────────────────────────────────────────────────
+2026-07-24 12:16:46,641 [INFO] 📝 Content selected: Make your weaknesses your greatest strengths....
+2026-07-24 12:16:46,754 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260724_121646.png
+2026-07-24 12:16:46,754 [INFO] Caption preview: ☀️ Make your weaknesses your greatest strengths.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #M...
+2026-07-24 12:16:51,880 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-24 12:16:51,887 [INFO] ✅ Slot [morning_motivation] published successfully!
