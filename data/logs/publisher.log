@@ -4194,3 +4194,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #M...
 2026-07-24 12:16:51,880 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-24 12:16:51,887 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-24 15:00:06,343 [INFO] Failed posts list is empty.
+2026-07-24 15:00:06,495 [INFO] ──────────────────────────────────────────────────
+2026-07-24 15:00:06,495 [INFO] ▶  Running slot: engagement_question
+2026-07-24 15:00:06,495 [INFO] ──────────────────────────────────────────────────
+2026-07-24 15:00:06,544 [INFO] 📝 Content selected: What's something you do every day that other people might find surprising?...
+2026-07-24 15:00:06,681 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260724_150006.png
+2026-07-24 15:00:06,681 [INFO] Caption preview: 💬 What's something you do every day that other people might find surprising?
+
+Drop your answer in the comments below 👇
+
+...
+2026-07-24 15:00:10,138 [INFO] ✅ Posted successfully [engagement_question]
+2026-07-24 15:00:10,145 [INFO] ✅ Slot [engagement_question] published successfully!
