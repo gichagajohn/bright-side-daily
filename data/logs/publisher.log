@@ -4270,3 +4270,14 @@ Share this with someone who needs it today! 💛
 Tag someone who can...
 2026-07-25 09:01:56,066 [INFO] ✅ Posted successfully [funny_meme]
 2026-07-25 09:01:56,074 [INFO] ✅ Slot [funny_meme] published successfully!
+2026-07-25 09:28:22,679 [INFO] Failed posts list is empty.
+2026-07-25 09:28:22,825 [INFO] ──────────────────────────────────────────────────
+2026-07-25 09:28:22,826 [INFO] ▶  Running slot: funny_meme
+2026-07-25 09:28:22,826 [INFO] ──────────────────────────────────────────────────
+2026-07-25 09:28:22,877 [INFO] 📝 Content selected: The very brave act of asking for help when you've been struggling in silence for...
+2026-07-25 09:28:22,994 [INFO] Publishing [funny_meme] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/funny_meme_20260725_092822.png
+2026-07-25 09:28:22,994 [INFO] Caption preview: 😄 The very brave act of asking for help when you've been struggling in silence for too long.
+
+Tag someone who can relate...
+2026-07-25 09:28:28,006 [INFO] ✅ Posted successfully [funny_meme]
+2026-07-25 09:28:28,013 [INFO] ✅ Slot [funny_meme] published successfully!
