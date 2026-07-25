@@ -4299,3 +4299,16 @@ Share this with someone who needs it today! 💛
 2026-07-25 11:17:59,525 [INFO] ▶  Running slot: afternoon_wisdom
 2026-07-25 11:17:59,525 [INFO] ──────────────────────────────────────────────────
 2026-07-25 11:17:59,571 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-07-25 12:02:03,117 [INFO] Failed posts list is empty.
+2026-07-25 12:02:03,263 [INFO] ──────────────────────────────────────────────────
+2026-07-25 12:02:03,263 [INFO] ▶  Running slot: morning_motivation
+2026-07-25 12:02:03,263 [INFO] ──────────────────────────────────────────────────
+2026-07-25 12:02:03,315 [INFO] 📝 Content selected: Success loves the prepared. Prepare every day....
+2026-07-25 12:02:03,536 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260725_120203.png
+2026-07-25 12:02:03,537 [INFO] Caption preview: ☀️ Success loves the prepared. Prepare every day.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #...
+2026-07-25 12:02:11,585 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-25 12:02:11,592 [INFO] ✅ Slot [morning_motivation] published successfully!

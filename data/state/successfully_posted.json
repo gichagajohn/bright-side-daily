@@ -6078,5 +6078,26 @@
       "post_id": "1181533578372151_122117396703364831"
     },
     "timestamp": "2026-07-25T10:24:57.162632"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Success loves the prepared. Prepare every day.",
+      "content_index": 623,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T12:02:03.315928",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Success loves the prepared. Prepare every day.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122117407341364831",
+      "post_id": "1181533578372151_122117407359364831"
+    },
+    "timestamp": "2026-07-25T12:02:11.586640"
   }
 ]
