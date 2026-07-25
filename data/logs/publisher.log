@@ -4246,3 +4246,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Succes...
 2026-07-24 19:16:59,987 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-24 19:16:59,994 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-25 07:16:45,217 [INFO] Failed posts list is empty.
+2026-07-25 07:16:45,337 [INFO] ──────────────────────────────────────────────────
+2026-07-25 07:16:45,337 [INFO] ▶  Running slot: positive_quote
+2026-07-25 07:16:45,337 [INFO] ──────────────────────────────────────────────────
+2026-07-25 07:16:45,379 [INFO] 📝 Content selected: You are the most important project you'll ever work on....
+2026-07-25 07:16:45,472 [INFO] Publishing [positive_quote] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/positive_quote_20260725_071645.png
+2026-07-25 07:16:45,472 [INFO] Caption preview: 🌟 You are the most important project you'll ever work on.
+
+Share this with someone who needs it today! 💛
+
+#PositiveVibes...
+2026-07-25 07:16:54,711 [INFO] ✅ Posted successfully [positive_quote]
+2026-07-25 07:16:54,717 [INFO] ✅ Slot [positive_quote] published successfully!
