@@ -6099,5 +6099,26 @@
       "post_id": "1181533578372151_122117407359364831"
     },
     "timestamp": "2026-07-25T12:02:11.586640"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Exceed your own expectations. Then do it again.",
+      "content_index": 598,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T14:39:32.638611",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Exceed your own expectations. Then do it again.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122117434407364831",
+      "post_id": "1181533578372151_122117434431364831"
+    },
+    "timestamp": "2026-07-25T14:39:41.313736"
   }
 ]

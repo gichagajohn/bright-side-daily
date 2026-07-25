@@ -4312,3 +4312,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #...
 2026-07-25 12:02:11,585 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-25 12:02:11,592 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-25 14:39:32,439 [INFO] Failed posts list is empty.
+2026-07-25 14:39:32,586 [INFO] ──────────────────────────────────────────────────
+2026-07-25 14:39:32,587 [INFO] ▶  Running slot: morning_motivation
+2026-07-25 14:39:32,587 [INFO] ──────────────────────────────────────────────────
+2026-07-25 14:39:32,638 [INFO] 📝 Content selected: Exceed your own expectations. Then do it again....
+2026-07-25 14:39:32,813 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260725_143932.png
+2026-07-25 14:39:32,813 [INFO] Caption preview: ☀️ Exceed your own expectations. Then do it again.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success ...
+2026-07-25 14:39:41,312 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-25 14:39:41,319 [INFO] ✅ Slot [morning_motivation] published successfully!
