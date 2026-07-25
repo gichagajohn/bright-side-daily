@@ -4259,3 +4259,14 @@ Share this with someone who needs it today! 💛
 #PositiveVibes...
 2026-07-25 07:16:54,711 [INFO] ✅ Posted successfully [positive_quote]
 2026-07-25 07:16:54,717 [INFO] ✅ Slot [positive_quote] published successfully!
+2026-07-25 09:01:51,291 [INFO] Failed posts list is empty.
+2026-07-25 09:01:51,448 [INFO] ──────────────────────────────────────────────────
+2026-07-25 09:01:51,448 [INFO] ▶  Running slot: funny_meme
+2026-07-25 09:01:51,448 [INFO] ──────────────────────────────────────────────────
+2026-07-25 09:01:51,498 [INFO] 📝 Content selected: My New Year's resolution every January: This year will be different. Every Febru...
+2026-07-25 09:01:51,555 [INFO] Publishing [funny_meme] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/funny_meme_20260725_090151.png
+2026-07-25 09:01:51,555 [INFO] Caption preview: 😄 My New Year's resolution every January: This year will be different. Every February: No it won't.
+
+Tag someone who can...
+2026-07-25 09:01:56,066 [INFO] ✅ Posted successfully [funny_meme]
+2026-07-25 09:01:56,074 [INFO] ✅ Slot [funny_meme] published successfully!
