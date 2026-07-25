@@ -6057,5 +6057,26 @@
       "post_id": "1181533578372151_122117391543364831"
     },
     "timestamp": "2026-07-25T09:28:28.007761"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "Never underestimate the power of one more try.",
+      "content_index": 563,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "lighthouse in stormy sea"
+      },
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T10:24:51.488056",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa Never underestimate the power of one more try.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122117396673364831",
+      "post_id": "1181533578372151_122117396703364831"
+    },
+    "timestamp": "2026-07-25T10:24:57.162632"
   }
 ]
