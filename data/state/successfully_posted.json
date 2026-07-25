@@ -6120,5 +6120,26 @@
       "post_id": "1181533578372151_122117434431364831"
     },
     "timestamp": "2026-07-25T14:39:41.313736"
+  },
+  {
+    "post": {
+      "slot": "evening_reflection",
+      "category": "gratitude_quotes",
+      "content": "Your gratitude today is planting seeds for tomorrow's harvest.",
+      "content_index": 632,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "freshly baked bread in morning light"
+      },
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T16:05:43.372911",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83c\udf19 Your gratitude today is planting seeds for tomorrow's harvest.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Gratitude #Thankful #CountYourBlessings #GratefulHeart #Blessed #BrightSideDaily",
+    "fb_response": {
+      "id": "122117443527364831",
+      "post_id": "1181533578372151_122117443545364831"
+    },
+    "timestamp": "2026-07-25T16:05:49.581241"
   }
 ]

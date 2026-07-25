@@ -4325,3 +4325,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success ...
 2026-07-25 14:39:41,312 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-25 14:39:41,319 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-25 16:05:43,169 [INFO] Failed posts list is empty.
+2026-07-25 16:05:43,319 [INFO] ──────────────────────────────────────────────────
+2026-07-25 16:05:43,319 [INFO] ▶  Running slot: evening_reflection
+2026-07-25 16:05:43,319 [INFO] ──────────────────────────────────────────────────
+2026-07-25 16:05:43,372 [INFO] 📝 Content selected: Your gratitude today is planting seeds for tomorrow's harvest....
+2026-07-25 16:05:43,642 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260725_160543.png
+2026-07-25 16:05:43,642 [INFO] Caption preview: 🌙 Your gratitude today is planting seeds for tomorrow's harvest.
+
+Share this with someone who needs it today! 💛
+
+#Gratit...
+2026-07-25 16:05:49,579 [INFO] ✅ Posted successfully [evening_reflection]
+2026-07-25 16:05:49,586 [INFO] ✅ Slot [evening_reflection] published successfully!
