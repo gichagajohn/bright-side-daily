@@ -4465,3 +4465,16 @@ Share this with someone who needs it today! 💛
 #Gratitude #Thankful ...
 2026-07-26 16:41:05,953 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-26 16:41:05,961 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-26 19:01:44,843 [INFO] Failed posts list is empty.
+2026-07-26 19:01:44,996 [INFO] ──────────────────────────────────────────────────
+2026-07-26 19:01:44,996 [INFO] ▶  Running slot: morning_motivation
+2026-07-26 19:01:44,996 [INFO] ──────────────────────────────────────────────────
+2026-07-26 19:01:45,052 [INFO] 📝 Content selected: Your strongest muscle is your will. Work it out daily....
+2026-07-26 19:01:45,223 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260726_190145.png
+2026-07-26 19:01:45,223 [INFO] Caption preview: ☀️ Your strongest muscle is your will. Work it out daily.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #S...
+2026-07-26 19:01:48,535 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-26 19:01:48,548 [INFO] ✅ Slot [morning_motivation] published successfully!

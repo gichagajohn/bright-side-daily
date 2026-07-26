@@ -6330,5 +6330,26 @@
       "post_id": "1181533578372151_122117768715364831"
     },
     "timestamp": "2026-07-26T16:41:05.955772"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your strongest muscle is your will. Work it out daily.",
+      "content_index": 504,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T19:01:45.052770",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your strongest muscle is your will. Work it out daily.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122117784249364831",
+      "post_id": "1181533578372151_122117784267364831"
+    },
+    "timestamp": "2026-07-26T19:01:48.542922"
   }
 ]
