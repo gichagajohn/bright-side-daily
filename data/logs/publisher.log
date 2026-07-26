@@ -4356,3 +4356,16 @@ Share this with someone who needs it today! 💛
 2026-07-25 18:58:44,733 [INFO] ▶  Running slot: night_inspiration
 2026-07-25 18:58:44,733 [INFO] ──────────────────────────────────────────────────
 2026-07-25 18:58:44,784 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-07-26 07:35:25,972 [INFO] Failed posts list is empty.
+2026-07-26 07:35:26,089 [INFO] ──────────────────────────────────────────────────
+2026-07-26 07:35:26,089 [INFO] ▶  Running slot: positive_quote
+2026-07-26 07:35:26,089 [INFO] ──────────────────────────────────────────────────
+2026-07-26 07:35:26,129 [INFO] 📝 Content selected: Your simple presence makes the world feel more like home for someone....
+2026-07-26 07:35:26,214 [INFO] Publishing [positive_quote] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/positive_quote_20260726_073526.png
+2026-07-26 07:35:26,214 [INFO] Caption preview: 🌟 Your simple presence makes the world feel more like home for someone.
+
+Share this with someone who needs it today! 💛
+
+...
+2026-07-26 07:35:32,800 [INFO] ✅ Posted successfully [positive_quote]
+2026-07-26 07:35:32,831 [INFO] ✅ Slot [positive_quote] published successfully!

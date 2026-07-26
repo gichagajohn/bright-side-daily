@@ -6162,5 +6162,26 @@
       "post_id": "1181533578372151_122117446875364831"
     },
     "timestamp": "2026-07-25T16:40:26.651042"
+  },
+  {
+    "post": {
+      "slot": "positive_quote",
+      "category": "positive_life_quotes",
+      "content": "Your simple presence makes the world feel more like home for someone.",
+      "content_index": 621,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "friends laughing together outdoors"
+      },
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T07:35:26.129501",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83c\udf1f Your simple presence makes the world feel more like home for someone.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#PositiveVibes #HappyLife #GoodVibesOnly #LifeIsBeautiful #Positivity #BrightSideDaily",
+    "fb_response": {
+      "id": "122117621469364831",
+      "post_id": "1181533578372151_122117621487364831"
+    },
+    "timestamp": "2026-07-26T07:35:32.801422"
   }
 ]
