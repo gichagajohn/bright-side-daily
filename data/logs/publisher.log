@@ -4439,3 +4439,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #...
 2026-07-26 14:41:39,418 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-26 14:41:39,426 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-26 16:03:03,681 [INFO] Failed posts list is empty.
+2026-07-26 16:03:03,797 [INFO] ──────────────────────────────────────────────────
+2026-07-26 16:03:03,797 [INFO] ▶  Running slot: evening_reflection
+2026-07-26 16:03:03,797 [INFO] ──────────────────────────────────────────────────
+2026-07-26 16:03:03,840 [INFO] 📝 Content selected: Gratitude amplifies the good and diminishes the hard....
+2026-07-26 16:03:03,935 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260726_160303.png
+2026-07-26 16:03:03,936 [INFO] Caption preview: 🌙 Gratitude amplifies the good and diminishes the hard.
+
+Share this with someone who needs it today! 💛
+
+#Gratitude #Than...
+2026-07-26 16:03:09,583 [INFO] ✅ Posted successfully [evening_reflection]
+2026-07-26 16:03:09,589 [INFO] ✅ Slot [evening_reflection] published successfully!
