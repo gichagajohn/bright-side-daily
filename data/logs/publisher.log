@@ -4426,3 +4426,16 @@ Share this with someone who needs it today! 💛
 #Motivation...
 2026-07-26 12:00:24,966 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-26 12:00:24,973 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-26 14:41:16,141 [INFO] Failed posts list is empty.
+2026-07-26 14:41:16,300 [INFO] ──────────────────────────────────────────────────
+2026-07-26 14:41:16,300 [INFO] ▶  Running slot: morning_motivation
+2026-07-26 14:41:16,300 [INFO] ──────────────────────────────────────────────────
+2026-07-26 14:41:16,410 [INFO] 📝 Content selected: Don't wait. The time will never be just right....
+2026-07-26 14:41:16,525 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260726_144116.png
+2026-07-26 14:41:16,525 [INFO] Caption preview: ☀️ Don't wait. The time will never be just right.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #...
+2026-07-26 14:41:39,418 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-26 14:41:39,426 [INFO] ✅ Slot [morning_motivation] published successfully!

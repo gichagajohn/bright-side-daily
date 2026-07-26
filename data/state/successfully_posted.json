@@ -6267,5 +6267,26 @@
       "post_id": "1181533578372151_122117675745364831"
     },
     "timestamp": "2026-07-26T12:00:24.968421"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Don't wait. The time will never be just right.",
+      "content_index": 183,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T14:41:16.410751",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Don't wait. The time will never be just right.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122117750697364831",
+      "post_id": "1181533578372151_122117750739364831"
+    },
+    "timestamp": "2026-07-26T14:41:39.420946"
   }
 ]
