@@ -6246,5 +6246,26 @@
       "post_id": "1181533578372151_122117661909364831"
     },
     "timestamp": "2026-07-26T10:42:56.325944"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Don't shrink yourself to fit into places you've outgrown.",
+      "content_index": 354,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T12:00:18.319614",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Don't shrink yourself to fit into places you've outgrown.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122117675721364831",
+      "post_id": "1181533578372151_122117675745364831"
+    },
+    "timestamp": "2026-07-26T12:00:24.968421"
   }
 ]

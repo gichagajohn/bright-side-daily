@@ -4413,3 +4413,16 @@ Share this with someone who needs it today! 💛
 2026-07-26 11:23:51,140 [INFO] ▶  Running slot: afternoon_wisdom
 2026-07-26 11:23:51,140 [INFO] ──────────────────────────────────────────────────
 2026-07-26 11:23:51,193 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-07-26 12:00:18,117 [INFO] Failed posts list is empty.
+2026-07-26 12:00:18,265 [INFO] ──────────────────────────────────────────────────
+2026-07-26 12:00:18,265 [INFO] ▶  Running slot: morning_motivation
+2026-07-26 12:00:18,265 [INFO] ──────────────────────────────────────────────────
+2026-07-26 12:00:18,319 [INFO] 📝 Content selected: Don't shrink yourself to fit into places you've outgrown....
+2026-07-26 12:00:18,494 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260726_120018.png
+2026-07-26 12:00:18,494 [INFO] Caption preview: ☀️ Don't shrink yourself to fit into places you've outgrown.
+
+Share this with someone who needs it today! 💛
+
+#Motivation...
+2026-07-26 12:00:24,966 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-26 12:00:24,973 [INFO] ✅ Slot [morning_motivation] published successfully!
