@@ -6456,5 +6456,26 @@
       "post_id": "1181533578372151_122118036357364831"
     },
     "timestamp": "2026-07-27T17:00:48.364206"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Build your empire one brick at a time.",
+      "content_index": 315,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T17:24:55.607609",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Build your empire one brick at a time.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122118038793364831",
+      "post_id": "1181533578372151_122118038817364831"
+    },
+    "timestamp": "2026-07-27T17:25:00.758489"
   }
 ]

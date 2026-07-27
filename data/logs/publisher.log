@@ -4560,3 +4560,16 @@ Share this with someone who needs it today! 💛
 2026-07-27 16:59:57,833 [INFO] Retrying in 30s...
 2026-07-27 17:00:48,362 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-27 17:00:48,368 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-27 17:24:55,448 [INFO] Failed posts list is empty.
+2026-07-27 17:24:55,562 [INFO] ──────────────────────────────────────────────────
+2026-07-27 17:24:55,562 [INFO] ▶  Running slot: morning_motivation
+2026-07-27 17:24:55,562 [INFO] ──────────────────────────────────────────────────
+2026-07-27 17:24:55,607 [INFO] 📝 Content selected: Build your empire one brick at a time....
+2026-07-27 17:24:55,692 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260727_172455.png
+2026-07-27 17:24:55,693 [INFO] Caption preview: ☀️ Build your empire one brick at a time.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetM...
+2026-07-27 17:25:00,757 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-27 17:25:00,763 [INFO] ✅ Slot [morning_motivation] published successfully!
