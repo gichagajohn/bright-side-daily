@@ -6477,5 +6477,26 @@
       "post_id": "1181533578372151_122118038817364831"
     },
     "timestamp": "2026-07-27T17:25:00.758489"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your name deserves to be on the list of people who made it. Put it there.",
+      "content_index": 456,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T19:18:11.635176",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your name deserves to be on the list of people who made it. Put it there.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122118052185364831",
+      "post_id": "1181533578372151_122118052209364831"
+    },
+    "timestamp": "2026-07-27T19:18:18.821847"
   }
 ]

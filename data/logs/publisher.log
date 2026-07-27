@@ -4573,3 +4573,14 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetM...
 2026-07-27 17:25:00,757 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-27 17:25:00,763 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-27 19:18:11,414 [INFO] Failed posts list is empty.
+2026-07-27 19:18:11,575 [INFO] ──────────────────────────────────────────────────
+2026-07-27 19:18:11,575 [INFO] ▶  Running slot: morning_motivation
+2026-07-27 19:18:11,575 [INFO] ──────────────────────────────────────────────────
+2026-07-27 19:18:11,635 [INFO] 📝 Content selected: Your name deserves to be on the list of people who made it. Put it there....
+2026-07-27 19:18:11,788 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260727_191811.png
+2026-07-27 19:18:11,788 [INFO] Caption preview: ☀️ Your name deserves to be on the list of people who made it. Put it there.
+
+Share this with someone who needs it today...
+2026-07-27 19:18:18,819 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-27 19:18:18,828 [INFO] ✅ Slot [morning_motivation] published successfully!
