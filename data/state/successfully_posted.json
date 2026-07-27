@@ -6414,5 +6414,26 @@
       "post_id": "1181533578372151_122117949411364831"
     },
     "timestamp": "2026-07-27T12:19:28.138121"
+  },
+  {
+    "post": {
+      "slot": "engagement_question",
+      "category": "engagement_questions",
+      "content": "What's a quality you're actively developing in yourself right now?",
+      "content_index": 448,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "hand-drawn thought bubbles"
+      },
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T15:46:52.019471",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcac What's a quality you're actively developing in yourself right now?\n\nDrop your answer in the comments below \ud83d\udc47\n\n#Community #ShareYourThoughts #QuestionOfTheDay #ChatWithUs #BrightSideFamily #BrightSideDaily",
+    "fb_response": {
+      "id": "122118025041364831",
+      "post_id": "1181533578372151_122118025059364831"
+    },
+    "timestamp": "2026-07-27T15:46:58.633785"
   }
 ]

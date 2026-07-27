@@ -4532,3 +4532,16 @@ Share this with someone who needs it today! 💛
 2026-07-27 13:37:05,051 [INFO] ▶  Running slot: gratitude_moment
 2026-07-27 13:37:05,051 [INFO] ──────────────────────────────────────────────────
 2026-07-27 13:37:05,123 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-07-27 15:46:51,883 [INFO] Failed posts list is empty.
+2026-07-27 15:46:51,977 [INFO] ──────────────────────────────────────────────────
+2026-07-27 15:46:51,977 [INFO] ▶  Running slot: engagement_question
+2026-07-27 15:46:51,977 [INFO] ──────────────────────────────────────────────────
+2026-07-27 15:46:52,019 [INFO] 📝 Content selected: What's a quality you're actively developing in yourself right now?...
+2026-07-27 15:46:52,251 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260727_154652.png
+2026-07-27 15:46:52,251 [INFO] Caption preview: 💬 What's a quality you're actively developing in yourself right now?
+
+Drop your answer in the comments below 👇
+
+#Communi...
+2026-07-27 15:46:58,632 [INFO] ✅ Posted successfully [engagement_question]
+2026-07-27 15:46:58,637 [INFO] ✅ Slot [engagement_question] published successfully!
