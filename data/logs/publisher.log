@@ -4527,3 +4527,8 @@ Share this with someone who needs it today! 💛
 2026-07-27 13:15:33,079 [INFO] ▶  Running slot: gratitude_moment
 2026-07-27 13:15:33,079 [INFO] ──────────────────────────────────────────────────
 2026-07-27 13:15:33,136 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-07-27 13:37:04,882 [INFO] Failed posts list is empty.
+2026-07-27 13:37:05,051 [INFO] ──────────────────────────────────────────────────
+2026-07-27 13:37:05,051 [INFO] ▶  Running slot: gratitude_moment
+2026-07-27 13:37:05,051 [INFO] ──────────────────────────────────────────────────
+2026-07-27 13:37:05,123 [ERROR] ❌ Content selection failed: 'gratitude_moment'
