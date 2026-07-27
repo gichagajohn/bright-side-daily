@@ -4509,3 +4509,16 @@ Share this with someone who needs it today! 💛
 2026-07-27 11:10:34,620 [INFO] ▶  Running slot: afternoon_wisdom
 2026-07-27 11:10:34,620 [INFO] ──────────────────────────────────────────────────
 2026-07-27 11:10:34,677 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-07-27 12:19:22,212 [INFO] Failed posts list is empty.
+2026-07-27 12:19:22,308 [INFO] ──────────────────────────────────────────────────
+2026-07-27 12:19:22,308 [INFO] ▶  Running slot: morning_motivation
+2026-07-27 12:19:22,308 [INFO] ──────────────────────────────────────────────────
+2026-07-27 12:19:22,344 [INFO] 📝 Content selected: Don't watch the clock. Do what it does — keep going....
+2026-07-27 12:19:22,413 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260727_121922.png
+2026-07-27 12:19:22,413 [INFO] Caption preview: ☀️ Don't watch the clock. Do what it does — keep going.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Suc...
+2026-07-27 12:19:28,132 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-27 12:19:28,141 [INFO] ✅ Slot [morning_motivation] published successfully!
