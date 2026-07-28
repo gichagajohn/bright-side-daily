@@ -6645,5 +6645,26 @@
       "post_id": "1181533578372151_122118323313364831"
     },
     "timestamp": "2026-07-28T16:41:56.927867"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are more powerful than you think.",
+      "content_index": 199,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T17:14:10.010893",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are more powerful than you think.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122118325827364831",
+      "post_id": "1181533578372151_122118325845364831"
+    },
+    "timestamp": "2026-07-28T17:14:25.897492"
   }
 ]

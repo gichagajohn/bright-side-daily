@@ -4682,3 +4682,16 @@ Share this with someone who needs it today! 💛
 #Gratitude #Thankful #CountYourBles...
 2026-07-28 16:41:56,926 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-28 16:41:56,933 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-28 17:14:09,797 [INFO] Failed posts list is empty.
+2026-07-28 17:14:09,949 [INFO] ──────────────────────────────────────────────────
+2026-07-28 17:14:09,949 [INFO] ▶  Running slot: morning_motivation
+2026-07-28 17:14:09,949 [INFO] ──────────────────────────────────────────────────
+2026-07-28 17:14:10,010 [INFO] 📝 Content selected: You are more powerful than you think....
+2026-07-28 17:14:10,132 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260728_171410.png
+2026-07-28 17:14:10,132 [INFO] Caption preview: ☀️ You are more powerful than you think.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMa...
+2026-07-28 17:14:25,895 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-28 17:14:25,903 [INFO] ✅ Slot [morning_motivation] published successfully!
