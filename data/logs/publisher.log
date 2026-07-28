@@ -4641,3 +4641,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mi...
 2026-07-28 12:02:43,169 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-28 12:02:43,177 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-28 12:50:54,729 [INFO] Failed posts list is empty.
+2026-07-28 12:50:54,882 [INFO] ──────────────────────────────────────────────────
+2026-07-28 12:50:54,882 [INFO] ▶  Running slot: morning_motivation
+2026-07-28 12:50:54,882 [INFO] ──────────────────────────────────────────────────
+2026-07-28 12:50:54,942 [INFO] 📝 Content selected: Be unafraid of your own potential....
+2026-07-28 12:50:55,049 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260728_125054.png
+2026-07-28 12:50:55,049 [INFO] Caption preview: ☀️ Be unafraid of your own potential.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatte...
+2026-07-28 12:51:01,635 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-28 12:51:01,642 [INFO] ✅ Slot [morning_motivation] published successfully!

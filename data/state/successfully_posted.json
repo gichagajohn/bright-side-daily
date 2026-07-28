@@ -6582,5 +6582,26 @@
       "post_id": "1181533578372151_122118225861364831"
     },
     "timestamp": "2026-07-28T12:02:43.171142"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Be unafraid of your own potential.",
+      "content_index": 603,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T12:50:54.942017",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Be unafraid of your own potential.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122118230643364831",
+      "post_id": "1181533578372151_122118230661364831"
+    },
+    "timestamp": "2026-07-28T12:51:01.636815"
   }
 ]
