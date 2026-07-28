@@ -4628,3 +4628,16 @@ Share this with someone who needs it today! 💛
 2026-07-28 11:14:29,299 [INFO] ▶  Running slot: afternoon_wisdom
 2026-07-28 11:14:29,299 [INFO] ──────────────────────────────────────────────────
 2026-07-28 11:14:29,356 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-07-28 12:02:39,272 [INFO] Failed posts list is empty.
+2026-07-28 12:02:39,426 [INFO] ──────────────────────────────────────────────────
+2026-07-28 12:02:39,426 [INFO] ▶  Running slot: morning_motivation
+2026-07-28 12:02:39,426 [INFO] ──────────────────────────────────────────────────
+2026-07-28 12:02:39,487 [INFO] 📝 Content selected: Every setback is a setup for the next level....
+2026-07-28 12:02:39,643 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260728_120239.png
+2026-07-28 12:02:39,643 [INFO] Caption preview: ☀️ Every setback is a setup for the next level.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mi...
+2026-07-28 12:02:43,169 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-28 12:02:43,177 [INFO] ✅ Slot [morning_motivation] published successfully!
