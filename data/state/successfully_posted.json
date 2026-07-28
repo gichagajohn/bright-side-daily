@@ -6666,5 +6666,26 @@
       "post_id": "1181533578372151_122118325845364831"
     },
     "timestamp": "2026-07-28T17:14:25.897492"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The pain of discipline is nothing compared to the pain of regret.",
+      "content_index": 13,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T19:14:27.032888",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The pain of discipline is nothing compared to the pain of regret.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122118370017364831",
+      "post_id": "1181533578372151_122118370041364831"
+    },
+    "timestamp": "2026-07-28T19:14:33.377461"
   }
 ]
