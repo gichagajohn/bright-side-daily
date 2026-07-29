@@ -4778,3 +4778,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Min...
 2026-07-29 12:58:03,820 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-29 12:58:03,827 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-29 15:11:01,499 [INFO] Failed posts list is empty.
+2026-07-29 15:11:01,650 [INFO] ──────────────────────────────────────────────────
+2026-07-29 15:11:01,650 [INFO] ▶  Running slot: engagement_question
+2026-07-29 15:11:01,650 [INFO] ──────────────────────────────────────────────────
+2026-07-29 15:11:01,719 [INFO] 📝 Content selected: What's a word of encouragement you need to hear today?...
+2026-07-29 15:11:01,828 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260729_151101.png
+2026-07-29 15:11:01,828 [INFO] Caption preview: 💬 What's a word of encouragement you need to hear today?
+
+Drop your answer in the comments below 👇
+
+#Community #ShareYou...
+2026-07-29 15:11:11,576 [INFO] ✅ Posted successfully [engagement_question]
+2026-07-29 15:11:11,584 [INFO] ✅ Slot [engagement_question] published successfully!
