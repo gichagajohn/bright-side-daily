@@ -4765,3 +4765,16 @@ Share this with someone who needs it today! 💛
 #Motivati...
 2026-07-29 12:07:20,145 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-29 12:07:20,155 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-29 12:57:54,657 [INFO] Failed posts list is empty.
+2026-07-29 12:57:54,797 [INFO] ──────────────────────────────────────────────────
+2026-07-29 12:57:54,797 [INFO] ▶  Running slot: morning_motivation
+2026-07-29 12:57:54,797 [INFO] ──────────────────────────────────────────────────
+2026-07-29 12:57:54,864 [INFO] 📝 Content selected: Make today the day that changes everything....
+2026-07-29 12:57:54,969 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260729_125754.png
+2026-07-29 12:57:54,969 [INFO] Caption preview: ☀️ Make today the day that changes everything.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Min...
+2026-07-29 12:58:03,820 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-29 12:58:03,827 [INFO] ✅ Slot [morning_motivation] published successfully!
