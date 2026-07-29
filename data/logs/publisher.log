@@ -4804,3 +4804,14 @@ Share this with someone who needs it today! 💛
 #Grat...
 2026-07-29 16:23:25,761 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-29 16:23:25,769 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-29 16:59:51,958 [INFO] Failed posts list is empty.
+2026-07-29 16:59:52,121 [INFO] ──────────────────────────────────────────────────
+2026-07-29 16:59:52,121 [INFO] ▶  Running slot: evening_reflection
+2026-07-29 16:59:52,121 [INFO] ──────────────────────────────────────────────────
+2026-07-29 16:59:52,192 [INFO] 📝 Content selected: Gratitude is not the end of the journey. It is the fuel for continuing it....
+2026-07-29 16:59:52,292 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260729_165952.png
+2026-07-29 16:59:52,292 [INFO] Caption preview: 🌙 Gratitude is not the end of the journey. It is the fuel for continuing it.
+
+Share this with someone who needs it today...
+2026-07-29 16:59:56,476 [INFO] ✅ Posted successfully [evening_reflection]
+2026-07-29 16:59:56,485 [INFO] ✅ Slot [evening_reflection] published successfully!
