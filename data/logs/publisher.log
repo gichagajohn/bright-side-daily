@@ -4815,3 +4815,16 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it today...
 2026-07-29 16:59:56,476 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-29 16:59:56,485 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-29 19:04:20,321 [INFO] Failed posts list is empty.
+2026-07-29 19:04:20,463 [INFO] ──────────────────────────────────────────────────
+2026-07-29 19:04:20,463 [INFO] ▶  Running slot: morning_motivation
+2026-07-29 19:04:20,463 [INFO] ──────────────────────────────────────────────────
+2026-07-29 19:04:20,531 [INFO] 📝 Content selected: You are not done. Not even close....
+2026-07-29 19:04:20,634 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260729_190420.png
+2026-07-29 19:04:20,634 [INFO] Caption preview: ☀️ You are not done. Not even close.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatter...
+2026-07-29 19:04:27,461 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-29 19:04:27,468 [INFO] ✅ Slot [morning_motivation] published successfully!
