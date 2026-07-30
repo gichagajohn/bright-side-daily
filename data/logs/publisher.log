@@ -4875,3 +4875,16 @@ Share this with someone who needs it t...
 2026-07-30 11:56:43,675 [INFO] ▶  Running slot: afternoon_wisdom
 2026-07-30 11:56:43,675 [INFO] ──────────────────────────────────────────────────
 2026-07-30 11:56:43,746 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-07-30 12:26:44,840 [INFO] Failed posts list is empty.
+2026-07-30 12:26:44,988 [INFO] ──────────────────────────────────────────────────
+2026-07-30 12:26:44,988 [INFO] ▶  Running slot: morning_motivation
+2026-07-30 12:26:44,988 [INFO] ──────────────────────────────────────────────────
+2026-07-30 12:26:45,058 [INFO] 📝 Content selected: Hustle in silence and let your success do the talking....
+2026-07-30 12:26:45,167 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260730_122645.png
+2026-07-30 12:26:45,167 [INFO] Caption preview: ☀️ Hustle in silence and let your success do the talking.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #S...
+2026-07-30 12:26:50,727 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-30 12:26:50,735 [INFO] ✅ Slot [morning_motivation] published successfully!
