@@ -4870,3 +4870,8 @@ Share this with someone who needs it t...
 2026-07-30 11:04:31,421 [INFO] ▶  Running slot: afternoon_wisdom
 2026-07-30 11:04:31,421 [INFO] ──────────────────────────────────────────────────
 2026-07-30 11:04:31,493 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-07-30 11:56:43,543 [INFO] Failed posts list is empty.
+2026-07-30 11:56:43,675 [INFO] ──────────────────────────────────────────────────
+2026-07-30 11:56:43,675 [INFO] ▶  Running slot: afternoon_wisdom
+2026-07-30 11:56:43,675 [INFO] ──────────────────────────────────────────────────
+2026-07-30 11:56:43,746 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
