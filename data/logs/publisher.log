@@ -4888,3 +4888,16 @@ Share this with someone who needs it today! 💛
 #Motivation #S...
 2026-07-30 12:26:50,727 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-30 12:26:50,735 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-30 15:15:47,252 [INFO] Failed posts list is empty.
+2026-07-30 15:15:47,394 [INFO] ──────────────────────────────────────────────────
+2026-07-30 15:15:47,394 [INFO] ▶  Running slot: engagement_question
+2026-07-30 15:15:47,394 [INFO] ──────────────────────────────────────────────────
+2026-07-30 15:15:47,468 [INFO] 📝 Content selected: What does success look like to you personally?...
+2026-07-30 15:15:47,614 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260730_151547.png
+2026-07-30 15:15:47,614 [INFO] Caption preview: 💬 What does success look like to you personally?
+
+Drop your answer in the comments below 👇
+
+#Community #ShareYourThought...
+2026-07-30 15:15:51,223 [INFO] ✅ Posted successfully [engagement_question]
+2026-07-30 15:15:51,231 [INFO] ✅ Slot [engagement_question] published successfully!
