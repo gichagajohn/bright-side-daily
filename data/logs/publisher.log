@@ -4927,3 +4927,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #Dail...
 2026-07-30 17:11:37,822 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-30 17:11:37,828 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-30 19:15:57,264 [INFO] Failed posts list is empty.
+2026-07-30 19:15:57,416 [INFO] ──────────────────────────────────────────────────
+2026-07-30 19:15:57,416 [INFO] ▶  Running slot: morning_motivation
+2026-07-30 19:15:57,416 [INFO] ──────────────────────────────────────────────────
+2026-07-30 19:15:57,488 [INFO] 📝 Content selected: Ambition without action is just a fantasy....
+2026-07-30 19:15:57,624 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260730_191557.png
+2026-07-30 19:15:57,624 [INFO] Caption preview: ☀️ Ambition without action is just a fantasy.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mind...
+2026-07-30 19:16:02,924 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-30 19:16:02,932 [INFO] ✅ Slot [morning_motivation] published successfully!
