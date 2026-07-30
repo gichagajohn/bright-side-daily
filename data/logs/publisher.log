@@ -4914,3 +4914,16 @@ Share this with someone who needs it today! 💛
 #Gratitude #Thankf...
 2026-07-30 16:37:30,645 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-30 16:37:30,654 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-30 17:11:32,047 [INFO] Failed posts list is empty.
+2026-07-30 17:11:32,157 [INFO] ──────────────────────────────────────────────────
+2026-07-30 17:11:32,157 [INFO] ▶  Running slot: morning_motivation
+2026-07-30 17:11:32,157 [INFO] ──────────────────────────────────────────────────
+2026-07-30 17:11:32,217 [INFO] 📝 Content selected: Aim higher than yesterday....
+2026-07-30 17:11:32,309 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260730_171132.png
+2026-07-30 17:11:32,309 [INFO] Caption preview: ☀️ Aim higher than yesterday.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #Dail...
+2026-07-30 17:11:37,822 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-30 17:11:37,828 [INFO] ✅ Slot [morning_motivation] published successfully!
