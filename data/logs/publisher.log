@@ -5047,3 +5047,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mindse...
 2026-07-31 17:13:51,914 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-31 17:13:51,922 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-31 19:15:15,780 [INFO] Failed posts list is empty.
+2026-07-31 19:15:15,928 [INFO] ──────────────────────────────────────────────────
+2026-07-31 19:15:15,928 [INFO] ▶  Running slot: morning_motivation
+2026-07-31 19:15:15,928 [INFO] ──────────────────────────────────────────────────
+2026-07-31 19:15:16,000 [INFO] 📝 Content selected: Rise higher. Go further. Shine brighter....
+2026-07-31 19:15:16,116 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260731_191516.png
+2026-07-31 19:15:16,116 [INFO] Caption preview: ☀️ Rise higher. Go further. Shine brighter.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mindse...
+2026-07-31 19:15:20,939 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-31 19:15:20,948 [INFO] ✅ Slot [morning_motivation] published successfully!
