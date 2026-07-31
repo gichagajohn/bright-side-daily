@@ -4984,3 +4984,16 @@ Share this with someone who needs it today! 💛
 2026-07-31 11:27:04,274 [INFO] ▶  Running slot: afternoon_wisdom
 2026-07-31 11:27:04,274 [INFO] ──────────────────────────────────────────────────
 2026-07-31 11:27:04,350 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-07-31 12:05:55,053 [INFO] Failed posts list is empty.
+2026-07-31 12:05:55,204 [INFO] ──────────────────────────────────────────────────
+2026-07-31 12:05:55,205 [INFO] ▶  Running slot: morning_motivation
+2026-07-31 12:05:55,205 [INFO] ──────────────────────────────────────────────────
+2026-07-31 12:05:55,279 [INFO] 📝 Content selected: Believe in the work when no one else believes in you....
+2026-07-31 12:05:55,395 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260731_120555.png
+2026-07-31 12:05:55,395 [INFO] Caption preview: ☀️ Believe in the work when no one else believes in you.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Su...
+2026-07-31 12:06:00,390 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-31 12:06:00,398 [INFO] ✅ Slot [morning_motivation] published successfully!
