@@ -7086,5 +7086,26 @@
       "post_id": "1181533578372151_122119397409364831"
     },
     "timestamp": "2026-07-31T09:46:14.690455"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "Rise. Fight. Win. Repeat.",
+      "content_index": 220,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "caterpillar becoming butterfly illustration"
+      },
+      "date": "2026-07-31",
+      "timestamp": "2026-07-31T10:28:56.773093",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa Rise. Fight. Win. Repeat.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122119402887364831",
+      "post_id": "1181533578372151_122119402905364831"
+    },
+    "timestamp": "2026-07-31T10:29:01.110408"
   }
 ]
