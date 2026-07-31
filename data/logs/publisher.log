@@ -5010,3 +5010,14 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #Dail...
 2026-07-31 12:53:19,161 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-31 12:53:19,169 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-31 15:23:31,752 [INFO] Failed posts list is empty.
+2026-07-31 15:23:31,858 [INFO] ──────────────────────────────────────────────────
+2026-07-31 15:23:31,858 [INFO] ▶  Running slot: engagement_question
+2026-07-31 15:23:31,858 [INFO] ──────────────────────────────────────────────────
+2026-07-31 15:23:31,916 [INFO] 📝 Content selected: What does growing up mean to you now versus what you thought it meant as a child...
+2026-07-31 15:23:32,016 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260731_152331.png
+2026-07-31 15:23:32,016 [INFO] Caption preview: 💬 What does growing up mean to you now versus what you thought it meant as a child?
+
+Drop your answer in the comments be...
+2026-07-31 15:23:35,259 [INFO] ✅ Posted successfully [engagement_question]
+2026-07-31 15:23:35,265 [INFO] ✅ Slot [engagement_question] published successfully!
