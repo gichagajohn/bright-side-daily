@@ -7128,5 +7128,26 @@
       "post_id": "1181533578372151_122119430829364831"
     },
     "timestamp": "2026-07-31T12:06:00.392098"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Eat, sleep, grind, repeat.",
+      "content_index": 268,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-07-31",
+      "timestamp": "2026-07-31T12:53:12.726339",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Eat, sleep, grind, repeat.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122119437165364831",
+      "post_id": "1181533578372151_122119437183364831"
+    },
+    "timestamp": "2026-07-31T12:53:19.163089"
   }
 ]

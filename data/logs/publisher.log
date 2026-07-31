@@ -4997,3 +4997,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Su...
 2026-07-31 12:06:00,390 [INFO] ✅ Posted successfully [morning_motivation]
 2026-07-31 12:06:00,398 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-07-31 12:53:12,508 [INFO] Failed posts list is empty.
+2026-07-31 12:53:12,655 [INFO] ──────────────────────────────────────────────────
+2026-07-31 12:53:12,655 [INFO] ▶  Running slot: morning_motivation
+2026-07-31 12:53:12,655 [INFO] ──────────────────────────────────────────────────
+2026-07-31 12:53:12,726 [INFO] 📝 Content selected: Eat, sleep, grind, repeat....
+2026-07-31 12:53:13,018 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260731_125312.png
+2026-07-31 12:53:13,018 [INFO] Caption preview: ☀️ Eat, sleep, grind, repeat.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #Dail...
+2026-07-31 12:53:19,161 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-31 12:53:19,169 [INFO] ✅ Slot [morning_motivation] published successfully!
