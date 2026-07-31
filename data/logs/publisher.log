@@ -5034,3 +5034,16 @@ Share this with someone who needs it today! 💛
 #Gratitude #Thankf...
 2026-07-31 16:46:55,269 [INFO] ✅ Posted successfully [evening_reflection]
 2026-07-31 16:46:55,277 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-07-31 17:13:45,688 [INFO] Failed posts list is empty.
+2026-07-31 17:13:45,846 [INFO] ──────────────────────────────────────────────────
+2026-07-31 17:13:45,846 [INFO] ▶  Running slot: morning_motivation
+2026-07-31 17:13:45,846 [INFO] ──────────────────────────────────────────────────
+2026-07-31 17:13:45,919 [INFO] 📝 Content selected: Every great story began with a decision....
+2026-07-31 17:13:46,024 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260731_171345.png
+2026-07-31 17:13:46,024 [INFO] Caption preview: ☀️ Every great story began with a decision.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mindse...
+2026-07-31 17:13:51,914 [INFO] ✅ Posted successfully [morning_motivation]
+2026-07-31 17:13:51,922 [INFO] ✅ Slot [morning_motivation] published successfully!
