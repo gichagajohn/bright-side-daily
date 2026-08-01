@@ -5127,3 +5127,16 @@ Share this with someone who needs it today! 💛
 #Motivat...
 2026-08-01 12:00:27,482 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-01 12:00:27,491 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-01 14:36:50,524 [INFO] Failed posts list is empty.
+2026-08-01 14:36:50,669 [INFO] ──────────────────────────────────────────────────
+2026-08-01 14:36:50,669 [INFO] ▶  Running slot: morning_motivation
+2026-08-01 14:36:50,669 [INFO] ──────────────────────────────────────────────────
+2026-08-01 14:36:50,745 [INFO] 📝 Content selected: Success is not an accident. It's a product of your daily decisions....
+2026-08-01 14:36:50,913 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260801_143650.png
+2026-08-01 14:36:50,913 [INFO] Caption preview: ☀️ Success is not an accident. It's a product of your daily decisions.
+
+Share this with someone who needs it today! 💛
+
+#...
+2026-08-01 14:36:56,062 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-01 14:36:56,070 [INFO] ✅ Slot [morning_motivation] published successfully!
