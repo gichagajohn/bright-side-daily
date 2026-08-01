@@ -5114,3 +5114,16 @@ Share this with someone who needs it today! 💛
 2026-08-01 11:22:59,241 [INFO] ▶  Running slot: afternoon_wisdom
 2026-08-01 11:22:59,241 [INFO] ──────────────────────────────────────────────────
 2026-08-01 11:22:59,316 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-08-01 12:00:21,869 [INFO] Failed posts list is empty.
+2026-08-01 12:00:22,016 [INFO] ──────────────────────────────────────────────────
+2026-08-01 12:00:22,016 [INFO] ▶  Running slot: morning_motivation
+2026-08-01 12:00:22,016 [INFO] ──────────────────────────────────────────────────
+2026-08-01 12:00:22,091 [INFO] 📝 Content selected: Life is 10% what happens to you and 90% how you react to it....
+2026-08-01 12:00:22,150 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260801_120022.png
+2026-08-01 12:00:22,150 [INFO] Caption preview: ☀️ Life is 10% what happens to you and 90% how you react to it.
+
+Share this with someone who needs it today! 💛
+
+#Motivat...
+2026-08-01 12:00:27,482 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-01 12:00:27,491 [INFO] ✅ Slot [morning_motivation] published successfully!

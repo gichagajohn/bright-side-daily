@@ -7317,5 +7317,26 @@
       "post_id": "1181533578372151_122119877487364831"
     },
     "timestamp": "2026-08-01T10:38:25.641666"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Life is 10% what happens to you and 90% how you react to it.",
+      "content_index": 156,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T12:00:22.091589",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Life is 10% what happens to you and 90% how you react to it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122119903059364831",
+      "post_id": "1181533578372151_122119903095364831"
+    },
+    "timestamp": "2026-08-01T12:00:27.484717"
   }
 ]
