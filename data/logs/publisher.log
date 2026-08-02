@@ -5269,3 +5269,16 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it today! 💛...
 2026-08-02 16:41:10,720 [INFO] ✅ Posted successfully [evening_reflection]
 2026-08-02 16:41:10,728 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-08-02 19:00:35,603 [INFO] Failed posts list is empty.
+2026-08-02 19:00:35,743 [INFO] ──────────────────────────────────────────────────
+2026-08-02 19:00:35,743 [INFO] ▶  Running slot: morning_motivation
+2026-08-02 19:00:35,743 [INFO] ──────────────────────────────────────────────────
+2026-08-02 19:00:35,821 [INFO] 📝 Content selected: Believe you can and you're halfway there....
+2026-08-02 19:00:35,936 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260802_190035.png
+2026-08-02 19:00:35,936 [INFO] Caption preview: ☀️ Believe you can and you're halfway there.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Minds...
+2026-08-02 19:00:41,398 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-02 19:00:41,406 [INFO] ✅ Slot [morning_motivation] published successfully!
