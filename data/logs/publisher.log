@@ -5171,3 +5171,16 @@ Share this with someone who needs it today! 💛
 2026-08-01 18:59:38,212 [INFO] ▶  Running slot: night_inspiration
 2026-08-01 18:59:38,212 [INFO] ──────────────────────────────────────────────────
 2026-08-01 18:59:38,291 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-08-02 07:31:35,044 [INFO] Failed posts list is empty.
+2026-08-02 07:31:35,205 [INFO] ──────────────────────────────────────────────────
+2026-08-02 07:31:35,205 [INFO] ▶  Running slot: positive_quote
+2026-08-02 07:31:35,205 [INFO] ──────────────────────────────────────────────────
+2026-08-02 07:31:35,284 [INFO] 📝 Content selected: Every act of love is a monument that outlasts its moment....
+2026-08-02 07:31:35,483 [INFO] Publishing [positive_quote] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/positive_quote_20260802_073135.png
+2026-08-02 07:31:35,483 [INFO] Caption preview: 🌟 Every act of love is a monument that outlasts its moment.
+
+Share this with someone who needs it today! 💛
+
+#PositiveVib...
+2026-08-02 07:31:39,806 [INFO] ✅ Posted successfully [positive_quote]
+2026-08-02 07:31:39,815 [INFO] ✅ Slot [positive_quote] published successfully!
