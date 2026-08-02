@@ -5232,3 +5232,16 @@ Share this with someone who needs it today! 💛
 2026-08-02 11:59:27,425 [INFO] ▶  Running slot: afternoon_wisdom
 2026-08-02 11:59:27,426 [INFO] ──────────────────────────────────────────────────
 2026-08-02 11:59:27,486 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-08-02 14:38:55,952 [INFO] Failed posts list is empty.
+2026-08-02 14:38:56,094 [INFO] ──────────────────────────────────────────────────
+2026-08-02 14:38:56,094 [INFO] ▶  Running slot: morning_motivation
+2026-08-02 14:38:56,094 [INFO] ──────────────────────────────────────────────────
+2026-08-02 14:38:56,176 [INFO] 📝 Content selected: A year from now, you'll wish you had started today....
+2026-08-02 14:38:56,285 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260802_143856.png
+2026-08-02 14:38:56,285 [INFO] Caption preview: ☀️ A year from now, you'll wish you had started today.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succ...
+2026-08-02 14:39:03,173 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-02 14:39:03,181 [INFO] ✅ Slot [morning_motivation] published successfully!
