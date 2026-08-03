@@ -7674,5 +7674,26 @@
       "post_id": "1181533578372151_122120586831364831"
     },
     "timestamp": "2026-08-03T17:09:49.523095"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your potential is endless.",
+      "content_index": 50,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T17:30:27.595696",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your potential is endless.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122120589159364831",
+      "post_id": "1181533578372151_122120589177364831"
+    },
+    "timestamp": "2026-08-03T17:30:32.916595"
   }
 ]

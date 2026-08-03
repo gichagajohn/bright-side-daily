@@ -5358,3 +5358,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mindse...
 2026-08-03 17:09:49,521 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-03 17:09:49,529 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-03 17:30:27,363 [INFO] Failed posts list is empty.
+2026-08-03 17:30:27,513 [INFO] ──────────────────────────────────────────────────
+2026-08-03 17:30:27,513 [INFO] ▶  Running slot: morning_motivation
+2026-08-03 17:30:27,513 [INFO] ──────────────────────────────────────────────────
+2026-08-03 17:30:27,595 [INFO] 📝 Content selected: Your potential is endless....
+2026-08-03 17:30:27,697 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260803_173027.png
+2026-08-03 17:30:27,697 [INFO] Caption preview: ☀️ Your potential is endless.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #Dail...
+2026-08-03 17:30:32,914 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-03 17:30:32,923 [INFO] ✅ Slot [morning_motivation] published successfully!
