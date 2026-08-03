@@ -5371,3 +5371,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #Dail...
 2026-08-03 17:30:32,914 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-03 17:30:32,923 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-03 19:23:04,878 [INFO] Failed posts list is empty.
+2026-08-03 19:23:05,039 [INFO] ──────────────────────────────────────────────────
+2026-08-03 19:23:05,039 [INFO] ▶  Running slot: morning_motivation
+2026-08-03 19:23:05,039 [INFO] ──────────────────────────────────────────────────
+2026-08-03 19:23:05,125 [INFO] 📝 Content selected: Be the change you wish to see in the world....
+2026-08-03 19:23:05,228 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260803_192305.png
+2026-08-03 19:23:05,228 [INFO] Caption preview: ☀️ Be the change you wish to see in the world.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Min...
+2026-08-03 19:23:09,690 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-03 19:23:09,702 [INFO] ✅ Slot [morning_motivation] published successfully!
