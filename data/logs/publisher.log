@@ -5293,3 +5293,14 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it today! 💛...
 2026-08-03 08:29:04,278 [INFO] ✅ Posted successfully [self_improvement]
 2026-08-03 08:29:04,286 [INFO] ✅ Slot [self_improvement] published successfully!
+2026-08-03 10:44:37,027 [INFO] Failed posts list is empty.
+2026-08-03 10:44:37,169 [INFO] ──────────────────────────────────────────────────
+2026-08-03 10:44:37,169 [INFO] ▶  Running slot: midday_encouragement
+2026-08-03 10:44:37,169 [INFO] ──────────────────────────────────────────────────
+2026-08-03 10:44:37,250 [INFO] 📝 Content selected: The darkest hours have always given way to morning for you. This time is no diff...
+2026-08-03 10:44:37,367 [INFO] Publishing [midday_encouragement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/midday_encouragement_20260803_104437.png
+2026-08-03 10:44:37,368 [INFO] Caption preview: 💪 The darkest hours have always given way to morning for you. This time is no different.
+
+Share this with someone who ne...
+2026-08-03 10:44:44,593 [INFO] ✅ Posted successfully [midday_encouragement]
+2026-08-03 10:44:44,602 [INFO] ✅ Slot [midday_encouragement] published successfully!
