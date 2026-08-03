@@ -5332,3 +5332,16 @@ Share this with someone who needs it today! 💛
 2026-08-03 13:38:08,552 [INFO] ▶  Running slot: gratitude_moment
 2026-08-03 13:38:08,552 [INFO] ──────────────────────────────────────────────────
 2026-08-03 13:38:08,631 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-08-03 15:46:53,926 [INFO] Failed posts list is empty.
+2026-08-03 15:46:54,075 [INFO] ──────────────────────────────────────────────────
+2026-08-03 15:46:54,075 [INFO] ▶  Running slot: engagement_question
+2026-08-03 15:46:54,075 [INFO] ──────────────────────────────────────────────────
+2026-08-03 15:46:54,158 [INFO] 📝 Content selected: What's your relationship with failure — has it changed over time?...
+2026-08-03 15:46:54,306 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260803_154654.png
+2026-08-03 15:46:54,306 [INFO] Caption preview: 💬 What's your relationship with failure — has it changed over time?
+
+Drop your answer in the comments below 👇
+
+#Communit...
+2026-08-03 15:46:59,868 [INFO] ✅ Posted successfully [engagement_question]
+2026-08-03 15:46:59,877 [INFO] ✅ Slot [engagement_question] published successfully!
