@@ -5309,3 +5309,16 @@ Share this with someone who ne...
 2026-08-03 11:13:03,272 [INFO] ▶  Running slot: afternoon_wisdom
 2026-08-03 11:13:03,272 [INFO] ──────────────────────────────────────────────────
 2026-08-03 11:13:03,336 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-08-03 12:19:39,062 [INFO] Failed posts list is empty.
+2026-08-03 12:19:39,220 [INFO] ──────────────────────────────────────────────────
+2026-08-03 12:19:39,220 [INFO] ▶  Running slot: morning_motivation
+2026-08-03 12:19:39,220 [INFO] ──────────────────────────────────────────────────
+2026-08-03 12:19:39,314 [INFO] 📝 Content selected: Your struggle is part of your story....
+2026-08-03 12:19:39,431 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260803_121939.png
+2026-08-03 12:19:39,431 [INFO] Caption preview: ☀️ Your struggle is part of your story.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMat...
+2026-08-03 12:19:43,436 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-03 12:19:43,448 [INFO] ✅ Slot [morning_motivation] published successfully!

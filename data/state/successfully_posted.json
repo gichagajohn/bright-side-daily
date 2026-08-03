@@ -7611,5 +7611,26 @@
       "post_id": "1181533578372151_122120500281364831"
     },
     "timestamp": "2026-08-03T10:44:44.595709"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your struggle is part of your story.",
+      "content_index": 167,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T12:19:39.314296",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your struggle is part of your story.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122120517999364831",
+      "post_id": "1181533578372151_122120518017364831"
+    },
+    "timestamp": "2026-08-03T12:19:43.439979"
   }
 ]
