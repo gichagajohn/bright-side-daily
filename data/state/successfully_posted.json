@@ -7653,5 +7653,26 @@
       "post_id": "1181533578372151_122120551971364831"
     },
     "timestamp": "2026-08-03T15:46:59.870592"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Don't break until you've broken through.",
+      "content_index": 491,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T17:09:43.545646",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Don't break until you've broken through.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122120586813364831",
+      "post_id": "1181533578372151_122120586831364831"
+    },
+    "timestamp": "2026-08-03T17:09:49.523095"
   }
 ]

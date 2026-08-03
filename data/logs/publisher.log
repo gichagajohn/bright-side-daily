@@ -5345,3 +5345,16 @@ Drop your answer in the comments below 👇
 #Communit...
 2026-08-03 15:46:59,868 [INFO] ✅ Posted successfully [engagement_question]
 2026-08-03 15:46:59,877 [INFO] ✅ Slot [engagement_question] published successfully!
+2026-08-03 17:09:43,316 [INFO] Failed posts list is empty.
+2026-08-03 17:09:43,463 [INFO] ──────────────────────────────────────────────────
+2026-08-03 17:09:43,463 [INFO] ▶  Running slot: morning_motivation
+2026-08-03 17:09:43,463 [INFO] ──────────────────────────────────────────────────
+2026-08-03 17:09:43,545 [INFO] 📝 Content selected: Don't break until you've broken through....
+2026-08-03 17:09:43,649 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260803_170943.png
+2026-08-03 17:09:43,650 [INFO] Caption preview: ☀️ Don't break until you've broken through.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mindse...
+2026-08-03 17:09:49,521 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-03 17:09:49,529 [INFO] ✅ Slot [morning_motivation] published successfully!
