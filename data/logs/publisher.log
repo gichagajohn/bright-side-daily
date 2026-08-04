@@ -5491,3 +5491,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success...
 2026-08-04 17:25:33,728 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-04 17:25:33,737 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-04 19:22:53,562 [INFO] Failed posts list is empty.
+2026-08-04 19:22:53,704 [INFO] ──────────────────────────────────────────────────
+2026-08-04 19:22:53,704 [INFO] ▶  Running slot: morning_motivation
+2026-08-04 19:22:53,704 [INFO] ──────────────────────────────────────────────────
+2026-08-04 19:22:53,788 [INFO] 📝 Content selected: A focused mind is the most powerful force in the universe....
+2026-08-04 19:22:53,896 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260804_192253.png
+2026-08-04 19:22:53,896 [INFO] Caption preview: ☀️ A focused mind is the most powerful force in the universe.
+
+Share this with someone who needs it today! 💛
+
+#Motivatio...
+2026-08-04 19:22:58,221 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-04 19:22:58,230 [INFO] ✅ Slot [morning_motivation] published successfully!
