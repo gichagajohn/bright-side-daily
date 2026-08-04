@@ -7863,5 +7863,26 @@
       "post_id": "1181533578372151_122120836281364831"
     },
     "timestamp": "2026-08-04T16:52:44.705611"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your consistency today is your success tomorrow.",
+      "content_index": 665,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T17:25:28.971532",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your consistency today is your success tomorrow.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122120841723364831",
+      "post_id": "1181533578372151_122120841741364831"
+    },
+    "timestamp": "2026-08-04T17:25:33.730419"
   }
 ]

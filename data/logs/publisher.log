@@ -5478,3 +5478,16 @@ Drop your answer in the comments below 👇
 Share this with someone who nee...
 2026-08-04 16:52:44,703 [INFO] ✅ Posted successfully [evening_reflection]
 2026-08-04 16:52:44,712 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-08-04 17:25:28,739 [INFO] Failed posts list is empty.
+2026-08-04 17:25:28,882 [INFO] ──────────────────────────────────────────────────
+2026-08-04 17:25:28,882 [INFO] ▶  Running slot: morning_motivation
+2026-08-04 17:25:28,883 [INFO] ──────────────────────────────────────────────────
+2026-08-04 17:25:28,971 [INFO] 📝 Content selected: Your consistency today is your success tomorrow....
+2026-08-04 17:25:29,077 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260804_172529.png
+2026-08-04 17:25:29,077 [INFO] Caption preview: ☀️ Your consistency today is your success tomorrow.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success...
+2026-08-04 17:25:33,728 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-04 17:25:33,737 [INFO] ✅ Slot [morning_motivation] published successfully!
