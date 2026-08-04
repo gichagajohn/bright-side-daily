@@ -7821,5 +7821,26 @@
       "post_id": "1181533578372151_122120788845364831"
     },
     "timestamp": "2026-08-04T12:58:37.456304"
+  },
+  {
+    "post": {
+      "slot": "engagement_question",
+      "category": "engagement_questions",
+      "content": "What's the most important lesson your parents or guardians taught you?",
+      "content_index": 231,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "bright vibrant community gathering"
+      },
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T15:27:24.256182",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcac What's the most important lesson your parents or guardians taught you?\n\nDrop your answer in the comments below \ud83d\udc47\n\n#Community #ShareYourThoughts #QuestionOfTheDay #ChatWithUs #BrightSideFamily #BrightSideDaily",
+    "fb_response": {
+      "id": "122120826435364831",
+      "post_id": "1181533578372151_122120826477364831"
+    },
+    "timestamp": "2026-08-04T15:27:28.314614"
   }
 ]

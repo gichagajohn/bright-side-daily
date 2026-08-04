@@ -5454,3 +5454,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mi...
 2026-08-04 12:58:37,454 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-04 12:58:37,463 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-04 15:27:24,026 [INFO] Failed posts list is empty.
+2026-08-04 15:27:24,171 [INFO] ──────────────────────────────────────────────────
+2026-08-04 15:27:24,171 [INFO] ▶  Running slot: engagement_question
+2026-08-04 15:27:24,171 [INFO] ──────────────────────────────────────────────────
+2026-08-04 15:27:24,256 [INFO] 📝 Content selected: What's the most important lesson your parents or guardians taught you?...
+2026-08-04 15:27:24,364 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260804_152724.png
+2026-08-04 15:27:24,365 [INFO] Caption preview: 💬 What's the most important lesson your parents or guardians taught you?
+
+Drop your answer in the comments below 👇
+
+#Com...
+2026-08-04 15:27:28,312 [INFO] ✅ Posted successfully [engagement_question]
+2026-08-04 15:27:28,321 [INFO] ✅ Slot [engagement_question] published successfully!
