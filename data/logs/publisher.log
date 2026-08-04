@@ -5428,3 +5428,16 @@ Share this with someone who needs it today! 💛
 2026-08-04 11:21:06,208 [INFO] ▶  Running slot: afternoon_wisdom
 2026-08-04 11:21:06,208 [INFO] ──────────────────────────────────────────────────
 2026-08-04 11:21:06,292 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-08-04 12:06:24,844 [INFO] Failed posts list is empty.
+2026-08-04 12:06:24,993 [INFO] ──────────────────────────────────────────────────
+2026-08-04 12:06:24,993 [INFO] ▶  Running slot: morning_motivation
+2026-08-04 12:06:24,993 [INFO] ──────────────────────────────────────────────────
+2026-08-04 12:06:25,076 [INFO] 📝 Content selected: The world makes room for passionate people....
+2026-08-04 12:06:25,221 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260804_120625.png
+2026-08-04 12:06:25,221 [INFO] Caption preview: ☀️ The world makes room for passionate people.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Min...
+2026-08-04 12:06:30,438 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-04 12:06:30,447 [INFO] ✅ Slot [morning_motivation] published successfully!

@@ -7779,5 +7779,26 @@
       "post_id": "1181533578372151_122120765553364831"
     },
     "timestamp": "2026-08-04T10:27:29.421431"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The world makes room for passionate people.",
+      "content_index": 299,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T12:06:25.076835",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The world makes room for passionate people.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122120782173364831",
+      "post_id": "1181533578372151_122120782191364831"
+    },
+    "timestamp": "2026-08-04T12:06:30.440532"
   }
 ]
