@@ -5441,3 +5441,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Min...
 2026-08-04 12:06:30,438 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-04 12:06:30,447 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-04 12:58:32,436 [INFO] Failed posts list is empty.
+2026-08-04 12:58:32,589 [INFO] ──────────────────────────────────────────────────
+2026-08-04 12:58:32,589 [INFO] ▶  Running slot: morning_motivation
+2026-08-04 12:58:32,589 [INFO] ──────────────────────────────────────────────────
+2026-08-04 12:58:32,674 [INFO] 📝 Content selected: Go the extra mile. It's never crowded there....
+2026-08-04 12:58:32,792 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260804_125832.png
+2026-08-04 12:58:32,792 [INFO] Caption preview: ☀️ Go the extra mile. It's never crowded there.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mi...
+2026-08-04 12:58:37,454 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-04 12:58:37,463 [INFO] ✅ Slot [morning_motivation] published successfully!
