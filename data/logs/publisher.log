@@ -5561,3 +5561,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #M...
 2026-08-05 12:04:36,953 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-05 12:04:36,961 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-05 12:49:31,992 [INFO] Failed posts list is empty.
+2026-08-05 12:49:32,168 [INFO] ──────────────────────────────────────────────────
+2026-08-05 12:49:32,169 [INFO] ▶  Running slot: morning_motivation
+2026-08-05 12:49:32,169 [INFO] ──────────────────────────────────────────────────
+2026-08-05 12:49:32,255 [INFO] 📝 Content selected: Every drop of sweat is a deposit in the bank of success....
+2026-08-05 12:49:32,363 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260805_124932.png
+2026-08-05 12:49:32,363 [INFO] Caption preview: ☀️ Every drop of sweat is a deposit in the bank of success.
+
+Share this with someone who needs it today! 💛
+
+#Motivation ...
+2026-08-05 12:49:40,690 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-05 12:49:40,699 [INFO] ✅ Slot [morning_motivation] published successfully!

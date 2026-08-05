@@ -7989,5 +7989,26 @@
       "post_id": "1181533578372151_122121222003364831"
     },
     "timestamp": "2026-08-05T12:04:36.954848"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Every drop of sweat is a deposit in the bank of success.",
+      "content_index": 606,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T12:49:32.255043",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Every drop of sweat is a deposit in the bank of success.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122121265755364831",
+      "post_id": "1181533578372151_122121265773364831"
+    },
+    "timestamp": "2026-08-05T12:49:40.692145"
   }
 ]
