@@ -5611,3 +5611,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #Daily...
 2026-08-05 17:14:58,562 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-05 17:14:58,571 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-05 19:20:59,762 [INFO] Failed posts list is empty.
+2026-08-05 19:20:59,878 [INFO] ──────────────────────────────────────────────────
+2026-08-05 19:20:59,878 [INFO] ▶  Running slot: morning_motivation
+2026-08-05 19:20:59,878 [INFO] ──────────────────────────────────────────────────
+2026-08-05 19:20:59,950 [INFO] 📝 Content selected: Iron sharpens iron. Surround yourself with people who push you....
+2026-08-05 19:21:00,101 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260805_192100.png
+2026-08-05 19:21:00,101 [INFO] Caption preview: ☀️ Iron sharpens iron. Surround yourself with people who push you.
+
+Share this with someone who needs it today! 💛
+
+#Moti...
+2026-08-05 19:21:05,252 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-05 19:21:05,259 [INFO] ✅ Slot [morning_motivation] published successfully!

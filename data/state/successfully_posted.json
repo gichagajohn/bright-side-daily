@@ -8073,5 +8073,26 @@
       "post_id": "1181533578372151_122121315729364831"
     },
     "timestamp": "2026-08-05T17:14:58.563994"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Iron sharpens iron. Surround yourself with people who push you.",
+      "content_index": 294,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T19:20:59.950623",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Iron sharpens iron. Surround yourself with people who push you.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122121335667364831",
+      "post_id": "1181533578372151_122121335685364831"
+    },
+    "timestamp": "2026-08-05T19:21:05.253956"
   }
 ]
