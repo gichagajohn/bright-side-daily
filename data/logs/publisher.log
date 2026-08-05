@@ -5548,3 +5548,16 @@ Share this with someone who needs it today! 💛
 2026-08-05 11:18:09,670 [INFO] ▶  Running slot: afternoon_wisdom
 2026-08-05 11:18:09,670 [INFO] ──────────────────────────────────────────────────
 2026-08-05 11:18:09,741 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-08-05 12:04:28,883 [INFO] Failed posts list is empty.
+2026-08-05 12:04:29,025 [INFO] ──────────────────────────────────────────────────
+2026-08-05 12:04:29,025 [INFO] ▶  Running slot: morning_motivation
+2026-08-05 12:04:29,025 [INFO] ──────────────────────────────────────────────────
+2026-08-05 12:04:29,109 [INFO] 📝 Content selected: Make today the starting line, not the excuse....
+2026-08-05 12:04:29,260 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260805_120429.png
+2026-08-05 12:04:29,260 [INFO] Caption preview: ☀️ Make today the starting line, not the excuse.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #M...
+2026-08-05 12:04:36,953 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-05 12:04:36,961 [INFO] ✅ Slot [morning_motivation] published successfully!

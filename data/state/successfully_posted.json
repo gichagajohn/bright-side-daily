@@ -7968,5 +7968,26 @@
       "post_id": "1181533578372151_122121207393364831"
     },
     "timestamp": "2026-08-05T10:25:47.688321"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Make today the starting line, not the excuse.",
+      "content_index": 560,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T12:04:29.109450",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Make today the starting line, not the excuse.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122121221979364831",
+      "post_id": "1181533578372151_122121222003364831"
+    },
+    "timestamp": "2026-08-05T12:04:36.954848"
   }
 ]
