@@ -5585,3 +5585,16 @@ Share this with someone who needs it today! 💛
 Drop your answer in the com...
 2026-08-05 15:19:00,662 [INFO] ✅ Posted successfully [engagement_question]
 2026-08-05 15:19:00,671 [INFO] ✅ Slot [engagement_question] published successfully!
+2026-08-05 16:43:27,782 [INFO] Failed posts list is empty.
+2026-08-05 16:43:27,930 [INFO] ──────────────────────────────────────────────────
+2026-08-05 16:43:27,930 [INFO] ▶  Running slot: evening_reflection
+2026-08-05 16:43:27,930 [INFO] ──────────────────────────────────────────────────
+2026-08-05 16:43:28,017 [INFO] 📝 Content selected: Your greatest blessings often wear the disguise of ordinary moments....
+2026-08-05 16:43:28,127 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260805_164328.png
+2026-08-05 16:43:28,127 [INFO] Caption preview: 🌙 Your greatest blessings often wear the disguise of ordinary moments.
+
+Share this with someone who needs it today! 💛
+
+#...
+2026-08-05 16:43:31,909 [INFO] ✅ Posted successfully [evening_reflection]
+2026-08-05 16:43:31,918 [INFO] ✅ Slot [evening_reflection] published successfully!
