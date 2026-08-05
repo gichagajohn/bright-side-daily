@@ -5598,3 +5598,16 @@ Share this with someone who needs it today! 💛
 #...
 2026-08-05 16:43:31,909 [INFO] ✅ Posted successfully [evening_reflection]
 2026-08-05 16:43:31,918 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-08-05 17:14:52,339 [INFO] Failed posts list is empty.
+2026-08-05 17:14:52,486 [INFO] ──────────────────────────────────────────────────
+2026-08-05 17:14:52,486 [INFO] ▶  Running slot: morning_motivation
+2026-08-05 17:14:52,486 [INFO] ──────────────────────────────────────────────────
+2026-08-05 17:14:52,573 [INFO] 📝 Content selected: No pressure. No diamonds....
+2026-08-05 17:14:52,717 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260805_171452.png
+2026-08-05 17:14:52,717 [INFO] Caption preview: ☀️ No pressure. No diamonds.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #Daily...
+2026-08-05 17:14:58,562 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-05 17:14:58,571 [INFO] ✅ Slot [morning_motivation] published successfully!
