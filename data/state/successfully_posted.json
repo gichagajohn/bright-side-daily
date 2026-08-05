@@ -7947,5 +7947,26 @@
       "post_id": "1181533578372151_122121203619364831"
     },
     "timestamp": "2026-08-05T09:37:56.618339"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "The storms you've weathered were training for the life ahead.",
+      "content_index": 358,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "caterpillar becoming butterfly illustration"
+      },
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T10:25:40.510385",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa The storms you've weathered were training for the life ahead.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122121207375364831",
+      "post_id": "1181533578372151_122121207393364831"
+    },
+    "timestamp": "2026-08-05T10:25:47.688321"
   }
 ]
