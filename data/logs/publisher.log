@@ -5574,3 +5574,14 @@ Share this with someone who needs it today! 💛
 #Motivation ...
 2026-08-05 12:49:40,690 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-05 12:49:40,699 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-05 15:18:54,898 [INFO] Failed posts list is empty.
+2026-08-05 15:18:55,066 [INFO] ──────────────────────────────────────────────────
+2026-08-05 15:18:55,066 [INFO] ▶  Running slot: engagement_question
+2026-08-05 15:18:55,066 [INFO] ──────────────────────────────────────────────────
+2026-08-05 15:18:55,159 [INFO] 📝 Content selected: What's your intention for the rest of this week — and are you willing to say it ...
+2026-08-05 15:18:55,271 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260805_151855.png
+2026-08-05 15:18:55,271 [INFO] Caption preview: 💬 What's your intention for the rest of this week — and are you willing to say it out loud?
+
+Drop your answer in the com...
+2026-08-05 15:19:00,662 [INFO] ✅ Posted successfully [engagement_question]
+2026-08-05 15:19:00,671 [INFO] ✅ Slot [engagement_question] published successfully!
