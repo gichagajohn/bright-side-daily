@@ -5692,3 +5692,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters ...
 2026-08-06 12:53:59,014 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-06 12:53:59,023 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-06 15:18:50,682 [INFO] Failed posts list is empty.
+2026-08-06 15:18:50,829 [INFO] ──────────────────────────────────────────────────
+2026-08-06 15:18:50,830 [INFO] ▶  Running slot: engagement_question
+2026-08-06 15:18:50,830 [INFO] ──────────────────────────────────────────────────
+2026-08-06 15:18:50,919 [INFO] 📝 Content selected: What's something you've let go of that made you lighter?...
+2026-08-06 15:18:51,068 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260806_151851.png
+2026-08-06 15:18:51,068 [INFO] Caption preview: 💬 What's something you've let go of that made you lighter?
+
+Drop your answer in the comments below 👇
+
+#Community #ShareY...
+2026-08-06 15:18:58,305 [INFO] ✅ Posted successfully [engagement_question]
+2026-08-06 15:18:58,314 [INFO] ✅ Slot [engagement_question] published successfully!

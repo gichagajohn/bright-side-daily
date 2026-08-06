@@ -8199,5 +8199,26 @@
       "post_id": "1181533578372151_122121616167364831"
     },
     "timestamp": "2026-08-06T12:53:59.015982"
+  },
+  {
+    "post": {
+      "slot": "engagement_question",
+      "category": "engagement_questions",
+      "content": "What's something you've let go of that made you lighter?",
+      "content_index": 170,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "hand-drawn thought bubbles"
+      },
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T15:18:50.919849",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcac What's something you've let go of that made you lighter?\n\nDrop your answer in the comments below \ud83d\udc47\n\n#Community #ShareYourThoughts #QuestionOfTheDay #ChatWithUs #BrightSideFamily #BrightSideDaily",
+    "fb_response": {
+      "id": "122121646929364831",
+      "post_id": "1181533578372151_122121646947364831"
+    },
+    "timestamp": "2026-08-06T15:18:58.307072"
   }
 ]
