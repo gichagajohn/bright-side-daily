@@ -5705,3 +5705,16 @@ Drop your answer in the comments below 👇
 #Community #ShareY...
 2026-08-06 15:18:58,305 [INFO] ✅ Posted successfully [engagement_question]
 2026-08-06 15:18:58,314 [INFO] ✅ Slot [engagement_question] published successfully!
+2026-08-06 23:52:54,689 [INFO] Failed posts list is empty.
+2026-08-06 23:52:54,837 [INFO] ──────────────────────────────────────────────────
+2026-08-06 23:52:54,837 [INFO] ▶  Running slot: morning_motivation
+2026-08-06 23:52:54,837 [INFO] ──────────────────────────────────────────────────
+2026-08-06 23:52:54,926 [INFO] 📝 Content selected: Outlast the doubt. Outrun the fear. Outlive the setbacks....
+2026-08-06 23:52:55,080 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260806_235255.png
+2026-08-06 23:52:55,080 [INFO] Caption preview: ☀️ Outlast the doubt. Outrun the fear. Outlive the setbacks.
+
+Share this with someone who needs it today! 💛
+
+#Motivation...
+2026-08-06 23:53:01,079 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-06 23:53:01,088 [INFO] ✅ Slot [morning_motivation] published successfully!

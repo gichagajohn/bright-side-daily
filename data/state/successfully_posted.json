@@ -8220,5 +8220,26 @@
       "post_id": "1181533578372151_122121646947364831"
     },
     "timestamp": "2026-08-06T15:18:58.307072"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Outlast the doubt. Outrun the fear. Outlive the setbacks.",
+      "content_index": 494,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T23:52:54.926647",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Outlast the doubt. Outrun the fear. Outlive the setbacks.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122121778557364831",
+      "post_id": "1181533578372151_122121778683364831"
+    },
+    "timestamp": "2026-08-06T23:53:01.081159"
   }
 ]
