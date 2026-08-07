@@ -5731,3 +5731,16 @@ Share this with someone who needs it today! 💛
 #Motiv...
 2026-08-07 06:09:08,183 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-07 06:09:08,193 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-07 08:15:38,765 [INFO] Failed posts list is empty.
+2026-08-07 08:15:38,916 [INFO] ──────────────────────────────────────────────────
+2026-08-07 08:15:38,916 [INFO] ▶  Running slot: self_improvement
+2026-08-07 08:15:38,916 [INFO] ──────────────────────────────────────────────────
+2026-08-07 08:15:39,008 [INFO] 📝 Content selected: Your consistent effort is the most powerful force in your life....
+2026-08-07 08:15:39,173 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260807_081539.png
+2026-08-07 08:15:39,173 [INFO] Caption preview: 📈 Your consistent effort is the most powerful force in your life.
+
+Share this with someone who needs it today! 💛
+
+#Perso...
+2026-08-07 08:15:44,048 [INFO] ✅ Posted successfully [self_improvement]
+2026-08-07 08:15:44,058 [INFO] ✅ Slot [self_improvement] published successfully!
