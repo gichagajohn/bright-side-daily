@@ -5801,3 +5801,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatter...
 2026-08-07 14:14:58,215 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-07 14:14:58,224 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-07 15:57:45,979 [INFO] Failed posts list is empty.
+2026-08-07 15:57:46,095 [INFO] ──────────────────────────────────────────────────
+2026-08-07 15:57:46,095 [INFO] ▶  Running slot: engagement_question
+2026-08-07 15:57:46,095 [INFO] ──────────────────────────────────────────────────
+2026-08-07 15:57:46,166 [INFO] 📝 Content selected: What does your ideal morning routine look like?...
+2026-08-07 15:57:46,268 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260807_155746.png
+2026-08-07 15:57:46,269 [INFO] Caption preview: 💬 What does your ideal morning routine look like?
+
+Drop your answer in the comments below 👇
+
+#Community #ShareYourThough...
+2026-08-07 15:57:51,395 [INFO] ✅ Posted successfully [engagement_question]
+2026-08-07 15:57:51,494 [INFO] ✅ Slot [engagement_question] published successfully!
