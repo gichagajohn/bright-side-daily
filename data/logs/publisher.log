@@ -5788,3 +5788,16 @@ Share this with someone who needs it today! 💛
 2026-08-07 11:42:39,257 [INFO] ▶  Running slot: afternoon_wisdom
 2026-08-07 11:42:39,257 [INFO] ──────────────────────────────────────────────────
 2026-08-07 11:42:39,333 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-08-07 14:14:52,014 [INFO] Failed posts list is empty.
+2026-08-07 14:14:52,146 [INFO] ──────────────────────────────────────────────────
+2026-08-07 14:14:52,147 [INFO] ▶  Running slot: morning_motivation
+2026-08-07 14:14:52,147 [INFO] ──────────────────────────────────────────────────
+2026-08-07 14:14:52,233 [INFO] 📝 Content selected: Effort is the path to excellence....
+2026-08-07 14:14:52,394 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260807_141452.png
+2026-08-07 14:14:52,394 [INFO] Caption preview: ☀️ Effort is the path to excellence.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatter...
+2026-08-07 14:14:58,215 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-07 14:14:58,224 [INFO] ✅ Slot [morning_motivation] published successfully!
