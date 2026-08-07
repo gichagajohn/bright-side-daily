@@ -8325,5 +8325,26 @@
       "post_id": "1181533578372151_122121868965364831"
     },
     "timestamp": "2026-08-07T09:58:40.554010"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "Today you rise. Tomorrow you shine even brighter.",
+      "content_index": 229,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "caterpillar becoming butterfly illustration"
+      },
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T10:59:17.707899",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa Today you rise. Tomorrow you shine even brighter.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122121876177364831",
+      "post_id": "1181533578372151_122121876201364831"
+    },
+    "timestamp": "2026-08-07T10:59:24.778358"
   }
 ]
