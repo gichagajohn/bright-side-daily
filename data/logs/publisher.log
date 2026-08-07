@@ -5718,3 +5718,16 @@ Share this with someone who needs it today! 💛
 #Motivation...
 2026-08-06 23:53:01,079 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-06 23:53:01,088 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-07 06:09:02,992 [INFO] Failed posts list is empty.
+2026-08-07 06:09:03,140 [INFO] ──────────────────────────────────────────────────
+2026-08-07 06:09:03,140 [INFO] ▶  Running slot: morning_motivation
+2026-08-07 06:09:03,140 [INFO] ──────────────────────────────────────────────────
+2026-08-07 06:09:03,228 [INFO] 📝 Content selected: Success is not owned. It's rented — and rent is due every day....
+2026-08-07 06:09:03,392 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260807_060903.png
+2026-08-07 06:09:03,392 [INFO] Caption preview: ☀️ Success is not owned. It's rented — and rent is due every day.
+
+Share this with someone who needs it today! 💛
+
+#Motiv...
+2026-08-07 06:09:08,183 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-07 06:09:08,193 [INFO] ✅ Slot [morning_motivation] published successfully!
