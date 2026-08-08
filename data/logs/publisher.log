@@ -5858,3 +5858,16 @@ Share this with someone who needs it today! 💛
 #...
 2026-08-08 07:51:14,480 [INFO] ✅ Posted successfully [positive_quote]
 2026-08-08 07:51:14,490 [INFO] ✅ Slot [positive_quote] published successfully!
+2026-08-08 08:28:42,396 [INFO] Failed posts list is empty.
+2026-08-08 08:28:42,543 [INFO] ──────────────────────────────────────────────────
+2026-08-08 08:28:42,543 [INFO] ▶  Running slot: self_improvement
+2026-08-08 08:28:42,543 [INFO] ──────────────────────────────────────────────────
+2026-08-08 08:28:42,636 [INFO] 📝 Content selected: Self-discipline is the master key....
+2026-08-08 08:28:42,742 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260808_082842.png
+2026-08-08 08:28:42,742 [INFO] Caption preview: 📈 Self-discipline is the master key.
+
+Share this with someone who needs it today! 💛
+
+#PersonalGrowth #SelfImprovement #B...
+2026-08-08 08:28:47,673 [INFO] ✅ Posted successfully [self_improvement]
+2026-08-08 08:28:47,682 [INFO] ✅ Slot [self_improvement] published successfully!
