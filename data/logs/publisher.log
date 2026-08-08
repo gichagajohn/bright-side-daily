@@ -5933,3 +5933,8 @@ Share this with someone who needs it today! 💛
 #Gratitude #Thankful #C...
 2026-08-08 16:15:40,019 [INFO] ✅ Posted successfully [evening_reflection]
 2026-08-08 16:15:40,028 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-08-08 18:27:25,919 [INFO] Failed posts list is empty.
+2026-08-08 18:27:26,078 [INFO] ──────────────────────────────────────────────────
+2026-08-08 18:27:26,078 [INFO] ▶  Running slot: night_inspiration
+2026-08-08 18:27:26,078 [INFO] ──────────────────────────────────────────────────
+2026-08-08 18:27:26,176 [ERROR] ❌ Content selection failed: 'night_inspiration'
