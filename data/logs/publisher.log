@@ -5907,3 +5907,16 @@ Share this with someone who needs it today! 💛
 2026-08-08 13:49:36,638 [INFO] ▶  Running slot: gratitude_moment
 2026-08-08 13:49:36,638 [INFO] ──────────────────────────────────────────────────
 2026-08-08 13:49:36,729 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-08-08 15:31:39,208 [INFO] Failed posts list is empty.
+2026-08-08 15:31:39,349 [INFO] ──────────────────────────────────────────────────
+2026-08-08 15:31:39,349 [INFO] ▶  Running slot: engagement_question
+2026-08-08 15:31:39,349 [INFO] ──────────────────────────────────────────────────
+2026-08-08 15:31:39,445 [INFO] 📝 Content selected: What's your intention as you close out today and step into tomorrow?...
+2026-08-08 15:31:39,597 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260808_153139.png
+2026-08-08 15:31:39,597 [INFO] Caption preview: 💬 What's your intention as you close out today and step into tomorrow?
+
+Drop your answer in the comments below 👇
+
+#Commu...
+2026-08-08 15:31:45,943 [INFO] ✅ Posted successfully [engagement_question]
+2026-08-08 15:31:45,952 [INFO] ✅ Slot [engagement_question] published successfully!
