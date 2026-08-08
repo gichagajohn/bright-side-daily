@@ -8409,5 +8409,26 @@
       "post_id": "1181533578372151_122121926211364831"
     },
     "timestamp": "2026-08-07T16:37:05.534036"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "What you create today, you live in tomorrow.",
+      "content_index": 574,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-08-08",
+      "timestamp": "2026-08-08T05:42:13.131261",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f What you create today, you live in tomorrow.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122122051983364831",
+      "post_id": "1181533578372151_122122052001364831"
+    },
+    "timestamp": "2026-08-08T05:42:17.135976"
   }
 ]

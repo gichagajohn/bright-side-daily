@@ -5832,3 +5832,16 @@ Share this with someone who needs it today! 💛
 2026-08-07 18:45:14,758 [INFO] ▶  Running slot: night_inspiration
 2026-08-07 18:45:14,759 [INFO] ──────────────────────────────────────────────────
 2026-08-07 18:45:14,848 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-08-08 05:42:12,897 [INFO] Failed posts list is empty.
+2026-08-08 05:42:13,038 [INFO] ──────────────────────────────────────────────────
+2026-08-08 05:42:13,038 [INFO] ▶  Running slot: morning_motivation
+2026-08-08 05:42:13,038 [INFO] ──────────────────────────────────────────────────
+2026-08-08 05:42:13,131 [INFO] 📝 Content selected: What you create today, you live in tomorrow....
+2026-08-08 05:42:13,323 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260808_054213.png
+2026-08-08 05:42:13,323 [INFO] Caption preview: ☀️ What you create today, you live in tomorrow.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mi...
+2026-08-08 05:42:17,134 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-08 05:42:17,143 [INFO] ✅ Slot [morning_motivation] published successfully!
