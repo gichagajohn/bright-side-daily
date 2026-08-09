@@ -8640,5 +8640,26 @@
       "post_id": "1181533578372151_122122446651364831"
     },
     "timestamp": "2026-08-09T09:35:40.355326"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "Be patient with where you are. Great destinations take time to reach.",
+      "content_index": 353,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "lighthouse in stormy sea"
+      },
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T10:41:38.428764",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa Be patient with where you are. Great destinations take time to reach.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122122463883364831",
+      "post_id": "1181533578372151_122122463901364831"
+    },
+    "timestamp": "2026-08-09T10:41:44.156058"
   }
 ]
