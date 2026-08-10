@@ -6141,3 +6141,8 @@ Share this with someone who needs it today! 💛
 #G...
 2026-08-10 16:38:37,920 [INFO] ✅ Posted successfully [evening_reflection]
 2026-08-10 16:38:37,931 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-08-10 18:47:40,866 [INFO] Failed posts list is empty.
+2026-08-10 18:47:41,016 [INFO] ──────────────────────────────────────────────────
+2026-08-10 18:47:41,016 [INFO] ▶  Running slot: night_inspiration
+2026-08-10 18:47:41,016 [INFO] ──────────────────────────────────────────────────
+2026-08-10 18:47:41,124 [ERROR] ❌ Content selection failed: 'night_inspiration'
