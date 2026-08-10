@@ -8766,5 +8766,26 @@
       "post_id": "1181533578372151_122122679673364831"
     },
     "timestamp": "2026-08-10T09:07:51.595713"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "The fight isn't over. You still have rounds left.",
+      "content_index": 146,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "lone hiker emerging from a dense forest"
+      },
+      "date": "2026-08-10",
+      "timestamp": "2026-08-10T10:13:48.623589",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa The fight isn't over. You still have rounds left.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122122686897364831",
+      "post_id": "1181533578372151_122122686915364831"
+    },
+    "timestamp": "2026-08-10T10:13:53.565489"
   }
 ]
