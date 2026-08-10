@@ -8787,5 +8787,26 @@
       "post_id": "1181533578372151_122122686915364831"
     },
     "timestamp": "2026-08-10T10:13:53.565489"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You were born to stand out, not to fit in.",
+      "content_index": 100,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-08-10",
+      "timestamp": "2026-08-10T14:21:50.539935",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You were born to stand out, not to fit in.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122122761279364831",
+      "post_id": "1181533578372151_122122761297364831"
+    },
+    "timestamp": "2026-08-10T14:21:54.992750"
   }
 ]

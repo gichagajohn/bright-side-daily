@@ -6102,3 +6102,16 @@ Share this with someone who needs it today! 💛
 2026-08-10 11:43:59,056 [INFO] ▶  Running slot: afternoon_wisdom
 2026-08-10 11:43:59,056 [INFO] ──────────────────────────────────────────────────
 2026-08-10 11:43:59,157 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-08-10 14:21:50,298 [INFO] Failed posts list is empty.
+2026-08-10 14:21:50,440 [INFO] ──────────────────────────────────────────────────
+2026-08-10 14:21:50,440 [INFO] ▶  Running slot: morning_motivation
+2026-08-10 14:21:50,440 [INFO] ──────────────────────────────────────────────────
+2026-08-10 14:21:50,539 [INFO] 📝 Content selected: You were born to stand out, not to fit in....
+2026-08-10 14:21:50,644 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260810_142150.png
+2026-08-10 14:21:50,644 [INFO] Caption preview: ☀️ You were born to stand out, not to fit in.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mind...
+2026-08-10 14:21:54,990 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-10 14:21:55,000 [INFO] ✅ Slot [morning_motivation] published successfully!
