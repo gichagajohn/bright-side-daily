@@ -6053,3 +6053,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Succe...
 2026-08-10 06:09:45,768 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-10 06:09:45,778 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-10 08:40:11,109 [INFO] Failed posts list is empty.
+2026-08-10 08:40:11,259 [INFO] ──────────────────────────────────────────────────
+2026-08-10 08:40:11,260 [INFO] ▶  Running slot: self_improvement
+2026-08-10 08:40:11,260 [INFO] ──────────────────────────────────────────────────
+2026-08-10 08:40:11,362 [INFO] 📝 Content selected: Own your mistakes. They are your greatest teachers....
+2026-08-10 08:40:11,482 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260810_084011.png
+2026-08-10 08:40:11,483 [INFO] Caption preview: 📈 Own your mistakes. They are your greatest teachers.
+
+Share this with someone who needs it today! 💛
+
+#PersonalGrowth #S...
+2026-08-10 08:40:15,623 [INFO] ✅ Posted successfully [self_improvement]
+2026-08-10 08:40:15,633 [INFO] ✅ Slot [self_improvement] published successfully!
