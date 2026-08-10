@@ -6115,3 +6115,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mind...
 2026-08-10 14:21:54,990 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-10 14:21:55,000 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-10 16:00:56,124 [INFO] Failed posts list is empty.
+2026-08-10 16:00:56,276 [INFO] ──────────────────────────────────────────────────
+2026-08-10 16:00:56,276 [INFO] ▶  Running slot: evening_reflection
+2026-08-10 16:00:56,276 [INFO] ──────────────────────────────────────────────────
+2026-08-10 16:00:56,377 [INFO] 📝 Content selected: Thank the people who shaped you while they're still here to hear it....
+2026-08-10 16:00:56,537 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260810_160056.png
+2026-08-10 16:00:56,537 [INFO] Caption preview: 🌙 Thank the people who shaped you while they're still here to hear it.
+
+Share this with someone who needs it today! 💛
+
+#...
+2026-08-10 16:01:01,166 [INFO] ✅ Posted successfully [evening_reflection]
+2026-08-10 16:01:01,177 [INFO] ✅ Slot [evening_reflection] published successfully!
