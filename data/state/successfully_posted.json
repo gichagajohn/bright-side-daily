@@ -8955,5 +8955,26 @@
       "post_id": "1181533578372151_122122928415364831"
     },
     "timestamp": "2026-08-11T10:56:48.693123"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The dream is worth every sacrifice it demands.",
+      "content_index": 597,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T14:21:23.620421",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The dream is worth every sacrifice it demands.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122122961271364831",
+      "post_id": "1181533578372151_122122961289364831"
+    },
+    "timestamp": "2026-08-11T14:21:27.994227"
   }
 ]
