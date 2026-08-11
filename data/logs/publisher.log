@@ -6159,3 +6159,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #...
 2026-08-11 05:53:03,079 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-11 05:53:03,089 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-11 08:10:02,369 [INFO] Failed posts list is empty.
+2026-08-11 08:10:02,520 [INFO] ──────────────────────────────────────────────────
+2026-08-11 08:10:02,520 [INFO] ▶  Running slot: self_improvement
+2026-08-11 08:10:02,520 [INFO] ──────────────────────────────────────────────────
+2026-08-11 08:10:02,624 [INFO] 📝 Content selected: Be the most improved version of yourself every single day....
+2026-08-11 08:10:02,715 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260811_081002.png
+2026-08-11 08:10:02,715 [INFO] Caption preview: 📈 Be the most improved version of yourself every single day.
+
+Share this with someone who needs it today! 💛
+
+#PersonalGr...
+2026-08-11 08:10:10,139 [INFO] ✅ Posted successfully [self_improvement]
+2026-08-11 08:10:10,149 [INFO] ✅ Slot [self_improvement] published successfully!
