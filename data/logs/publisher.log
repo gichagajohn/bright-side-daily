@@ -6146,3 +6146,16 @@ Share this with someone who needs it today! 💛
 2026-08-10 18:47:41,016 [INFO] ▶  Running slot: night_inspiration
 2026-08-10 18:47:41,016 [INFO] ──────────────────────────────────────────────────
 2026-08-10 18:47:41,124 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-08-11 05:52:56,740 [INFO] Failed posts list is empty.
+2026-08-11 05:52:56,884 [INFO] ──────────────────────────────────────────────────
+2026-08-11 05:52:56,884 [INFO] ▶  Running slot: morning_motivation
+2026-08-11 05:52:56,884 [INFO] ──────────────────────────────────────────────────
+2026-08-11 05:52:56,986 [INFO] 📝 Content selected: You are a rare kind of determined. Honor that....
+2026-08-11 05:52:57,138 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260811_055257.png
+2026-08-11 05:52:57,138 [INFO] Caption preview: ☀️ You are a rare kind of determined. Honor that.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #...
+2026-08-11 05:53:03,079 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-11 05:53:03,089 [INFO] ✅ Slot [morning_motivation] published successfully!
