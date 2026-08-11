@@ -8913,5 +8913,26 @@
       "post_id": "1181533578372151_122122911111364831"
     },
     "timestamp": "2026-08-11T08:43:59.959773"
+  },
+  {
+    "post": {
+      "slot": "funny_meme",
+      "category": "meme_captions",
+      "content": "Me starting a budget spreadsheet with the energy of a financial genius.",
+      "content_index": 574,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "open book and coffee in a cozy reading nook"
+      },
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T09:57:17.108372",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\ude04 Me starting a budget spreadsheet with the energy of a financial genius.\n\nTag someone who can relate! \ud83d\ude02\n\n#RelatableLife #Funny #MondayMood #TooReal #WeekdayVibes #BrightSideDaily",
+    "fb_response": {
+      "id": "122122920951364831",
+      "post_id": "1181533578372151_122122920969364831"
+    },
+    "timestamp": "2026-08-11T09:57:25.374395"
   }
 ]
