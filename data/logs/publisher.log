@@ -6317,3 +6317,8 @@ Tag someone who can relate! 😂
 2026-08-12 11:04:13,822 [INFO] ▶  Running slot: afternoon_wisdom
 2026-08-12 11:04:13,822 [INFO] ──────────────────────────────────────────────────
 2026-08-12 11:04:13,933 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-08-12 11:42:25,738 [INFO] Failed posts list is empty.
+2026-08-12 11:42:25,880 [INFO] ──────────────────────────────────────────────────
+2026-08-12 11:42:25,880 [INFO] ▶  Running slot: afternoon_wisdom
+2026-08-12 11:42:25,880 [INFO] ──────────────────────────────────────────────────
+2026-08-12 11:42:25,981 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
