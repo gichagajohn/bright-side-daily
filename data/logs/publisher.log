@@ -6312,3 +6312,8 @@ Tag someone who can relate! 😂
 #RelatableLif...
 2026-08-12 09:59:15,588 [INFO] ✅ Posted successfully [funny_meme]
 2026-08-12 09:59:15,598 [INFO] ✅ Slot [funny_meme] published successfully!
+2026-08-12 11:04:13,677 [INFO] Failed posts list is empty.
+2026-08-12 11:04:13,822 [INFO] ──────────────────────────────────────────────────
+2026-08-12 11:04:13,822 [INFO] ▶  Running slot: afternoon_wisdom
+2026-08-12 11:04:13,822 [INFO] ──────────────────────────────────────────────────
+2026-08-12 11:04:13,933 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
