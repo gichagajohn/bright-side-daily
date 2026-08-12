@@ -6335,3 +6335,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Minds...
 2026-08-12 14:22:01,260 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-12 14:22:01,270 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-12 15:59:33,619 [INFO] Failed posts list is empty.
+2026-08-12 15:59:33,759 [INFO] ──────────────────────────────────────────────────
+2026-08-12 15:59:33,759 [INFO] ▶  Running slot: engagement_question
+2026-08-12 15:59:33,759 [INFO] ──────────────────────────────────────────────────
+2026-08-12 15:59:33,860 [INFO] 📝 Content selected: What does winning look like for you this week?...
+2026-08-12 15:59:34,070 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260812_155934.png
+2026-08-12 15:59:34,070 [INFO] Caption preview: 💬 What does winning look like for you this week?
+
+Drop your answer in the comments below 👇
+
+#Community #ShareYourThought...
+2026-08-12 15:59:39,536 [INFO] ✅ Posted successfully [engagement_question]
+2026-08-12 15:59:39,545 [INFO] ✅ Slot [engagement_question] published successfully!
