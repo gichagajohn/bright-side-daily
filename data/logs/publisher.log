@@ -6299,3 +6299,16 @@ Tag someone who can relate! 😂
 #RelatableLif...
 2026-08-12 09:02:13,381 [INFO] ✅ Posted successfully [funny_meme]
 2026-08-12 09:02:13,391 [INFO] ✅ Slot [funny_meme] published successfully!
+2026-08-12 09:59:08,584 [INFO] Failed posts list is empty.
+2026-08-12 09:59:08,732 [INFO] ──────────────────────────────────────────────────
+2026-08-12 09:59:08,732 [INFO] ▶  Running slot: funny_meme
+2026-08-12 09:59:08,732 [INFO] ──────────────────────────────────────────────────
+2026-08-12 09:59:08,835 [INFO] 📝 Content selected: When someone says 'you seem busy' and the correct answer is complicated....
+2026-08-12 09:59:08,943 [INFO] Publishing [funny_meme] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/funny_meme_20260812_095908.png
+2026-08-12 09:59:08,944 [INFO] Caption preview: 😄 When someone says 'you seem busy' and the correct answer is complicated.
+
+Tag someone who can relate! 😂
+
+#RelatableLif...
+2026-08-12 09:59:15,588 [INFO] ✅ Posted successfully [funny_meme]
+2026-08-12 09:59:15,598 [INFO] ✅ Slot [funny_meme] published successfully!
