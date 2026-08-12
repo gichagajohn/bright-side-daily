@@ -6260,3 +6260,16 @@ Share this with someone who needs it today! 💛
 2026-08-11 18:53:48,583 [INFO] ▶  Running slot: night_inspiration
 2026-08-11 18:53:48,583 [INFO] ──────────────────────────────────────────────────
 2026-08-11 18:53:48,659 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-08-12 06:14:20,345 [INFO] Failed posts list is empty.
+2026-08-12 06:14:20,488 [INFO] ──────────────────────────────────────────────────
+2026-08-12 06:14:20,488 [INFO] ▶  Running slot: morning_motivation
+2026-08-12 06:14:20,488 [INFO] ──────────────────────────────────────────────────
+2026-08-12 06:14:20,598 [INFO] 📝 Content selected: The best time to start was yesterday. The next best time is now....
+2026-08-12 06:14:20,790 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260812_061420.png
+2026-08-12 06:14:20,790 [INFO] Caption preview: ☀️ The best time to start was yesterday. The next best time is now.
+
+Share this with someone who needs it today! 💛
+
+#Mot...
+2026-08-12 06:14:25,006 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-12 06:14:25,016 [INFO] ✅ Slot [morning_motivation] published successfully!
