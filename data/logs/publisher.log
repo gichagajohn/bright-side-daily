@@ -6322,3 +6322,16 @@ Tag someone who can relate! 😂
 2026-08-12 11:42:25,880 [INFO] ▶  Running slot: afternoon_wisdom
 2026-08-12 11:42:25,880 [INFO] ──────────────────────────────────────────────────
 2026-08-12 11:42:25,981 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-08-12 14:21:56,775 [INFO] Failed posts list is empty.
+2026-08-12 14:21:56,921 [INFO] ──────────────────────────────────────────────────
+2026-08-12 14:21:56,921 [INFO] ▶  Running slot: morning_motivation
+2026-08-12 14:21:56,921 [INFO] ──────────────────────────────────────────────────
+2026-08-12 14:21:57,032 [INFO] 📝 Content selected: If you're going through hell, keep going....
+2026-08-12 14:21:57,179 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260812_142157.png
+2026-08-12 14:21:57,179 [INFO] Caption preview: ☀️ If you're going through hell, keep going.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Minds...
+2026-08-12 14:22:01,260 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-12 14:22:01,270 [INFO] ✅ Slot [morning_motivation] published successfully!

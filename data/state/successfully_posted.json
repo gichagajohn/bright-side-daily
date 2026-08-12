@@ -9102,5 +9102,26 @@
       "post_id": "1181533578372151_122123154351364831"
     },
     "timestamp": "2026-08-12T09:59:15.590702"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "If you're going through hell, keep going.",
+      "content_index": 187,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-08-12",
+      "timestamp": "2026-08-12T14:21:57.032412",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f If you're going through hell, keep going.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122123199183364831",
+      "post_id": "1181533578372151_122123199201364831"
+    },
+    "timestamp": "2026-08-12T14:22:01.262171"
   }
 ]
