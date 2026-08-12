@@ -9144,5 +9144,26 @@
       "post_id": "1181533578372151_122123209245364831"
     },
     "timestamp": "2026-08-12T15:59:39.538663"
+  },
+  {
+    "post": {
+      "slot": "evening_reflection",
+      "category": "gratitude_quotes",
+      "content": "Let thanksgiving be the lens through which you view your whole life.",
+      "content_index": 605,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "warm coffee mug on table beside rainy window"
+      },
+      "date": "2026-08-12",
+      "timestamp": "2026-08-12T16:41:48.102890",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83c\udf19 Let thanksgiving be the lens through which you view your whole life.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Gratitude #Thankful #CountYourBlessings #GratefulHeart #Blessed #BrightSideDaily",
+    "fb_response": {
+      "id": "122123214039364831",
+      "post_id": "1181533578372151_122123214063364831"
+    },
+    "timestamp": "2026-08-12T16:41:53.496725"
   }
 ]
