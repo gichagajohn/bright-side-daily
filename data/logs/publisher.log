@@ -6273,3 +6273,16 @@ Share this with someone who needs it today! 💛
 #Mot...
 2026-08-12 06:14:25,006 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-12 06:14:25,016 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-12 08:19:21,151 [INFO] Failed posts list is empty.
+2026-08-12 08:19:21,302 [INFO] ──────────────────────────────────────────────────
+2026-08-12 08:19:21,302 [INFO] ▶  Running slot: self_improvement
+2026-08-12 08:19:21,302 [INFO] ──────────────────────────────────────────────────
+2026-08-12 08:19:21,405 [INFO] 📝 Content selected: Your daily decisions compound. Make them carefully....
+2026-08-12 08:19:21,546 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260812_081921.png
+2026-08-12 08:19:21,546 [INFO] Caption preview: 📈 Your daily decisions compound. Make them carefully.
+
+Share this with someone who needs it today! 💛
+
+#PersonalGrowth #S...
+2026-08-12 08:19:32,584 [INFO] ✅ Posted successfully [self_improvement]
+2026-08-12 08:19:32,593 [INFO] ✅ Slot [self_improvement] published successfully!
