@@ -6416,3 +6416,8 @@ Share this with someone who needs it today! 💛
 #YouGotThis #KeepGoing #...
 2026-08-13 10:01:09,264 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-08-13 10:01:09,274 [INFO] ✅ Slot [midday_encouragement] published successfully!
+2026-08-13 11:04:34,976 [INFO] Failed posts list is empty.
+2026-08-13 11:04:35,134 [INFO] ──────────────────────────────────────────────────
+2026-08-13 11:04:35,134 [INFO] ▶  Running slot: afternoon_wisdom
+2026-08-13 11:04:35,134 [INFO] ──────────────────────────────────────────────────
+2026-08-13 11:04:35,240 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
