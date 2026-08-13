@@ -6421,3 +6421,8 @@ Share this with someone who needs it today! 💛
 2026-08-13 11:04:35,134 [INFO] ▶  Running slot: afternoon_wisdom
 2026-08-13 11:04:35,134 [INFO] ──────────────────────────────────────────────────
 2026-08-13 11:04:35,240 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-08-13 11:42:06,979 [INFO] Failed posts list is empty.
+2026-08-13 11:42:07,128 [INFO] ──────────────────────────────────────────────────
+2026-08-13 11:42:07,128 [INFO] ▶  Running slot: afternoon_wisdom
+2026-08-13 11:42:07,128 [INFO] ──────────────────────────────────────────────────
+2026-08-13 11:42:07,235 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
