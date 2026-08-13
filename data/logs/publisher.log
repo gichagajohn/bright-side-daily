@@ -6366,3 +6366,16 @@ Share this with someone who needs it today! 💛
 2026-08-12 18:54:05,565 [INFO] ▶  Running slot: night_inspiration
 2026-08-12 18:54:05,565 [INFO] ──────────────────────────────────────────────────
 2026-08-12 18:54:05,675 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-08-13 06:16:03,493 [INFO] Failed posts list is empty.
+2026-08-13 06:16:03,635 [INFO] ──────────────────────────────────────────────────
+2026-08-13 06:16:03,635 [INFO] ▶  Running slot: morning_motivation
+2026-08-13 06:16:03,635 [INFO] ──────────────────────────────────────────────────
+2026-08-13 06:16:03,740 [INFO] 📝 Content selected: Aspire to inspire before you expire....
+2026-08-13 06:16:03,880 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260813_061603.png
+2026-08-13 06:16:03,880 [INFO] Caption preview: ☀️ Aspire to inspire before you expire.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMat...
+2026-08-13 06:16:10,543 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-13 06:16:10,553 [INFO] ✅ Slot [morning_motivation] published successfully!
