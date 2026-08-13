@@ -6426,3 +6426,16 @@ Share this with someone who needs it today! 💛
 2026-08-13 11:42:07,128 [INFO] ▶  Running slot: afternoon_wisdom
 2026-08-13 11:42:07,128 [INFO] ──────────────────────────────────────────────────
 2026-08-13 11:42:07,235 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-08-13 14:23:54,602 [INFO] Failed posts list is empty.
+2026-08-13 14:23:54,731 [INFO] ──────────────────────────────────────────────────
+2026-08-13 14:23:54,731 [INFO] ▶  Running slot: morning_motivation
+2026-08-13 14:23:54,731 [INFO] ──────────────────────────────────────────────────
+2026-08-13 14:23:54,837 [INFO] 📝 Content selected: Endure. Adapt. Overcome....
+2026-08-13 14:23:54,896 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260813_142354.png
+2026-08-13 14:23:54,896 [INFO] Caption preview: ☀️ Endure. Adapt. Overcome.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #DailyM...
+2026-08-13 14:24:00,347 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-13 14:24:00,356 [INFO] ✅ Slot [morning_motivation] published successfully!
