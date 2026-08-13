@@ -6379,3 +6379,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMat...
 2026-08-13 06:16:10,543 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-13 06:16:10,553 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-13 08:22:19,504 [INFO] Failed posts list is empty.
+2026-08-13 08:22:19,618 [INFO] ──────────────────────────────────────────────────
+2026-08-13 08:22:19,618 [INFO] ▶  Running slot: self_improvement
+2026-08-13 08:22:19,618 [INFO] ──────────────────────────────────────────────────
+2026-08-13 08:22:19,710 [INFO] 📝 Content selected: Let growth be the one constant in a world of variables....
+2026-08-13 08:22:19,969 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260813_082219.png
+2026-08-13 08:22:19,970 [INFO] Caption preview: 📈 Let growth be the one constant in a world of variables.
+
+Share this with someone who needs it today! 💛
+
+#PersonalGrowt...
+2026-08-13 08:22:27,121 [INFO] ✅ Posted successfully [self_improvement]
+2026-08-13 08:22:27,131 [INFO] ✅ Slot [self_improvement] published successfully!
