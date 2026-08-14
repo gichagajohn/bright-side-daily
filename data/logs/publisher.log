@@ -6552,3 +6552,14 @@ Share this with someone who needs it today! 💛
 Drop your answer in the comments below 👇...
 2026-08-14 15:53:39,121 [INFO] ✅ Posted successfully [engagement_question]
 2026-08-14 15:53:39,131 [INFO] ✅ Slot [engagement_question] published successfully!
+2026-08-14 16:36:25,782 [INFO] Failed posts list is empty.
+2026-08-14 16:36:25,930 [INFO] ──────────────────────────────────────────────────
+2026-08-14 16:36:25,930 [INFO] ▶  Running slot: evening_reflection
+2026-08-14 16:36:25,930 [INFO] ──────────────────────────────────────────────────
+2026-08-14 16:36:26,039 [INFO] 📝 Content selected: Gratitude changes your perspective — and your perspective changes your life....
+2026-08-14 16:36:26,169 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260814_163626.png
+2026-08-14 16:36:26,170 [INFO] Caption preview: 🌙 Gratitude changes your perspective — and your perspective changes your life.
+
+Share this with someone who needs it tod...
+2026-08-14 16:36:30,546 [INFO] ✅ Posted successfully [evening_reflection]
+2026-08-14 16:36:30,557 [INFO] ✅ Slot [evening_reflection] published successfully!
