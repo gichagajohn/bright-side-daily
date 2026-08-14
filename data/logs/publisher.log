@@ -6470,3 +6470,16 @@ Share this with someone who needs it today! 💛
 2026-08-13 18:54:32,227 [INFO] ▶  Running slot: night_inspiration
 2026-08-13 18:54:32,227 [INFO] ──────────────────────────────────────────────────
 2026-08-13 18:54:32,339 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-08-14 06:13:33,249 [INFO] Failed posts list is empty.
+2026-08-14 06:13:33,370 [INFO] ──────────────────────────────────────────────────
+2026-08-14 06:13:33,370 [INFO] ▶  Running slot: morning_motivation
+2026-08-14 06:13:33,370 [INFO] ──────────────────────────────────────────────────
+2026-08-14 06:13:33,456 [INFO] 📝 Content selected: Build something today you can be proud of tomorrow....
+2026-08-14 06:13:33,559 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260814_061333.png
+2026-08-14 06:13:33,559 [INFO] Caption preview: ☀️ Build something today you can be proud of tomorrow.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succ...
+2026-08-14 06:13:36,408 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-14 06:13:36,416 [INFO] ✅ Slot [morning_motivation] published successfully!
