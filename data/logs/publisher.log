@@ -6541,3 +6541,14 @@ Share this with someone who needs it today! 💛
 #Moti...
 2026-08-14 14:17:16,736 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-14 14:17:16,746 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-14 15:53:31,874 [INFO] Failed posts list is empty.
+2026-08-14 15:53:32,018 [INFO] ──────────────────────────────────────────────────
+2026-08-14 15:53:32,018 [INFO] ▶  Running slot: engagement_question
+2026-08-14 15:53:32,018 [INFO] ──────────────────────────────────────────────────
+2026-08-14 15:53:32,126 [INFO] 📝 Content selected: What's something you're learning to love about your life as it is right now?...
+2026-08-14 15:53:32,233 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260814_155332.png
+2026-08-14 15:53:32,234 [INFO] Caption preview: 💬 What's something you're learning to love about your life as it is right now?
+
+Drop your answer in the comments below 👇...
+2026-08-14 15:53:39,121 [INFO] ✅ Posted successfully [engagement_question]
+2026-08-14 15:53:39,131 [INFO] ✅ Slot [engagement_question] published successfully!
