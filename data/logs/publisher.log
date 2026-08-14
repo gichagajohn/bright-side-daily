@@ -6528,3 +6528,16 @@ Tag someone who can...
 2026-08-14 11:41:16,237 [INFO] ▶  Running slot: afternoon_wisdom
 2026-08-14 11:41:16,237 [INFO] ──────────────────────────────────────────────────
 2026-08-14 11:41:16,315 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-08-14 14:17:11,036 [INFO] Failed posts list is empty.
+2026-08-14 14:17:11,191 [INFO] ──────────────────────────────────────────────────
+2026-08-14 14:17:11,191 [INFO] ▶  Running slot: morning_motivation
+2026-08-14 14:17:11,191 [INFO] ──────────────────────────────────────────────────
+2026-08-14 14:17:11,299 [INFO] 📝 Content selected: Speed of execution separates the amateur from the professional....
+2026-08-14 14:17:11,373 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260814_141711.png
+2026-08-14 14:17:11,373 [INFO] Caption preview: ☀️ Speed of execution separates the amateur from the professional.
+
+Share this with someone who needs it today! 💛
+
+#Moti...
+2026-08-14 14:17:16,736 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-14 14:17:16,746 [INFO] ✅ Slot [morning_motivation] published successfully!

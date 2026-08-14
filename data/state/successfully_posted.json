@@ -9396,5 +9396,26 @@
       "post_id": "1181533578372151_122123612169364831"
     },
     "timestamp": "2026-08-14T09:57:25.050664"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Speed of execution separates the amateur from the professional.",
+      "content_index": 500,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T14:17:11.299500",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Speed of execution separates the amateur from the professional.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122123645151364831",
+      "post_id": "1181533578372151_122123645169364831"
+    },
+    "timestamp": "2026-08-14T14:17:16.738408"
   }
 ]
