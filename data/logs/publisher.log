@@ -6581,3 +6581,16 @@ Share this with someone who needs it today! 💛
 #Motiva...
 2026-08-15 05:24:20,447 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-15 05:24:20,458 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-15 07:32:17,803 [INFO] Failed posts list is empty.
+2026-08-15 07:32:17,955 [INFO] ──────────────────────────────────────────────────
+2026-08-15 07:32:17,955 [INFO] ▶  Running slot: positive_quote
+2026-08-15 07:32:17,955 [INFO] ──────────────────────────────────────────────────
+2026-08-15 07:32:18,067 [INFO] 📝 Content selected: Life is short, but it's wide. Fill it with moments worth keeping....
+2026-08-15 07:32:18,173 [INFO] Publishing [positive_quote] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/positive_quote_20260815_073218.png
+2026-08-15 07:32:18,174 [INFO] Caption preview: 🌟 Life is short, but it's wide. Fill it with moments worth keeping.
+
+Share this with someone who needs it today! 💛
+
+#Pos...
+2026-08-15 07:32:24,944 [INFO] ✅ Posted successfully [positive_quote]
+2026-08-15 07:32:24,955 [INFO] ✅ Slot [positive_quote] published successfully!
