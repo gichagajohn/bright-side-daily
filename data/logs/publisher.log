@@ -6636,3 +6636,8 @@ Share this with someone who needs i...
 2026-08-15 11:16:08,354 [INFO] ▶  Running slot: afternoon_wisdom
 2026-08-15 11:16:08,354 [INFO] ──────────────────────────────────────────────────
 2026-08-15 11:16:08,466 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-08-15 13:34:42,435 [INFO] Failed posts list is empty.
+2026-08-15 13:34:42,583 [INFO] ──────────────────────────────────────────────────
+2026-08-15 13:34:42,583 [INFO] ▶  Running slot: gratitude_moment
+2026-08-15 13:34:42,584 [INFO] ──────────────────────────────────────────────────
+2026-08-15 13:34:42,694 [ERROR] ❌ Content selection failed: 'gratitude_moment'
