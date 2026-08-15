@@ -6667,3 +6667,8 @@ Share this with someone who needs it today! 💛
 #Gratitude #Thankful...
 2026-08-15 16:08:01,653 [INFO] ✅ Posted successfully [evening_reflection]
 2026-08-15 16:08:01,663 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-08-15 18:18:53,497 [INFO] Failed posts list is empty.
+2026-08-15 18:18:53,650 [INFO] ──────────────────────────────────────────────────
+2026-08-15 18:18:53,651 [INFO] ▶  Running slot: night_inspiration
+2026-08-15 18:18:53,651 [INFO] ──────────────────────────────────────────────────
+2026-08-15 18:18:53,767 [ERROR] ❌ Content selection failed: 'night_inspiration'
