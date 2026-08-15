@@ -9459,5 +9459,26 @@
       "post_id": "1181533578372151_122123662041364831"
     },
     "timestamp": "2026-08-14T16:36:30.548699"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your only obligation is to become all you were created to be.",
+      "content_index": 524,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T05:24:14.033403",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your only obligation is to become all you were created to be.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122123839563364831",
+      "post_id": "1181533578372151_122123839581364831"
+    },
+    "timestamp": "2026-08-15T05:24:20.449439"
   }
 ]

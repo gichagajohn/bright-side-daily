@@ -6568,3 +6568,16 @@ Share this with someone who needs it tod...
 2026-08-14 18:44:02,616 [INFO] ▶  Running slot: night_inspiration
 2026-08-14 18:44:02,616 [INFO] ──────────────────────────────────────────────────
 2026-08-14 18:44:02,724 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-08-15 05:24:13,776 [INFO] Failed posts list is empty.
+2026-08-15 05:24:13,923 [INFO] ──────────────────────────────────────────────────
+2026-08-15 05:24:13,923 [INFO] ▶  Running slot: morning_motivation
+2026-08-15 05:24:13,923 [INFO] ──────────────────────────────────────────────────
+2026-08-15 05:24:14,033 [INFO] 📝 Content selected: Your only obligation is to become all you were created to be....
+2026-08-15 05:24:14,127 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260815_052414.png
+2026-08-15 05:24:14,127 [INFO] Caption preview: ☀️ Your only obligation is to become all you were created to be.
+
+Share this with someone who needs it today! 💛
+
+#Motiva...
+2026-08-15 05:24:20,447 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-15 05:24:20,458 [INFO] ✅ Slot [morning_motivation] published successfully!
