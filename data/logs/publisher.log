@@ -6594,3 +6594,16 @@ Share this with someone who needs it today! 💛
 #Pos...
 2026-08-15 07:32:24,944 [INFO] ✅ Posted successfully [positive_quote]
 2026-08-15 07:32:24,955 [INFO] ✅ Slot [positive_quote] published successfully!
+2026-08-15 08:15:48,110 [INFO] Failed posts list is empty.
+2026-08-15 08:15:48,252 [INFO] ──────────────────────────────────────────────────
+2026-08-15 08:15:48,252 [INFO] ▶  Running slot: self_improvement
+2026-08-15 08:15:48,252 [INFO] ──────────────────────────────────────────────────
+2026-08-15 08:15:48,371 [INFO] 📝 Content selected: Your self-improvement is never done and that's the beautiful part....
+2026-08-15 08:15:48,535 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260815_081548.png
+2026-08-15 08:15:48,535 [INFO] Caption preview: 📈 Your self-improvement is never done and that's the beautiful part.
+
+Share this with someone who needs it today! 💛
+
+#Pe...
+2026-08-15 08:15:54,850 [INFO] ✅ Posted successfully [self_improvement]
+2026-08-15 08:15:54,861 [INFO] ✅ Slot [self_improvement] published successfully!
