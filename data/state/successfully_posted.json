@@ -9543,5 +9543,26 @@
       "post_id": "1181533578372151_122123864379364831"
     },
     "timestamp": "2026-08-15T09:22:40.679514"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "Difficult doesn't mean impossible. It just means it requires everything you have.",
+      "content_index": 421,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "lone hiker emerging from a dense forest"
+      },
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T10:29:42.319546",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa Difficult doesn't mean impossible. It just means it requires everything you have.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122123874165364831",
+      "post_id": "1181533578372151_122123874183364831"
+    },
+    "timestamp": "2026-08-15T10:29:48.045523"
   }
 ]
