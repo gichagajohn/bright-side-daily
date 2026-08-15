@@ -6641,3 +6641,16 @@ Share this with someone who needs i...
 2026-08-15 13:34:42,583 [INFO] ▶  Running slot: gratitude_moment
 2026-08-15 13:34:42,584 [INFO] ──────────────────────────────────────────────────
 2026-08-15 13:34:42,694 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-08-15 15:21:50,871 [INFO] Failed posts list is empty.
+2026-08-15 15:21:51,030 [INFO] ──────────────────────────────────────────────────
+2026-08-15 15:21:51,030 [INFO] ▶  Running slot: engagement_question
+2026-08-15 15:21:51,030 [INFO] ──────────────────────────────────────────────────
+2026-08-15 15:21:51,144 [INFO] 📝 Content selected: If you had 24 hours with no obligations, what would you do?...
+2026-08-15 15:21:51,332 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260815_152151.png
+2026-08-15 15:21:51,333 [INFO] Caption preview: 💬 If you had 24 hours with no obligations, what would you do?
+
+Drop your answer in the comments below 👇
+
+#Community #Sha...
+2026-08-15 15:21:56,231 [INFO] ✅ Posted successfully [engagement_question]
+2026-08-15 15:21:56,242 [INFO] ✅ Slot [engagement_question] published successfully!
