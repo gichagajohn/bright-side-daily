@@ -6683,3 +6683,16 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it today! 💛...
 2026-08-16 05:28:19,905 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-16 05:28:19,913 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-16 07:32:35,498 [INFO] Failed posts list is empty.
+2026-08-16 07:32:35,646 [INFO] ──────────────────────────────────────────────────
+2026-08-16 07:32:35,647 [INFO] ▶  Running slot: positive_quote
+2026-08-16 07:32:35,647 [INFO] ──────────────────────────────────────────────────
+2026-08-16 07:32:35,760 [INFO] 📝 Content selected: Your heart is the engine of everything beautiful in your life....
+2026-08-16 07:32:35,961 [INFO] Publishing [positive_quote] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/positive_quote_20260816_073235.png
+2026-08-16 07:32:35,961 [INFO] Caption preview: 🌟 Your heart is the engine of everything beautiful in your life.
+
+Share this with someone who needs it today! 💛
+
+#Positi...
+2026-08-16 07:32:41,796 [INFO] ✅ Posted successfully [positive_quote]
+2026-08-16 07:32:41,807 [INFO] ✅ Slot [positive_quote] published successfully!
