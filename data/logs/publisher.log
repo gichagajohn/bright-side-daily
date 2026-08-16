@@ -6696,3 +6696,16 @@ Share this with someone who needs it today! 💛
 #Positi...
 2026-08-16 07:32:41,796 [INFO] ✅ Posted successfully [positive_quote]
 2026-08-16 07:32:41,807 [INFO] ✅ Slot [positive_quote] published successfully!
+2026-08-16 08:17:19,814 [INFO] Failed posts list is empty.
+2026-08-16 08:17:19,974 [INFO] ──────────────────────────────────────────────────
+2026-08-16 08:17:19,974 [INFO] ▶  Running slot: self_improvement
+2026-08-16 08:17:19,974 [INFO] ──────────────────────────────────────────────────
+2026-08-16 08:17:20,098 [INFO] 📝 Content selected: Embrace challenges as the curriculum of your growth....
+2026-08-16 08:17:20,277 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260816_081720.png
+2026-08-16 08:17:20,277 [INFO] Caption preview: 📈 Embrace challenges as the curriculum of your growth.
+
+Share this with someone who needs it today! 💛
+
+#PersonalGrowth #...
+2026-08-16 08:17:24,680 [INFO] ✅ Posted successfully [self_improvement]
+2026-08-16 08:17:24,691 [INFO] ✅ Slot [self_improvement] published successfully!
