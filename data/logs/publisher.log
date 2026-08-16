@@ -6745,3 +6745,16 @@ Share this with someone who needs it today! 💛
 2026-08-16 13:35:34,720 [INFO] ▶  Running slot: gratitude_moment
 2026-08-16 13:35:34,721 [INFO] ──────────────────────────────────────────────────
 2026-08-16 13:35:34,834 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-08-16 15:23:19,511 [INFO] Failed posts list is empty.
+2026-08-16 15:23:19,656 [INFO] ──────────────────────────────────────────────────
+2026-08-16 15:23:19,656 [INFO] ▶  Running slot: engagement_question
+2026-08-16 15:23:19,656 [INFO] ──────────────────────────────────────────────────
+2026-08-16 15:23:19,777 [INFO] 📝 Content selected: What's something you want to carry into the next season of your life?...
+2026-08-16 15:23:19,884 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260816_152319.png
+2026-08-16 15:23:19,884 [INFO] Caption preview: 💬 What's something you want to carry into the next season of your life?
+
+Drop your answer in the comments below 👇
+
+#Comm...
+2026-08-16 15:23:25,845 [INFO] ✅ Posted successfully [engagement_question]
+2026-08-16 15:23:25,855 [INFO] ✅ Slot [engagement_question] published successfully!
