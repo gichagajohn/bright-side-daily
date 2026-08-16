@@ -6672,3 +6672,14 @@ Share this with someone who needs it today! 💛
 2026-08-15 18:18:53,651 [INFO] ▶  Running slot: night_inspiration
 2026-08-15 18:18:53,651 [INFO] ──────────────────────────────────────────────────
 2026-08-15 18:18:53,767 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-08-16 05:28:14,316 [INFO] Failed posts list is empty.
+2026-08-16 05:28:14,432 [INFO] ──────────────────────────────────────────────────
+2026-08-16 05:28:14,432 [INFO] ▶  Running slot: morning_motivation
+2026-08-16 05:28:14,432 [INFO] ──────────────────────────────────────────────────
+2026-08-16 05:28:14,518 [INFO] 📝 Content selected: The future belongs to those who believe in the beauty of their dreams....
+2026-08-16 05:28:14,634 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260816_052814.png
+2026-08-16 05:28:14,634 [INFO] Caption preview: ☀️ The future belongs to those who believe in the beauty of their dreams.
+
+Share this with someone who needs it today! 💛...
+2026-08-16 05:28:19,905 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-16 05:28:19,913 [INFO] ✅ Slot [morning_motivation] published successfully!
