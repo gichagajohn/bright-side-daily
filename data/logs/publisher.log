@@ -6845,3 +6845,16 @@ Share this with someone who needs it today! 💛
 2026-08-17 13:42:44,497 [INFO] ▶  Running slot: gratitude_moment
 2026-08-17 13:42:44,497 [INFO] ──────────────────────────────────────────────────
 2026-08-17 13:42:44,617 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-08-17 15:26:31,813 [INFO] Failed posts list is empty.
+2026-08-17 15:26:31,963 [INFO] ──────────────────────────────────────────────────
+2026-08-17 15:26:31,963 [INFO] ▶  Running slot: engagement_question
+2026-08-17 15:26:31,963 [INFO] ──────────────────────────────────────────────────
+2026-08-17 15:26:32,081 [INFO] 📝 Content selected: What's a dream you keep coming back to?...
+2026-08-17 15:26:32,193 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260817_152632.png
+2026-08-17 15:26:32,193 [INFO] Caption preview: 💬 What's a dream you keep coming back to?
+
+Drop your answer in the comments below 👇
+
+#Community #ShareYourThoughts #Ques...
+2026-08-17 15:26:38,973 [INFO] ✅ Posted successfully [engagement_question]
+2026-08-17 15:26:38,984 [INFO] ✅ Slot [engagement_question] published successfully!
