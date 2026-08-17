@@ -6787,3 +6787,16 @@ Share this with someone who needs it today! 💛
 ...
 2026-08-17 05:34:31,721 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-17 05:34:31,733 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-17 07:54:02,423 [INFO] Failed posts list is empty.
+2026-08-17 07:54:02,574 [INFO] ──────────────────────────────────────────────────
+2026-08-17 07:54:02,574 [INFO] ▶  Running slot: positive_quote
+2026-08-17 07:54:02,574 [INFO] ──────────────────────────────────────────────────
+2026-08-17 07:54:02,691 [INFO] 📝 Content selected: Life flows better when you let go....
+2026-08-17 07:54:02,849 [INFO] Publishing [positive_quote] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/positive_quote_20260817_075402.png
+2026-08-17 07:54:02,849 [INFO] Caption preview: 🌟 Life flows better when you let go.
+
+Share this with someone who needs it today! 💛
+
+#PositiveVibes #HappyLife #GoodVibe...
+2026-08-17 07:54:08,240 [INFO] ✅ Posted successfully [positive_quote]
+2026-08-17 07:54:08,251 [INFO] ✅ Slot [positive_quote] published successfully!
