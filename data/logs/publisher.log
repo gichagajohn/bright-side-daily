@@ -6800,3 +6800,14 @@ Share this with someone who needs it today! 💛
 #PositiveVibes #HappyLife #GoodVibe...
 2026-08-17 07:54:08,240 [INFO] ✅ Posted successfully [positive_quote]
 2026-08-17 07:54:08,251 [INFO] ✅ Slot [positive_quote] published successfully!
+2026-08-17 08:32:11,504 [INFO] Failed posts list is empty.
+2026-08-17 08:32:11,652 [INFO] ──────────────────────────────────────────────────
+2026-08-17 08:32:11,652 [INFO] ▶  Running slot: self_improvement
+2026-08-17 08:32:11,652 [INFO] ──────────────────────────────────────────────────
+2026-08-17 08:32:11,769 [INFO] 📝 Content selected: The secret to change is to focus all energy not on fighting the old, but on buil...
+2026-08-17 08:32:11,828 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260817_083211.png
+2026-08-17 08:32:11,828 [INFO] Caption preview: 📈 The secret to change is to focus all energy not on fighting the old, but on building the new.
+
+Share this with someone...
+2026-08-17 08:32:18,061 [INFO] ✅ Posted successfully [self_improvement]
+2026-08-17 08:32:18,074 [INFO] ✅ Slot [self_improvement] published successfully!
