@@ -6774,3 +6774,16 @@ Share this with someone who nee...
 2026-08-16 18:19:00,657 [INFO] ▶  Running slot: night_inspiration
 2026-08-16 18:19:00,657 [INFO] ──────────────────────────────────────────────────
 2026-08-16 18:19:00,774 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-08-17 05:34:26,901 [INFO] Failed posts list is empty.
+2026-08-17 05:34:27,048 [INFO] ──────────────────────────────────────────────────
+2026-08-17 05:34:27,048 [INFO] ▶  Running slot: morning_motivation
+2026-08-17 05:34:27,048 [INFO] ──────────────────────────────────────────────────
+2026-08-17 05:34:27,164 [INFO] 📝 Content selected: You don't need a new year to make a change. You just need a new day....
+2026-08-17 05:34:27,268 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260817_053427.png
+2026-08-17 05:34:27,268 [INFO] Caption preview: ☀️ You don't need a new year to make a change. You just need a new day.
+
+Share this with someone who needs it today! 💛
+
+...
+2026-08-17 05:34:31,721 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-17 05:34:31,733 [INFO] ✅ Slot [morning_motivation] published successfully!
