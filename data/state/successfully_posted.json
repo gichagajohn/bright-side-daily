@@ -9900,5 +9900,26 @@
       "post_id": "1181533578372151_122124487293364831"
     },
     "timestamp": "2026-08-17T16:10:52.129743"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Create your own sunshine.",
+      "content_index": 430,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-08-18",
+      "timestamp": "2026-08-18T05:29:23.428719",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Create your own sunshine.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122124664539364831",
+      "post_id": "1181533578372151_122124664563364831"
+    },
+    "timestamp": "2026-08-18T05:29:28.177681"
   }
 ]

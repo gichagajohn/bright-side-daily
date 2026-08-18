@@ -6876,3 +6876,16 @@ Share this with someone who needs it today! 💛
 2026-08-17 18:29:01,380 [INFO] ▶  Running slot: night_inspiration
 2026-08-17 18:29:01,380 [INFO] ──────────────────────────────────────────────────
 2026-08-17 18:29:01,500 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-08-18 05:29:23,149 [INFO] Failed posts list is empty.
+2026-08-18 05:29:23,307 [INFO] ──────────────────────────────────────────────────
+2026-08-18 05:29:23,307 [INFO] ▶  Running slot: morning_motivation
+2026-08-18 05:29:23,307 [INFO] ──────────────────────────────────────────────────
+2026-08-18 05:29:23,428 [INFO] 📝 Content selected: Create your own sunshine....
+2026-08-18 05:29:23,529 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260818_052923.png
+2026-08-18 05:29:23,529 [INFO] Caption preview: ☀️ Create your own sunshine.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #Daily...
+2026-08-18 05:29:28,175 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-18 05:29:28,186 [INFO] ✅ Slot [morning_motivation] published successfully!
