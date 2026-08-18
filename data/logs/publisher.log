@@ -6950,3 +6950,16 @@ Share this with someone who needs it today! 💛
 2026-08-18 13:47:11,163 [INFO] ▶  Running slot: gratitude_moment
 2026-08-18 13:47:11,163 [INFO] ──────────────────────────────────────────────────
 2026-08-18 13:47:11,287 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-08-18 15:33:32,861 [INFO] Failed posts list is empty.
+2026-08-18 15:33:33,025 [INFO] ──────────────────────────────────────────────────
+2026-08-18 15:33:33,025 [INFO] ▶  Running slot: engagement_question
+2026-08-18 15:33:33,025 [INFO] ──────────────────────────────────────────────────
+2026-08-18 15:33:33,148 [INFO] 📝 Content selected: What's something you're looking forward to tomorrow?...
+2026-08-18 15:33:33,206 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260818_153333.png
+2026-08-18 15:33:33,207 [INFO] Caption preview: 💬 What's something you're looking forward to tomorrow?
+
+Drop your answer in the comments below 👇
+
+#Community #ShareYourT...
+2026-08-18 15:33:36,938 [INFO] ✅ Posted successfully [engagement_question]
+2026-08-18 15:33:36,949 [INFO] ✅ Slot [engagement_question] published successfully!
