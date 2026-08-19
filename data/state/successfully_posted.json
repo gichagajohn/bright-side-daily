@@ -10110,5 +10110,26 @@
       "post_id": "1181533578372151_122125034871364831"
     },
     "timestamp": "2026-08-19T08:24:55.830998"
+  },
+  {
+    "post": {
+      "slot": "funny_meme",
+      "category": "meme_captions",
+      "content": "When I start a sentence with 'long story short' and then don't make it short.",
+      "content_index": 565,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "office desk in cheerful chaos"
+      },
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T09:30:08.633979",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\ude04 When I start a sentence with 'long story short' and then don't make it short.\n\nTag someone who can relate! \ud83d\ude02\n\n#RelatableLife #Funny #MondayMood #TooReal #WeekdayVibes #BrightSideDaily",
+    "fb_response": {
+      "id": "122125044471364831",
+      "post_id": "1181533578372151_122125044513364831"
+    },
+    "timestamp": "2026-08-19T09:30:14.452697"
   }
 ]
