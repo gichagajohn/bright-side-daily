@@ -7043,3 +7043,8 @@ Share this with someone who needs it today! 💛
 #YouGotThis #KeepGoing #NeverGiv...
 2026-08-19 10:35:48,286 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-08-19 10:35:48,298 [INFO] ✅ Slot [midday_encouragement] published successfully!
+2026-08-19 11:20:52,474 [INFO] Failed posts list is empty.
+2026-08-19 11:20:52,631 [INFO] ──────────────────────────────────────────────────
+2026-08-19 11:20:52,631 [INFO] ▶  Running slot: afternoon_wisdom
+2026-08-19 11:20:52,631 [INFO] ──────────────────────────────────────────────────
+2026-08-19 11:20:52,762 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
