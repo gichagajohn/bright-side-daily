@@ -7048,3 +7048,8 @@ Share this with someone who needs it today! 💛
 2026-08-19 11:20:52,631 [INFO] ▶  Running slot: afternoon_wisdom
 2026-08-19 11:20:52,631 [INFO] ──────────────────────────────────────────────────
 2026-08-19 11:20:52,762 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-08-19 13:48:56,347 [INFO] Failed posts list is empty.
+2026-08-19 13:48:56,498 [INFO] ──────────────────────────────────────────────────
+2026-08-19 13:48:56,498 [INFO] ▶  Running slot: gratitude_moment
+2026-08-19 13:48:56,498 [INFO] ──────────────────────────────────────────────────
+2026-08-19 13:48:56,620 [ERROR] ❌ Content selection failed: 'gratitude_moment'
