@@ -6979,3 +6979,16 @@ Share this with someone who needs it today...
 2026-08-18 18:28:22,893 [INFO] ▶  Running slot: night_inspiration
 2026-08-18 18:28:22,893 [INFO] ──────────────────────────────────────────────────
 2026-08-18 18:28:23,015 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-08-19 05:29:36,358 [INFO] Failed posts list is empty.
+2026-08-19 05:29:36,506 [INFO] ──────────────────────────────────────────────────
+2026-08-19 05:29:36,506 [INFO] ▶  Running slot: morning_motivation
+2026-08-19 05:29:36,506 [INFO] ──────────────────────────────────────────────────
+2026-08-19 05:29:36,627 [INFO] 📝 Content selected: Every obstacle is teaching you something. Learn it and move....
+2026-08-19 05:29:36,735 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260819_052936.png
+2026-08-19 05:29:36,735 [INFO] Caption preview: ☀️ Every obstacle is teaching you something. Learn it and move.
+
+Share this with someone who needs it today! 💛
+
+#Motivat...
+2026-08-19 05:29:42,210 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-19 05:29:42,221 [INFO] ✅ Slot [morning_motivation] published successfully!

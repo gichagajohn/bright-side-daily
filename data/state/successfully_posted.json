@@ -10047,5 +10047,26 @@
       "post_id": "1181533578372151_122124772191364831"
     },
     "timestamp": "2026-08-18T16:15:06.222749"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Every obstacle is teaching you something. Learn it and move.",
+      "content_index": 684,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "warm coffee on table beside a sunrise window"
+      },
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T05:29:36.627649",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Every obstacle is teaching you something. Learn it and move.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122125011243364831",
+      "post_id": "1181533578372151_122125011261364831"
+    },
+    "timestamp": "2026-08-19T05:29:42.213214"
   }
 ]
