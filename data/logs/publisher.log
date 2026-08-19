@@ -7053,3 +7053,14 @@ Share this with someone who needs it today! 💛
 2026-08-19 13:48:56,498 [INFO] ▶  Running slot: gratitude_moment
 2026-08-19 13:48:56,498 [INFO] ──────────────────────────────────────────────────
 2026-08-19 13:48:56,620 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-08-19 15:33:17,707 [INFO] Failed posts list is empty.
+2026-08-19 15:33:17,804 [INFO] ──────────────────────────────────────────────────
+2026-08-19 15:33:17,804 [INFO] ▶  Running slot: engagement_question
+2026-08-19 15:33:17,804 [INFO] ──────────────────────────────────────────────────
+2026-08-19 15:33:17,889 [INFO] 📝 Content selected: What's a chapter of your life you thought would break you that actually built yo...
+2026-08-19 15:33:17,963 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260819_153317.png
+2026-08-19 15:33:17,963 [INFO] Caption preview: 💬 What's a chapter of your life you thought would break you that actually built you?
+
+Drop your answer in the comments b...
+2026-08-19 15:33:22,962 [INFO] ✅ Posted successfully [engagement_question]
+2026-08-19 15:33:22,970 [INFO] ✅ Slot [engagement_question] published successfully!
