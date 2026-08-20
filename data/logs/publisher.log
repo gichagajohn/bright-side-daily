@@ -7095,3 +7095,16 @@ Share this with someone who needs it today! 💛
 ...
 2026-08-20 05:30:15,268 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-20 05:30:15,279 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-20 07:42:03,131 [INFO] Failed posts list is empty.
+2026-08-20 07:42:03,278 [INFO] ──────────────────────────────────────────────────
+2026-08-20 07:42:03,279 [INFO] ▶  Running slot: positive_quote
+2026-08-20 07:42:03,279 [INFO] ──────────────────────────────────────────────────
+2026-08-20 07:42:03,408 [INFO] 📝 Content selected: Find one thing beautiful every day and your life will be beautiful....
+2026-08-20 07:42:03,516 [INFO] Publishing [positive_quote] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/positive_quote_20260820_074203.png
+2026-08-20 07:42:03,516 [INFO] Caption preview: 🌟 Find one thing beautiful every day and your life will be beautiful.
+
+Share this with someone who needs it today! 💛
+
+#P...
+2026-08-20 07:42:07,307 [INFO] ✅ Posted successfully [positive_quote]
+2026-08-20 07:42:07,318 [INFO] ✅ Slot [positive_quote] published successfully!
