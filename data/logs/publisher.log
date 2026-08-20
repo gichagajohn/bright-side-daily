@@ -7082,3 +7082,16 @@ Share this with someone who needs it today! 💛
 2026-08-19 18:24:20,799 [INFO] ▶  Running slot: night_inspiration
 2026-08-19 18:24:20,799 [INFO] ──────────────────────────────────────────────────
 2026-08-19 18:24:20,921 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-08-20 05:30:10,462 [INFO] Failed posts list is empty.
+2026-08-20 05:30:10,613 [INFO] ──────────────────────────────────────────────────
+2026-08-20 05:30:10,614 [INFO] ▶  Running slot: morning_motivation
+2026-08-20 05:30:10,614 [INFO] ──────────────────────────────────────────────────
+2026-08-20 05:30:10,737 [INFO] 📝 Content selected: Never mistake silence for weakness — silent hustlers move mountains....
+2026-08-20 05:30:10,847 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260820_053010.png
+2026-08-20 05:30:10,847 [INFO] Caption preview: ☀️ Never mistake silence for weakness — silent hustlers move mountains.
+
+Share this with someone who needs it today! 💛
+
+...
+2026-08-20 05:30:15,268 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-20 05:30:15,279 [INFO] ✅ Slot [morning_motivation] published successfully!
