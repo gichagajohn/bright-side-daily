@@ -7157,3 +7157,14 @@ Share this with someone who needs it today! 💛
 2026-08-20 13:50:41,877 [INFO] ▶  Running slot: gratitude_moment
 2026-08-20 13:50:41,877 [INFO] ──────────────────────────────────────────────────
 2026-08-20 13:50:42,003 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-08-20 15:35:16,297 [INFO] Failed posts list is empty.
+2026-08-20 15:35:16,446 [INFO] ──────────────────────────────────────────────────
+2026-08-20 15:35:16,446 [INFO] ▶  Running slot: engagement_question
+2026-08-20 15:35:16,446 [INFO] ──────────────────────────────────────────────────
+2026-08-20 15:35:16,575 [INFO] 📝 Content selected: What's something you want to carry forward from the hardest chapters of your lif...
+2026-08-20 15:35:16,634 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260820_153516.png
+2026-08-20 15:35:16,634 [INFO] Caption preview: 💬 What's something you want to carry forward from the hardest chapters of your life?
+
+Drop your answer in the comments b...
+2026-08-20 15:35:21,907 [INFO] ✅ Posted successfully [engagement_question]
+2026-08-20 15:35:21,918 [INFO] ✅ Slot [engagement_question] published successfully!
