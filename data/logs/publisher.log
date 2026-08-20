@@ -7108,3 +7108,16 @@ Share this with someone who needs it today! 💛
 #P...
 2026-08-20 07:42:07,307 [INFO] ✅ Posted successfully [positive_quote]
 2026-08-20 07:42:07,318 [INFO] ✅ Slot [positive_quote] published successfully!
+2026-08-20 08:26:23,535 [INFO] Failed posts list is empty.
+2026-08-20 08:26:23,688 [INFO] ──────────────────────────────────────────────────
+2026-08-20 08:26:23,688 [INFO] ▶  Running slot: self_improvement
+2026-08-20 08:26:23,688 [INFO] ──────────────────────────────────────────────────
+2026-08-20 08:26:23,814 [INFO] 📝 Content selected: Become the kind of person who doesn't need external validation....
+2026-08-20 08:26:23,919 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260820_082623.png
+2026-08-20 08:26:23,919 [INFO] Caption preview: 📈 Become the kind of person who doesn't need external validation.
+
+Share this with someone who needs it today! 💛
+
+#Perso...
+2026-08-20 08:26:29,511 [INFO] ✅ Posted successfully [self_improvement]
+2026-08-20 08:26:29,544 [INFO] ✅ Slot [self_improvement] published successfully!
