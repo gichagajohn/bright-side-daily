@@ -7168,3 +7168,16 @@ Share this with someone who needs it today! 💛
 Drop your answer in the comments b...
 2026-08-20 15:35:21,907 [INFO] ✅ Posted successfully [engagement_question]
 2026-08-20 15:35:21,918 [INFO] ✅ Slot [engagement_question] published successfully!
+2026-08-20 16:17:33,182 [INFO] Failed posts list is empty.
+2026-08-20 16:17:33,334 [INFO] ──────────────────────────────────────────────────
+2026-08-20 16:17:33,334 [INFO] ▶  Running slot: evening_reflection
+2026-08-20 16:17:33,334 [INFO] ──────────────────────────────────────────────────
+2026-08-20 16:17:33,462 [INFO] 📝 Content selected: Be thankful for what hasn't happened yet — the protection is real....
+2026-08-20 16:17:33,569 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260820_161733.png
+2026-08-20 16:17:33,569 [INFO] Caption preview: 🌙 Be thankful for what hasn't happened yet — the protection is real.
+
+Share this with someone who needs it today! 💛
+
+#Gr...
+2026-08-20 16:17:39,165 [INFO] ✅ Posted successfully [evening_reflection]
+2026-08-20 16:17:39,178 [INFO] ✅ Slot [evening_reflection] published successfully!
