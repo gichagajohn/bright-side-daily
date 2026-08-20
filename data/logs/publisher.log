@@ -7152,3 +7152,8 @@ Share this with someone who needs it today! 💛
 2026-08-20 11:22:20,397 [INFO] ▶  Running slot: afternoon_wisdom
 2026-08-20 11:22:20,397 [INFO] ──────────────────────────────────────────────────
 2026-08-20 11:22:20,521 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-08-20 13:50:41,728 [INFO] Failed posts list is empty.
+2026-08-20 13:50:41,877 [INFO] ──────────────────────────────────────────────────
+2026-08-20 13:50:41,877 [INFO] ▶  Running slot: gratitude_moment
+2026-08-20 13:50:41,877 [INFO] ──────────────────────────────────────────────────
+2026-08-20 13:50:42,003 [ERROR] ❌ Content selection failed: 'gratitude_moment'
