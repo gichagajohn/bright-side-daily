@@ -7199,3 +7199,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Su...
 2026-08-21 05:31:51,309 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-21 05:31:51,321 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-21 07:44:11,339 [INFO] Failed posts list is empty.
+2026-08-21 07:44:11,474 [INFO] ──────────────────────────────────────────────────
+2026-08-21 07:44:11,474 [INFO] ▶  Running slot: positive_quote
+2026-08-21 07:44:11,474 [INFO] ──────────────────────────────────────────────────
+2026-08-21 07:44:11,576 [INFO] 📝 Content selected: Collect moments, not things....
+2026-08-21 07:44:11,718 [INFO] Publishing [positive_quote] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/positive_quote_20260821_074411.png
+2026-08-21 07:44:11,719 [INFO] Caption preview: 🌟 Collect moments, not things.
+
+Share this with someone who needs it today! 💛
+
+#PositiveVibes #HappyLife #GoodVibesOnly ...
+2026-08-21 07:44:16,131 [INFO] ✅ Posted successfully [positive_quote]
+2026-08-21 07:44:16,141 [INFO] ✅ Slot [positive_quote] published successfully!
