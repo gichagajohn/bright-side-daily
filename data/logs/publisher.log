@@ -7260,3 +7260,16 @@ Share this with someone who needs it today! 💛
 2026-08-21 13:49:55,086 [INFO] ▶  Running slot: gratitude_moment
 2026-08-21 13:49:55,086 [INFO] ──────────────────────────────────────────────────
 2026-08-21 13:49:55,213 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-08-21 15:35:00,333 [INFO] Failed posts list is empty.
+2026-08-21 15:35:00,481 [INFO] ──────────────────────────────────────────────────
+2026-08-21 15:35:00,481 [INFO] ▶  Running slot: engagement_question
+2026-08-21 15:35:00,481 [INFO] ──────────────────────────────────────────────────
+2026-08-21 15:35:00,610 [INFO] 📝 Content selected: What's something you want to pass on to the next generation?...
+2026-08-21 15:35:00,718 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260821_153500.png
+2026-08-21 15:35:00,718 [INFO] Caption preview: 💬 What's something you want to pass on to the next generation?
+
+Drop your answer in the comments below 👇
+
+#Community #Sh...
+2026-08-21 15:35:05,060 [INFO] ✅ Posted successfully [engagement_question]
+2026-08-21 15:35:05,071 [INFO] ✅ Slot [engagement_question] published successfully!
