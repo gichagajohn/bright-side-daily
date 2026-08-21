@@ -10425,5 +10425,26 @@
       "post_id": "1181533578372151_122125728021364831"
     },
     "timestamp": "2026-08-21T09:32:52.966651"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "You are built for greater things than this trial.",
+      "content_index": 51,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "caterpillar becoming butterfly illustration"
+      },
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T10:37:01.548149",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa You are built for greater things than this trial.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122125737093364831",
+      "post_id": "1181533578372151_122125737117364831"
+    },
+    "timestamp": "2026-08-21T10:37:06.837013"
   }
 ]
