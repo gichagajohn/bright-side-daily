@@ -10341,5 +10341,26 @@
       "post_id": "1181533578372151_122125541115364831"
     },
     "timestamp": "2026-08-20T16:17:39.169342"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You were designed for greatness. Operate accordingly.",
+      "content_index": 487,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T05:31:46.273685",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You were designed for greatness. Operate accordingly.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122125700157364831",
+      "post_id": "1181533578372151_122125700175364831"
+    },
+    "timestamp": "2026-08-21T05:31:51.312115"
   }
 ]
