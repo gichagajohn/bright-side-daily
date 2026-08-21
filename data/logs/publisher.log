@@ -7250,3 +7250,8 @@ Share this with someone who needs it today! 💛
 #YouGotThis #KeepGoi...
 2026-08-21 10:37:06,834 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-08-21 10:37:06,846 [INFO] ✅ Slot [midday_encouragement] published successfully!
+2026-08-21 11:21:15,307 [INFO] Failed posts list is empty.
+2026-08-21 11:21:15,461 [INFO] ──────────────────────────────────────────────────
+2026-08-21 11:21:15,461 [INFO] ▶  Running slot: afternoon_wisdom
+2026-08-21 11:21:15,461 [INFO] ──────────────────────────────────────────────────
+2026-08-21 11:21:15,587 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
