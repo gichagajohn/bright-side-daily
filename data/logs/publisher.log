@@ -7289,3 +7289,16 @@ Share this with someone who needs it today...
 2026-08-21 18:27:12,305 [INFO] ▶  Running slot: night_inspiration
 2026-08-21 18:27:12,305 [INFO] ──────────────────────────────────────────────────
 2026-08-21 18:27:12,394 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-08-22 05:27:03,242 [INFO] Failed posts list is empty.
+2026-08-22 05:27:03,362 [INFO] ──────────────────────────────────────────────────
+2026-08-22 05:27:03,362 [INFO] ▶  Running slot: morning_motivation
+2026-08-22 05:27:03,362 [INFO] ──────────────────────────────────────────────────
+2026-08-22 05:27:03,479 [INFO] 📝 Content selected: Success begins in the mind. Train your thinking first....
+2026-08-22 05:27:03,621 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260822_052703.png
+2026-08-22 05:27:03,621 [INFO] Caption preview: ☀️ Success begins in the mind. Train your thinking first.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #S...
+2026-08-22 05:27:09,539 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-22 05:27:09,548 [INFO] ✅ Slot [morning_motivation] published successfully!

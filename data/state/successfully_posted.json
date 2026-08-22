@@ -10488,5 +10488,26 @@
       "post_id": "1181533578372151_122125796259364831"
     },
     "timestamp": "2026-08-21T16:16:12.229758"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Success begins in the mind. Train your thinking first.",
+      "content_index": 506,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-08-22",
+      "timestamp": "2026-08-22T05:27:03.479893",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Success begins in the mind. Train your thinking first.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122125898193364831",
+      "post_id": "1181533578372151_122125898223364831"
+    },
+    "timestamp": "2026-08-22T05:27:09.541929"
   }
 ]
