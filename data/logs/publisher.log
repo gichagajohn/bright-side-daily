@@ -7302,3 +7302,16 @@ Share this with someone who needs it today! 💛
 #Motivation #S...
 2026-08-22 05:27:09,539 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-22 05:27:09,548 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-22 07:33:32,596 [INFO] Failed posts list is empty.
+2026-08-22 07:33:32,752 [INFO] ──────────────────────────────────────────────────
+2026-08-22 07:33:32,752 [INFO] ▶  Running slot: positive_quote
+2026-08-22 07:33:32,752 [INFO] ──────────────────────────────────────────────────
+2026-08-22 07:33:32,887 [INFO] 📝 Content selected: Life is sweeter when your heart is open....
+2026-08-22 07:33:32,989 [INFO] Publishing [positive_quote] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/positive_quote_20260822_073332.png
+2026-08-22 07:33:32,989 [INFO] Caption preview: 🌟 Life is sweeter when your heart is open.
+
+Share this with someone who needs it today! 💛
+
+#PositiveVibes #HappyLife #Go...
+2026-08-22 07:33:38,310 [INFO] ✅ Posted successfully [positive_quote]
+2026-08-22 07:33:38,321 [INFO] ✅ Slot [positive_quote] published successfully!
