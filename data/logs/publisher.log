@@ -7315,3 +7315,14 @@ Share this with someone who needs it today! 💛
 #PositiveVibes #HappyLife #Go...
 2026-08-22 07:33:38,310 [INFO] ✅ Posted successfully [positive_quote]
 2026-08-22 07:33:38,321 [INFO] ✅ Slot [positive_quote] published successfully!
+2026-08-22 08:17:41,848 [INFO] Failed posts list is empty.
+2026-08-22 08:17:41,991 [INFO] ──────────────────────────────────────────────────
+2026-08-22 08:17:41,991 [INFO] ▶  Running slot: self_improvement
+2026-08-22 08:17:41,991 [INFO] ──────────────────────────────────────────────────
+2026-08-22 08:17:42,121 [INFO] 📝 Content selected: Growth is always available. The only question is whether you're choosing it....
+2026-08-22 08:17:42,229 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260822_081742.png
+2026-08-22 08:17:42,229 [INFO] Caption preview: 📈 Growth is always available. The only question is whether you're choosing it.
+
+Share this with someone who needs it tod...
+2026-08-22 08:17:46,636 [INFO] ✅ Posted successfully [self_improvement]
+2026-08-22 08:17:46,647 [INFO] ✅ Slot [self_improvement] published successfully!
