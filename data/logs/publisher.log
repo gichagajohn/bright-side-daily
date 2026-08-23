@@ -7464,3 +7464,14 @@ Share this with someone who needs it today! 💛
 2026-08-23 13:36:01,225 [INFO] ▶  Running slot: gratitude_moment
 2026-08-23 13:36:01,225 [INFO] ──────────────────────────────────────────────────
 2026-08-23 13:36:01,361 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-08-23 15:23:58,733 [INFO] Failed posts list is empty.
+2026-08-23 15:23:58,891 [INFO] ──────────────────────────────────────────────────
+2026-08-23 15:23:58,891 [INFO] ▶  Running slot: engagement_question
+2026-08-23 15:23:58,891 [INFO] ──────────────────────────────────────────────────
+2026-08-23 15:23:59,038 [INFO] 📝 Content selected: What's the most meaningful gift you've ever received — tangible or intangible?...
+2026-08-23 15:23:59,195 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260823_152359.png
+2026-08-23 15:23:59,195 [INFO] Caption preview: 💬 What's the most meaningful gift you've ever received — tangible or intangible?
+
+Drop your answer in the comments below...
+2026-08-23 15:24:04,684 [INFO] ✅ Posted successfully [engagement_question]
+2026-08-23 15:24:04,696 [INFO] ✅ Slot [engagement_question] published successfully!
