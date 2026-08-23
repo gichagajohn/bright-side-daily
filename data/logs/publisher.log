@@ -7486,3 +7486,8 @@ Drop your answer in the comments below...
 Share this with someone who needs it today...
 2026-08-23 16:09:12,166 [INFO] ✅ Posted successfully [evening_reflection]
 2026-08-23 16:09:12,179 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-08-23 18:19:40,881 [INFO] Failed posts list is empty.
+2026-08-23 18:19:41,034 [INFO] ──────────────────────────────────────────────────
+2026-08-23 18:19:41,034 [INFO] ▶  Running slot: night_inspiration
+2026-08-23 18:19:41,034 [INFO] ──────────────────────────────────────────────────
+2026-08-23 18:19:41,167 [ERROR] ❌ Content selection failed: 'night_inspiration'
