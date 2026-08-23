@@ -10635,5 +10635,26 @@
       "post_id": "1181533578372151_122126000475364831"
     },
     "timestamp": "2026-08-22T16:07:28.398022"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The difference between a dream and a goal is a deadline.",
+      "content_index": 170,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-08-23",
+      "timestamp": "2026-08-23T05:28:47.642805",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The difference between a dream and a goal is a deadline.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122126211543364831",
+      "post_id": "1181533578372151_122126211627364831"
+    },
+    "timestamp": "2026-08-23T05:28:53.354511"
   }
 ]

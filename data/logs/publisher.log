@@ -7391,3 +7391,16 @@ Share this with someone who needs it today! 💛
 2026-08-22 18:19:33,533 [INFO] ▶  Running slot: night_inspiration
 2026-08-22 18:19:33,533 [INFO] ──────────────────────────────────────────────────
 2026-08-22 18:19:33,667 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-08-23 05:28:47,349 [INFO] Failed posts list is empty.
+2026-08-23 05:28:47,508 [INFO] ──────────────────────────────────────────────────
+2026-08-23 05:28:47,509 [INFO] ▶  Running slot: morning_motivation
+2026-08-23 05:28:47,509 [INFO] ──────────────────────────────────────────────────
+2026-08-23 05:28:47,642 [INFO] 📝 Content selected: The difference between a dream and a goal is a deadline....
+2026-08-23 05:28:47,813 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260823_052847.png
+2026-08-23 05:28:47,813 [INFO] Caption preview: ☀️ The difference between a dream and a goal is a deadline.
+
+Share this with someone who needs it today! 💛
+
+#Motivation ...
+2026-08-23 05:28:53,351 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-23 05:28:53,363 [INFO] ✅ Slot [morning_motivation] published successfully!
