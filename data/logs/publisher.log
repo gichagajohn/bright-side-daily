@@ -7404,3 +7404,16 @@ Share this with someone who needs it today! 💛
 #Motivation ...
 2026-08-23 05:28:53,351 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-23 05:28:53,363 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-23 07:34:27,498 [INFO] Failed posts list is empty.
+2026-08-23 07:34:27,645 [INFO] ──────────────────────────────────────────────────
+2026-08-23 07:34:27,645 [INFO] ▶  Running slot: positive_quote
+2026-08-23 07:34:27,645 [INFO] ──────────────────────────────────────────────────
+2026-08-23 07:34:27,779 [INFO] 📝 Content selected: Your feelings are valid. Your story matters....
+2026-08-23 07:34:27,930 [INFO] Publishing [positive_quote] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/positive_quote_20260823_073427.png
+2026-08-23 07:34:27,930 [INFO] Caption preview: 🌟 Your feelings are valid. Your story matters.
+
+Share this with someone who needs it today! 💛
+
+#PositiveVibes #HappyLife...
+2026-08-23 07:34:35,246 [INFO] ✅ Posted successfully [positive_quote]
+2026-08-23 07:34:35,257 [INFO] ✅ Slot [positive_quote] published successfully!
