@@ -7564,3 +7564,16 @@ Share this with someone who needs it today! 💛
 2026-08-24 13:55:46,928 [INFO] ▶  Running slot: gratitude_moment
 2026-08-24 13:55:46,928 [INFO] ──────────────────────────────────────────────────
 2026-08-24 13:55:47,064 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-08-24 15:40:14,921 [INFO] Failed posts list is empty.
+2026-08-24 15:40:15,072 [INFO] ──────────────────────────────────────────────────
+2026-08-24 15:40:15,072 [INFO] ▶  Running slot: engagement_question
+2026-08-24 15:40:15,072 [INFO] ──────────────────────────────────────────────────
+2026-08-24 15:40:15,206 [INFO] 📝 Content selected: What's your most important anchor in uncertain seasons?...
+2026-08-24 15:40:15,315 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260824_154015.png
+2026-08-24 15:40:15,315 [INFO] Caption preview: 💬 What's your most important anchor in uncertain seasons?
+
+Drop your answer in the comments below 👇
+
+#Community #ShareYo...
+2026-08-24 15:40:19,796 [INFO] ✅ Posted successfully [engagement_question]
+2026-08-24 15:40:19,813 [INFO] ✅ Slot [engagement_question] published successfully!
