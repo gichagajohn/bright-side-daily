@@ -7619,3 +7619,14 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it today!...
 2026-08-25 07:45:26,247 [INFO] ✅ Posted successfully [positive_quote]
 2026-08-25 07:45:26,259 [INFO] ✅ Slot [positive_quote] published successfully!
+2026-08-25 08:30:58,503 [INFO] Failed posts list is empty.
+2026-08-25 08:30:58,622 [INFO] ──────────────────────────────────────────────────
+2026-08-25 08:30:58,622 [INFO] ▶  Running slot: self_improvement
+2026-08-25 08:30:58,622 [INFO] ──────────────────────────────────────────────────
+2026-08-25 08:30:58,740 [INFO] 📝 Content selected: The gap between who you are and who you want to be is closed in daily practice....
+2026-08-25 08:30:58,859 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260825_083058.png
+2026-08-25 08:30:58,859 [INFO] Caption preview: 📈 The gap between who you are and who you want to be is closed in daily practice.
+
+Share this with someone who needs it ...
+2026-08-25 08:31:04,307 [INFO] ✅ Posted successfully [self_improvement]
+2026-08-25 08:31:04,369 [INFO] ✅ Slot [self_improvement] published successfully!
