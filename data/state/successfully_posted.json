@@ -10929,5 +10929,26 @@
       "post_id": "1181533578372151_122126728785364831"
     },
     "timestamp": "2026-08-24T16:19:42.167189"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Don't stop when you're tired. Stop when you're done.",
+      "content_index": 109,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T05:31:07.543713",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Don't stop when you're tired. Stop when you're done.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122126953179364831",
+      "post_id": "1181533578372151_122126953197364831"
+    },
+    "timestamp": "2026-08-25T05:31:12.054656"
   }
 ]

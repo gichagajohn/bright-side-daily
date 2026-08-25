@@ -7595,3 +7595,16 @@ Share this with someone who needs it today! 💛
 2026-08-24 18:30:07,465 [INFO] ▶  Running slot: night_inspiration
 2026-08-24 18:30:07,465 [INFO] ──────────────────────────────────────────────────
 2026-08-24 18:30:07,599 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-08-25 05:31:07,256 [INFO] Failed posts list is empty.
+2026-08-25 05:31:07,402 [INFO] ──────────────────────────────────────────────────
+2026-08-25 05:31:07,402 [INFO] ▶  Running slot: morning_motivation
+2026-08-25 05:31:07,402 [INFO] ──────────────────────────────────────────────────
+2026-08-25 05:31:07,543 [INFO] 📝 Content selected: Don't stop when you're tired. Stop when you're done....
+2026-08-25 05:31:07,650 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260825_053107.png
+2026-08-25 05:31:07,650 [INFO] Caption preview: ☀️ Don't stop when you're tired. Stop when you're done.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Suc...
+2026-08-25 05:31:12,052 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-25 05:31:12,064 [INFO] ✅ Slot [morning_motivation] published successfully!
