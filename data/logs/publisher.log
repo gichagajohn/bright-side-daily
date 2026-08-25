@@ -7679,3 +7679,16 @@ Drop your answer in the comments below 👇
 #Community #Sha...
 2026-08-25 15:43:42,664 [INFO] ✅ Posted successfully [engagement_question]
 2026-08-25 15:43:42,676 [INFO] ✅ Slot [engagement_question] published successfully!
+2026-08-25 16:20:43,882 [INFO] Failed posts list is empty.
+2026-08-25 16:20:44,029 [INFO] ──────────────────────────────────────────────────
+2026-08-25 16:20:44,029 [INFO] ▶  Running slot: evening_reflection
+2026-08-25 16:20:44,029 [INFO] ──────────────────────────────────────────────────
+2026-08-25 16:20:44,172 [INFO] 📝 Content selected: Let gratitude be the language of your days....
+2026-08-25 16:20:44,280 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260825_162044.png
+2026-08-25 16:20:44,280 [INFO] Caption preview: 🌙 Let gratitude be the language of your days.
+
+Share this with someone who needs it today! 💛
+
+#Gratitude #Thankful #Coun...
+2026-08-25 16:20:49,538 [INFO] ✅ Posted successfully [evening_reflection]
+2026-08-25 16:20:49,551 [INFO] ✅ Slot [evening_reflection] published successfully!

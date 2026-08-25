@@ -11055,5 +11055,26 @@
       "post_id": "1181533578372151_122127098451364831"
     },
     "timestamp": "2026-08-25T15:43:42.667112"
+  },
+  {
+    "post": {
+      "slot": "evening_reflection",
+      "category": "gratitude_quotes",
+      "content": "Let gratitude be the language of your days.",
+      "content_index": 287,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "freshly baked bread in morning light"
+      },
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T16:20:44.172511",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83c\udf19 Let gratitude be the language of your days.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Gratitude #Thankful #CountYourBlessings #GratefulHeart #Blessed #BrightSideDaily",
+    "fb_response": {
+      "id": "122127103185364831",
+      "post_id": "1181533578372151_122127103209364831"
+    },
+    "timestamp": "2026-08-25T16:20:49.541210"
   }
 ]
