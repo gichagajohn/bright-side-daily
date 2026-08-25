@@ -7608,3 +7608,14 @@ Share this with someone who needs it today! 💛
 #Motivation #Suc...
 2026-08-25 05:31:12,052 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-25 05:31:12,064 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-25 07:45:20,069 [INFO] Failed posts list is empty.
+2026-08-25 07:45:20,226 [INFO] ──────────────────────────────────────────────────
+2026-08-25 07:45:20,226 [INFO] ▶  Running slot: positive_quote
+2026-08-25 07:45:20,226 [INFO] ──────────────────────────────────────────────────
+2026-08-25 07:45:20,370 [INFO] 📝 Content selected: Peace is not the absence of chaos. It is finding calm in the midst of it....
+2026-08-25 07:45:20,493 [INFO] Publishing [positive_quote] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/positive_quote_20260825_074520.png
+2026-08-25 07:45:20,493 [INFO] Caption preview: 🌟 Peace is not the absence of chaos. It is finding calm in the midst of it.
+
+Share this with someone who needs it today!...
+2026-08-25 07:45:26,247 [INFO] ✅ Posted successfully [positive_quote]
+2026-08-25 07:45:26,259 [INFO] ✅ Slot [positive_quote] published successfully!
