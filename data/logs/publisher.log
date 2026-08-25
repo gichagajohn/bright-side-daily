@@ -7666,3 +7666,16 @@ Share this with someone who needs it today! 💛
 2026-08-25 13:54:31,086 [INFO] ▶  Running slot: gratitude_moment
 2026-08-25 13:54:31,086 [INFO] ──────────────────────────────────────────────────
 2026-08-25 13:54:31,223 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-08-25 15:43:36,359 [INFO] Failed posts list is empty.
+2026-08-25 15:43:36,511 [INFO] ──────────────────────────────────────────────────
+2026-08-25 15:43:36,511 [INFO] ▶  Running slot: engagement_question
+2026-08-25 15:43:36,511 [INFO] ──────────────────────────────────────────────────
+2026-08-25 15:43:36,651 [INFO] 📝 Content selected: What's the biggest risk you've ever taken? Was it worth it?...
+2026-08-25 15:43:36,811 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260825_154336.png
+2026-08-25 15:43:36,812 [INFO] Caption preview: 💬 What's the biggest risk you've ever taken? Was it worth it?
+
+Drop your answer in the comments below 👇
+
+#Community #Sha...
+2026-08-25 15:43:42,664 [INFO] ✅ Posted successfully [engagement_question]
+2026-08-25 15:43:42,676 [INFO] ✅ Slot [engagement_question] published successfully!
