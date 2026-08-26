@@ -7798,3 +7798,16 @@ Share this with someone who needs it today! 💛
 #Gratitude ...
 2026-08-26 16:39:20,981 [INFO] ✅ Posted successfully [evening_reflection]
 2026-08-26 16:39:20,993 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-08-26 19:41:13,337 [INFO] Failed posts list is empty.
+2026-08-26 19:41:13,502 [INFO] ──────────────────────────────────────────────────
+2026-08-26 19:41:13,502 [INFO] ▶  Running slot: morning_motivation
+2026-08-26 19:41:13,502 [INFO] ──────────────────────────────────────────────────
+2026-08-26 19:41:13,643 [INFO] 📝 Content selected: Every sacrifice made in private shows up as success in public....
+2026-08-26 19:41:13,809 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260826_194113.png
+2026-08-26 19:41:13,809 [INFO] Caption preview: ☀️ Every sacrifice made in private shows up as success in public.
+
+Share this with someone who needs it today! 💛
+
+#Motiv...
+2026-08-26 19:41:19,626 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-26 19:41:19,639 [INFO] ✅ Slot [morning_motivation] published successfully!

@@ -11223,5 +11223,26 @@
       "post_id": "1181533578372151_122127349257364831"
     },
     "timestamp": "2026-08-26T16:39:20.983349"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Every sacrifice made in private shows up as success in public.",
+      "content_index": 550,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-08-26",
+      "timestamp": "2026-08-26T19:41:13.643815",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Every sacrifice made in private shows up as success in public.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122127375489364831",
+      "post_id": "1181533578372151_122127375507364831"
+    },
+    "timestamp": "2026-08-26T19:41:19.629076"
   }
 ]
