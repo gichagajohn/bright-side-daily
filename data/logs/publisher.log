@@ -7772,3 +7772,16 @@ Share this with someone who needs it today! 💛
 2026-08-26 13:57:24,271 [INFO] ▶  Running slot: gratitude_moment
 2026-08-26 13:57:24,271 [INFO] ──────────────────────────────────────────────────
 2026-08-26 13:57:24,412 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-08-26 16:19:06,488 [INFO] Failed posts list is empty.
+2026-08-26 16:19:06,635 [INFO] ──────────────────────────────────────────────────
+2026-08-26 16:19:06,635 [INFO] ▶  Running slot: evening_reflection
+2026-08-26 16:19:06,635 [INFO] ──────────────────────────────────────────────────
+2026-08-26 16:19:06,786 [INFO] 📝 Content selected: Goodness multiplies when you acknowledge it....
+2026-08-26 16:19:06,940 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260826_161906.png
+2026-08-26 16:19:06,940 [INFO] Caption preview: 🌙 Goodness multiplies when you acknowledge it.
+
+Share this with someone who needs it today! 💛
+
+#Gratitude #Thankful #Cou...
+2026-08-26 16:19:12,666 [INFO] ✅ Posted successfully [evening_reflection]
+2026-08-26 16:19:12,678 [INFO] ✅ Slot [evening_reflection] published successfully!
