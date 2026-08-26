@@ -7710,3 +7710,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mind...
 2026-08-26 05:33:48,778 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-26 05:33:48,787 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-26 07:49:02,973 [INFO] Failed posts list is empty.
+2026-08-26 07:49:03,127 [INFO] ──────────────────────────────────────────────────
+2026-08-26 07:49:03,127 [INFO] ▶  Running slot: positive_quote
+2026-08-26 07:49:03,127 [INFO] ──────────────────────────────────────────────────
+2026-08-26 07:49:03,264 [INFO] 📝 Content selected: The world is full of magic. You just have to believe in it....
+2026-08-26 07:49:03,416 [INFO] Publishing [positive_quote] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/positive_quote_20260826_074903.png
+2026-08-26 07:49:03,416 [INFO] Caption preview: 🌟 The world is full of magic. You just have to believe in it.
+
+Share this with someone who needs it today! 💛
+
+#PositiveV...
+2026-08-26 07:49:09,722 [INFO] ✅ Posted successfully [positive_quote]
+2026-08-26 07:49:09,734 [INFO] ✅ Slot [positive_quote] published successfully!
