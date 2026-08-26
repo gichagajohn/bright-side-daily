@@ -7723,3 +7723,16 @@ Share this with someone who needs it today! 💛
 #PositiveV...
 2026-08-26 07:49:09,722 [INFO] ✅ Posted successfully [positive_quote]
 2026-08-26 07:49:09,734 [INFO] ✅ Slot [positive_quote] published successfully!
+2026-08-26 08:31:55,125 [INFO] Failed posts list is empty.
+2026-08-26 08:31:55,287 [INFO] ──────────────────────────────────────────────────
+2026-08-26 08:31:55,287 [INFO] ▶  Running slot: self_improvement
+2026-08-26 08:31:55,287 [INFO] ──────────────────────────────────────────────────
+2026-08-26 08:31:55,429 [INFO] 📝 Content selected: Every morning you have the chance to start a new chapter....
+2026-08-26 08:31:55,592 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260826_083155.png
+2026-08-26 08:31:55,592 [INFO] Caption preview: 📈 Every morning you have the chance to start a new chapter.
+
+Share this with someone who needs it today! 💛
+
+#PersonalGro...
+2026-08-26 08:32:02,625 [INFO] ✅ Posted successfully [self_improvement]
+2026-08-26 08:32:02,637 [INFO] ✅ Slot [self_improvement] published successfully!
