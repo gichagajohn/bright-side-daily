@@ -7697,3 +7697,16 @@ Share this with someone who needs it today! 💛
 2026-08-25 18:30:21,745 [INFO] ▶  Running slot: night_inspiration
 2026-08-25 18:30:21,745 [INFO] ──────────────────────────────────────────────────
 2026-08-25 18:30:21,881 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-08-26 05:33:43,488 [INFO] Failed posts list is empty.
+2026-08-26 05:33:43,616 [INFO] ──────────────────────────────────────────────────
+2026-08-26 05:33:43,616 [INFO] ▶  Running slot: morning_motivation
+2026-08-26 05:33:43,616 [INFO] ──────────────────────────────────────────────────
+2026-08-26 05:33:43,727 [INFO] 📝 Content selected: It's not about perfect. It's about effort....
+2026-08-26 05:33:43,902 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260826_053343.png
+2026-08-26 05:33:43,902 [INFO] Caption preview: ☀️ It's not about perfect. It's about effort.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mind...
+2026-08-26 05:33:48,778 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-26 05:33:48,787 [INFO] ✅ Slot [morning_motivation] published successfully!
