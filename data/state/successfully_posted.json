@@ -11286,5 +11286,26 @@
       "post_id": "1181533578372151_122127665925364831"
     },
     "timestamp": "2026-08-27T19:24:38.711099"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You were always capable. Now is the time to prove it.",
+      "content_index": 586,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T20:15:51.960542",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You were always capable. Now is the time to prove it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122127674655364831",
+      "post_id": "1181533578372151_122127674673364831"
+    },
+    "timestamp": "2026-08-27T20:15:56.956336"
   }
 ]

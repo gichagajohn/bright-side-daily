@@ -7847,3 +7847,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatte...
 2026-08-27 19:24:38,708 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-27 19:24:38,721 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-27 20:15:51,762 [INFO] Failed posts list is empty.
+2026-08-27 20:15:51,860 [INFO] ──────────────────────────────────────────────────
+2026-08-27 20:15:51,860 [INFO] ▶  Running slot: morning_motivation
+2026-08-27 20:15:51,860 [INFO] ──────────────────────────────────────────────────
+2026-08-27 20:15:51,960 [INFO] 📝 Content selected: You were always capable. Now is the time to prove it....
+2026-08-27 20:15:52,052 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260827_201552.png
+2026-08-27 20:15:52,052 [INFO] Caption preview: ☀️ You were always capable. Now is the time to prove it.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Su...
+2026-08-27 20:15:56,954 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-27 20:15:56,962 [INFO] ✅ Slot [morning_motivation] published successfully!
