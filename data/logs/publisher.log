@@ -7873,3 +7873,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #DailyMoti...
 2026-08-27 20:53:26,543 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-27 20:53:26,556 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-27 22:53:34,615 [INFO] Failed posts list is empty.
+2026-08-27 22:53:34,769 [INFO] ──────────────────────────────────────────────────
+2026-08-27 22:53:34,769 [INFO] ▶  Running slot: morning_motivation
+2026-08-27 22:53:34,769 [INFO] ──────────────────────────────────────────────────
+2026-08-27 22:53:34,914 [INFO] 📝 Content selected: Commit to the work. The rewards will commit to you....
+2026-08-27 22:53:35,217 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260827_225335.png
+2026-08-27 22:53:35,217 [INFO] Caption preview: ☀️ Commit to the work. The rewards will commit to you.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succ...
+2026-08-27 22:53:38,695 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-27 22:53:38,708 [INFO] ✅ Slot [morning_motivation] published successfully!
