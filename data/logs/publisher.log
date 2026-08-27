@@ -7860,3 +7860,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Su...
 2026-08-27 20:15:56,954 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-27 20:15:56,962 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-27 20:53:23,289 [INFO] Failed posts list is empty.
+2026-08-27 20:53:23,450 [INFO] ──────────────────────────────────────────────────
+2026-08-27 20:53:23,450 [INFO] ▶  Running slot: morning_motivation
+2026-08-27 20:53:23,450 [INFO] ──────────────────────────────────────────────────
+2026-08-27 20:53:23,597 [INFO] 📝 Content selected: Dare to be different....
+2026-08-27 20:53:23,700 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260827_205323.png
+2026-08-27 20:53:23,700 [INFO] Caption preview: ☀️ Dare to be different.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #DailyMoti...
+2026-08-27 20:53:26,543 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-27 20:53:26,556 [INFO] ✅ Slot [morning_motivation] published successfully!
