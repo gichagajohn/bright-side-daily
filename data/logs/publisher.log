@@ -7811,3 +7811,16 @@ Share this with someone who needs it today! 💛
 #Motiv...
 2026-08-26 19:41:19,626 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-26 19:41:19,639 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-27 16:08:03,283 [INFO] Failed posts list is empty.
+2026-08-27 16:08:03,430 [INFO] ──────────────────────────────────────────────────
+2026-08-27 16:08:03,430 [INFO] ▶  Running slot: evening_reflection
+2026-08-27 16:08:03,430 [INFO] ──────────────────────────────────────────────────
+2026-08-27 16:08:03,571 [INFO] 📝 Content selected: You have more than you know....
+2026-08-27 16:08:03,680 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260827_160803.png
+2026-08-27 16:08:03,681 [INFO] Caption preview: 🌙 You have more than you know.
+
+Share this with someone who needs it today! 💛
+
+#Gratitude #Thankful #CountYourBlessings ...
+2026-08-27 16:08:10,044 [INFO] ✅ Posted successfully [evening_reflection]
+2026-08-27 16:08:10,056 [INFO] ✅ Slot [evening_reflection] published successfully!

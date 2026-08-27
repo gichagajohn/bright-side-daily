@@ -11244,5 +11244,26 @@
       "post_id": "1181533578372151_122127375507364831"
     },
     "timestamp": "2026-08-26T19:41:19.629076"
+  },
+  {
+    "post": {
+      "slot": "evening_reflection",
+      "category": "gratitude_quotes",
+      "content": "You have more than you know.",
+      "content_index": 92,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "warm coffee mug on table beside rainy window"
+      },
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T16:08:03.571951",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83c\udf19 You have more than you know.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Gratitude #Thankful #CountYourBlessings #GratefulHeart #Blessed #BrightSideDaily",
+    "fb_response": {
+      "id": "122127632445364831",
+      "post_id": "1181533578372151_122127632463364831"
+    },
+    "timestamp": "2026-08-27T16:08:10.046878"
   }
 ]
