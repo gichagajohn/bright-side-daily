@@ -11538,5 +11538,26 @@
       "post_id": "1181533578372151_122128147665364831"
     },
     "timestamp": "2026-08-28T21:18:41.094710"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Great things take time. Don't give up too soon.",
+      "content_index": 20,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T22:58:09.298940",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Great things take time. Don't give up too soon.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122128153665364831",
+      "post_id": "1181533578372151_122128153683364831"
+    },
+    "timestamp": "2026-08-28T22:58:13.069232"
   }
 ]

@@ -8003,3 +8003,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Succe...
 2026-08-28 21:18:41,092 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-28 21:18:41,104 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-28 22:58:08,996 [INFO] Failed posts list is empty.
+2026-08-28 22:58:09,150 [INFO] ──────────────────────────────────────────────────
+2026-08-28 22:58:09,150 [INFO] ▶  Running slot: morning_motivation
+2026-08-28 22:58:09,151 [INFO] ──────────────────────────────────────────────────
+2026-08-28 22:58:09,298 [INFO] 📝 Content selected: Great things take time. Don't give up too soon....
+2026-08-28 22:58:09,405 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260828_225809.png
+2026-08-28 22:58:09,406 [INFO] Caption preview: ☀️ Great things take time. Don't give up too soon.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success ...
+2026-08-28 22:58:13,066 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-28 22:58:13,079 [INFO] ✅ Slot [morning_motivation] published successfully!
