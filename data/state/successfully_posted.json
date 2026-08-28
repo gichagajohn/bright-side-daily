@@ -11391,5 +11391,26 @@
       "post_id": "1181533578372151_122127815943364831"
     },
     "timestamp": "2026-08-28T00:38:36.486864"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Feed your faith and your doubts will starve to death.",
+      "content_index": 298,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T01:59:23.421759",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Feed your faith and your doubts will starve to death.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122127821673364831",
+      "post_id": "1181533578372151_122127821697364831"
+    },
+    "timestamp": "2026-08-28T01:59:27.434581"
   }
 ]
