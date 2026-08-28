@@ -11349,5 +11349,26 @@
       "post_id": "1181533578372151_122127803193364831"
     },
     "timestamp": "2026-08-27T22:53:38.697970"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your goals are closer than your fears want you to believe.",
+      "content_index": 692,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T00:17:09.173368",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your goals are closer than your fears want you to believe.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122127814689364831",
+      "post_id": "1181533578372151_122127814707364831"
+    },
+    "timestamp": "2026-08-28T00:17:20.531573"
   }
 ]
