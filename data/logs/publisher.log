@@ -7951,3 +7951,16 @@ Share this with someone who needs it today! 💛
 #Motivation #S...
 2026-08-28 19:18:37,168 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-28 19:18:37,180 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-28 19:47:06,395 [INFO] Failed posts list is empty.
+2026-08-28 19:47:06,515 [INFO] ──────────────────────────────────────────────────
+2026-08-28 19:47:06,515 [INFO] ▶  Running slot: morning_motivation
+2026-08-28 19:47:06,515 [INFO] ──────────────────────────────────────────────────
+2026-08-28 19:47:06,630 [INFO] 📝 Content selected: Pressure makes diamonds. Embrace the pressure....
+2026-08-28 19:47:06,674 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260828_194706.png
+2026-08-28 19:47:06,674 [INFO] Caption preview: ☀️ Pressure makes diamonds. Embrace the pressure.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #...
+2026-08-28 19:47:11,112 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-28 19:47:11,123 [INFO] ✅ Slot [morning_motivation] published successfully!

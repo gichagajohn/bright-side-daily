@@ -11454,5 +11454,26 @@
       "post_id": "1181533578372151_122128137267364831"
     },
     "timestamp": "2026-08-28T19:18:37.171860"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Pressure makes diamonds. Embrace the pressure.",
+      "content_index": 462,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T19:47:06.630175",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Pressure makes diamonds. Embrace the pressure.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122128141239364831",
+      "post_id": "1181533578372151_122128141257364831"
+    },
+    "timestamp": "2026-08-28T19:47:11.115552"
   }
 ]
