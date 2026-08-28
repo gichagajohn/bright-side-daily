@@ -11370,5 +11370,26 @@
       "post_id": "1181533578372151_122127814707364831"
     },
     "timestamp": "2026-08-28T00:17:20.531573"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Success is not given. It is earned in the dark.",
+      "content_index": 664,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T00:38:32.571796",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Success is not given. It is earned in the dark.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122127815925364831",
+      "post_id": "1181533578372151_122127815943364831"
+    },
+    "timestamp": "2026-08-28T00:38:36.486864"
   }
 ]

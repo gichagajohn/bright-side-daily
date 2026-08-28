@@ -7899,3 +7899,16 @@ Share this with someone who needs it today! 💛
 #Motivatio...
 2026-08-28 00:17:20,528 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-28 00:17:20,541 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-28 00:38:32,281 [INFO] Failed posts list is empty.
+2026-08-28 00:38:32,429 [INFO] ──────────────────────────────────────────────────
+2026-08-28 00:38:32,429 [INFO] ▶  Running slot: morning_motivation
+2026-08-28 00:38:32,429 [INFO] ──────────────────────────────────────────────────
+2026-08-28 00:38:32,571 [INFO] 📝 Content selected: Success is not given. It is earned in the dark....
+2026-08-28 00:38:32,688 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260828_003832.png
+2026-08-28 00:38:32,688 [INFO] Caption preview: ☀️ Success is not given. It is earned in the dark.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success ...
+2026-08-28 00:38:36,484 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-28 00:38:36,496 [INFO] ✅ Slot [morning_motivation] published successfully!
