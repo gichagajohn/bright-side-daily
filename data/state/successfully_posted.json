@@ -11559,5 +11559,26 @@
       "post_id": "1181533578372151_122128153683364831"
     },
     "timestamp": "2026-08-28T22:58:13.069232"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Every champion was once a beginner who refused to quit.",
+      "content_index": 6,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T23:53:27.514905",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Every champion was once a beginner who refused to quit.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122128158897364831",
+      "post_id": "1181533578372151_122128158915364831"
+    },
+    "timestamp": "2026-08-28T23:53:31.496933"
   }
 ]

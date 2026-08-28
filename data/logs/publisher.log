@@ -8016,3 +8016,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success ...
 2026-08-28 22:58:13,066 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-28 22:58:13,079 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-28 23:53:27,215 [INFO] Failed posts list is empty.
+2026-08-28 23:53:27,367 [INFO] ──────────────────────────────────────────────────
+2026-08-28 23:53:27,367 [INFO] ▶  Running slot: morning_motivation
+2026-08-28 23:53:27,367 [INFO] ──────────────────────────────────────────────────
+2026-08-28 23:53:27,514 [INFO] 📝 Content selected: Every champion was once a beginner who refused to quit....
+2026-08-28 23:53:27,703 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260828_235327.png
+2026-08-28 23:53:27,703 [INFO] Caption preview: ☀️ Every champion was once a beginner who refused to quit.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #...
+2026-08-28 23:53:31,494 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-28 23:53:31,507 [INFO] ✅ Slot [morning_motivation] published successfully!
