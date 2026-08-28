@@ -7938,3 +7938,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Succe...
 2026-08-28 17:10:28,544 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-28 17:10:28,558 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-28 19:18:29,892 [INFO] Failed posts list is empty.
+2026-08-28 19:18:30,028 [INFO] ──────────────────────────────────────────────────
+2026-08-28 19:18:30,028 [INFO] ▶  Running slot: morning_motivation
+2026-08-28 19:18:30,028 [INFO] ──────────────────────────────────────────────────
+2026-08-28 19:18:30,169 [INFO] 📝 Content selected: When purpose meets preparation, success is inevitable....
+2026-08-28 19:18:30,291 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260828_191830.png
+2026-08-28 19:18:30,291 [INFO] Caption preview: ☀️ When purpose meets preparation, success is inevitable.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #S...
+2026-08-28 19:18:37,168 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-28 19:18:37,180 [INFO] ✅ Slot [morning_motivation] published successfully!
