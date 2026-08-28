@@ -7990,3 +7990,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mi...
 2026-08-28 21:09:38,701 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-28 21:09:38,714 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-28 21:18:35,241 [INFO] Failed posts list is empty.
+2026-08-28 21:18:35,399 [INFO] ──────────────────────────────────────────────────
+2026-08-28 21:18:35,399 [INFO] ▶  Running slot: morning_motivation
+2026-08-28 21:18:35,399 [INFO] ──────────────────────────────────────────────────
+2026-08-28 21:18:35,553 [INFO] 📝 Content selected: Your best days are built on your hardest mornings....
+2026-08-28 21:18:35,654 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260828_211835.png
+2026-08-28 21:18:35,654 [INFO] Caption preview: ☀️ Your best days are built on your hardest mornings.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succe...
+2026-08-28 21:18:41,092 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-28 21:18:41,104 [INFO] ✅ Slot [morning_motivation] published successfully!
