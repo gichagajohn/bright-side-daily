@@ -7925,3 +7925,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Su...
 2026-08-28 01:59:27,432 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-28 01:59:27,444 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-28 17:10:22,907 [INFO] Failed posts list is empty.
+2026-08-28 17:10:23,088 [INFO] ──────────────────────────────────────────────────
+2026-08-28 17:10:23,088 [INFO] ▶  Running slot: morning_motivation
+2026-08-28 17:10:23,088 [INFO] ──────────────────────────────────────────────────
+2026-08-28 17:10:23,239 [INFO] 📝 Content selected: All progress takes place outside the comfort zone....
+2026-08-28 17:10:23,415 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260828_171023.png
+2026-08-28 17:10:23,415 [INFO] Caption preview: ☀️ All progress takes place outside the comfort zone.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succe...
+2026-08-28 17:10:28,544 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-28 17:10:28,558 [INFO] ✅ Slot [morning_motivation] published successfully!
