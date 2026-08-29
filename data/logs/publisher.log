@@ -8094,3 +8094,14 @@ Share this with someone who needs it today! 💛
 #Motivation #Su...
 2026-08-29 14:59:14,389 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-29 14:59:14,401 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-29 15:26:46,188 [INFO] Failed posts list is empty.
+2026-08-29 15:26:46,349 [INFO] ──────────────────────────────────────────────────
+2026-08-29 15:26:46,349 [INFO] ▶  Running slot: engagement_question
+2026-08-29 15:26:46,349 [INFO] ──────────────────────────────────────────────────
+2026-08-29 15:26:46,504 [INFO] 📝 Content selected: What's a positive change you've made recently that's easy to overlook but means ...
+2026-08-29 15:26:46,615 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260829_152646.png
+2026-08-29 15:26:46,615 [INFO] Caption preview: 💬 What's a positive change you've made recently that's easy to overlook but means a lot?
+
+Drop your answer in the commen...
+2026-08-29 15:26:51,542 [INFO] ✅ Posted successfully [engagement_question]
+2026-08-29 15:26:51,556 [INFO] ✅ Slot [engagement_question] published successfully!
