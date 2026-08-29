@@ -11580,5 +11580,26 @@
       "post_id": "1181533578372151_122128158915364831"
     },
     "timestamp": "2026-08-28T23:53:31.496933"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You have to be at your personal best to help others at their best.",
+      "content_index": 203,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-08-29",
+      "timestamp": "2026-08-29T00:10:18.070650",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You have to be at your personal best to help others at their best.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122128160643364831",
+      "post_id": "1181533578372151_122128160661364831"
+    },
+    "timestamp": "2026-08-29T00:10:23.262679"
   }
 ]

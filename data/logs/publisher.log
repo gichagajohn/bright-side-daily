@@ -8029,3 +8029,16 @@ Share this with someone who needs it today! 💛
 #Motivation #...
 2026-08-28 23:53:31,494 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-28 23:53:31,507 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-29 00:10:17,765 [INFO] Failed posts list is empty.
+2026-08-29 00:10:17,918 [INFO] ──────────────────────────────────────────────────
+2026-08-29 00:10:17,918 [INFO] ▶  Running slot: morning_motivation
+2026-08-29 00:10:17,918 [INFO] ──────────────────────────────────────────────────
+2026-08-29 00:10:18,070 [INFO] 📝 Content selected: You have to be at your personal best to help others at their best....
+2026-08-29 00:10:18,180 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260829_001018.png
+2026-08-29 00:10:18,180 [INFO] Caption preview: ☀️ You have to be at your personal best to help others at their best.
+
+Share this with someone who needs it today! 💛
+
+#M...
+2026-08-29 00:10:23,260 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-29 00:10:23,272 [INFO] ✅ Slot [morning_motivation] published successfully!
