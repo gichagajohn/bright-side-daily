@@ -8060,3 +8060,8 @@ Share this with someone who needs it today! 💛
 2026-08-29 11:29:12,822 [INFO] ▶  Running slot: afternoon_wisdom
 2026-08-29 11:29:12,822 [INFO] ──────────────────────────────────────────────────
 2026-08-29 11:29:12,967 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-08-29 13:01:11,347 [INFO] Failed posts list is empty.
+2026-08-29 13:01:11,495 [INFO] ──────────────────────────────────────────────────
+2026-08-29 13:01:11,495 [INFO] ▶  Running slot: gratitude_moment
+2026-08-29 13:01:11,495 [INFO] ──────────────────────────────────────────────────
+2026-08-29 13:01:11,642 [ERROR] ❌ Content selection failed: 'gratitude_moment'
