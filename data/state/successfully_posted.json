@@ -11706,5 +11706,26 @@
       "post_id": "1181533578372151_122128377057364831"
     },
     "timestamp": "2026-08-29T17:02:58.718102"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Don't downgrade your dream to match your reality.",
+      "content_index": 56,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-08-29",
+      "timestamp": "2026-08-29T20:16:44.803129",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Don't downgrade your dream to match your reality.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122128466439364831",
+      "post_id": "1181533578372151_122128466457364831"
+    },
+    "timestamp": "2026-08-29T20:16:48.428095"
   }
 ]
