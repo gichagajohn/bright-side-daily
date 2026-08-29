@@ -8105,3 +8105,16 @@ Share this with someone who needs it today! 💛
 Drop your answer in the commen...
 2026-08-29 15:26:51,542 [INFO] ✅ Posted successfully [engagement_question]
 2026-08-29 15:26:51,556 [INFO] ✅ Slot [engagement_question] published successfully!
+2026-08-29 17:02:51,210 [INFO] Failed posts list is empty.
+2026-08-29 17:02:51,362 [INFO] ──────────────────────────────────────────────────
+2026-08-29 17:02:51,363 [INFO] ▶  Running slot: morning_motivation
+2026-08-29 17:02:51,363 [INFO] ──────────────────────────────────────────────────
+2026-08-29 17:02:51,512 [INFO] 📝 Content selected: Victory is just persistence personified....
+2026-08-29 17:02:51,649 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260829_170251.png
+2026-08-29 17:02:51,649 [INFO] Caption preview: ☀️ Victory is just persistence personified.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mindse...
+2026-08-29 17:02:58,715 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-29 17:02:58,728 [INFO] ✅ Slot [morning_motivation] published successfully!

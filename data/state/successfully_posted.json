@@ -11685,5 +11685,26 @@
       "post_id": "1181533578372151_122128365495364831"
     },
     "timestamp": "2026-08-29T15:26:51.545502"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Victory is just persistence personified.",
+      "content_index": 572,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-08-29",
+      "timestamp": "2026-08-29T17:02:51.512590",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Victory is just persistence personified.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122128377039364831",
+      "post_id": "1181533578372151_122128377057364831"
+    },
+    "timestamp": "2026-08-29T17:02:58.718102"
   }
 ]
