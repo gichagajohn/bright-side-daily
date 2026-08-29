@@ -8081,3 +8081,16 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it ...
 2026-08-29 14:09:03,358 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-29 14:09:03,371 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-29 14:59:08,529 [INFO] Failed posts list is empty.
+2026-08-29 14:59:08,684 [INFO] ──────────────────────────────────────────────────
+2026-08-29 14:59:08,684 [INFO] ▶  Running slot: morning_motivation
+2026-08-29 14:59:08,684 [INFO] ──────────────────────────────────────────────────
+2026-08-29 14:59:08,841 [INFO] 📝 Content selected: Every day you have the power to choose your attitude....
+2026-08-29 14:59:08,949 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260829_145908.png
+2026-08-29 14:59:08,949 [INFO] Caption preview: ☀️ Every day you have the power to choose your attitude.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Su...
+2026-08-29 14:59:14,389 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-29 14:59:14,401 [INFO] ✅ Slot [morning_motivation] published successfully!
