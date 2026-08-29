@@ -11601,5 +11601,26 @@
       "post_id": "1181533578372151_122128160661364831"
     },
     "timestamp": "2026-08-29T00:10:23.262679"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are the weapon. Sharpen yourself daily.",
+      "content_index": 547,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-08-29",
+      "timestamp": "2026-08-29T01:22:26.647783",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are the weapon. Sharpen yourself daily.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122128168641364831",
+      "post_id": "1181533578372151_122128168659364831"
+    },
+    "timestamp": "2026-08-29T01:22:31.434100"
   }
 ]

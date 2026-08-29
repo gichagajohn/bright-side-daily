@@ -8042,3 +8042,16 @@ Share this with someone who needs it today! 💛
 #M...
 2026-08-29 00:10:23,260 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-29 00:10:23,272 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-29 01:22:26,349 [INFO] Failed posts list is empty.
+2026-08-29 01:22:26,501 [INFO] ──────────────────────────────────────────────────
+2026-08-29 01:22:26,501 [INFO] ▶  Running slot: morning_motivation
+2026-08-29 01:22:26,501 [INFO] ──────────────────────────────────────────────────
+2026-08-29 01:22:26,647 [INFO] 📝 Content selected: You are the weapon. Sharpen yourself daily....
+2026-08-29 01:22:26,834 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260829_012226.png
+2026-08-29 01:22:26,834 [INFO] Caption preview: ☀️ You are the weapon. Sharpen yourself daily.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Min...
+2026-08-29 01:22:31,431 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-29 01:22:31,444 [INFO] ✅ Slot [morning_motivation] published successfully!
