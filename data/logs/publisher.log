@@ -8185,3 +8185,14 @@ Share this with someone who needs it today! 💛
 #Mo...
 2026-08-30 14:15:19,536 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-30 14:15:19,548 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-30 14:46:06,945 [INFO] Failed posts list is empty.
+2026-08-30 14:46:07,096 [INFO] ──────────────────────────────────────────────────
+2026-08-30 14:46:07,096 [INFO] ▶  Running slot: morning_motivation
+2026-08-30 14:46:07,096 [INFO] ──────────────────────────────────────────────────
+2026-08-30 14:46:07,252 [INFO] 📝 Content selected: The harder you work for something, the greater you'll feel when you achieve it....
+2026-08-30 14:46:07,382 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260830_144607.png
+2026-08-30 14:46:07,382 [INFO] Caption preview: ☀️ The harder you work for something, the greater you'll feel when you achieve it.
+
+Share this with someone who needs it...
+2026-08-30 14:46:13,045 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-30 14:46:13,058 [INFO] ✅ Slot [morning_motivation] published successfully!
