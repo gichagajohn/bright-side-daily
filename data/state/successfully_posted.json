@@ -11769,5 +11769,26 @@
       "post_id": "1181533578372151_122128569087364831"
     },
     "timestamp": "2026-08-30T12:39:22.589896"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "In the game of life, the scoreboard belongs to those who show up.",
+      "content_index": 493,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T14:15:13.284988",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f In the game of life, the scoreboard belongs to those who show up.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122128589145364831",
+      "post_id": "1181533578372151_122128589163364831"
+    },
+    "timestamp": "2026-08-30T14:15:19.538447"
   }
 ]

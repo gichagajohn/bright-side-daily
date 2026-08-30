@@ -8172,3 +8172,16 @@ Share this with someone who needs it today! 💛
 2026-08-30 13:25:15,274 [INFO] ▶  Running slot: gratitude_moment
 2026-08-30 13:25:15,274 [INFO] ──────────────────────────────────────────────────
 2026-08-30 13:25:15,425 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-08-30 14:15:12,981 [INFO] Failed posts list is empty.
+2026-08-30 14:15:13,132 [INFO] ──────────────────────────────────────────────────
+2026-08-30 14:15:13,132 [INFO] ▶  Running slot: morning_motivation
+2026-08-30 14:15:13,132 [INFO] ──────────────────────────────────────────────────
+2026-08-30 14:15:13,285 [INFO] 📝 Content selected: In the game of life, the scoreboard belongs to those who show up....
+2026-08-30 14:15:13,396 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260830_141513.png
+2026-08-30 14:15:13,396 [INFO] Caption preview: ☀️ In the game of life, the scoreboard belongs to those who show up.
+
+Share this with someone who needs it today! 💛
+
+#Mo...
+2026-08-30 14:15:19,536 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-30 14:15:19,548 [INFO] ✅ Slot [morning_motivation] published successfully!
