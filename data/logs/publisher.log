@@ -8196,3 +8196,16 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it...
 2026-08-30 14:46:13,045 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-30 14:46:13,058 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-30 15:08:53,042 [INFO] Failed posts list is empty.
+2026-08-30 15:08:53,202 [INFO] ──────────────────────────────────────────────────
+2026-08-30 15:08:53,202 [INFO] ▶  Running slot: engagement_question
+2026-08-30 15:08:53,202 [INFO] ──────────────────────────────────────────────────
+2026-08-30 15:08:53,354 [INFO] 📝 Content selected: What's a way you've surprised yourself this week?...
+2026-08-30 15:08:53,461 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260830_150853.png
+2026-08-30 15:08:53,462 [INFO] Caption preview: 💬 What's a way you've surprised yourself this week?
+
+Drop your answer in the comments below 👇
+
+#Community #ShareYourThou...
+2026-08-30 15:08:58,092 [INFO] ✅ Posted successfully [engagement_question]
+2026-08-30 15:08:58,104 [INFO] ✅ Slot [engagement_question] published successfully!
