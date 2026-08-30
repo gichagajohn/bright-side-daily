@@ -8154,3 +8154,16 @@ Share this with someone who needs it today! 💛
 #YouGo...
 2026-08-30 10:17:06,375 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-08-30 10:17:06,387 [INFO] ✅ Slot [midday_encouragement] published successfully!
+2026-08-30 12:39:17,227 [INFO] Failed posts list is empty.
+2026-08-30 12:39:17,381 [INFO] ──────────────────────────────────────────────────
+2026-08-30 12:39:17,381 [INFO] ▶  Running slot: morning_motivation
+2026-08-30 12:39:17,381 [INFO] ──────────────────────────────────────────────────
+2026-08-30 12:39:17,530 [INFO] 📝 Content selected: Don't be afraid of your greatness....
+2026-08-30 12:39:17,635 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260830_123917.png
+2026-08-30 12:39:17,635 [INFO] Caption preview: ☀️ Don't be afraid of your greatness.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatte...
+2026-08-30 12:39:22,587 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-30 12:39:22,600 [INFO] ✅ Slot [morning_motivation] published successfully!
