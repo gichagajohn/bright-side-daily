@@ -11937,5 +11937,26 @@
       "post_id": "1181533578372151_122128863549364831"
     },
     "timestamp": "2026-08-31T16:41:07.536259"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The world bows to the relentless.",
+      "content_index": 477,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-08-31",
+      "timestamp": "2026-08-31T17:30:22.959974",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The world bows to the relentless.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122128871271364831",
+      "post_id": "1181533578372151_122128871295364831"
+    },
+    "timestamp": "2026-08-31T17:30:32.409272"
   }
 ]

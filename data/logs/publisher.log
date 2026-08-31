@@ -8289,3 +8289,16 @@ Share this with someone who needs it today! 💛
 #Gratitude #Thankful #Co...
 2026-08-31 16:41:07,533 [INFO] ✅ Posted successfully [evening_reflection]
 2026-08-31 16:41:07,544 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-08-31 17:30:22,654 [INFO] Failed posts list is empty.
+2026-08-31 17:30:22,801 [INFO] ──────────────────────────────────────────────────
+2026-08-31 17:30:22,801 [INFO] ▶  Running slot: morning_motivation
+2026-08-31 17:30:22,801 [INFO] ──────────────────────────────────────────────────
+2026-08-31 17:30:22,960 [INFO] 📝 Content selected: The world bows to the relentless....
+2026-08-31 17:30:23,011 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260831_173022.png
+2026-08-31 17:30:23,011 [INFO] Caption preview: ☀️ The world bows to the relentless.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatter...
+2026-08-31 17:30:32,406 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-31 17:30:32,419 [INFO] ✅ Slot [morning_motivation] published successfully!
