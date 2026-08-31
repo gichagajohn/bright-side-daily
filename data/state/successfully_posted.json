@@ -11958,5 +11958,26 @@
       "post_id": "1181533578372151_122128871295364831"
     },
     "timestamp": "2026-08-31T17:30:32.409272"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Decide. Commit. Succeed.",
+      "content_index": 244,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-08-31",
+      "timestamp": "2026-08-31T17:50:06.709871",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Decide. Commit. Succeed.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122128873677364831",
+      "post_id": "1181533578372151_122128873695364831"
+    },
+    "timestamp": "2026-08-31T17:50:11.711268"
   }
 ]
