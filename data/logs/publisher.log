@@ -8341,3 +8341,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mi...
 2026-08-31 20:41:58,742 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-31 20:41:58,756 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-31 21:08:18,519 [INFO] Failed posts list is empty.
+2026-08-31 21:08:18,672 [INFO] ──────────────────────────────────────────────────
+2026-08-31 21:08:18,672 [INFO] ▶  Running slot: morning_motivation
+2026-08-31 21:08:18,672 [INFO] ──────────────────────────────────────────────────
+2026-08-31 21:08:18,828 [INFO] 📝 Content selected: Your level of focus determines your level of success....
+2026-08-31 21:08:18,935 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260831_210818.png
+2026-08-31 21:08:18,935 [INFO] Caption preview: ☀️ Your level of focus determines your level of success.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Su...
+2026-08-31 21:08:24,503 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-31 21:08:24,517 [INFO] ✅ Slot [morning_motivation] published successfully!

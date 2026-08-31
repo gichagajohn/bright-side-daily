@@ -12021,5 +12021,26 @@
       "post_id": "1181533578372151_122128899435364831"
     },
     "timestamp": "2026-08-31T20:41:58.745242"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your level of focus determines your level of success.",
+      "content_index": 681,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-08-31",
+      "timestamp": "2026-08-31T21:08:18.828277",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your level of focus determines your level of success.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122128903029364831",
+      "post_id": "1181533578372151_122128903047364831"
+    },
+    "timestamp": "2026-08-31T21:08:24.506758"
   }
 ]
