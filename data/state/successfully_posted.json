@@ -11979,5 +11979,26 @@
       "post_id": "1181533578372151_122128873695364831"
     },
     "timestamp": "2026-08-31T17:50:11.711268"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Today is a good day to have a great day.",
+      "content_index": 229,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-08-31",
+      "timestamp": "2026-08-31T19:27:20.166701",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Today is a good day to have a great day.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122128893747364831",
+      "post_id": "1181533578372151_122128893765364831"
+    },
+    "timestamp": "2026-08-31T19:27:24.149077"
   }
 ]

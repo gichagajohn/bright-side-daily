@@ -8315,3 +8315,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #DailyM...
 2026-08-31 17:50:11,708 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-31 17:50:11,721 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-31 19:27:19,848 [INFO] Failed posts list is empty.
+2026-08-31 19:27:20,002 [INFO] ──────────────────────────────────────────────────
+2026-08-31 19:27:20,002 [INFO] ▶  Running slot: morning_motivation
+2026-08-31 19:27:20,002 [INFO] ──────────────────────────────────────────────────
+2026-08-31 19:27:20,166 [INFO] 📝 Content selected: Today is a good day to have a great day....
+2026-08-31 19:27:20,310 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260831_192720.png
+2026-08-31 19:27:20,311 [INFO] Caption preview: ☀️ Today is a good day to have a great day.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mindse...
+2026-08-31 19:27:24,145 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-31 19:27:24,159 [INFO] ✅ Slot [morning_motivation] published successfully!
