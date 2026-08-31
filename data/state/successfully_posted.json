@@ -11874,5 +11874,26 @@
       "post_id": "1181533578372151_122128640085364831"
     },
     "timestamp": "2026-08-30T20:22:51.836831"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Do it scared. Do it tired. Do it anyway.",
+      "content_index": 509,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-08-31",
+      "timestamp": "2026-08-31T14:55:00.241074",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Do it scared. Do it tired. Do it anyway.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122128847307364831",
+      "post_id": "1181533578372151_122128847325364831"
+    },
+    "timestamp": "2026-08-31T14:55:03.709899"
   }
 ]

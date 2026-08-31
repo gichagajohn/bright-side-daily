@@ -8250,3 +8250,16 @@ Share this with someone who needs it today! 💛
 2026-08-31 11:23:01,317 [INFO] ▶  Running slot: afternoon_wisdom
 2026-08-31 11:23:01,317 [INFO] ──────────────────────────────────────────────────
 2026-08-31 11:23:01,466 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-08-31 14:54:59,926 [INFO] Failed posts list is empty.
+2026-08-31 14:55:00,085 [INFO] ──────────────────────────────────────────────────
+2026-08-31 14:55:00,085 [INFO] ▶  Running slot: morning_motivation
+2026-08-31 14:55:00,085 [INFO] ──────────────────────────────────────────────────
+2026-08-31 14:55:00,241 [INFO] 📝 Content selected: Do it scared. Do it tired. Do it anyway....
+2026-08-31 14:55:00,346 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260831_145500.png
+2026-08-31 14:55:00,346 [INFO] Caption preview: ☀️ Do it scared. Do it tired. Do it anyway.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mindse...
+2026-08-31 14:55:03,707 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-31 14:55:03,720 [INFO] ✅ Slot [morning_motivation] published successfully!
