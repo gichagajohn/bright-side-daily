@@ -12042,5 +12042,26 @@
       "post_id": "1181533578372151_122128903047364831"
     },
     "timestamp": "2026-08-31T21:08:24.506758"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are worthy of the life you're working toward.",
+      "content_index": 634,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-08-31",
+      "timestamp": "2026-08-31T22:16:32.935977",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are worthy of the life you're working toward.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122128913715364831",
+      "post_id": "1181533578372151_122128913733364831"
+    },
+    "timestamp": "2026-08-31T22:16:38.779828"
   }
 ]
