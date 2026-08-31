@@ -8328,3 +8328,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mindse...
 2026-08-31 19:27:24,145 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-31 19:27:24,159 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-31 20:41:52,567 [INFO] Failed posts list is empty.
+2026-08-31 20:41:52,726 [INFO] ──────────────────────────────────────────────────
+2026-08-31 20:41:52,726 [INFO] ▶  Running slot: morning_motivation
+2026-08-31 20:41:52,726 [INFO] ──────────────────────────────────────────────────
+2026-08-31 20:41:52,879 [INFO] 📝 Content selected: Your mission is too important to give up on....
+2026-08-31 20:41:53,020 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260831_204152.png
+2026-08-31 20:41:53,020 [INFO] Caption preview: ☀️ Your mission is too important to give up on.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mi...
+2026-08-31 20:41:58,742 [INFO] ✅ Posted successfully [morning_motivation]
+2026-08-31 20:41:58,756 [INFO] ✅ Slot [morning_motivation] published successfully!

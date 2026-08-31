@@ -12000,5 +12000,26 @@
       "post_id": "1181533578372151_122128893765364831"
     },
     "timestamp": "2026-08-31T19:27:24.149077"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your mission is too important to give up on.",
+      "content_index": 448,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-08-31",
+      "timestamp": "2026-08-31T20:41:52.879019",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your mission is too important to give up on.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122128899417364831",
+      "post_id": "1181533578372151_122128899435364831"
+    },
+    "timestamp": "2026-08-31T20:41:58.745242"
   }
 ]
