@@ -8245,3 +8245,8 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mindset...
 2026-08-30 20:22:51,834 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-30 20:22:51,847 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-31 11:23:01,178 [INFO] Failed posts list is empty.
+2026-08-31 11:23:01,317 [INFO] ──────────────────────────────────────────────────
+2026-08-31 11:23:01,317 [INFO] ▶  Running slot: afternoon_wisdom
+2026-08-31 11:23:01,317 [INFO] ──────────────────────────────────────────────────
+2026-08-31 11:23:01,466 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
