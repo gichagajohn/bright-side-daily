@@ -8263,3 +8263,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mindse...
 2026-08-31 14:55:03,707 [INFO] ✅ Posted successfully [morning_motivation]
 2026-08-31 14:55:03,720 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-08-31 15:40:34,729 [INFO] Failed posts list is empty.
+2026-08-31 15:40:34,837 [INFO] ──────────────────────────────────────────────────
+2026-08-31 15:40:34,837 [INFO] ▶  Running slot: engagement_question
+2026-08-31 15:40:34,837 [INFO] ──────────────────────────────────────────────────
+2026-08-31 15:40:34,961 [INFO] 📝 Content selected: What's the kindest thing you could do for yourself today?...
+2026-08-31 15:40:35,047 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260831_154035.png
+2026-08-31 15:40:35,047 [INFO] Caption preview: 💬 What's the kindest thing you could do for yourself today?
+
+Drop your answer in the comments below 👇
+
+#Community #Share...
+2026-08-31 15:40:45,441 [INFO] ✅ Posted successfully [engagement_question]
+2026-08-31 15:40:45,451 [INFO] ✅ Slot [engagement_question] published successfully!
