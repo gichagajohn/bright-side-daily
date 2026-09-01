@@ -8393,3 +8393,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatter...
 2026-09-01 12:25:02,168 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-01 12:25:02,182 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-01 12:53:16,809 [INFO] Failed posts list is empty.
+2026-09-01 12:53:16,951 [INFO] ──────────────────────────────────────────────────
+2026-09-01 12:53:16,951 [INFO] ▶  Running slot: morning_motivation
+2026-09-01 12:53:16,951 [INFO] ──────────────────────────────────────────────────
+2026-09-01 12:53:17,107 [INFO] 📝 Content selected: The dream is free. The hustle is sold separately....
+2026-09-01 12:53:17,213 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260901_125317.png
+2026-09-01 12:53:17,213 [INFO] Caption preview: ☀️ The dream is free. The hustle is sold separately.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succes...
+2026-09-01 12:53:22,086 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-01 12:53:22,099 [INFO] ✅ Slot [morning_motivation] published successfully!

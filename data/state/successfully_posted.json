@@ -12105,5 +12105,26 @@
       "post_id": "1181533578372151_122129048757364831"
     },
     "timestamp": "2026-09-01T12:25:02.171468"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The dream is free. The hustle is sold separately.",
+      "content_index": 310,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T12:53:17.107139",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The dream is free. The hustle is sold separately.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122129053677364831",
+      "post_id": "1181533578372151_122129053695364831"
+    },
+    "timestamp": "2026-09-01T12:53:22.089058"
   }
 ]
