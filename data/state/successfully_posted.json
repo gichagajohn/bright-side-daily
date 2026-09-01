@@ -12147,5 +12147,26 @@
       "post_id": "1181533578372151_122129085213364831"
     },
     "timestamp": "2026-09-01T14:41:44.562147"
+  },
+  {
+    "post": {
+      "slot": "engagement_question",
+      "category": "engagement_questions",
+      "content": "What's something you're in the process of healing, and how are you helping yourself?",
+      "content_index": 312,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "hand-drawn thought bubbles"
+      },
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T15:22:14.316459",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcac What's something you're in the process of healing, and how are you helping yourself?\n\nDrop your answer in the comments below \ud83d\udc47\n\n#Community #ShareYourThoughts #QuestionOfTheDay #ChatWithUs #BrightSideFamily #BrightSideDaily",
+    "fb_response": {
+      "id": "122129090649364831",
+      "post_id": "1181533578372151_122129090667364831"
+    },
+    "timestamp": "2026-09-01T15:22:18.686374"
   }
 ]

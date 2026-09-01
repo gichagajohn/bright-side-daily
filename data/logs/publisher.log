@@ -8424,3 +8424,14 @@ Share this with someone who needs it today! 💛
 #Mo...
 2026-09-01 14:41:44,559 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-01 14:41:44,572 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-01 15:22:14,005 [INFO] Failed posts list is empty.
+2026-09-01 15:22:14,155 [INFO] ──────────────────────────────────────────────────
+2026-09-01 15:22:14,155 [INFO] ▶  Running slot: engagement_question
+2026-09-01 15:22:14,155 [INFO] ──────────────────────────────────────────────────
+2026-09-01 15:22:14,316 [INFO] 📝 Content selected: What's something you're in the process of healing, and how are you helping yours...
+2026-09-01 15:22:14,712 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260901_152214.png
+2026-09-01 15:22:14,712 [INFO] Caption preview: 💬 What's something you're in the process of healing, and how are you helping yourself?
+
+Drop your answer in the comments...
+2026-09-01 15:22:18,682 [INFO] ✅ Posted successfully [engagement_question]
+2026-09-01 15:22:18,698 [INFO] ✅ Slot [engagement_question] published successfully!
