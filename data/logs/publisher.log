@@ -8380,3 +8380,16 @@ Tag someone who can relate! 😂
 #RelatableLi...
 2026-09-01 09:46:49,930 [INFO] ✅ Posted successfully [funny_meme]
 2026-09-01 09:46:49,943 [INFO] ✅ Slot [funny_meme] published successfully!
+2026-09-01 12:24:55,570 [INFO] Failed posts list is empty.
+2026-09-01 12:24:55,741 [INFO] ──────────────────────────────────────────────────
+2026-09-01 12:24:55,741 [INFO] ▶  Running slot: morning_motivation
+2026-09-01 12:24:55,741 [INFO] ──────────────────────────────────────────────────
+2026-09-01 12:24:55,901 [INFO] 📝 Content selected: Comfort is the enemy of progress....
+2026-09-01 12:24:56,007 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260901_122455.png
+2026-09-01 12:24:56,008 [INFO] Caption preview: ☀️ Comfort is the enemy of progress.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatter...
+2026-09-01 12:25:02,168 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-01 12:25:02,182 [INFO] ✅ Slot [morning_motivation] published successfully!

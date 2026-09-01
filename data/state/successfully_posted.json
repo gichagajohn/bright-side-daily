@@ -12084,5 +12084,26 @@
       "post_id": "1181533578372151_122129021865364831"
     },
     "timestamp": "2026-09-01T09:46:49.933478"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Comfort is the enemy of progress.",
+      "content_index": 12,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T12:24:55.901873",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Comfort is the enemy of progress.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122129048739364831",
+      "post_id": "1181533578372151_122129048757364831"
+    },
+    "timestamp": "2026-09-01T12:25:02.171468"
   }
 ]
