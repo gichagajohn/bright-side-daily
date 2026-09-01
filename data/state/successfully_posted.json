@@ -12126,5 +12126,26 @@
       "post_id": "1181533578372151_122129053695364831"
     },
     "timestamp": "2026-09-01T12:53:22.089058"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Don't fear failure. Fear being in the exact same place next year.",
+      "content_index": 36,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T14:41:38.476089",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Don't fear failure. Fear being in the exact same place next year.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122129085195364831",
+      "post_id": "1181533578372151_122129085213364831"
+    },
+    "timestamp": "2026-09-01T14:41:44.562147"
   }
 ]

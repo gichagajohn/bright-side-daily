@@ -8411,3 +8411,16 @@ Share this with someone who needs it today! 💛
 2026-09-01 13:54:16,477 [INFO] ▶  Running slot: gratitude_moment
 2026-09-01 13:54:16,477 [INFO] ──────────────────────────────────────────────────
 2026-09-01 13:54:16,599 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-09-01 14:41:38,166 [INFO] Failed posts list is empty.
+2026-09-01 14:41:38,314 [INFO] ──────────────────────────────────────────────────
+2026-09-01 14:41:38,314 [INFO] ▶  Running slot: morning_motivation
+2026-09-01 14:41:38,314 [INFO] ──────────────────────────────────────────────────
+2026-09-01 14:41:38,476 [INFO] 📝 Content selected: Don't fear failure. Fear being in the exact same place next year....
+2026-09-01 14:41:38,583 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260901_144138.png
+2026-09-01 14:41:38,583 [INFO] Caption preview: ☀️ Don't fear failure. Fear being in the exact same place next year.
+
+Share this with someone who needs it today! 💛
+
+#Mo...
+2026-09-01 14:41:44,559 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-01 14:41:44,572 [INFO] ✅ Slot [morning_motivation] published successfully!
