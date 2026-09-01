@@ -8435,3 +8435,16 @@ Share this with someone who needs it today! 💛
 Drop your answer in the comments...
 2026-09-01 15:22:18,682 [INFO] ✅ Posted successfully [engagement_question]
 2026-09-01 15:22:18,698 [INFO] ✅ Slot [engagement_question] published successfully!
+2026-09-01 17:15:43,546 [INFO] Failed posts list is empty.
+2026-09-01 17:15:43,708 [INFO] ──────────────────────────────────────────────────
+2026-09-01 17:15:43,708 [INFO] ▶  Running slot: morning_motivation
+2026-09-01 17:15:43,708 [INFO] ──────────────────────────────────────────────────
+2026-09-01 17:15:43,865 [INFO] 📝 Content selected: Stay consistent even when no one is watching....
+2026-09-01 17:15:43,974 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260901_171543.png
+2026-09-01 17:15:43,974 [INFO] Caption preview: ☀️ Stay consistent even when no one is watching.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #M...
+2026-09-01 17:15:47,920 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-01 17:15:47,933 [INFO] ✅ Slot [morning_motivation] published successfully!

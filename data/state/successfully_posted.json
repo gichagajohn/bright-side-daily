@@ -12168,5 +12168,26 @@
       "post_id": "1181533578372151_122129090667364831"
     },
     "timestamp": "2026-09-01T15:22:18.686374"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Stay consistent even when no one is watching.",
+      "content_index": 61,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T17:15:43.865676",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Stay consistent even when no one is watching.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122129104971364831",
+      "post_id": "1181533578372151_122129104989364831"
+    },
+    "timestamp": "2026-09-01T17:15:47.922670"
   }
 ]
