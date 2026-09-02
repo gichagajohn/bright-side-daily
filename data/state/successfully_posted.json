@@ -12273,5 +12273,26 @@
       "post_id": "1181533578372151_122129414013364831"
     },
     "timestamp": "2026-09-02T14:16:41.479594"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your story is yours to write. Make it great.",
+      "content_index": 631,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-09-02",
+      "timestamp": "2026-09-02T14:56:06.915618",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your story is yours to write. Make it great.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122129420853364831",
+      "post_id": "1181533578372151_122129420871364831"
+    },
+    "timestamp": "2026-09-02T14:56:12.252505"
   }
 ]

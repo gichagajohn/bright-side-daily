@@ -8519,3 +8519,16 @@ Share this with someone who needs it today! 💛
 #Motivation #...
 2026-09-02 14:16:41,476 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-02 14:16:41,490 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-02 14:56:06,527 [INFO] Failed posts list is empty.
+2026-09-02 14:56:06,713 [INFO] ──────────────────────────────────────────────────
+2026-09-02 14:56:06,713 [INFO] ▶  Running slot: morning_motivation
+2026-09-02 14:56:06,713 [INFO] ──────────────────────────────────────────────────
+2026-09-02 14:56:06,915 [INFO] 📝 Content selected: Your story is yours to write. Make it great....
+2026-09-02 14:56:07,070 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260902_145607.png
+2026-09-02 14:56:07,070 [INFO] Caption preview: ☀️ Your story is yours to write. Make it great.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mi...
+2026-09-02 14:56:12,248 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-02 14:56:12,264 [INFO] ✅ Slot [morning_motivation] published successfully!
