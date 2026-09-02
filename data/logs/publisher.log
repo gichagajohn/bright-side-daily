@@ -8532,3 +8532,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mi...
 2026-09-02 14:56:12,248 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-02 14:56:12,264 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-02 17:05:00,054 [INFO] Failed posts list is empty.
+2026-09-02 17:05:00,174 [INFO] ──────────────────────────────────────────────────
+2026-09-02 17:05:00,175 [INFO] ▶  Running slot: morning_motivation
+2026-09-02 17:05:00,175 [INFO] ──────────────────────────────────────────────────
+2026-09-02 17:05:00,299 [INFO] 📝 Content selected: Start before you're ready....
+2026-09-02 17:05:00,499 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260902_170500.png
+2026-09-02 17:05:00,499 [INFO] Caption preview: ☀️ Start before you're ready.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #Dail...
+2026-09-02 17:05:06,468 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-02 17:05:06,478 [INFO] ✅ Slot [morning_motivation] published successfully!
