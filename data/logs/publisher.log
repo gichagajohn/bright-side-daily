@@ -8488,3 +8488,16 @@ Tag someone who can relate! 😂
 2026-09-02 11:59:37,581 [INFO] ▶  Running slot: afternoon_wisdom
 2026-09-02 11:59:37,581 [INFO] ──────────────────────────────────────────────────
 2026-09-02 11:59:37,738 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-09-02 12:23:46,985 [INFO] Failed posts list is empty.
+2026-09-02 12:23:47,109 [INFO] ──────────────────────────────────────────────────
+2026-09-02 12:23:47,109 [INFO] ▶  Running slot: morning_motivation
+2026-09-02 12:23:47,109 [INFO] ──────────────────────────────────────────────────
+2026-09-02 12:23:47,235 [INFO] 📝 Content selected: One step at a time is still moving forward....
+2026-09-02 12:23:47,442 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260902_122347.png
+2026-09-02 12:23:47,442 [INFO] Caption preview: ☀️ One step at a time is still moving forward.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Min...
+2026-09-02 12:23:52,663 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-02 12:23:52,674 [INFO] ✅ Slot [morning_motivation] published successfully!

@@ -12231,5 +12231,26 @@
       "post_id": "1181533578372151_122129340657364831"
     },
     "timestamp": "2026-09-02T09:19:33.972085"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "One step at a time is still moving forward.",
+      "content_index": 131,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-09-02",
+      "timestamp": "2026-09-02T12:23:47.235595",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f One step at a time is still moving forward.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122129373003364831",
+      "post_id": "1181533578372151_122129373045364831"
+    },
+    "timestamp": "2026-09-02T12:23:52.665567"
   }
 ]
