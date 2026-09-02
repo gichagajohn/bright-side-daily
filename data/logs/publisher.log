@@ -8555,3 +8555,14 @@ Share this with someone who needs it today! 💛
 2026-09-02 18:59:07,718 [INFO] ▶  Running slot: night_inspiration
 2026-09-02 18:59:07,719 [INFO] ──────────────────────────────────────────────────
 2026-09-02 18:59:07,882 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-09-02 20:23:23,266 [INFO] Failed posts list is empty.
+2026-09-02 20:23:23,422 [INFO] ──────────────────────────────────────────────────
+2026-09-02 20:23:23,422 [INFO] ▶  Running slot: morning_motivation
+2026-09-02 20:23:23,422 [INFO] ──────────────────────────────────────────────────
+2026-09-02 20:23:23,593 [INFO] 📝 Content selected: Make the decision today that your future self has already thanked you for....
+2026-09-02 20:23:23,701 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260902_202323.png
+2026-09-02 20:23:23,701 [INFO] Caption preview: ☀️ Make the decision today that your future self has already thanked you for.
+
+Share this with someone who needs it toda...
+2026-09-02 20:23:29,291 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-02 20:23:29,304 [INFO] ✅ Slot [morning_motivation] published successfully!

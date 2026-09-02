@@ -12315,5 +12315,26 @@
       "post_id": "1181533578372151_122129438541364831"
     },
     "timestamp": "2026-09-02T17:05:06.470146"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Make the decision today that your future self has already thanked you for.",
+      "content_index": 483,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open book and coffee in a cozy reading nook"
+      },
+      "date": "2026-09-02",
+      "timestamp": "2026-09-02T20:23:23.593350",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Make the decision today that your future self has already thanked you for.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122129509413364831",
+      "post_id": "1181533578372151_122129509431364831"
+    },
+    "timestamp": "2026-09-02T20:23:29.294091"
   }
 ]
