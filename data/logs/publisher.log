@@ -8506,3 +8506,16 @@ Share this with someone who needs it today! 💛
 2026-09-02 13:12:29,642 [INFO] ▶  Running slot: gratitude_moment
 2026-09-02 13:12:29,642 [INFO] ──────────────────────────────────────────────────
 2026-09-02 13:12:29,761 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-09-02 14:16:36,773 [INFO] Failed posts list is empty.
+2026-09-02 14:16:36,934 [INFO] ──────────────────────────────────────────────────
+2026-09-02 14:16:36,934 [INFO] ▶  Running slot: morning_motivation
+2026-09-02 14:16:36,934 [INFO] ──────────────────────────────────────────────────
+2026-09-02 14:16:37,091 [INFO] 📝 Content selected: You are your greatest investment. Never stop investing....
+2026-09-02 14:16:37,250 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260902_141637.png
+2026-09-02 14:16:37,250 [INFO] Caption preview: ☀️ You are your greatest investment. Never stop investing.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #...
+2026-09-02 14:16:41,476 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-02 14:16:41,490 [INFO] ✅ Slot [morning_motivation] published successfully!

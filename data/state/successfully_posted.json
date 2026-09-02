@@ -12252,5 +12252,26 @@
       "post_id": "1181533578372151_122129373045364831"
     },
     "timestamp": "2026-09-02T12:23:52.665567"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are your greatest investment. Never stop investing.",
+      "content_index": 683,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-09-02",
+      "timestamp": "2026-09-02T14:16:37.091030",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are your greatest investment. Never stop investing.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122129413995364831",
+      "post_id": "1181533578372151_122129414013364831"
+    },
+    "timestamp": "2026-09-02T14:16:41.479594"
   }
 ]
