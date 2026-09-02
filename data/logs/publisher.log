@@ -8545,3 +8545,8 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #Dail...
 2026-09-02 17:05:06,468 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-02 17:05:06,478 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-02 18:27:58,959 [INFO] Failed posts list is empty.
+2026-09-02 18:27:59,127 [INFO] ──────────────────────────────────────────────────
+2026-09-02 18:27:59,127 [INFO] ▶  Running slot: night_inspiration
+2026-09-02 18:27:59,127 [INFO] ──────────────────────────────────────────────────
+2026-09-02 18:27:59,286 [ERROR] ❌ Content selection failed: 'night_inspiration'
