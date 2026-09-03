@@ -8628,3 +8628,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters...
 2026-09-03 14:51:03,037 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-03 14:51:03,051 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-03 16:59:21,161 [INFO] Failed posts list is empty.
+2026-09-03 16:59:21,317 [INFO] ──────────────────────────────────────────────────
+2026-09-03 16:59:21,317 [INFO] ▶  Running slot: evening_reflection
+2026-09-03 16:59:21,318 [INFO] ──────────────────────────────────────────────────
+2026-09-03 16:59:21,489 [INFO] 📝 Content selected: Every new day is a blank page of gratitude waiting to be filled....
+2026-09-03 16:59:21,688 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260903_165921.png
+2026-09-03 16:59:21,688 [INFO] Caption preview: 🌙 Every new day is a blank page of gratitude waiting to be filled.
+
+Share this with someone who needs it today! 💛
+
+#Grat...
+2026-09-03 16:59:26,775 [INFO] ✅ Posted successfully [evening_reflection]
+2026-09-03 16:59:26,789 [INFO] ✅ Slot [evening_reflection] published successfully!
