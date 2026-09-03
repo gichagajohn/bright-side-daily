@@ -12378,5 +12378,26 @@
       "post_id": "1181533578372151_122129681145364831"
     },
     "timestamp": "2026-09-03T12:21:39.101432"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Make failure your teacher, not your tombstone.",
+      "content_index": 538,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "warm coffee on table beside a sunrise window"
+      },
+      "date": "2026-09-03",
+      "timestamp": "2026-09-03T14:20:13.550738",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Make failure your teacher, not your tombstone.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122129704725364831",
+      "post_id": "1181533578372151_122129704743364831"
+    },
+    "timestamp": "2026-09-03T14:20:18.041051"
   }
 ]
