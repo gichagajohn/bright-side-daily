@@ -8597,3 +8597,8 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #DailyMotivation ...
 2026-09-03 12:21:39,099 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-03 12:21:39,107 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-03 13:13:36,419 [INFO] Failed posts list is empty.
+2026-09-03 13:13:36,567 [INFO] ──────────────────────────────────────────────────
+2026-09-03 13:13:36,567 [INFO] ▶  Running slot: gratitude_moment
+2026-09-03 13:13:36,567 [INFO] ──────────────────────────────────────────────────
+2026-09-03 13:13:36,730 [ERROR] ❌ Content selection failed: 'gratitude_moment'
