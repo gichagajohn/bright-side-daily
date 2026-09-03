@@ -8615,3 +8615,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #...
 2026-09-03 14:20:18,038 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-03 14:20:18,048 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-03 14:50:58,796 [INFO] Failed posts list is empty.
+2026-09-03 14:50:58,939 [INFO] ──────────────────────────────────────────────────
+2026-09-03 14:50:58,940 [INFO] ▶  Running slot: morning_motivation
+2026-09-03 14:50:58,940 [INFO] ──────────────────────────────────────────────────
+2026-09-03 14:50:59,097 [INFO] 📝 Content selected: Willpower is the key to success....
+2026-09-03 14:50:59,312 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260903_145059.png
+2026-09-03 14:50:59,312 [INFO] Caption preview: ☀️ Willpower is the key to success.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters...
+2026-09-03 14:51:03,037 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-03 14:51:03,051 [INFO] ✅ Slot [morning_motivation] published successfully!
