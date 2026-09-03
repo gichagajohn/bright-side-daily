@@ -12441,5 +12441,26 @@
       "post_id": "1181533578372151_122129729139364831"
     },
     "timestamp": "2026-09-03T16:59:26.778495"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Vision without action is a daydream. Action without vision is a nightmare.",
+      "content_index": 312,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-09-03",
+      "timestamp": "2026-09-03T20:22:59.480885",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Vision without action is a daydream. Action without vision is a nightmare.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122129754693364831",
+      "post_id": "1181533578372151_122129754711364831"
+    },
+    "timestamp": "2026-09-03T20:23:05.402635"
   }
 ]
