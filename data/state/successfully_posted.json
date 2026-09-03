@@ -12357,5 +12357,26 @@
       "post_id": "1181533578372151_122129665293364831"
     },
     "timestamp": "2026-09-03T09:28:50.937568"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Be relentless.",
+      "content_index": 248,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-09-03",
+      "timestamp": "2026-09-03T12:21:33.794971",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Be relentless.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122129681115364831",
+      "post_id": "1181533578372151_122129681145364831"
+    },
+    "timestamp": "2026-09-03T12:21:39.101432"
   }
 ]

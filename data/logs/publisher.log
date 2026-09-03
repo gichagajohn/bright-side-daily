@@ -8584,3 +8584,16 @@ Tag someone who can relate! 😂
 2026-09-03 11:58:58,235 [INFO] ▶  Running slot: afternoon_wisdom
 2026-09-03 11:58:58,235 [INFO] ──────────────────────────────────────────────────
 2026-09-03 11:58:58,393 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-09-03 12:21:33,576 [INFO] Failed posts list is empty.
+2026-09-03 12:21:33,679 [INFO] ──────────────────────────────────────────────────
+2026-09-03 12:21:33,679 [INFO] ▶  Running slot: morning_motivation
+2026-09-03 12:21:33,679 [INFO] ──────────────────────────────────────────────────
+2026-09-03 12:21:33,795 [INFO] 📝 Content selected: Be relentless....
+2026-09-03 12:21:33,976 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260903_122133.png
+2026-09-03 12:21:33,976 [INFO] Caption preview: ☀️ Be relentless.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #DailyMotivation ...
+2026-09-03 12:21:39,099 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-03 12:21:39,107 [INFO] ✅ Slot [morning_motivation] published successfully!
