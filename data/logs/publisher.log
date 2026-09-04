@@ -8755,3 +8755,16 @@ Share this with someone who needs it today! 💛
 2026-09-04 18:35:06,994 [INFO] ▶  Running slot: night_inspiration
 2026-09-04 18:35:06,994 [INFO] ──────────────────────────────────────────────────
 2026-09-04 18:35:07,115 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-09-04 20:08:40,499 [INFO] Failed posts list is empty.
+2026-09-04 20:08:40,653 [INFO] ──────────────────────────────────────────────────
+2026-09-04 20:08:40,653 [INFO] ▶  Running slot: morning_motivation
+2026-09-04 20:08:40,653 [INFO] ──────────────────────────────────────────────────
+2026-09-04 20:08:40,815 [INFO] 📝 Content selected: Winners are not people who never fail, but people who never quit....
+2026-09-04 20:08:40,922 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260904_200840.png
+2026-09-04 20:08:40,922 [INFO] Caption preview: ☀️ Winners are not people who never fail, but people who never quit.
+
+Share this with someone who needs it today! 💛
+
+#Mo...
+2026-09-04 20:08:47,020 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-04 20:08:47,034 [INFO] ✅ Slot [morning_motivation] published successfully!
