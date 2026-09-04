@@ -8701,3 +8701,8 @@ Share this with someone who needs it today! 💛
 #Mot...
 2026-09-04 12:22:25,292 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-04 12:22:25,315 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-04 13:07:17,459 [INFO] Failed posts list is empty.
+2026-09-04 13:07:17,642 [INFO] ──────────────────────────────────────────────────
+2026-09-04 13:07:17,642 [INFO] ▶  Running slot: gratitude_moment
+2026-09-04 13:07:17,642 [INFO] ──────────────────────────────────────────────────
+2026-09-04 13:07:17,806 [ERROR] ❌ Content selection failed: 'gratitude_moment'
