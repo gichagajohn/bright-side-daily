@@ -8750,3 +8750,8 @@ Share this with someone who needs it today! 💛
 2026-09-04 18:10:40,846 [INFO] ▶  Running slot: night_inspiration
 2026-09-04 18:10:40,846 [INFO] ──────────────────────────────────────────────────
 2026-09-04 18:10:40,973 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-09-04 18:35:06,892 [INFO] Failed posts list is empty.
+2026-09-04 18:35:06,994 [INFO] ──────────────────────────────────────────────────
+2026-09-04 18:35:06,994 [INFO] ▶  Running slot: night_inspiration
+2026-09-04 18:35:06,994 [INFO] ──────────────────────────────────────────────────
+2026-09-04 18:35:07,115 [ERROR] ❌ Content selection failed: 'night_inspiration'
