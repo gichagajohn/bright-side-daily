@@ -8675,3 +8675,16 @@ Tag someone who can relate! 😂
 #...
 2026-09-04 09:21:11,631 [INFO] ✅ Posted successfully [funny_meme]
 2026-09-04 09:21:11,645 [INFO] ✅ Slot [funny_meme] published successfully!
+2026-09-04 12:01:22,136 [INFO] Failed posts list is empty.
+2026-09-04 12:01:22,299 [INFO] ──────────────────────────────────────────────────
+2026-09-04 12:01:22,300 [INFO] ▶  Running slot: morning_motivation
+2026-09-04 12:01:22,300 [INFO] ──────────────────────────────────────────────────
+2026-09-04 12:01:22,464 [INFO] 📝 Content selected: Make progress your obsession and success your outcome....
+2026-09-04 12:01:22,529 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260904_120122.png
+2026-09-04 12:01:22,530 [INFO] Caption preview: ☀️ Make progress your obsession and success your outcome.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #S...
+2026-09-04 12:01:27,967 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-04 12:01:27,981 [INFO] ✅ Slot [morning_motivation] published successfully!

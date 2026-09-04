@@ -12483,5 +12483,26 @@
       "post_id": "1181533578372151_122129930853364831"
     },
     "timestamp": "2026-09-04T09:21:11.634286"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Make progress your obsession and success your outcome.",
+      "content_index": 515,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T12:01:22.464804",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Make progress your obsession and success your outcome.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122129955903364831",
+      "post_id": "1181533578372151_122129955921364831"
+    },
+    "timestamp": "2026-09-04T12:01:27.970727"
   }
 ]
