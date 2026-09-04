@@ -8688,3 +8688,16 @@ Share this with someone who needs it today! 💛
 #Motivation #S...
 2026-09-04 12:01:27,967 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-04 12:01:27,981 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-04 12:22:21,059 [INFO] Failed posts list is empty.
+2026-09-04 12:22:21,206 [INFO] ──────────────────────────────────────────────────
+2026-09-04 12:22:21,207 [INFO] ▶  Running slot: morning_motivation
+2026-09-04 12:22:21,207 [INFO] ──────────────────────────────────────────────────
+2026-09-04 12:22:21,370 [INFO] 📝 Content selected: Protect your peace. Protect your energy. Protect your potential....
+2026-09-04 12:22:21,508 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260904_122221.png
+2026-09-04 12:22:21,508 [INFO] Caption preview: ☀️ Protect your peace. Protect your energy. Protect your potential.
+
+Share this with someone who needs it today! 💛
+
+#Mot...
+2026-09-04 12:22:25,292 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-04 12:22:25,315 [INFO] ✅ Slot [morning_motivation] published successfully!
