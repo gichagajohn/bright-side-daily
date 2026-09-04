@@ -8662,3 +8662,16 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it toda...
 2026-09-03 20:23:05,400 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-03 20:23:05,413 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-04 09:21:06,441 [INFO] Failed posts list is empty.
+2026-09-04 09:21:06,584 [INFO] ──────────────────────────────────────────────────
+2026-09-04 09:21:06,585 [INFO] ▶  Running slot: funny_meme
+2026-09-04 09:21:06,585 [INFO] ──────────────────────────────────────────────────
+2026-09-04 09:21:06,755 [INFO] 📝 Content selected: My ambition on a Sunday vs. my capacity on a Monday: completely different docume...
+2026-09-04 09:21:06,910 [INFO] Publishing [funny_meme] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/funny_meme_20260904_092106.png
+2026-09-04 09:21:06,910 [INFO] Caption preview: 😄 My ambition on a Sunday vs. my capacity on a Monday: completely different documents.
+
+Tag someone who can relate! 😂
+
+#...
+2026-09-04 09:21:11,631 [INFO] ✅ Posted successfully [funny_meme]
+2026-09-04 09:21:11,645 [INFO] ✅ Slot [funny_meme] published successfully!
