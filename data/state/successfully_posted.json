@@ -12525,5 +12525,26 @@
       "post_id": "1181533578372151_122129957997364831"
     },
     "timestamp": "2026-09-04T12:22:25.297659"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Never dim your light for anyone.",
+      "content_index": 609,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T14:09:02.169955",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Never dim your light for anyone.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122130004095364831",
+      "post_id": "1181533578372151_122130004119364831"
+    },
+    "timestamp": "2026-09-04T14:09:07.074320"
   }
 ]

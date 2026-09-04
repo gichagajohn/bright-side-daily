@@ -8706,3 +8706,16 @@ Share this with someone who needs it today! 💛
 2026-09-04 13:07:17,642 [INFO] ▶  Running slot: gratitude_moment
 2026-09-04 13:07:17,642 [INFO] ──────────────────────────────────────────────────
 2026-09-04 13:07:17,806 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-09-04 14:09:01,849 [INFO] Failed posts list is empty.
+2026-09-04 14:09:02,003 [INFO] ──────────────────────────────────────────────────
+2026-09-04 14:09:02,003 [INFO] ▶  Running slot: morning_motivation
+2026-09-04 14:09:02,003 [INFO] ──────────────────────────────────────────────────
+2026-09-04 14:09:02,170 [INFO] 📝 Content selected: Never dim your light for anyone....
+2026-09-04 14:09:02,277 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260904_140902.png
+2026-09-04 14:09:02,277 [INFO] Caption preview: ☀️ Never dim your light for anyone.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters...
+2026-09-04 14:09:07,071 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-04 14:09:07,085 [INFO] ✅ Slot [morning_motivation] published successfully!
