@@ -12546,5 +12546,26 @@
       "post_id": "1181533578372151_122130004119364831"
     },
     "timestamp": "2026-09-04T14:09:07.074320"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Build the empire. Then build a bigger one.",
+      "content_index": 544,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T14:44:56.384253",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Build the empire. Then build a bigger one.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122130015477364831",
+      "post_id": "1181533578372151_122130015501364831"
+    },
+    "timestamp": "2026-09-04T14:45:02.233914"
   }
 ]
