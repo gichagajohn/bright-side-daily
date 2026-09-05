@@ -8768,3 +8768,16 @@ Share this with someone who needs it today! 💛
 #Mo...
 2026-09-04 20:08:47,020 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-04 20:08:47,034 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-05 08:50:31,258 [INFO] Failed posts list is empty.
+2026-09-05 08:50:31,423 [INFO] ──────────────────────────────────────────────────
+2026-09-05 08:50:31,423 [INFO] ▶  Running slot: self_improvement
+2026-09-05 08:50:31,423 [INFO] ──────────────────────────────────────────────────
+2026-09-05 08:50:31,593 [INFO] 📝 Content selected: The person who reads every day wins in the long run. Always....
+2026-09-05 08:50:31,716 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_20260905_085031.png
+2026-09-05 08:50:31,717 [INFO] Caption preview: 📈 The person who reads every day wins in the long run. Always.
+
+Share this with someone who needs it today! 💛
+
+#Personal...
+2026-09-05 08:50:37,325 [INFO] ✅ Posted successfully [self_improvement]
+2026-09-05 08:50:37,348 [INFO] ✅ Slot [self_improvement] published successfully!
