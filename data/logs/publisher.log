@@ -8851,3 +8851,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mi...
 2026-09-05 17:44:12,051 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-05 17:44:12,062 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-05 19:48:14,869 [INFO] Failed posts list is empty.
+2026-09-05 19:48:15,023 [INFO] ──────────────────────────────────────────────────
+2026-09-05 19:48:15,023 [INFO] ▶  Running slot: morning_motivation
+2026-09-05 19:48:15,023 [INFO] ──────────────────────────────────────────────────
+2026-09-05 19:48:15,190 [INFO] 📝 Content selected: Make your ambition greater than your anxiety....
+2026-09-05 19:48:15,292 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260905_194815.png
+2026-09-05 19:48:15,292 [INFO] Caption preview: ☀️ Make your ambition greater than your anxiety.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #M...
+2026-09-05 19:48:20,610 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-05 19:48:20,624 [INFO] ✅ Slot [morning_motivation] published successfully!
