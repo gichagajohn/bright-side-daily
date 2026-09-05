@@ -8814,3 +8814,14 @@ Share this with someone who needs it today! 💛
 2026-09-05 13:39:22,548 [INFO] ▶  Running slot: gratitude_moment
 2026-09-05 13:39:22,548 [INFO] ──────────────────────────────────────────────────
 2026-09-05 13:39:22,717 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-09-05 15:52:40,288 [INFO] Failed posts list is empty.
+2026-09-05 15:52:40,442 [INFO] ──────────────────────────────────────────────────
+2026-09-05 15:52:40,442 [INFO] ▶  Running slot: engagement_question
+2026-09-05 15:52:40,442 [INFO] ──────────────────────────────────────────────────
+2026-09-05 15:52:40,609 [INFO] 📝 Content selected: What's the most important thing you want people to know about who you really are...
+2026-09-05 15:52:40,761 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260905_155240.png
+2026-09-05 15:52:40,761 [INFO] Caption preview: 💬 What's the most important thing you want people to know about who you really are?
+
+Drop your answer in the comments be...
+2026-09-05 15:52:45,209 [INFO] ✅ Posted successfully [engagement_question]
+2026-09-05 15:52:45,223 [INFO] ✅ Slot [engagement_question] published successfully!
