@@ -8838,3 +8838,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mi...
 2026-09-05 17:12:00,327 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-05 17:12:00,340 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-05 17:44:07,291 [INFO] Failed posts list is empty.
+2026-09-05 17:44:07,414 [INFO] ──────────────────────────────────────────────────
+2026-09-05 17:44:07,414 [INFO] ▶  Running slot: morning_motivation
+2026-09-05 17:44:07,414 [INFO] ──────────────────────────────────────────────────
+2026-09-05 17:44:07,547 [INFO] 📝 Content selected: Walk boldly in the direction of your dreams....
+2026-09-05 17:44:07,631 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260905_174407.png
+2026-09-05 17:44:07,631 [INFO] Caption preview: ☀️ Walk boldly in the direction of your dreams.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mi...
+2026-09-05 17:44:12,051 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-05 17:44:12,062 [INFO] ✅ Slot [morning_motivation] published successfully!

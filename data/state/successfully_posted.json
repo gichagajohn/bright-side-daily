@@ -12693,5 +12693,26 @@
       "post_id": "1181533578372151_122130475443364831"
     },
     "timestamp": "2026-09-05T17:12:00.329886"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Walk boldly in the direction of your dreams.",
+      "content_index": 533,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T17:44:07.547762",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Walk boldly in the direction of your dreams.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122130496011364831",
+      "post_id": "1181533578372151_122130496035364831"
+    },
+    "timestamp": "2026-09-05T17:44:12.053578"
   }
 ]
