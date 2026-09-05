@@ -8781,3 +8781,8 @@ Share this with someone who needs it today! 💛
 #Personal...
 2026-09-05 08:50:37,325 [INFO] ✅ Posted successfully [self_improvement]
 2026-09-05 08:50:37,348 [INFO] ✅ Slot [self_improvement] published successfully!
+2026-09-05 11:10:23,212 [INFO] Failed posts list is empty.
+2026-09-05 11:10:23,363 [INFO] ──────────────────────────────────────────────────
+2026-09-05 11:10:23,363 [INFO] ▶  Running slot: afternoon_wisdom
+2026-09-05 11:10:23,363 [INFO] ──────────────────────────────────────────────────
+2026-09-05 11:10:23,539 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
