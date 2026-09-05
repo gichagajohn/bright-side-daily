@@ -8791,3 +8791,16 @@ Share this with someone who needs it today! 💛
 2026-09-05 11:29:09,183 [INFO] ▶  Running slot: afternoon_wisdom
 2026-09-05 11:29:09,183 [INFO] ──────────────────────────────────────────────────
 2026-09-05 11:29:09,345 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-09-05 12:20:38,021 [INFO] Failed posts list is empty.
+2026-09-05 12:20:38,170 [INFO] ──────────────────────────────────────────────────
+2026-09-05 12:20:38,171 [INFO] ▶  Running slot: morning_motivation
+2026-09-05 12:20:38,171 [INFO] ──────────────────────────────────────────────────
+2026-09-05 12:20:38,351 [INFO] 📝 Content selected: Champions keep playing until they get it right....
+2026-09-05 12:20:38,487 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260905_122038.png
+2026-09-05 12:20:38,487 [INFO] Caption preview: ☀️ Champions keep playing until they get it right.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success ...
+2026-09-05 12:20:43,787 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-05 12:20:43,801 [INFO] ✅ Slot [morning_motivation] published successfully!

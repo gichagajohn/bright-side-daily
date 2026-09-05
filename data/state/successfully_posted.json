@@ -12630,5 +12630,26 @@
       "post_id": "1181533578372151_122130359829364831"
     },
     "timestamp": "2026-09-05T08:50:37.328530"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Champions keep playing until they get it right.",
+      "content_index": 168,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T12:20:38.351289",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Champions keep playing until they get it right.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122130392649364831",
+      "post_id": "1181533578372151_122130392667364831"
+    },
+    "timestamp": "2026-09-05T12:20:43.790384"
   }
 ]
