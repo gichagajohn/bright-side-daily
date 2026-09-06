@@ -8906,3 +8906,8 @@ Tag someone who can relate! 😂
 #Relat...
 2026-09-06 11:24:39,667 [INFO] ✅ Posted successfully [funny_meme]
 2026-09-06 11:24:39,681 [INFO] ✅ Slot [funny_meme] published successfully!
+2026-09-06 11:33:21,306 [INFO] Failed posts list is empty.
+2026-09-06 11:33:21,441 [INFO] ──────────────────────────────────────────────────
+2026-09-06 11:33:21,441 [INFO] ▶  Running slot: afternoon_wisdom
+2026-09-06 11:33:21,441 [INFO] ──────────────────────────────────────────────────
+2026-09-06 11:33:21,605 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
