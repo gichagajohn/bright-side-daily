@@ -8939,3 +8939,16 @@ Share this with someone who needs it today! 💛
 2026-09-06 13:54:56,973 [INFO] ▶  Running slot: gratitude_moment
 2026-09-06 13:54:56,973 [INFO] ──────────────────────────────────────────────────
 2026-09-06 13:54:57,143 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-09-06 16:06:19,058 [INFO] Failed posts list is empty.
+2026-09-06 16:06:19,219 [INFO] ──────────────────────────────────────────────────
+2026-09-06 16:06:19,219 [INFO] ▶  Running slot: evening_reflection
+2026-09-06 16:06:19,219 [INFO] ──────────────────────────────────────────────────
+2026-09-06 16:06:19,392 [INFO] 📝 Content selected: Enough is a feast to a grateful soul....
+2026-09-06 16:06:19,497 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_20260906_160619.png
+2026-09-06 16:06:19,497 [INFO] Caption preview: 🌙 Enough is a feast to a grateful soul.
+
+Share this with someone who needs it today! 💛
+
+#Gratitude #Thankful #CountYourB...
+2026-09-06 16:06:23,786 [INFO] ✅ Posted successfully [evening_reflection]
+2026-09-06 16:06:23,800 [INFO] ✅ Slot [evening_reflection] published successfully!
