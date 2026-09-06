@@ -8934,3 +8934,8 @@ Share this with someone who needs it today! 💛
 2026-09-06 13:31:59,042 [INFO] ▶  Running slot: gratitude_moment
 2026-09-06 13:31:59,042 [INFO] ──────────────────────────────────────────────────
 2026-09-06 13:31:59,210 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-09-06 13:54:56,820 [INFO] Failed posts list is empty.
+2026-09-06 13:54:56,973 [INFO] ──────────────────────────────────────────────────
+2026-09-06 13:54:56,973 [INFO] ▶  Running slot: gratitude_moment
+2026-09-06 13:54:56,973 [INFO] ──────────────────────────────────────────────────
+2026-09-06 13:54:57,143 [ERROR] ❌ Content selection failed: 'gratitude_moment'
