@@ -8916,3 +8916,16 @@ Tag someone who can relate! 😂
 2026-09-06 11:50:02,844 [INFO] ▶  Running slot: afternoon_wisdom
 2026-09-06 11:50:02,844 [INFO] ──────────────────────────────────────────────────
 2026-09-06 11:50:03,016 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-09-06 12:35:29,098 [INFO] Failed posts list is empty.
+2026-09-06 12:35:29,220 [INFO] ──────────────────────────────────────────────────
+2026-09-06 12:35:29,220 [INFO] ▶  Running slot: morning_motivation
+2026-09-06 12:35:29,220 [INFO] ──────────────────────────────────────────────────
+2026-09-06 12:35:29,369 [INFO] 📝 Content selected: Hard work is the bridge between vision and reality....
+2026-09-06 12:35:29,509 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260906_123529.png
+2026-09-06 12:35:29,509 [INFO] Caption preview: ☀️ Hard work is the bridge between vision and reality.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succ...
+2026-09-06 12:35:34,872 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-06 12:35:34,888 [INFO] ✅ Slot [morning_motivation] published successfully!
