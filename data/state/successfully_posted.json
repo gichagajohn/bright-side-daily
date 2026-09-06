@@ -12840,5 +12840,26 @@
       "post_id": "1181533578372151_122130702177364831"
     },
     "timestamp": "2026-09-06T17:31:56.161488"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The only way out is through.",
+      "content_index": 21,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T17:47:23.571052",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The only way out is through.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122130703497364831",
+      "post_id": "1181533578372151_122130703515364831"
+    },
+    "timestamp": "2026-09-06T17:47:28.473081"
   }
 ]

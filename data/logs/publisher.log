@@ -8965,3 +8965,16 @@ Share this with someone who needs it today! 💛
 #Motivatio...
 2026-09-06 17:31:56,157 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-06 17:31:56,173 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-06 17:47:23,250 [INFO] Failed posts list is empty.
+2026-09-06 17:47:23,403 [INFO] ──────────────────────────────────────────────────
+2026-09-06 17:47:23,403 [INFO] ▶  Running slot: morning_motivation
+2026-09-06 17:47:23,403 [INFO] ──────────────────────────────────────────────────
+2026-09-06 17:47:23,571 [INFO] 📝 Content selected: The only way out is through....
+2026-09-06 17:47:23,673 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260906_174723.png
+2026-09-06 17:47:23,673 [INFO] Caption preview: ☀️ The only way out is through.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #Da...
+2026-09-06 17:47:28,470 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-06 17:47:28,484 [INFO] ✅ Slot [morning_motivation] published successfully!
