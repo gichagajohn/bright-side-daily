@@ -8978,3 +8978,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #Da...
 2026-09-06 17:47:28,470 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-06 17:47:28,484 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-06 19:52:12,185 [INFO] Failed posts list is empty.
+2026-09-06 19:52:12,309 [INFO] ──────────────────────────────────────────────────
+2026-09-06 19:52:12,309 [INFO] ▶  Running slot: morning_motivation
+2026-09-06 19:52:12,309 [INFO] ──────────────────────────────────────────────────
+2026-09-06 19:52:12,448 [INFO] 📝 Content selected: Every night you sleep is a chance to wake up better....
+2026-09-06 19:52:12,534 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260906_195212.png
+2026-09-06 19:52:12,534 [INFO] Caption preview: ☀️ Every night you sleep is a chance to wake up better.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Suc...
+2026-09-06 19:52:17,541 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-06 19:52:17,552 [INFO] ✅ Slot [morning_motivation] published successfully!
