@@ -8911,3 +8911,8 @@ Tag someone who can relate! 😂
 2026-09-06 11:33:21,441 [INFO] ▶  Running slot: afternoon_wisdom
 2026-09-06 11:33:21,441 [INFO] ──────────────────────────────────────────────────
 2026-09-06 11:33:21,605 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
+2026-09-06 11:50:02,679 [INFO] Failed posts list is empty.
+2026-09-06 11:50:02,844 [INFO] ──────────────────────────────────────────────────
+2026-09-06 11:50:02,844 [INFO] ▶  Running slot: afternoon_wisdom
+2026-09-06 11:50:02,844 [INFO] ──────────────────────────────────────────────────
+2026-09-06 11:50:03,016 [ERROR] ❌ Content selection failed: 'afternoon_wisdom'
