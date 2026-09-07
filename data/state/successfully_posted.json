@@ -12924,5 +12924,26 @@
       "post_id": "1181533578372151_122130862587364831"
     },
     "timestamp": "2026-09-07T14:45:20.138373"
+  },
+  {
+    "post": {
+      "slot": "engagement_question",
+      "category": "engagement_questions",
+      "content": "What does courage look like in your everyday life?",
+      "content_index": 154,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "group of diverse people at a coffee table"
+      },
+      "date": "2026-09-07",
+      "timestamp": "2026-09-07T15:42:31.080912",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcac What does courage look like in your everyday life?\n\nDrop your answer in the comments below \ud83d\udc47\n\n#Community #ShareYourThoughts #QuestionOfTheDay #ChatWithUs #BrightSideFamily #BrightSideDaily",
+    "fb_response": {
+      "id": "122130873309364831",
+      "post_id": "1181533578372151_122130873327364831"
+    },
+    "timestamp": "2026-09-07T15:42:34.683463"
   }
 ]

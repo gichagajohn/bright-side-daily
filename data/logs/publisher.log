@@ -9027,3 +9027,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #Dai...
 2026-09-07 14:45:20,135 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-07 14:45:20,148 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-07 15:42:30,812 [INFO] Failed posts list is empty.
+2026-09-07 15:42:30,936 [INFO] ──────────────────────────────────────────────────
+2026-09-07 15:42:30,936 [INFO] ▶  Running slot: engagement_question
+2026-09-07 15:42:30,936 [INFO] ──────────────────────────────────────────────────
+2026-09-07 15:42:31,080 [INFO] 📝 Content selected: What does courage look like in your everyday life?...
+2026-09-07 15:42:31,161 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260907_154231.png
+2026-09-07 15:42:31,162 [INFO] Caption preview: 💬 What does courage look like in your everyday life?
+
+Drop your answer in the comments below 👇
+
+#Community #ShareYourTho...
+2026-09-07 15:42:34,680 [INFO] ✅ Posted successfully [engagement_question]
+2026-09-07 15:42:34,692 [INFO] ✅ Slot [engagement_question] published successfully!
