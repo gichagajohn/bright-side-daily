@@ -9014,3 +9014,16 @@ Tag someone who can relate! 😂
 2026-09-07 13:47:57,799 [INFO] ▶  Running slot: gratitude_moment
 2026-09-07 13:47:57,799 [INFO] ──────────────────────────────────────────────────
 2026-09-07 13:47:57,976 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-09-07 14:45:14,311 [INFO] Failed posts list is empty.
+2026-09-07 14:45:14,444 [INFO] ──────────────────────────────────────────────────
+2026-09-07 14:45:14,444 [INFO] ▶  Running slot: morning_motivation
+2026-09-07 14:45:14,444 [INFO] ──────────────────────────────────────────────────
+2026-09-07 14:45:14,606 [INFO] 📝 Content selected: Decide to be extraordinary....
+2026-09-07 14:45:14,709 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260907_144514.png
+2026-09-07 14:45:14,709 [INFO] Caption preview: ☀️ Decide to be extraordinary.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #Dai...
+2026-09-07 14:45:20,135 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-07 14:45:20,148 [INFO] ✅ Slot [morning_motivation] published successfully!

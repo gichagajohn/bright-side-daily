@@ -12903,5 +12903,26 @@
       "post_id": "1181533578372151_122130806451364831"
     },
     "timestamp": "2026-09-07T09:58:12.229620"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Decide to be extraordinary.",
+      "content_index": 401,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-09-07",
+      "timestamp": "2026-09-07T14:45:14.606158",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Decide to be extraordinary.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122130862557364831",
+      "post_id": "1181533578372151_122130862587364831"
+    },
+    "timestamp": "2026-09-07T14:45:20.138373"
   }
 ]
