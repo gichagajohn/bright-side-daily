@@ -9071,3 +9071,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatt...
 2026-09-07 19:01:54,326 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-07 19:01:54,386 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-07 19:26:11,592 [INFO] Failed posts list is empty.
+2026-09-07 19:26:11,747 [INFO] ──────────────────────────────────────────────────
+2026-09-07 19:26:11,748 [INFO] ▶  Running slot: morning_motivation
+2026-09-07 19:26:11,748 [INFO] ──────────────────────────────────────────────────
+2026-09-07 19:26:11,926 [INFO] 📝 Content selected: Never stop chasing the best version of yourself....
+2026-09-07 19:26:12,034 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260907_192611.png
+2026-09-07 19:26:12,034 [INFO] Caption preview: ☀️ Never stop chasing the best version of yourself.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success...
+2026-09-07 19:26:16,811 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-07 19:26:16,825 [INFO] ✅ Slot [morning_motivation] published successfully!
