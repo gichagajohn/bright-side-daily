@@ -9084,3 +9084,15 @@ Share this with someone who needs it today! 💛
 #Motivation #Success...
 2026-09-07 19:26:16,811 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-07 19:26:16,825 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-07 20:59:40,581 [INFO] Failed posts list is empty.
+2026-09-07 20:59:40,681 [INFO] ──────────────────────────────────────────────────
+2026-09-07 20:59:40,681 [INFO] ▶  Running slot: morning_motivation
+2026-09-07 20:59:40,682 [INFO] ──────────────────────────────────────────────────
+2026-09-07 20:59:40,853 [INFO] 📝 Content selected: Dedication and determination will take you further than talent alone....
+2026-09-07 20:59:40,934 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260907_205940.png
+2026-09-07 20:59:40,935 [INFO] Caption preview: ☀️ Dedication and determination will take you further than talent alone.
+
+Share this with someone who needs it today! 💛
+...
+2026-09-07 20:59:47,160 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-07 20:59:47,171 [INFO] ✅ Slot [morning_motivation] published successfully!
