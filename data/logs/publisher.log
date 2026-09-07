@@ -9009,3 +9009,8 @@ Tag someone who can relate! 😂
 2026-09-07 13:20:46,865 [INFO] ▶  Running slot: gratitude_moment
 2026-09-07 13:20:46,865 [INFO] ──────────────────────────────────────────────────
 2026-09-07 13:20:47,036 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-09-07 13:47:57,631 [INFO] Failed posts list is empty.
+2026-09-07 13:47:57,799 [INFO] ──────────────────────────────────────────────────
+2026-09-07 13:47:57,799 [INFO] ▶  Running slot: gratitude_moment
+2026-09-07 13:47:57,799 [INFO] ──────────────────────────────────────────────────
+2026-09-07 13:47:57,976 [ERROR] ❌ Content selection failed: 'gratitude_moment'
