@@ -9058,3 +9058,16 @@ Share this with someone who needs it today! 💛
 2026-09-07 18:11:12,554 [INFO] ▶  Running slot: night_inspiration
 2026-09-07 18:11:12,554 [INFO] ──────────────────────────────────────────────────
 2026-09-07 18:11:12,714 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-09-07 19:01:48,784 [INFO] Failed posts list is empty.
+2026-09-07 19:01:48,902 [INFO] ──────────────────────────────────────────────────
+2026-09-07 19:01:48,902 [INFO] ▶  Running slot: morning_motivation
+2026-09-07 19:01:48,902 [INFO] ──────────────────────────────────────────────────
+2026-09-07 19:01:49,037 [INFO] 📝 Content selected: Believe in your infinite potential....
+2026-09-07 19:01:49,121 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260907_190149.png
+2026-09-07 19:01:49,122 [INFO] Caption preview: ☀️ Believe in your infinite potential.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatt...
+2026-09-07 19:01:54,326 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-07 19:01:54,386 [INFO] ✅ Slot [morning_motivation] published successfully!
