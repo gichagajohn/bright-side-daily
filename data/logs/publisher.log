@@ -9109,3 +9109,16 @@ Tag someone who can relate! 😂
 #RelatableLife #Funny #M...
 2026-09-08 09:23:41,876 [INFO] ✅ Posted successfully [funny_meme]
 2026-09-08 09:23:41,890 [INFO] ✅ Slot [funny_meme] published successfully!
+2026-09-08 12:01:24,138 [INFO] Failed posts list is empty.
+2026-09-08 12:01:24,284 [INFO] ──────────────────────────────────────────────────
+2026-09-08 12:01:24,284 [INFO] ▶  Running slot: morning_motivation
+2026-09-08 12:01:24,284 [INFO] ──────────────────────────────────────────────────
+2026-09-08 12:01:24,455 [INFO] 📝 Content selected: You won't always be motivated. Learn to be disciplined....
+2026-09-08 12:01:24,598 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260908_120124.png
+2026-09-08 12:01:24,599 [INFO] Caption preview: ☀️ You won't always be motivated. Learn to be disciplined.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #...
+2026-09-08 12:01:29,718 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-08 12:01:29,733 [INFO] ✅ Slot [morning_motivation] published successfully!
