@@ -13134,5 +13134,26 @@
       "post_id": "1181533578372151_122131117803364831"
     },
     "timestamp": "2026-09-08T14:51:41.931193"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Plant seeds of greatness \u2014 mind, body, and spirit.",
+      "content_index": 382,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T17:11:43.562813",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Plant seeds of greatness \u2014 mind, body, and spirit.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122131144197364831",
+      "post_id": "1181533578372151_122131144215364831"
+    },
+    "timestamp": "2026-09-08T17:11:47.710932"
   }
 ]
