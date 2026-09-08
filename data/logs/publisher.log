@@ -9179,3 +9179,8 @@ Share this with someone who needs it today! 💛
 #Motivation #Succe...
 2026-09-08 17:11:47,707 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-08 17:11:47,722 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-08 18:22:58,954 [INFO] Failed posts list is empty.
+2026-09-08 18:22:59,109 [INFO] ──────────────────────────────────────────────────
+2026-09-08 18:22:59,109 [INFO] ▶  Running slot: night_inspiration
+2026-09-08 18:22:59,109 [INFO] ──────────────────────────────────────────────────
+2026-09-08 18:22:59,282 [ERROR] ❌ Content selection failed: 'night_inspiration'
