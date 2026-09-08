@@ -9184,3 +9184,16 @@ Share this with someone who needs it today! 💛
 2026-09-08 18:22:59,109 [INFO] ▶  Running slot: night_inspiration
 2026-09-08 18:22:59,109 [INFO] ──────────────────────────────────────────────────
 2026-09-08 18:22:59,282 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-09-08 19:00:41,060 [INFO] Failed posts list is empty.
+2026-09-08 19:00:41,208 [INFO] ──────────────────────────────────────────────────
+2026-09-08 19:00:41,208 [INFO] ▶  Running slot: morning_motivation
+2026-09-08 19:00:41,208 [INFO] ──────────────────────────────────────────────────
+2026-09-08 19:00:41,384 [INFO] 📝 Content selected: Give more. Expect less. Live fully....
+2026-09-08 19:00:41,488 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260908_190041.png
+2026-09-08 19:00:41,488 [INFO] Caption preview: ☀️ Give more. Expect less. Live fully.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatt...
+2026-09-08 19:00:47,745 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-08 19:00:47,758 [INFO] ✅ Slot [morning_motivation] published successfully!
