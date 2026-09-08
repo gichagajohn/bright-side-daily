@@ -13071,5 +13071,26 @@
       "post_id": "1181533578372151_122131061307364831"
     },
     "timestamp": "2026-09-08T12:01:29.721656"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are not finished. You are just getting started.",
+      "content_index": 618,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T12:24:08.354714",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are not finished. You are just getting started.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122131063623364831",
+      "post_id": "1181533578372151_122131063641364831"
+    },
+    "timestamp": "2026-09-08T12:24:12.908783"
   }
 ]
