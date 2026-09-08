@@ -13092,5 +13092,26 @@
       "post_id": "1181533578372151_122131063641364831"
     },
     "timestamp": "2026-09-08T12:24:12.908783"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The price of greatness is responsibility.",
+      "content_index": 420,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T14:20:23.392406",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The price of greatness is responsibility.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122131114347364831",
+      "post_id": "1181533578372151_122131114365364831"
+    },
+    "timestamp": "2026-09-08T14:20:30.540690"
   }
 ]
