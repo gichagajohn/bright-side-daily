@@ -9265,3 +9265,16 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it today...
 2026-09-09 14:21:26,472 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-09 14:21:26,487 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-09 15:00:06,380 [INFO] Failed posts list is empty.
+2026-09-09 15:00:06,533 [INFO] ──────────────────────────────────────────────────
+2026-09-09 15:00:06,533 [INFO] ▶  Running slot: engagement_question
+2026-09-09 15:00:06,533 [INFO] ──────────────────────────────────────────────────
+2026-09-09 15:00:06,708 [INFO] 📝 Content selected: What's one thing you've learned about yourself through seasons of waiting?...
+2026-09-09 15:00:06,818 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_20260909_150006.png
+2026-09-09 15:00:06,819 [INFO] Caption preview: 💬 What's one thing you've learned about yourself through seasons of waiting?
+
+Drop your answer in the comments below 👇
+
+...
+2026-09-09 15:00:11,408 [INFO] ✅ Posted successfully [engagement_question]
+2026-09-09 15:00:11,422 [INFO] ✅ Slot [engagement_question] published successfully!
