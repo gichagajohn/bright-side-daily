@@ -9236,3 +9236,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #DailyMotivati...
 2026-09-09 12:11:54,657 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-09 12:11:54,666 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-09 12:34:47,357 [INFO] Failed posts list is empty.
+2026-09-09 12:34:47,504 [INFO] ──────────────────────────────────────────────────
+2026-09-09 12:34:47,504 [INFO] ▶  Running slot: morning_motivation
+2026-09-09 12:34:47,504 [INFO] ──────────────────────────────────────────────────
+2026-09-09 12:34:47,681 [INFO] 📝 Content selected: In order to succeed, we must first believe that we can....
+2026-09-09 12:34:47,787 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260909_123447.png
+2026-09-09 12:34:47,788 [INFO] Caption preview: ☀️ In order to succeed, we must first believe that we can.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #...
+2026-09-09 12:34:53,323 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-09 12:34:53,337 [INFO] ✅ Slot [morning_motivation] published successfully!

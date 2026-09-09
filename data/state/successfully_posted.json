@@ -13239,5 +13239,26 @@
       "post_id": "1181533578372151_122131416783364831"
     },
     "timestamp": "2026-09-09T12:11:54.659254"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "In order to succeed, we must first believe that we can.",
+      "content_index": 212,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T12:34:47.681370",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f In order to succeed, we must first believe that we can.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122131419723364831",
+      "post_id": "1181533578372151_122131419741364831"
+    },
+    "timestamp": "2026-09-09T12:34:53.325801"
   }
 ]
