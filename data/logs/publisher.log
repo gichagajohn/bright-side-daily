@@ -9278,3 +9278,16 @@ Drop your answer in the comments below 👇
 ...
 2026-09-09 15:00:11,408 [INFO] ✅ Posted successfully [engagement_question]
 2026-09-09 15:00:11,422 [INFO] ✅ Slot [engagement_question] published successfully!
+2026-09-09 17:05:29,862 [INFO] Failed posts list is empty.
+2026-09-09 17:05:30,016 [INFO] ──────────────────────────────────────────────────
+2026-09-09 17:05:30,016 [INFO] ▶  Running slot: morning_motivation
+2026-09-09 17:05:30,016 [INFO] ──────────────────────────────────────────────────
+2026-09-09 17:05:30,198 [INFO] 📝 Content selected: The secret weapon is consistency....
+2026-09-09 17:05:30,341 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260909_170530.png
+2026-09-09 17:05:30,341 [INFO] Caption preview: ☀️ The secret weapon is consistency.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatter...
+2026-09-09 17:05:34,539 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-09 17:05:34,584 [INFO] ✅ Slot [morning_motivation] published successfully!
