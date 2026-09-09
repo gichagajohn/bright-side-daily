@@ -13260,5 +13260,26 @@
       "post_id": "1181533578372151_122131419741364831"
     },
     "timestamp": "2026-09-09T12:34:53.325801"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Champions aren't built in the highlight reel. They're built in the grind.",
+      "content_index": 577,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T14:21:22.403543",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Champions aren't built in the highlight reel. They're built in the grind.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122131471629364831",
+      "post_id": "1181533578372151_122131471647364831"
+    },
+    "timestamp": "2026-09-09T14:21:26.475237"
   }
 ]
