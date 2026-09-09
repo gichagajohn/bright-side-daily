@@ -13323,5 +13323,26 @@
       "post_id": "1181533578372151_122131505853364831"
     },
     "timestamp": "2026-09-09T17:05:34.542672"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Don't talk about it. Be about it.",
+      "content_index": 385,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T20:17:09.321857",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Don't talk about it. Be about it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122131554909364831",
+      "post_id": "1181533578372151_122131554927364831"
+    },
+    "timestamp": "2026-09-09T20:17:14.292467"
   }
 ]
