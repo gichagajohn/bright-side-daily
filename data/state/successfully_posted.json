@@ -13218,5 +13218,26 @@
       "post_id": "1181533578372151_122131386669364831"
     },
     "timestamp": "2026-09-09T09:24:57.386448"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Make today count.",
+      "content_index": 395,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T12:11:48.178727",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Make today count.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122131416759364831",
+      "post_id": "1181533578372151_122131416783364831"
+    },
+    "timestamp": "2026-09-09T12:11:54.659254"
   }
 ]

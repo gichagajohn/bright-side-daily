@@ -9223,3 +9223,16 @@ Tag someone who can relate! 😂
 #RelatableLife #F...
 2026-09-09 09:24:57,383 [INFO] ✅ Posted successfully [funny_meme]
 2026-09-09 09:24:57,394 [INFO] ✅ Slot [funny_meme] published successfully!
+2026-09-09 12:11:47,946 [INFO] Failed posts list is empty.
+2026-09-09 12:11:48,057 [INFO] ──────────────────────────────────────────────────
+2026-09-09 12:11:48,057 [INFO] ▶  Running slot: morning_motivation
+2026-09-09 12:11:48,057 [INFO] ──────────────────────────────────────────────────
+2026-09-09 12:11:48,178 [INFO] 📝 Content selected: Make today count....
+2026-09-09 12:11:48,241 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_20260909_121148.png
+2026-09-09 12:11:48,241 [INFO] Caption preview: ☀️ Make today count.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #DailyMotivati...
+2026-09-09 12:11:54,657 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-09 12:11:54,666 [INFO] ✅ Slot [morning_motivation] published successfully!
