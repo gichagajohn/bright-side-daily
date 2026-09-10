@@ -13491,5 +13491,26 @@
       "post_id": "1181533578372151_122131727355364831"
     },
     "timestamp": "2026-09-10T14:14:00.554365"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your future is created by what you do today, not tomorrow.",
+      "content_index": 10,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T14:46:13.589570",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your future is created by what you do today, not tomorrow.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122131731015364831",
+      "post_id": "1181533578372151_122131731039364831"
+    },
+    "timestamp": "2026-09-10T14:46:19.388355"
   }
 ]

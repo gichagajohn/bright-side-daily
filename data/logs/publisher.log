@@ -9410,3 +9410,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success...
 2026-09-10 14:14:00,551 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-10 14:14:00,565 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-10 14:46:13,328 [INFO] Failed posts list is empty.
+2026-09-10 14:46:13,449 [INFO] ──────────────────────────────────────────────────
+2026-09-10 14:46:13,449 [INFO] ▶  Running slot: morning_motivation
+2026-09-10 14:46:13,449 [INFO] ──────────────────────────────────────────────────
+2026-09-10 14:46:13,589 [INFO] 📝 Content selected: Your future is created by what you do today, not tomorrow....
+2026-09-10 14:46:15,004 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_10.jpg
+2026-09-10 14:46:15,004 [INFO] Caption preview: ☀️ Your future is created by what you do today, not tomorrow.
+
+Share this with someone who needs it today! 💛
+
+#Motivatio...
+2026-09-10 14:46:19,386 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-10 14:46:19,397 [INFO] ✅ Slot [morning_motivation] published successfully!
