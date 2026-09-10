@@ -9397,3 +9397,16 @@ Share this with someone who needs it today! 💛
 2026-09-10 13:18:32,586 [INFO] ▶  Running slot: gratitude_moment
 2026-09-10 13:18:32,586 [INFO] ──────────────────────────────────────────────────
 2026-09-10 13:18:32,767 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-09-10 14:13:55,404 [INFO] Failed posts list is empty.
+2026-09-10 14:13:55,566 [INFO] ──────────────────────────────────────────────────
+2026-09-10 14:13:55,566 [INFO] ▶  Running slot: morning_motivation
+2026-09-10 14:13:55,566 [INFO] ──────────────────────────────────────────────────
+2026-09-10 14:13:55,748 [INFO] 📝 Content selected: Your future doesn't need your past's permission....
+2026-09-10 14:13:56,193 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_579.jpg
+2026-09-10 14:13:56,193 [INFO] Caption preview: ☀️ Your future doesn't need your past's permission.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success...
+2026-09-10 14:14:00,551 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-10 14:14:00,565 [INFO] ✅ Slot [morning_motivation] published successfully!

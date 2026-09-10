@@ -13470,5 +13470,26 @@
       "post_id": "1181533578372151_122131683657364831"
     },
     "timestamp": "2026-09-10T12:30:06.015325"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your future doesn't need your past's permission.",
+      "content_index": 579,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T14:13:55.748956",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your future doesn't need your past's permission.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122131727325364831",
+      "post_id": "1181533578372151_122131727355364831"
+    },
+    "timestamp": "2026-09-10T14:14:00.554365"
   }
 ]
