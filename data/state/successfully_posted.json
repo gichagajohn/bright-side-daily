@@ -13407,5 +13407,26 @@
       "post_id": "1181533578372151_122131666167364831"
     },
     "timestamp": "2026-09-10T10:13:07.713364"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "Your situation is temporary. Your potential is permanent.",
+      "content_index": 75,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "sunrise breaking through storm clouds"
+      },
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T10:49:08.862682",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa Your situation is temporary. Your potential is permanent.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122131670127364831",
+      "post_id": "1181533578372151_122131670169364831"
+    },
+    "timestamp": "2026-09-10T10:49:14.077152"
   }
 ]
