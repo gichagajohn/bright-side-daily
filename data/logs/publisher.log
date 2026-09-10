@@ -9423,3 +9423,15 @@ Share this with someone who needs it today! 💛
 #Motivatio...
 2026-09-10 14:46:19,386 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-10 14:46:19,397 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-10 16:56:45,101 [INFO] Failed posts list is empty.
+2026-09-10 16:56:45,253 [INFO] ──────────────────────────────────────────────────
+2026-09-10 16:56:45,253 [INFO] ▶  Running slot: evening_reflection
+2026-09-10 16:56:45,253 [INFO] ──────────────────────────────────────────────────
+2026-09-10 16:56:45,452 [INFO] 📝 Content selected: A grateful spirit is always in abundance, regardless of circumstances....
+2026-09-10 16:56:46,041 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_461.jpg
+2026-09-10 16:56:46,041 [INFO] Caption preview: 🌙 A grateful spirit is always in abundance, regardless of circumstances.
+
+Share this with someone who needs it today! 💛
+...
+2026-09-10 16:56:51,352 [INFO] ✅ Posted successfully [evening_reflection]
+2026-09-10 16:56:51,366 [INFO] ✅ Slot [evening_reflection] published successfully!
