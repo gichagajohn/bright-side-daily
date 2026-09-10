@@ -19,8 +19,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "src"))
 
 from agents.content_agent import ContentAgent
-from generators.image_generator import ImageGenerator
-from generators.pexels_meme_generator import PexelsMemeGenerator
+from generators.pexels_photo_generator import PexelsPhotoGenerator
 from agents.facebook_publisher import FacebookPublisher
 
 LOGS_DIR = ROOT / "data" / "logs"
@@ -68,18 +67,15 @@ def run_slot(slot: str, dry_run: bool = False) -> dict:
         results["error"] = f"content_agent: {e}"
         return results
 
-    # 2. Generate image
-    image_path = None
+    # 2. Generate a real Pexels photo for every category.
     try:
-        # Meme posts use a real Pexels photo with the caption overlaid.
-        if post.get("category") == "meme_captions":
-            image_path = PexelsMemeGenerator().generate(post)
-        else:
-            image_path = ImageGenerator().generate(post)
+        image_path = PexelsPhotoGenerator().generate(post)
         results["image_path"] = image_path
     except Exception as e:
-        log.warning(f"⚠️  Image generation failed: {e}. Will post text only.")
-        results["image_warning"] = str(e)
+        # Do not silently publish a text-only post when a photo is required.
+        log.error(f"❌ Photo generation failed: {e}. Skipping this slot.")
+        results["image_error"] = str(e)
+        return results
 
     # 3. Publish to Facebook
     try:
