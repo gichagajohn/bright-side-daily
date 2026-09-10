@@ -13449,5 +13449,26 @@
       "post_id": "1181533578372151_122131679487364831"
     },
     "timestamp": "2026-09-10T12:06:16.891893"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Rise above the noise. Build above the rest.",
+      "content_index": 590,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T12:30:01.051420",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Rise above the noise. Build above the rest.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122131683627364831",
+      "post_id": "1181533578372151_122131683657364831"
+    },
+    "timestamp": "2026-09-10T12:30:06.015325"
   }
 ]
