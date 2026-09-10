@@ -9366,3 +9366,16 @@ Share this with someone who needs it today! 💛
 #YouGotThis ...
 2026-09-10 10:49:14,074 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-09-10 10:49:14,090 [INFO] ✅ Slot [midday_encouragement] published successfully!
+2026-09-10 12:06:08,111 [INFO] Failed posts list is empty.
+2026-09-10 12:06:08,234 [INFO] ──────────────────────────────────────────────────
+2026-09-10 12:06:08,234 [INFO] ▶  Running slot: morning_motivation
+2026-09-10 12:06:08,234 [INFO] ──────────────────────────────────────────────────
+2026-09-10 12:06:08,377 [INFO] 📝 Content selected: Opportunities don't happen. You create them....
+2026-09-10 12:06:09,184 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_151.jpg
+2026-09-10 12:06:09,184 [INFO] Caption preview: ☀️ Opportunities don't happen. You create them.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mi...
+2026-09-10 12:06:16,889 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-10 12:06:16,901 [INFO] ✅ Slot [morning_motivation] published successfully!
