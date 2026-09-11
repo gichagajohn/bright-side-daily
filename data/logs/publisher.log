@@ -9471,3 +9471,16 @@ Tag someone who can relate! 😂
 ...
 2026-09-11 09:22:52,599 [INFO] ✅ Posted successfully [funny_meme]
 2026-09-11 09:22:52,614 [INFO] ✅ Slot [funny_meme] published successfully!
+2026-09-11 12:04:22,123 [INFO] Failed posts list is empty.
+2026-09-11 12:04:22,283 [INFO] ──────────────────────────────────────────────────
+2026-09-11 12:04:22,283 [INFO] ▶  Running slot: morning_motivation
+2026-09-11 12:04:22,283 [INFO] ──────────────────────────────────────────────────
+2026-09-11 12:04:22,491 [INFO] 📝 Content selected: Fail forward. Every failure is a lesson....
+2026-09-11 12:04:22,929 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_240.jpg
+2026-09-11 12:04:22,929 [INFO] Caption preview: ☀️ Fail forward. Every failure is a lesson.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mindse...
+2026-09-11 12:04:28,657 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-11 12:04:28,672 [INFO] ✅ Slot [morning_motivation] published successfully!

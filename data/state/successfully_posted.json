@@ -13575,5 +13575,26 @@
       "post_id": "1181533578372151_122132058969364831"
     },
     "timestamp": "2026-09-11T09:22:52.602466"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Fail forward. Every failure is a lesson.",
+      "content_index": 240,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T12:04:22.491520",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Fail forward. Every failure is a lesson.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122132075493364831",
+      "post_id": "1181533578372151_122132075517364831"
+    },
+    "timestamp": "2026-09-11T12:04:28.660394"
   }
 ]
