@@ -13701,5 +13701,26 @@
       "post_id": "1181533578372151_122132151555364831"
     },
     "timestamp": "2026-09-11T17:57:23.376546"
+  },
+  {
+    "post": {
+      "slot": "engagement_question",
+      "category": "engagement_questions",
+      "content": "What does growing in wisdom look like for you right now?",
+      "content_index": 302,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "bright vibrant community gathering"
+      },
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T18:04:02.006501",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcac What does growing in wisdom look like for you right now?\n\nDrop your answer in the comments below \ud83d\udc47\n\n#Community #ShareYourThoughts #QuestionOfTheDay #ChatWithUs #BrightSideFamily #BrightSideDaily",
+    "fb_response": {
+      "id": "122132152167364831",
+      "post_id": "1181533578372151_122132152197364831"
+    },
+    "timestamp": "2026-09-11T18:04:07.285087"
   }
 ]

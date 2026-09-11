@@ -9553,3 +9553,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #D...
 2026-09-11 17:57:23,373 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-11 17:57:23,388 [INFO] Slot published successfully: morning_motivation
+2026-09-11 18:04:01,636 [INFO] Failed posts list is empty.
+2026-09-11 18:04:01,810 [INFO] ============================================================
+2026-09-11 18:04:01,810 [INFO] Running slot: engagement_question
+2026-09-11 18:04:01,810 [INFO] ============================================================
+2026-09-11 18:04:02,006 [INFO] Content selected: What does growing in wisdom look like for you right now?
+2026-09-11 18:04:02,929 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_302.jpg
+2026-09-11 18:04:02,929 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_302.jpg
+2026-09-11 18:04:02,930 [INFO] Caption preview: 💬 What does growing in wisdom look like for you right now?
+
+Drop your answer in the comments below 👇
+
+#Community #ShareY...
+2026-09-11 18:04:07,281 [INFO] ✅ Posted successfully [engagement_question]
+2026-09-11 18:04:07,295 [INFO] Slot published successfully: engagement_question
