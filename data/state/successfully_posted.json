@@ -13596,5 +13596,26 @@
       "post_id": "1181533578372151_122132075517364831"
     },
     "timestamp": "2026-09-11T12:04:28.660394"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You must expect great things of yourself before you can do them.",
+      "content_index": 173,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T12:26:53.354957",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You must expect great things of yourself before you can do them.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122132080467364831",
+      "post_id": "1181533578372151_122132080497364831"
+    },
+    "timestamp": "2026-09-11T12:26:58.751900"
   }
 ]

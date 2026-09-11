@@ -9484,3 +9484,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mindse...
 2026-09-11 12:04:28,657 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-11 12:04:28,672 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-11 12:26:52,932 [INFO] Failed posts list is empty.
+2026-09-11 12:26:53,147 [INFO] ──────────────────────────────────────────────────
+2026-09-11 12:26:53,147 [INFO] ▶  Running slot: morning_motivation
+2026-09-11 12:26:53,147 [INFO] ──────────────────────────────────────────────────
+2026-09-11 12:26:53,354 [INFO] 📝 Content selected: You must expect great things of yourself before you can do them....
+2026-09-11 12:26:53,714 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_173.jpg
+2026-09-11 12:26:53,714 [INFO] Caption preview: ☀️ You must expect great things of yourself before you can do them.
+
+Share this with someone who needs it today! 💛
+
+#Mot...
+2026-09-11 12:26:58,748 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-11 12:26:58,763 [INFO] ✅ Slot [morning_motivation] published successfully!
