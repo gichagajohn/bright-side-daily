@@ -10,6 +10,7 @@ from utils.logger import setup_logger
 
 ROOT = Path(__file__).resolve().parents[2]
 VERSES_FILE = ROOT / "content" / "bible" / "verses.json"
+STATE_FILE = ROOT / "data" / "state" / "bible_used.json"
 logger = setup_logger("world_bible_agent")
 
 WORLD_FEEDS = [
@@ -31,6 +32,29 @@ KEYWORDS = {
 def _load_verses():
     with open(VERSES_FILE, encoding="utf-8") as handle:
         return json.load(handle)["items"]
+
+
+def _choose_unused(candidates, all_verses):
+    STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
+    try:
+        used = set(json.loads(STATE_FILE.read_text(encoding="utf-8"))) if STATE_FILE.exists() else set()
+    except Exception:
+        used = set()
+
+    available = [v for v in candidates if v["reference"] not in used]
+    if not available:
+        # Prefer an unused verse from another theme before resetting the
+        # complete library.
+        available = [v for v in all_verses if v["reference"] not in used]
+    if not available:
+        # Start a fresh cycle only after the complete library has been used.
+        used = set()
+        available = candidates or all_verses
+
+    verse = random.choice(available)
+    used.add(verse["reference"])
+    STATE_FILE.write_text(json.dumps(sorted(used), indent=2), encoding="utf-8")
+    return verse
 
 
 def _headlines():
@@ -62,7 +86,7 @@ def build_bible_post(post):
     theme = _theme_for(headlines)
     verses = _load_verses()
     candidates = [v for v in verses if theme in v["themes"]]
-    verse = random.choice(candidates or verses)
+    verse = _choose_unused(candidates, verses)
 
     context = {
         "conflict": "For everyone affected by conflict and uncertainty, may this be a reminder to seek peace and protection.",
