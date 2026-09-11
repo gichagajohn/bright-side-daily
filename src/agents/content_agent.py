@@ -26,6 +26,7 @@ SLOT_CATEGORY = {
     "midday_encouragement": "encouragement_quotes",
     "evening_reflection": "gratitude_quotes",
     "engagement_question": "engagement_questions",
+    "bible_world_encouragement": "bible_quotes",
 }
 
 CATEGORY_FILE = {
@@ -36,6 +37,7 @@ CATEGORY_FILE = {
     "encouragement_quotes": CONTENT_DIR / "quotes" / "encouragement.json",
     "meme_captions": CONTENT_DIR / "memes" / "captions.json",
     "engagement_questions": CONTENT_DIR / "questions" / "engagement.json",
+    "bible_quotes": CONTENT_DIR / "bible" / "verses.json",
 }
 
 # Engagement performance weights (start equal, updated by performance agent)
@@ -47,6 +49,7 @@ DEFAULT_WEIGHTS = {
     "encouragement_quotes": 1.0,
     "meme_captions": 1.0,
     "engagement_questions": 1.0,
+    "bible_quotes": 1.0,
 }
 
 
@@ -216,6 +219,13 @@ class ContentAgent:
             "notebook open with a question mark illustration",
             "hand-drawn thought bubbles",
             "bright vibrant community gathering",
+        ],
+        "bible_quotes": [
+            "open Bible with sunlight by a window",
+            "hands holding an open Bible at sunrise",
+            "peaceful church window with golden light",
+            "candle beside an open Bible",
+            "serene sunrise over quiet mountains",
         ],
     }
 
