@@ -21,6 +21,7 @@ CATEGORY_QUERIES = {
     "encouragement_quotes": ["sunlight through storm clouds", "sprout growing through concrete", "hiker walking toward light"],
     "meme_captions": ["funny confused dog", "funny cat expression", "tired office worker", "person making funny face"],
     "engagement_questions": ["friends talking coffee table", "colorful speech bubbles", "people having conversation"],
+    "bible_quotes": ["open Bible sunlight window", "hands holding Bible sunrise", "peaceful church window golden light", "candle beside open Bible"],
 }
 
 # Each category has its own visual identity.
@@ -62,6 +63,7 @@ CATEGORY_STYLES = {
     "encouragement_quotes": "modern",
     "meme_captions": "playful",
     "engagement_questions": "playful",
+    "bible_quotes": "elegant",
 }
 
 
@@ -181,6 +183,7 @@ class PexelsPhotoGenerator:
             "encouragement_quotes": "KEEP GOING",
             "meme_captions": "DAILY HUMOR",
             "engagement_questions": "QUESTION OF THE DAY",
+            "bible_quotes": "WORLD ENCOURAGEMENT",
         }
         label = labels.get(category, "BRIGHT SIDE DAILY")
         label_font = self._font(style_name, 25, bold=True)
