@@ -61,13 +61,17 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add data/state/bible_used.json
+          if [ -f "data/state/bible_used.json" ]; then
+            git add data/state/bible_used.json
 
-          if ! git diff --staged --quiet; then
-            git commit -m "chore: save Bible verse history [skip ci]"
-            git push
+            if ! git diff --staged --quiet; then
+              git commit -m "chore: save Bible verse history [skip ci]"
+              git push
+            else
+              echo "No Bible verse state changes."
+            fi
           else
-            echo "No Bible verse state changes."
+            echo "Bible history file was not created."
           fi
 
       - name: Upload Bible image
