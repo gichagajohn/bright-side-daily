@@ -9539,3 +9539,17 @@ Share this with someone who needs it today! 💛
 #Gratitude #...
 2026-09-11 16:58:25,222 [INFO] ✅ Posted successfully [evening_reflection]
 2026-09-11 16:58:25,234 [INFO] ✅ Slot [evening_reflection] published successfully!
+2026-09-11 17:57:17,471 [INFO] Failed posts list is empty.
+2026-09-11 17:57:17,677 [INFO] ============================================================
+2026-09-11 17:57:17,678 [INFO] Running slot: morning_motivation
+2026-09-11 17:57:17,678 [INFO] ============================================================
+2026-09-11 17:57:17,868 [INFO] Content selected: Success is not for the timid.
+2026-09-11 17:57:18,583 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_518.jpg
+2026-09-11 17:57:18,583 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_518.jpg
+2026-09-11 17:57:18,585 [INFO] Caption preview: ☀️ Success is not for the timid.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #D...
+2026-09-11 17:57:23,373 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-11 17:57:23,388 [INFO] Slot published successfully: morning_motivation

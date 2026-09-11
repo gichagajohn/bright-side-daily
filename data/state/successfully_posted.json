@@ -13680,5 +13680,26 @@
       "post_id": "1181533578372151_122132138679364831"
     },
     "timestamp": "2026-09-11T16:58:25.225402"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Success is not for the timid.",
+      "content_index": 518,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T17:57:17.868390",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Success is not for the timid.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122132151531364831",
+      "post_id": "1181533578372151_122132151555364831"
+    },
+    "timestamp": "2026-09-11T17:57:23.376546"
   }
 ]
