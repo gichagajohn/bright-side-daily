@@ -9567,3 +9567,15 @@ Drop your answer in the comments below 👇
 #Community #ShareY...
 2026-09-11 18:04:07,281 [INFO] ✅ Posted successfully [engagement_question]
 2026-09-11 18:04:07,295 [INFO] Slot published successfully: engagement_question
+2026-09-11 18:09:46,610 [INFO] Failed posts list is empty.
+2026-09-11 18:09:46,805 [INFO] ============================================================
+2026-09-11 18:09:46,805 [INFO] Running slot: engagement_question
+2026-09-11 18:09:46,805 [INFO] ============================================================
+2026-09-11 18:09:47,008 [INFO] Content selected: What's a truth about your future that you're choosing to believe despite the evidence?
+2026-09-11 18:09:47,671 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_650.jpg
+2026-09-11 18:09:47,671 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_650.jpg
+2026-09-11 18:09:47,671 [INFO] Caption preview: 💬 What's a truth about your future that you're choosing to believe despite the evidence?
+
+Drop your answer in the commen...
+2026-09-11 18:09:53,408 [INFO] ✅ Posted successfully [engagement_question]
+2026-09-11 18:09:53,426 [INFO] Slot published successfully: engagement_question
