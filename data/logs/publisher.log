@@ -9526,3 +9526,16 @@ Share this with someone who needs it today! 💛
 #Motivation #Success...
 2026-09-11 14:49:31,240 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-11 14:49:31,256 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-11 16:58:20,063 [INFO] Failed posts list is empty.
+2026-09-11 16:58:20,185 [INFO] ──────────────────────────────────────────────────
+2026-09-11 16:58:20,186 [INFO] ▶  Running slot: evening_reflection
+2026-09-11 16:58:20,186 [INFO] ──────────────────────────────────────────────────
+2026-09-11 16:58:20,333 [INFO] 📝 Content selected: The blessings in your life are greater than your burdens....
+2026-09-11 16:58:20,795 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_103.jpg
+2026-09-11 16:58:20,796 [INFO] Caption preview: 🌙 The blessings in your life are greater than your burdens.
+
+Share this with someone who needs it today! 💛
+
+#Gratitude #...
+2026-09-11 16:58:25,222 [INFO] ✅ Posted successfully [evening_reflection]
+2026-09-11 16:58:25,234 [INFO] ✅ Slot [evening_reflection] published successfully!
