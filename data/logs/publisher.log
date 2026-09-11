@@ -9579,3 +9579,17 @@ Drop your answer in the comments below 👇
 Drop your answer in the commen...
 2026-09-11 18:09:53,408 [INFO] ✅ Posted successfully [engagement_question]
 2026-09-11 18:09:53,426 [INFO] Slot published successfully: engagement_question
+2026-09-11 18:15:49,486 [INFO] Failed posts list is empty.
+2026-09-11 18:15:49,619 [INFO] ============================================================
+2026-09-11 18:15:49,619 [INFO] Running slot: engagement_question
+2026-09-11 18:15:49,619 [INFO] ============================================================
+2026-09-11 18:15:49,891 [INFO] Content selected: What's your vision for the kind of person you'll be in 10 years?
+2026-09-11 18:15:50,519 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_212.jpg
+2026-09-11 18:15:50,519 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_212.jpg
+2026-09-11 18:15:50,519 [INFO] Caption preview: 💬 What's your vision for the kind of person you'll be in 10 years?
+
+Drop your answer in the comments below 👇
+
+#Community...
+2026-09-11 18:15:55,621 [INFO] ✅ Posted successfully [engagement_question]
+2026-09-11 18:15:55,636 [INFO] Slot published successfully: engagement_question
