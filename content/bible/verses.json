@@ -1,0 +1,13 @@
+{
+  "items": [
+    {"reference": "Psalm 46:1", "text": "God is our refuge and strength, a very present help in trouble.", "themes": ["conflict", "disaster", "fear", "general"]},
+    {"reference": "Matthew 5:4", "text": "Blessed are they that mourn: for they shall be comforted.", "themes": ["grief", "disaster"]},
+    {"reference": "Matthew 5:9", "text": "Blessed are the peacemakers: for they shall be called the children of God.", "themes": ["conflict", "peace"]},
+    {"reference": "Isaiah 41:10", "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.", "themes": ["fear", "disaster", "general"]},
+    {"reference": "Micah 6:8", "text": "He hath shewed thee, O man, what is good; and what doth the Lord require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?", "themes": ["injustice", "leadership"]},
+    {"reference": "1 Timothy 2:1-2", "text": "I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men; for kings, and for all that are in authority.", "themes": ["leadership", "conflict"]},
+    {"reference": "Romans 15:13", "text": "Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.", "themes": ["hope", "general"]},
+    {"reference": "John 14:27", "text": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.", "themes": ["peace", "fear", "conflict"]},
+    {"reference": "Proverbs 3:5-6", "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths.", "themes": ["general", "leadership"]}
+  ]
+}
