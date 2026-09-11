@@ -19,6 +19,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "src"))
 
 from agents.content_agent import ContentAgent
+from agents.world_bible_agent import build_bible_post
 from generators.pexels_photo_generator import PexelsPhotoGenerator
 from agents.facebook_publisher import FacebookPublisher
 
@@ -44,6 +45,7 @@ DAILY_SCHEDULE = [
     {"slot": "self_improvement",     "cron_utc": "0 11 * * *",  "label": "Self Improvement    (2PM EAT)"},
     {"slot": "midday_encouragement", "cron_utc": "0 13 * * *",  "label": "Midday Encouragement(4PM EAT)"},
     {"slot": "evening_reflection",   "cron_utc": "0 16 * * *",  "label": "Evening Reflection  (7PM EAT)"},
+    {"slot": "bible_world_encouragement", "cron_utc": "0 14 * * *", "label": "Bible World Encouragement (5PM EAT)"},
     {"slot": "engagement_question",  "cron_utc": "0 18 * * *",  "label": "Engagement Question (9PM EAT)"},
 ]
 
@@ -59,7 +61,20 @@ def run_slot(slot: str, dry_run: bool = False) -> dict:
     # 1. Select content
     try:
         agent = ContentAgent()
-        post = agent.pick(slot)
+        if slot == "bible_world_encouragement":
+            post = {
+                "slot": slot,
+                "category": "bible_quotes",
+                "content": "",
+                "content_index": 0,
+                "visual_theme": {
+                    "style": "photography",
+                    "theme": "open Bible with sunlight by a window",
+                },
+            }
+            post = build_bible_post(post)
+        else:
+            post = agent.pick(slot)
         log.info(f"📝 Content selected: {post['content'][:80]}...")
         results["post"] = post
     except Exception as e:
