@@ -13617,5 +13617,26 @@
       "post_id": "1181533578372151_122132080497364831"
     },
     "timestamp": "2026-09-11T12:26:58.751900"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your greatness was never a question. It's just waiting for your permission.",
+      "content_index": 576,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T14:13:54.938059",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your greatness was never a question. It's just waiting for your permission.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122132116443364831",
+      "post_id": "1181533578372151_122132116467364831"
+    },
+    "timestamp": "2026-09-11T14:13:59.620328"
   }
 ]

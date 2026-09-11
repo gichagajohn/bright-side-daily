@@ -9502,3 +9502,14 @@ Share this with someone who needs it today! 💛
 2026-09-11 13:12:36,067 [INFO] ▶  Running slot: gratitude_moment
 2026-09-11 13:12:36,067 [INFO] ──────────────────────────────────────────────────
 2026-09-11 13:12:36,249 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-09-11 14:13:54,434 [INFO] Failed posts list is empty.
+2026-09-11 14:13:54,642 [INFO] ──────────────────────────────────────────────────
+2026-09-11 14:13:54,642 [INFO] ▶  Running slot: morning_motivation
+2026-09-11 14:13:54,642 [INFO] ──────────────────────────────────────────────────
+2026-09-11 14:13:54,938 [INFO] 📝 Content selected: Your greatness was never a question. It's just waiting for your permission....
+2026-09-11 14:13:55,413 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_576.jpg
+2026-09-11 14:13:55,413 [INFO] Caption preview: ☀️ Your greatness was never a question. It's just waiting for your permission.
+
+Share this with someone who needs it tod...
+2026-09-11 14:13:59,616 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-11 14:13:59,632 [INFO] ✅ Slot [morning_motivation] published successfully!
