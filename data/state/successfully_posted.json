@@ -13554,5 +13554,26 @@
       "post_id": "1181533578372151_122131853427364831"
     },
     "timestamp": "2026-09-10T20:19:02.971095"
+  },
+  {
+    "post": {
+      "slot": "funny_meme",
+      "category": "meme_captions",
+      "content": "Promising myself I'll just have 'a little bit' of dessert. It was not 'a little bit.'",
+      "content_index": 115,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "cozy blanket pile on a rainy day"
+      },
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T09:22:46.074132",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\ude04 Promising myself I'll just have 'a little bit' of dessert. It was not 'a little bit.'\n\nTag someone who can relate! \ud83d\ude02\n\n#RelatableLife #Funny #MondayMood #TooReal #WeekdayVibes #BrightSideDaily",
+    "fb_response": {
+      "id": "122132058945364831",
+      "post_id": "1181533578372151_122132058969364831"
+    },
+    "timestamp": "2026-09-11T09:22:52.602466"
   }
 ]
