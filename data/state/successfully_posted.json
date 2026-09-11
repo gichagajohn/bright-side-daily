@@ -13764,5 +13764,26 @@
       "post_id": "1181533578372151_122132153817364831"
     },
     "timestamp": "2026-09-11T18:15:55.625411"
+  },
+  {
+    "post": {
+      "slot": "engagement_question",
+      "category": "engagement_questions",
+      "content": "What's one way you've recently chosen yourself, and how did it feel?",
+      "content_index": 323,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "group of diverse people at a coffee table"
+      },
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T18:46:31.347280",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcac What's one way you've recently chosen yourself, and how did it feel?\n\nDrop your answer in the comments below \ud83d\udc47\n\n#Community #ShareYourThoughts #QuestionOfTheDay #ChatWithUs #BrightSideFamily #BrightSideDaily",
+    "fb_response": {
+      "id": "122132204139364831",
+      "post_id": "1181533578372151_122132204163364831"
+    },
+    "timestamp": "2026-09-11T18:46:36.888305"
   }
 ]

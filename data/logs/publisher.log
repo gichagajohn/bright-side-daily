@@ -9593,3 +9593,17 @@ Drop your answer in the comments below 👇
 #Community...
 2026-09-11 18:15:55,621 [INFO] ✅ Posted successfully [engagement_question]
 2026-09-11 18:15:55,636 [INFO] Slot published successfully: engagement_question
+2026-09-11 18:46:31,088 [INFO] Failed posts list is empty.
+2026-09-11 18:46:31,197 [INFO] ============================================================
+2026-09-11 18:46:31,197 [INFO] Running slot: engagement_question
+2026-09-11 18:46:31,197 [INFO] ============================================================
+2026-09-11 18:46:31,347 [INFO] Content selected: What's one way you've recently chosen yourself, and how did it feel?
+2026-09-11 18:46:32,160 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_323.jpg
+2026-09-11 18:46:32,160 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_323.jpg
+2026-09-11 18:46:32,161 [INFO] Caption preview: 💬 What's one way you've recently chosen yourself, and how did it feel?
+
+Drop your answer in the comments below 👇
+
+#Commu...
+2026-09-11 18:46:36,884 [INFO] ✅ Posted successfully [engagement_question]
+2026-09-11 18:46:36,896 [INFO] Slot published successfully: engagement_question
