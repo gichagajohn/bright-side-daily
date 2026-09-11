@@ -13785,5 +13785,26 @@
       "post_id": "1181533578372151_122132204163364831"
     },
     "timestamp": "2026-09-11T18:46:36.888305"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Champions are forged from the fires that would have stopped others.",
+      "content_index": 695,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T20:19:31.586827",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Champions are forged from the fires that would have stopped others.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122132212923364831",
+      "post_id": "1181533578372151_122132212947364831"
+    },
+    "timestamp": "2026-09-11T20:19:37.837448"
   }
 ]

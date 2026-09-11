@@ -9607,3 +9607,17 @@ Drop your answer in the comments below 👇
 #Commu...
 2026-09-11 18:46:36,884 [INFO] ✅ Posted successfully [engagement_question]
 2026-09-11 18:46:36,896 [INFO] Slot published successfully: engagement_question
+2026-09-11 20:19:30,956 [INFO] Failed posts list is empty.
+2026-09-11 20:19:31,107 [INFO] ============================================================
+2026-09-11 20:19:31,107 [INFO] Running slot: morning_motivation
+2026-09-11 20:19:31,107 [INFO] ============================================================
+2026-09-11 20:19:31,586 [INFO] Content selected: Champions are forged from the fires that would have stopped others.
+2026-09-11 20:19:32,531 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_695.jpg
+2026-09-11 20:19:32,531 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_695.jpg
+2026-09-11 20:19:32,531 [INFO] Caption preview: ☀️ Champions are forged from the fires that would have stopped others.
+
+Share this with someone who needs it today! 💛
+
+#...
+2026-09-11 20:19:37,831 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-11 20:19:37,848 [INFO] Slot published successfully: morning_motivation
