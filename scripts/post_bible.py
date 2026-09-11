@@ -2,22 +2,33 @@
 
 import io
 import os
+import sys
 import textwrap
 from pathlib import Path
 
+
+# Repository root
+ROOT = Path(__file__).resolve().parents[1]
+
+# Make src/ available so imports such as agents.world_bible_agent work.
+SRC_DIR = ROOT / "src"
+sys.path.insert(0, str(SRC_DIR))
+
+
 import requests
 from PIL import Image, ImageDraw, ImageEnhance, ImageFont
-
-ROOT = Path(__file__).resolve().parents[1]
-OUTPUT_DIR = ROOT / "images" / "output"
-OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 from agents.world_bible_agent import build_bible_post
 from agents.facebook_publisher import FacebookPublisher
 
 
+OUTPUT_DIR = ROOT / "images" / "output"
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+
 def get_font(size: int, bold: bool = True):
-    """Load an attractive Bible-style serif font."""
+    """Load an elegant Bible-style serif font."""
+
     if bold:
         candidates = [
             "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf",
@@ -37,7 +48,8 @@ def get_font(size: int, bold: bool = True):
 
 
 def download_bible_photo():
-    """Download a Bible-related image from Pexels."""
+    """Download an open-Bible photo from Pexels."""
+
     api_key = os.getenv("PEXELS_API_KEY", "")
 
     if not api_key:
@@ -80,10 +92,11 @@ def download_bible_photo():
 
 
 def create_bible_image(post: dict) -> Path:
-    """Create a beautiful Bible quote image."""
+    """Create a Bible quote image."""
+
     image = download_bible_photo()
 
-    # Crop the photo into a square without stretching it.
+    # Crop into a square without stretching.
     side = min(image.size)
     left = (image.width - side) // 2
     top = (image.height - side) // 2
@@ -97,7 +110,7 @@ def create_bible_image(post: dict) -> Path:
         )
     ).resize((1080, 1080))
 
-    # Darken the image so the text is easy to read.
+    # Darken the image for readable text.
     image = ImageEnhance.Brightness(image).enhance(0.65)
 
     draw = ImageDraw.Draw(image, "RGBA")
@@ -125,7 +138,6 @@ def create_bible_image(post: dict) -> Path:
         max(280, len(lines) * line_height + 90),
     )
 
-    # Elegant dark translucent text panel.
     draw.rounded_rectangle(
         (
             35,
@@ -144,7 +156,6 @@ def create_bible_image(post: dict) -> Path:
             y += 20
             continue
 
-        # Bible references are displayed as headings.
         is_reference = (
             "KJV" in line
             or (
@@ -215,10 +226,7 @@ def create_bible_image(post: dict) -> Path:
 
 
 def main():
-    """
-    Build the Bible post from current world headlines,
-    create the photo, and publish it to Facebook.
-    """
+    """Build and publish one Bible encouragement post."""
 
     base_post = {
         "slot": "bible_world_encouragement",
