@@ -13,6 +13,7 @@ on:
     - cron: '0 10 * * *'  # 01:00 PM EAT — Midday Encouragement
     - cron: '0 11 * * *'  # 02:00 PM EAT — Afternoon Wisdom
     - cron: '0 13 * * *'  # 04:00 PM EAT — Gratitude Moment
+    - cron: '0 14 * * *'  # 05:00 PM EAT — Bible World Encouragement
     - cron: '0 15 * * *'  # 06:00 PM EAT — Engagement Question
     - cron: '0 16 * * *'  # 07:00 PM EAT — Evening Reflection
     - cron: '0 18 * * *'  # 09:00 PM EAT — Night Inspiration
@@ -91,6 +92,8 @@ jobs:
             SLOT="afternoon_wisdom"
           elif [ "$HOUR" = "13" ]; then
             SLOT="gratitude_moment"
+          elif [ "$HOUR" = "14" ]; then
+            SLOT="bible_world_encouragement"
           elif [ "$HOUR" = "15" ]; then
             SLOT="engagement_question"
           elif [ "$HOUR" = "16" ]; then
