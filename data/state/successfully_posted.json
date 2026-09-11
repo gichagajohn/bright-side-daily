@@ -13638,5 +13638,26 @@
       "post_id": "1181533578372151_122132116467364831"
     },
     "timestamp": "2026-09-11T14:13:59.620328"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your determination is your destiny taking shape.",
+      "content_index": 687,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T14:49:23.019799",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your determination is your destiny taking shape.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122132120199364831",
+      "post_id": "1181533578372151_122132120223364831"
+    },
+    "timestamp": "2026-09-11T14:49:31.244637"
   }
 ]

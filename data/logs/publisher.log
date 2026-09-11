@@ -9513,3 +9513,16 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it tod...
 2026-09-11 14:13:59,616 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-11 14:13:59,632 [INFO] ✅ Slot [morning_motivation] published successfully!
+2026-09-11 14:49:22,674 [INFO] Failed posts list is empty.
+2026-09-11 14:49:22,836 [INFO] ──────────────────────────────────────────────────
+2026-09-11 14:49:22,836 [INFO] ▶  Running slot: morning_motivation
+2026-09-11 14:49:22,836 [INFO] ──────────────────────────────────────────────────
+2026-09-11 14:49:23,019 [INFO] 📝 Content selected: Your determination is your destiny taking shape....
+2026-09-11 14:49:23,474 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_687.jpg
+2026-09-11 14:49:23,474 [INFO] Caption preview: ☀️ Your determination is your destiny taking shape.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success...
+2026-09-11 14:49:31,240 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-11 14:49:31,256 [INFO] ✅ Slot [morning_motivation] published successfully!
