@@ -13932,5 +13932,26 @@
       "post_id": "1181533578372151_122132588649364831"
     },
     "timestamp": "2026-09-12T17:54:08.365809"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Be the reason someone believes in good people.",
+      "content_index": 283,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-09-12",
+      "timestamp": "2026-09-12T20:01:19.493741",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Be the reason someone believes in good people.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122132606349364831",
+      "post_id": "1181533578372151_122132606373364831"
+    },
+    "timestamp": "2026-09-12T20:01:23.520603"
   }
 ]
