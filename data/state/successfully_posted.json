@@ -13869,5 +13869,26 @@
       "post_id": "1181533578372151_122132481705364831"
     },
     "timestamp": "2026-09-12T12:36:44.177017"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "Hold on. The shift is coming.",
+      "content_index": 388,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "lighthouse in stormy sea"
+      },
+      "date": "2026-09-12",
+      "timestamp": "2026-09-12T13:50:36.214774",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa Hold on. The shift is coming.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122132500695364831",
+      "post_id": "1181533578372151_122132500737364831"
+    },
+    "timestamp": "2026-09-12T13:50:42.732806"
   }
 ]
