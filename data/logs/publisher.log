@@ -9634,3 +9634,17 @@ Tag someone who can relate! 😂
 ...
 2026-09-12 09:02:24,575 [INFO] ✅ Posted successfully [funny_meme]
 2026-09-12 09:02:24,590 [INFO] Slot published successfully: funny_meme
+2026-09-12 11:31:01,398 [INFO] Failed posts list is empty.
+2026-09-12 11:31:01,545 [INFO] ============================================================
+2026-09-12 11:31:01,545 [INFO] Running slot: self_improvement
+2026-09-12 11:31:01,545 [INFO] ============================================================
+2026-09-12 11:31:01,771 [INFO] Content selected: Be addicted to personal excellence and watch your world transform.
+2026-09-12 11:31:02,430 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_397.jpg
+2026-09-12 11:31:02,430 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_397.jpg
+2026-09-12 11:31:02,430 [INFO] Caption preview: 📈 Be addicted to personal excellence and watch your world transform.
+
+Share this with someone who needs it today! 💛
+
+#Pe...
+2026-09-12 11:31:07,135 [INFO] ✅ Posted successfully [self_improvement]
+2026-09-12 11:31:07,151 [INFO] Slot published successfully: self_improvement
