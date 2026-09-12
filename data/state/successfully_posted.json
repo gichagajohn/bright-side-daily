@@ -13911,5 +13911,26 @@
       "post_id": "1181533578372151_122132550567364831"
     },
     "timestamp": "2026-09-12T16:08:16.479297"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "It's not about how hard you hit. It's about how hard you can get hit and keep moving forward.",
+      "content_index": 142,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-09-12",
+      "timestamp": "2026-09-12T17:54:04.042950",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f It's not about how hard you hit. It's about how hard you can get hit and keep moving forward.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122132588619364831",
+      "post_id": "1181533578372151_122132588649364831"
+    },
+    "timestamp": "2026-09-12T17:54:08.365809"
   }
 ]

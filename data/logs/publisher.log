@@ -9688,3 +9688,15 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it today! 💛...
 2026-09-12 16:08:16,476 [INFO] ✅ Posted successfully [evening_reflection]
 2026-09-12 16:08:16,488 [INFO] Slot published successfully: evening_reflection
+2026-09-12 17:54:03,628 [INFO] Failed posts list is empty.
+2026-09-12 17:54:03,798 [INFO] ============================================================
+2026-09-12 17:54:03,798 [INFO] Running slot: morning_motivation
+2026-09-12 17:54:03,798 [INFO] ============================================================
+2026-09-12 17:54:04,043 [INFO] Content selected: It's not about how hard you hit. It's about how hard you can get hit and keep moving forward.
+2026-09-12 17:54:04,920 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_142.jpg
+2026-09-12 17:54:04,920 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_142.jpg
+2026-09-12 17:54:04,920 [INFO] Caption preview: ☀️ It's not about how hard you hit. It's about how hard you can get hit and keep moving forward.
+
+Share this with someon...
+2026-09-12 17:54:08,362 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-12 17:54:08,377 [INFO] Slot published successfully: morning_motivation
