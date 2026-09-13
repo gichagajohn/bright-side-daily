@@ -14079,5 +14079,26 @@
       "post_id": "1181533578372151_122133013215364831"
     },
     "timestamp": "2026-09-13T18:22:27.032181"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The only real limit is the one between your ears.",
+      "content_index": 641,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T20:08:02.984489",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The only real limit is the one between your ears.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122133044925364831",
+      "post_id": "1181533578372151_122133044949364831"
+    },
+    "timestamp": "2026-09-13T20:08:07.741152"
   }
 ]

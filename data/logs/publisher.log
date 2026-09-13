@@ -9796,3 +9796,17 @@ Drop your answer in the comments below 👇
 #Community #ShareYourThou...
 2026-09-13 18:22:27,028 [INFO] ✅ Posted successfully [engagement_question]
 2026-09-13 18:22:27,044 [INFO] Slot published successfully: engagement_question
+2026-09-13 20:08:02,688 [INFO] Failed posts list is empty.
+2026-09-13 20:08:02,807 [INFO] ============================================================
+2026-09-13 20:08:02,807 [INFO] Running slot: morning_motivation
+2026-09-13 20:08:02,807 [INFO] ============================================================
+2026-09-13 20:08:02,984 [INFO] Content selected: The only real limit is the one between your ears.
+2026-09-13 20:08:03,544 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_641.jpg
+2026-09-13 20:08:03,545 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_641.jpg
+2026-09-13 20:08:03,545 [INFO] Caption preview: ☀️ The only real limit is the one between your ears.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succes...
+2026-09-13 20:08:07,737 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-13 20:08:07,750 [INFO] Slot published successfully: morning_motivation
