@@ -9728,3 +9728,17 @@ Share this with someone who needs it today! 💛
 #Motivation...
 2026-09-13 10:01:34,727 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-13 10:01:34,741 [INFO] Slot published successfully: morning_motivation
+2026-09-13 12:36:12,666 [INFO] Failed posts list is empty.
+2026-09-13 12:36:12,853 [INFO] ============================================================
+2026-09-13 12:36:12,853 [INFO] Running slot: morning_motivation
+2026-09-13 12:36:12,853 [INFO] ============================================================
+2026-09-13 12:36:13,039 [INFO] Content selected: Let your actions scream what your words cannot.
+2026-09-13 12:36:14,007 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_383.jpg
+2026-09-13 12:36:14,007 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_383.jpg
+2026-09-13 12:36:14,007 [INFO] Caption preview: ☀️ Let your actions scream what your words cannot.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success ...
+2026-09-13 12:36:19,574 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-13 12:36:19,589 [INFO] Slot published successfully: morning_motivation
