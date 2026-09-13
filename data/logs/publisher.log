@@ -9754,3 +9754,17 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it today! 💛...
 2026-09-13 13:38:06,994 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-09-13 13:38:07,133 [INFO] Slot published successfully: midday_encouragement
+2026-09-13 14:47:23,959 [INFO] Failed posts list is empty.
+2026-09-13 14:47:24,094 [INFO] ============================================================
+2026-09-13 14:47:24,094 [INFO] Running slot: morning_motivation
+2026-09-13 14:47:24,095 [INFO] ============================================================
+2026-09-13 14:47:24,246 [INFO] Content selected: Don't just be good. Be legendary.
+2026-09-13 14:47:24,657 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_237.jpg
+2026-09-13 14:47:24,657 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_237.jpg
+2026-09-13 14:47:24,657 [INFO] Caption preview: ☀️ Don't just be good. Be legendary.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatter...
+2026-09-13 14:47:29,681 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-13 14:47:29,693 [INFO] Slot published successfully: morning_motivation
