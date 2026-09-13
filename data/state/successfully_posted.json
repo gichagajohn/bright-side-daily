@@ -13953,5 +13953,26 @@
       "post_id": "1181533578372151_122132606373364831"
     },
     "timestamp": "2026-09-12T20:01:23.520603"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Move with intention. Act with courage. Live with purpose.",
+      "content_index": 513,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T10:01:29.243270",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Move with intention. Act with courage. Live with purpose.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122132830887364831",
+      "post_id": "1181533578372151_122132830911364831"
+    },
+    "timestamp": "2026-09-13T10:01:34.730994"
   }
 ]

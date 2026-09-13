@@ -9714,3 +9714,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #...
 2026-09-12 20:01:23,517 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-12 20:01:23,530 [INFO] Slot published successfully: morning_motivation
+2026-09-13 10:01:28,894 [INFO] Failed posts list is empty.
+2026-09-13 10:01:29,042 [INFO] ============================================================
+2026-09-13 10:01:29,042 [INFO] Running slot: morning_motivation
+2026-09-13 10:01:29,042 [INFO] ============================================================
+2026-09-13 10:01:29,243 [INFO] Content selected: Move with intention. Act with courage. Live with purpose.
+2026-09-13 10:01:30,631 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_513.jpg
+2026-09-13 10:01:30,631 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_513.jpg
+2026-09-13 10:01:30,631 [INFO] Caption preview: ☀️ Move with intention. Act with courage. Live with purpose.
+
+Share this with someone who needs it today! 💛
+
+#Motivation...
+2026-09-13 10:01:34,727 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-13 10:01:34,741 [INFO] Slot published successfully: morning_motivation
