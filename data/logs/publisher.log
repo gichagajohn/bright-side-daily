@@ -9880,3 +9880,15 @@ Drop your answer in the comments below 👇
 #Community #ShareYour...
 2026-09-14 18:28:21,814 [INFO] ✅ Posted successfully [engagement_question]
 2026-09-14 18:28:21,829 [INFO] Slot published successfully: engagement_question
+2026-09-14 19:57:52,367 [INFO] Failed posts list is empty.
+2026-09-14 19:57:52,471 [INFO] ============================================================
+2026-09-14 19:57:52,471 [INFO] Running slot: morning_motivation
+2026-09-14 19:57:52,471 [INFO] ============================================================
+2026-09-14 19:57:52,626 [INFO] Content selected: The only thing standing between you and your goal is the story you tell yourself.
+2026-09-14 19:57:53,286 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_242.jpg
+2026-09-14 19:57:53,286 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_242.jpg
+2026-09-14 19:57:53,286 [INFO] Caption preview: ☀️ The only thing standing between you and your goal is the story you tell yourself.
+
+Share this with someone who needs ...
+2026-09-14 19:57:59,729 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-14 19:57:59,740 [INFO] Slot published successfully: morning_motivation
