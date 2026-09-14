@@ -9866,3 +9866,17 @@ Share this with someone who needs it today! 💛
 #Gratitude #Thankful #Count...
 2026-09-14 16:45:28,766 [INFO] ✅ Posted successfully [evening_reflection]
 2026-09-14 16:45:28,781 [INFO] Slot published successfully: evening_reflection
+2026-09-14 18:28:15,257 [INFO] Failed posts list is empty.
+2026-09-14 18:28:15,481 [INFO] ============================================================
+2026-09-14 18:28:15,481 [INFO] Running slot: engagement_question
+2026-09-14 18:28:15,481 [INFO] ============================================================
+2026-09-14 18:28:15,686 [INFO] Content selected: What would your life look like if you weren't afraid?
+2026-09-14 18:28:16,248 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_145.jpg
+2026-09-14 18:28:16,249 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_145.jpg
+2026-09-14 18:28:16,249 [INFO] Caption preview: 💬 What would your life look like if you weren't afraid?
+
+Drop your answer in the comments below 👇
+
+#Community #ShareYour...
+2026-09-14 18:28:21,814 [INFO] ✅ Posted successfully [engagement_question]
+2026-09-14 18:28:21,829 [INFO] Slot published successfully: engagement_question
