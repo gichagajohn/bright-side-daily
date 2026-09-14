@@ -9892,3 +9892,17 @@ Drop your answer in the comments below 👇
 Share this with someone who needs ...
 2026-09-14 19:57:59,729 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-14 19:57:59,740 [INFO] Slot published successfully: morning_motivation
+2026-09-14 21:17:54,802 [INFO] Failed posts list is empty.
+2026-09-14 21:17:55,024 [INFO] ============================================================
+2026-09-14 21:17:55,024 [INFO] Running slot: morning_motivation
+2026-09-14 21:17:55,024 [INFO] ============================================================
+2026-09-14 21:17:55,268 [INFO] Content selected: Never settle for less than you deserve.
+2026-09-14 21:17:55,736 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_254.jpg
+2026-09-14 21:17:55,737 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_254.jpg
+2026-09-14 21:17:55,737 [INFO] Caption preview: ☀️ Never settle for less than you deserve.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mindset...
+2026-09-14 21:18:01,323 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-14 21:18:01,345 [INFO] Slot published successfully: morning_motivation

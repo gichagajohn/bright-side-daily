@@ -14226,5 +14226,26 @@
       "post_id": "1181533578372151_122133336363364831"
     },
     "timestamp": "2026-09-14T19:57:59.732195"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Never settle for less than you deserve.",
+      "content_index": 254,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T21:17:55.268292",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Never settle for less than you deserve.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122133345699364831",
+      "post_id": "1181533578372151_122133345783364831"
+    },
+    "timestamp": "2026-09-14T21:18:01.326014"
   }
 ]
