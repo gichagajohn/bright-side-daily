@@ -9838,3 +9838,17 @@ Share this with someone who needs it today! 💛
 #YouGotThis #KeepGoing #NeverGi...
 2026-09-14 13:44:26,439 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-09-14 13:44:26,455 [INFO] Slot published successfully: midday_encouragement
+2026-09-14 15:37:59,638 [INFO] Failed posts list is empty.
+2026-09-14 15:37:59,871 [INFO] ============================================================
+2026-09-14 15:37:59,871 [INFO] Running slot: morning_motivation
+2026-09-14 15:37:59,872 [INFO] ============================================================
+2026-09-14 15:38:00,085 [INFO] Content selected: You will thank yourself for not quitting.
+2026-09-14 15:38:00,746 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_557.jpg
+2026-09-14 15:38:00,747 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_557.jpg
+2026-09-14 15:38:00,747 [INFO] Caption preview: ☀️ You will thank yourself for not quitting.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Minds...
+2026-09-14 15:38:04,428 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-14 15:38:04,443 [INFO] Slot published successfully: morning_motivation
