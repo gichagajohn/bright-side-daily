@@ -9946,3 +9946,17 @@ Share this with someone who needs it today! 💛
 #Mot...
 2026-09-15 14:08:35,615 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-15 14:08:35,733 [INFO] Slot published successfully: morning_motivation
+2026-09-15 15:25:52,075 [INFO] Failed posts list is empty.
+2026-09-15 15:25:52,226 [INFO] ============================================================
+2026-09-15 15:25:52,226 [INFO] Running slot: morning_motivation
+2026-09-15 15:25:52,226 [INFO] ============================================================
+2026-09-15 15:25:52,509 [INFO] Content selected: Do the hard thing first.
+2026-09-15 15:25:53,587 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_349.jpg
+2026-09-15 15:25:53,587 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_349.jpg
+2026-09-15 15:25:53,587 [INFO] Caption preview: ☀️ Do the hard thing first.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #DailyM...
+2026-09-15 15:26:00,344 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-15 15:26:00,360 [INFO] Slot published successfully: morning_motivation
