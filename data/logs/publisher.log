@@ -9960,3 +9960,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #DailyM...
 2026-09-15 15:26:00,344 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-15 15:26:00,360 [INFO] Slot published successfully: morning_motivation
+2026-09-15 17:35:31,227 [INFO] Failed posts list is empty.
+2026-09-15 17:35:31,426 [INFO] ============================================================
+2026-09-15 17:35:31,426 [INFO] Running slot: morning_motivation
+2026-09-15 17:35:31,426 [INFO] ============================================================
+2026-09-15 17:35:31,684 [INFO] Content selected: No one is coming to save you. Get up and save yourself.
+2026-09-15 17:35:32,025 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_112.jpg
+2026-09-15 17:35:32,025 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_112.jpg
+2026-09-15 17:35:32,025 [INFO] Caption preview: ☀️ No one is coming to save you. Get up and save yourself.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #...
+2026-09-15 17:35:35,770 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-15 17:35:35,785 [INFO] Slot published successfully: morning_motivation

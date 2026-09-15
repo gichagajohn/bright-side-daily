@@ -14331,5 +14331,26 @@
       "post_id": "1181533578372151_122133490353364831"
     },
     "timestamp": "2026-09-15T15:26:00.347654"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "No one is coming to save you. Get up and save yourself.",
+      "content_index": 112,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T17:35:31.684261",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f No one is coming to save you. Get up and save yourself.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122133508893364831",
+      "post_id": "1181533578372151_122133508917364831"
+    },
+    "timestamp": "2026-09-15T17:35:35.773306"
   }
 ]
