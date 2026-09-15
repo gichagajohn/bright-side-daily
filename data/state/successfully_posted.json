@@ -14268,5 +14268,26 @@
       "post_id": "1181533578372151_122133420849364831"
     },
     "timestamp": "2026-09-15T09:48:00.782084"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are one decision away from a different story.",
+      "content_index": 670,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T12:31:02.473659",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are one decision away from a different story.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122133436965364831",
+      "post_id": "1181533578372151_122133436989364831"
+    },
+    "timestamp": "2026-09-15T12:31:09.048915"
   }
 ]
