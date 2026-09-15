@@ -9932,3 +9932,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Succes...
 2026-09-15 12:31:09,045 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-15 12:31:09,061 [INFO] Slot published successfully: morning_motivation
+2026-09-15 14:08:30,845 [INFO] Failed posts list is empty.
+2026-09-15 14:08:30,981 [INFO] ============================================================
+2026-09-15 14:08:30,981 [INFO] Running slot: morning_motivation
+2026-09-15 14:08:30,981 [INFO] ============================================================
+2026-09-15 14:08:31,156 [INFO] Content selected: Be greater today than you were yesterday. That's the whole plan.
+2026-09-15 14:08:31,349 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_620.jpg
+2026-09-15 14:08:31,350 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_620.jpg
+2026-09-15 14:08:31,350 [INFO] Caption preview: ☀️ Be greater today than you were yesterday. That's the whole plan.
+
+Share this with someone who needs it today! 💛
+
+#Mot...
+2026-09-15 14:08:35,615 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-15 14:08:35,733 [INFO] Slot published successfully: morning_motivation
