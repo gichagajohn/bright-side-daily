@@ -14373,5 +14373,26 @@
       "post_id": "1181533578372151_122133528933364831"
     },
     "timestamp": "2026-09-15T19:17:35.197982"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The only way to achieve the impossible is to believe it is possible.",
+      "content_index": 270,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T20:45:17.664903",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The only way to achieve the impossible is to believe it is possible.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122133570957364831",
+      "post_id": "1181533578372151_122133570981364831"
+    },
+    "timestamp": "2026-09-15T20:45:23.107364"
   }
 ]
