@@ -14436,5 +14436,26 @@
       "post_id": "1181533578372151_122133717537364831"
     },
     "timestamp": "2026-09-16T12:28:38.334188"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Set the pace. Others will follow.",
+      "content_index": 452,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T14:01:00.972936",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Set the pace. Others will follow.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122133739887364831",
+      "post_id": "1181533578372151_122133739941364831"
+    },
+    "timestamp": "2026-09-16T14:01:06.046905"
   }
 ]
