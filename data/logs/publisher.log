@@ -10058,3 +10058,17 @@ Share this with someone who needs it today! 💛
 #Motivation #...
 2026-09-16 15:19:28,327 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-16 15:19:28,338 [INFO] Slot published successfully: morning_motivation
+2026-09-16 17:34:22,699 [INFO] Failed posts list is empty.
+2026-09-16 17:34:22,822 [INFO] ============================================================
+2026-09-16 17:34:22,822 [INFO] Running slot: morning_motivation
+2026-09-16 17:34:22,822 [INFO] ============================================================
+2026-09-16 17:34:23,053 [INFO] Content selected: Compete with no one but yesterday's version of yourself.
+2026-09-16 17:34:24,016 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_405.jpg
+2026-09-16 17:34:24,016 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_405.jpg
+2026-09-16 17:34:24,016 [INFO] Caption preview: ☀️ Compete with no one but yesterday's version of yourself.
+
+Share this with someone who needs it today! 💛
+
+#Motivation ...
+2026-09-16 17:34:27,835 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-16 17:34:27,848 [INFO] Slot published successfully: morning_motivation

@@ -14478,5 +14478,26 @@
       "post_id": "1181533578372151_122133760065364831"
     },
     "timestamp": "2026-09-16T15:19:28.329856"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Compete with no one but yesterday's version of yourself.",
+      "content_index": 405,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T17:34:23.053787",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Compete with no one but yesterday's version of yourself.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122133780885364831",
+      "post_id": "1181533578372151_122133780909364831"
+    },
+    "timestamp": "2026-09-16T17:34:27.837917"
   }
 ]
