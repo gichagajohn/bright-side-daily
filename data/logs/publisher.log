@@ -10044,3 +10044,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatter...
 2026-09-16 14:01:06,043 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-16 14:01:06,060 [INFO] Slot published successfully: morning_motivation
+2026-09-16 15:19:22,236 [INFO] Failed posts list is empty.
+2026-09-16 15:19:22,341 [INFO] ============================================================
+2026-09-16 15:19:22,341 [INFO] Running slot: morning_motivation
+2026-09-16 15:19:22,341 [INFO] ============================================================
+2026-09-16 15:19:22,531 [INFO] Content selected: The key to success is to focus on goals, not obstacles.
+2026-09-16 15:19:23,829 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_90.jpg
+2026-09-16 15:19:23,830 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_90.jpg
+2026-09-16 15:19:23,830 [INFO] Caption preview: ☀️ The key to success is to focus on goals, not obstacles.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #...
+2026-09-16 15:19:28,327 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-16 15:19:28,338 [INFO] Slot published successfully: morning_motivation

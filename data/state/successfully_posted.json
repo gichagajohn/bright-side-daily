@@ -14457,5 +14457,26 @@
       "post_id": "1181533578372151_122133739941364831"
     },
     "timestamp": "2026-09-16T14:01:06.046905"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The key to success is to focus on goals, not obstacles.",
+      "content_index": 90,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T15:19:22.531920",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The key to success is to focus on goals, not obstacles.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122133760041364831",
+      "post_id": "1181533578372151_122133760065364831"
+    },
+    "timestamp": "2026-09-16T15:19:28.329856"
   }
 ]
