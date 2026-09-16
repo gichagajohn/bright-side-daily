@@ -14520,5 +14520,26 @@
       "post_id": "1181533578372151_122133843459364831"
     },
     "timestamp": "2026-09-16T19:08:42.050675"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your energy is currency. Spend it wisely.",
+      "content_index": 330,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T20:45:23.751189",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your energy is currency. Spend it wisely.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122133853035364831",
+      "post_id": "1181533578372151_122133853059364831"
+    },
+    "timestamp": "2026-09-16T20:45:31.263590"
   }
 ]

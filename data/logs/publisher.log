@@ -10086,3 +10086,17 @@ Share this with someone who needs it today! 💛
 #Motivation #S...
 2026-09-16 19:08:42,047 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-16 19:08:42,063 [INFO] Slot published successfully: morning_motivation
+2026-09-16 20:45:23,399 [INFO] Failed posts list is empty.
+2026-09-16 20:45:23,557 [INFO] ============================================================
+2026-09-16 20:45:23,557 [INFO] Running slot: morning_motivation
+2026-09-16 20:45:23,557 [INFO] ============================================================
+2026-09-16 20:45:23,751 [INFO] Content selected: Your energy is currency. Spend it wisely.
+2026-09-16 20:45:24,423 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_330.jpg
+2026-09-16 20:45:24,423 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_330.jpg
+2026-09-16 20:45:24,423 [INFO] Caption preview: ☀️ Your energy is currency. Spend it wisely.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Minds...
+2026-09-16 20:45:31,260 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-16 20:45:31,276 [INFO] Slot published successfully: morning_motivation
