@@ -10072,3 +10072,17 @@ Share this with someone who needs it today! 💛
 #Motivation ...
 2026-09-16 17:34:27,835 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-16 17:34:27,848 [INFO] Slot published successfully: morning_motivation
+2026-09-16 19:08:36,104 [INFO] Failed posts list is empty.
+2026-09-16 19:08:36,264 [INFO] ============================================================
+2026-09-16 19:08:36,265 [INFO] Running slot: morning_motivation
+2026-09-16 19:08:36,265 [INFO] ============================================================
+2026-09-16 19:08:36,562 [INFO] Content selected: Never underestimate the power of one committed person.
+2026-09-16 19:08:36,901 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_438.jpg
+2026-09-16 19:08:36,902 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_438.jpg
+2026-09-16 19:08:36,902 [INFO] Caption preview: ☀️ Never underestimate the power of one committed person.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #S...
+2026-09-16 19:08:42,047 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-16 19:08:42,063 [INFO] Slot published successfully: morning_motivation
