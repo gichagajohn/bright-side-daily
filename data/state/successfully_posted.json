@@ -14667,5 +14667,26 @@
       "post_id": "1181533578372151_122134128225364831"
     },
     "timestamp": "2026-09-17T19:19:51.422854"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You were born to do something that has never been done before.",
+      "content_index": 453,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T20:51:02.010901",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You were born to do something that has never been done before.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122134141341364831",
+      "post_id": "1181533578372151_122134141365364831"
+    },
+    "timestamp": "2026-09-17T20:51:05.557543"
   }
 ]
