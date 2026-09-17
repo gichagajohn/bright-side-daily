@@ -14646,5 +14646,26 @@
       "post_id": "1181533578372151_122134084971364831"
     },
     "timestamp": "2026-09-17T17:34:00.659562"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You have the will. You have the way. You just have to go.",
+      "content_index": 492,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T19:19:47.145359",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You have the will. You have the way. You just have to go.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122134128201364831",
+      "post_id": "1181533578372151_122134128225364831"
+    },
+    "timestamp": "2026-09-17T19:19:51.422854"
   }
 ]

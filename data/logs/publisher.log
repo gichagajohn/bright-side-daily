@@ -10166,3 +10166,17 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs...
 2026-09-17 17:34:00,656 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-17 17:34:00,673 [INFO] Slot published successfully: morning_motivation
+2026-09-17 19:19:46,739 [INFO] Failed posts list is empty.
+2026-09-17 19:19:46,901 [INFO] ============================================================
+2026-09-17 19:19:46,901 [INFO] Running slot: morning_motivation
+2026-09-17 19:19:46,901 [INFO] ============================================================
+2026-09-17 19:19:47,145 [INFO] Content selected: You have the will. You have the way. You just have to go.
+2026-09-17 19:19:48,106 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_492.jpg
+2026-09-17 19:19:48,106 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_492.jpg
+2026-09-17 19:19:48,106 [INFO] Caption preview: ☀️ You have the will. You have the way. You just have to go.
+
+Share this with someone who needs it today! 💛
+
+#Motivation...
+2026-09-17 19:19:51,419 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-17 19:19:51,436 [INFO] Slot published successfully: morning_motivation
