@@ -14583,5 +14583,26 @@
       "post_id": "1181533578372151_122134026897364831"
     },
     "timestamp": "2026-09-17T12:28:35.062863"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your dreams have a timeline. Stick to it.",
+      "content_index": 621,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T14:05:00.264383",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your dreams have a timeline. Stick to it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122134047207364831",
+      "post_id": "1181533578372151_122134047231364831"
+    },
+    "timestamp": "2026-09-17T14:05:04.824296"
   }
 ]
