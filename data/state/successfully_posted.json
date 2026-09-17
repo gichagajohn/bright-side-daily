@@ -14562,5 +14562,26 @@
       "post_id": "1181533578372151_122133990849364831"
     },
     "timestamp": "2026-09-17T09:51:10.030064"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Success is not final, failure is not fatal \u2014 it's the courage to continue that counts.",
+      "content_index": 106,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T12:28:30.688319",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Success is not final, failure is not fatal \u2014 it's the courage to continue that counts.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122134026873364831",
+      "post_id": "1181533578372151_122134026897364831"
+    },
+    "timestamp": "2026-09-17T12:28:35.062863"
   }
 ]
