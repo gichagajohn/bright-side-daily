@@ -14751,5 +14751,26 @@
       "post_id": "1181533578372151_122134326147364831"
     },
     "timestamp": "2026-09-18T13:22:16.040577"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The grind is real. So is the reward.",
+      "content_index": 113,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T14:45:39.247906",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The grind is real. So is the reward.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122134352997364831",
+      "post_id": "1181533578372151_122134353027364831"
+    },
+    "timestamp": "2026-09-18T14:45:44.362914"
   }
 ]

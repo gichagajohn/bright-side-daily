@@ -10236,3 +10236,17 @@ Share this with someone who needs it today! 💛
 #YouGotThis #KeepGoing ...
 2026-09-18 13:22:16,037 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-09-18 13:22:16,053 [INFO] Slot published successfully: midday_encouragement
+2026-09-18 14:45:38,894 [INFO] Failed posts list is empty.
+2026-09-18 14:45:39,043 [INFO] ============================================================
+2026-09-18 14:45:39,043 [INFO] Running slot: morning_motivation
+2026-09-18 14:45:39,043 [INFO] ============================================================
+2026-09-18 14:45:39,247 [INFO] Content selected: The grind is real. So is the reward.
+2026-09-18 14:45:39,929 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_113.jpg
+2026-09-18 14:45:39,929 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_113.jpg
+2026-09-18 14:45:39,929 [INFO] Caption preview: ☀️ The grind is real. So is the reward.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMat...
+2026-09-18 14:45:44,359 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-18 14:45:44,376 [INFO] Slot published successfully: morning_motivation
