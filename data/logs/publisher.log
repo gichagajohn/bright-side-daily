@@ -10208,3 +10208,17 @@ Tag someone who can relate! 😂
 ...
 2026-09-18 09:24:35,713 [INFO] ✅ Posted successfully [funny_meme]
 2026-09-18 09:24:35,729 [INFO] Slot published successfully: funny_meme
+2026-09-18 12:07:09,150 [INFO] Failed posts list is empty.
+2026-09-18 12:07:09,343 [INFO] ============================================================
+2026-09-18 12:07:09,343 [INFO] Running slot: morning_motivation
+2026-09-18 12:07:09,343 [INFO] ============================================================
+2026-09-18 12:07:09,622 [INFO] Content selected: Success starts the moment you stop making excuses.
+2026-09-18 12:07:10,286 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_0.jpg
+2026-09-18 12:07:10,286 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_0.jpg
+2026-09-18 12:07:10,286 [INFO] Caption preview: ☀️ Success starts the moment you stop making excuses.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succe...
+2026-09-18 12:07:13,919 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-18 12:07:13,935 [INFO] Slot published successfully: morning_motivation

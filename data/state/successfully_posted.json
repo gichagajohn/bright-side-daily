@@ -14709,5 +14709,26 @@
       "post_id": "1181533578372151_122134294203364831"
     },
     "timestamp": "2026-09-18T09:24:35.716399"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Success starts the moment you stop making excuses.",
+      "content_index": 0,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T12:07:09.622020",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Success starts the moment you stop making excuses.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122134316307364831",
+      "post_id": "1181533578372151_122134316331364831"
+    },
+    "timestamp": "2026-09-18T12:07:13.922229"
   }
 ]
