@@ -10278,3 +10278,17 @@ Drop your answer in the comments below 👇
 #Community #Sha...
 2026-09-18 18:39:41,391 [INFO] ✅ Posted successfully [engagement_question]
 2026-09-18 18:39:41,403 [INFO] Slot published successfully: engagement_question
+2026-09-18 20:16:12,405 [INFO] Failed posts list is empty.
+2026-09-18 20:16:12,594 [INFO] ============================================================
+2026-09-18 20:16:12,594 [INFO] Running slot: morning_motivation
+2026-09-18 20:16:12,594 [INFO] ============================================================
+2026-09-18 20:16:12,783 [INFO] Content selected: Burn the boats. There is no going back.
+2026-09-18 20:16:13,752 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_288.jpg
+2026-09-18 20:16:13,752 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_288.jpg
+2026-09-18 20:16:13,752 [INFO] Caption preview: ☀️ Burn the boats. There is no going back.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mindset...
+2026-09-18 20:16:18,135 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-18 20:16:18,151 [INFO] Slot published successfully: morning_motivation

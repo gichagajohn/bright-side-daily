@@ -14814,5 +14814,26 @@
       "post_id": "1181533578372151_122134383969364831"
     },
     "timestamp": "2026-09-18T18:39:41.393537"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Burn the boats. There is no going back.",
+      "content_index": 288,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T20:16:12.783218",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Burn the boats. There is no going back.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122134395963364831",
+      "post_id": "1181533578372151_122134396017364831"
+    },
+    "timestamp": "2026-09-18T20:16:18.138309"
   }
 ]
