@@ -10264,3 +10264,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success ...
 2026-09-18 17:00:30,236 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-18 17:00:30,251 [INFO] Slot published successfully: morning_motivation
+2026-09-18 18:39:35,213 [INFO] Failed posts list is empty.
+2026-09-18 18:39:35,342 [INFO] ============================================================
+2026-09-18 18:39:35,342 [INFO] Running slot: engagement_question
+2026-09-18 18:39:35,342 [INFO] ============================================================
+2026-09-18 18:39:35,487 [INFO] Content selected: What has helped you most in difficult seasons of your life?
+2026-09-18 18:39:36,002 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_243.jpg
+2026-09-18 18:39:36,002 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_243.jpg
+2026-09-18 18:39:36,002 [INFO] Caption preview: 💬 What has helped you most in difficult seasons of your life?
+
+Drop your answer in the comments below 👇
+
+#Community #Sha...
+2026-09-18 18:39:41,391 [INFO] ✅ Posted successfully [engagement_question]
+2026-09-18 18:39:41,403 [INFO] Slot published successfully: engagement_question

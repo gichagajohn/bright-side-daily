@@ -14793,5 +14793,26 @@
       "post_id": "1181533578372151_122134368501364831"
     },
     "timestamp": "2026-09-18T17:00:30.240201"
+  },
+  {
+    "post": {
+      "slot": "engagement_question",
+      "category": "engagement_questions",
+      "content": "What has helped you most in difficult seasons of your life?",
+      "content_index": 243,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "notebook open with a question mark illustration"
+      },
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T18:39:35.487062",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcac What has helped you most in difficult seasons of your life?\n\nDrop your answer in the comments below \ud83d\udc47\n\n#Community #ShareYourThoughts #QuestionOfTheDay #ChatWithUs #BrightSideFamily #BrightSideDaily",
+    "fb_response": {
+      "id": "122134383945364831",
+      "post_id": "1181533578372151_122134383969364831"
+    },
+    "timestamp": "2026-09-18T18:39:41.393537"
   }
 ]
