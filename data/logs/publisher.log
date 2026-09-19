@@ -10376,3 +10376,17 @@ Drop your answer in the comments below 👇
 #Community #Sha...
 2026-09-19 18:14:23,643 [INFO] ✅ Posted successfully [engagement_question]
 2026-09-19 18:14:23,659 [INFO] Slot published successfully: engagement_question
+2026-09-19 19:54:04,566 [INFO] Failed posts list is empty.
+2026-09-19 19:54:04,736 [INFO] ============================================================
+2026-09-19 19:54:04,736 [INFO] Running slot: morning_motivation
+2026-09-19 19:54:04,737 [INFO] ============================================================
+2026-09-19 19:54:05,012 [INFO] Content selected: Make every sacrifice worth it by not stopping.
+2026-09-19 19:54:06,098 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_663.jpg
+2026-09-19 19:54:06,098 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_663.jpg
+2026-09-19 19:54:06,098 [INFO] Caption preview: ☀️ Make every sacrifice worth it by not stopping.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #...
+2026-09-19 19:54:09,357 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-19 19:54:09,374 [INFO] Slot published successfully: morning_motivation
