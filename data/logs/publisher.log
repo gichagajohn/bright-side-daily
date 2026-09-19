@@ -10334,3 +10334,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Min...
 2026-09-19 12:51:39,232 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-19 12:51:39,246 [INFO] Slot published successfully: morning_motivation
+2026-09-19 14:09:01,375 [INFO] Failed posts list is empty.
+2026-09-19 14:09:01,557 [INFO] ============================================================
+2026-09-19 14:09:01,557 [INFO] Running slot: morning_motivation
+2026-09-19 14:09:01,557 [INFO] ============================================================
+2026-09-19 14:09:01,798 [INFO] Content selected: Success is the sum of small efforts repeated day in and day out.
+2026-09-19 14:09:02,536 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_132.jpg
+2026-09-19 14:09:02,536 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_132.jpg
+2026-09-19 14:09:02,536 [INFO] Caption preview: ☀️ Success is the sum of small efforts repeated day in and day out.
+
+Share this with someone who needs it today! 💛
+
+#Mot...
+2026-09-19 14:09:05,645 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-19 14:09:05,661 [INFO] Slot published successfully: morning_motivation
