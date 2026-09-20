@@ -15045,5 +15045,26 @@
       "post_id": "1181533578372151_122134735563364831"
     },
     "timestamp": "2026-09-20T13:26:15.738805"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The secret to getting ahead is getting started.",
+      "content_index": 77,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-09-20",
+      "timestamp": "2026-09-20T14:27:38.670894",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The secret to getting ahead is getting started.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122134745709364831",
+      "post_id": "1181533578372151_122134745733364831"
+    },
+    "timestamp": "2026-09-20T14:27:43.663117"
   }
 ]
