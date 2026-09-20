@@ -10474,3 +10474,17 @@ Drop your answer in the comments below 👇
 #Communit...
 2026-09-20 18:20:31,793 [INFO] ✅ Posted successfully [engagement_question]
 2026-09-20 18:20:31,809 [INFO] Slot published successfully: engagement_question
+2026-09-20 20:08:50,860 [INFO] Failed posts list is empty.
+2026-09-20 20:08:50,958 [INFO] ============================================================
+2026-09-20 20:08:50,958 [INFO] Running slot: morning_motivation
+2026-09-20 20:08:50,959 [INFO] ============================================================
+2026-09-20 20:08:51,084 [INFO] Content selected: Champions never stop competing — not even with themselves.
+2026-09-20 20:08:52,135 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_505.jpg
+2026-09-20 20:08:52,136 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_505.jpg
+2026-09-20 20:08:52,136 [INFO] Caption preview: ☀️ Champions never stop competing — not even with themselves.
+
+Share this with someone who needs it today! 💛
+
+#Motivatio...
+2026-09-20 20:08:57,048 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-20 20:08:57,292 [INFO] Slot published successfully: morning_motivation

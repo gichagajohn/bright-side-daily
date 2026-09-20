@@ -15108,5 +15108,26 @@
       "post_id": "1181533578372151_122134774299364831"
     },
     "timestamp": "2026-09-20T18:20:31.796365"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Champions never stop competing \u2014 not even with themselves.",
+      "content_index": 505,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-09-20",
+      "timestamp": "2026-09-20T20:08:51.084842",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Champions never stop competing \u2014 not even with themselves.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122134788363364831",
+      "post_id": "1181533578372151_122134788393364831"
+    },
+    "timestamp": "2026-09-20T20:08:57.050626"
   }
 ]
