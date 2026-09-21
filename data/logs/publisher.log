@@ -10554,3 +10554,17 @@ Drop your answer in the comments below 👇
 #Community #ShareYourThoug...
 2026-09-21 18:34:39,479 [INFO] ✅ Posted successfully [engagement_question]
 2026-09-21 18:34:39,496 [INFO] Slot published successfully: engagement_question
+2026-09-21 20:08:15,239 [INFO] Failed posts list is empty.
+2026-09-21 20:08:15,396 [INFO] ============================================================
+2026-09-21 20:08:15,396 [INFO] Running slot: morning_motivation
+2026-09-21 20:08:15,396 [INFO] ============================================================
+2026-09-21 20:08:15,591 [INFO] Content selected: Nothing beats the feeling of being exactly where you worked to be.
+2026-09-21 20:08:16,893 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_554.jpg
+2026-09-21 20:08:16,894 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_554.jpg
+2026-09-21 20:08:16,894 [INFO] Caption preview: ☀️ Nothing beats the feeling of being exactly where you worked to be.
+
+Share this with someone who needs it today! 💛
+
+#M...
+2026-09-21 20:08:21,240 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-21 20:08:21,257 [INFO] Slot published successfully: morning_motivation
