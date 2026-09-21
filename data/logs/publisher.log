@@ -10488,3 +10488,17 @@ Share this with someone who needs it today! 💛
 #Motivatio...
 2026-09-20 20:08:57,048 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-20 20:08:57,292 [INFO] Slot published successfully: morning_motivation
+2026-09-21 10:25:39,071 [INFO] Failed posts list is empty.
+2026-09-21 10:25:39,188 [INFO] ============================================================
+2026-09-21 10:25:39,188 [INFO] Running slot: morning_motivation
+2026-09-21 10:25:39,188 [INFO] ============================================================
+2026-09-21 10:25:39,357 [INFO] Content selected: Bet on yourself every single time.
+2026-09-21 10:25:40,184 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_271.jpg
+2026-09-21 10:25:40,184 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_271.jpg
+2026-09-21 10:25:40,184 [INFO] Caption preview: ☀️ Bet on yourself every single time.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatte...
+2026-09-21 10:25:44,024 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-21 10:25:44,037 [INFO] Slot published successfully: morning_motivation
