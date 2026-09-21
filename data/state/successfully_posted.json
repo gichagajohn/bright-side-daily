@@ -15255,5 +15255,26 @@
       "post_id": "1181533578372151_122134966179364831"
     },
     "timestamp": "2026-09-21T20:08:21.243543"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Make moves in silence.",
+      "content_index": 246,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T21:33:50.079713",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Make moves in silence.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122134976841364831",
+      "post_id": "1181533578372151_122134976865364831"
+    },
+    "timestamp": "2026-09-21T21:33:54.914502"
   }
 ]

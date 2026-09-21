@@ -10568,3 +10568,17 @@ Share this with someone who needs it today! 💛
 #M...
 2026-09-21 20:08:21,240 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-21 20:08:21,257 [INFO] Slot published successfully: morning_motivation
+2026-09-21 21:33:49,686 [INFO] Failed posts list is empty.
+2026-09-21 21:33:49,837 [INFO] ============================================================
+2026-09-21 21:33:49,837 [INFO] Running slot: morning_motivation
+2026-09-21 21:33:49,837 [INFO] ============================================================
+2026-09-21 21:33:50,079 [INFO] Content selected: Make moves in silence.
+2026-09-21 21:33:51,317 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_246.jpg
+2026-09-21 21:33:51,317 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_246.jpg
+2026-09-21 21:33:51,317 [INFO] Caption preview: ☀️ Make moves in silence.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #DailyMot...
+2026-09-21 21:33:54,910 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-21 21:33:54,928 [INFO] Slot published successfully: morning_motivation
