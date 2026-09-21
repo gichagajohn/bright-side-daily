@@ -15150,5 +15150,26 @@
       "post_id": "1181533578372151_122134890201364831"
     },
     "timestamp": "2026-09-21T10:25:44.027118"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "Your resilience is proof that you were made for this.",
+      "content_index": 669,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "hand reaching through misty forest toward light"
+      },
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T13:43:37.407607",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa Your resilience is proof that you were made for this.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122134915239364831",
+      "post_id": "1181533578372151_122134915269364831"
+    },
+    "timestamp": "2026-09-21T13:43:42.240896"
   }
 ]
