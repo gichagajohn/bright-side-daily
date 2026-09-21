@@ -15171,5 +15171,26 @@
       "post_id": "1181533578372151_122134915269364831"
     },
     "timestamp": "2026-09-21T13:43:42.240896"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are not just surviving. You are being prepared for something great.",
+      "content_index": 605,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T15:38:16.182891",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are not just surviving. You are being prepared for something great.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122134926093364831",
+      "post_id": "1181533578372151_122134926117364831"
+    },
+    "timestamp": "2026-09-21T15:38:20.791544"
   }
 ]

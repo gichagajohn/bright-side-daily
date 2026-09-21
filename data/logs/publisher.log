@@ -10516,3 +10516,15 @@ Share this with someone who needs it today! 💛
 #YouGotThis #Kee...
 2026-09-21 13:43:42,237 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-09-21 13:43:42,254 [INFO] Slot published successfully: midday_encouragement
+2026-09-21 15:38:15,788 [INFO] Failed posts list is empty.
+2026-09-21 15:38:15,947 [INFO] ============================================================
+2026-09-21 15:38:15,947 [INFO] Running slot: morning_motivation
+2026-09-21 15:38:15,947 [INFO] ============================================================
+2026-09-21 15:38:16,182 [INFO] Content selected: You are not just surviving. You are being prepared for something great.
+2026-09-21 15:38:16,927 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_605.jpg
+2026-09-21 15:38:16,927 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_605.jpg
+2026-09-21 15:38:16,928 [INFO] Caption preview: ☀️ You are not just surviving. You are being prepared for something great.
+
+Share this with someone who needs it today! ...
+2026-09-21 15:38:20,788 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-21 15:38:20,805 [INFO] Slot published successfully: morning_motivation
