@@ -10540,3 +10540,17 @@ Share this with someone who needs it today! ...
 Share this with someone who needs it t...
 2026-09-21 16:45:59,512 [INFO] ✅ Posted successfully [evening_reflection]
 2026-09-21 16:45:59,530 [INFO] Slot published successfully: evening_reflection
+2026-09-21 18:34:34,608 [INFO] Failed posts list is empty.
+2026-09-21 18:34:34,758 [INFO] ============================================================
+2026-09-21 18:34:34,758 [INFO] Running slot: engagement_question
+2026-09-21 18:34:34,758 [INFO] ============================================================
+2026-09-21 18:34:34,952 [INFO] Content selected: What's something people misunderstand about you?
+2026-09-21 18:34:35,651 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_111.jpg
+2026-09-21 18:34:35,651 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_111.jpg
+2026-09-21 18:34:35,652 [INFO] Caption preview: 💬 What's something people misunderstand about you?
+
+Drop your answer in the comments below 👇
+
+#Community #ShareYourThoug...
+2026-09-21 18:34:39,479 [INFO] ✅ Posted successfully [engagement_question]
+2026-09-21 18:34:39,496 [INFO] Slot published successfully: engagement_question
