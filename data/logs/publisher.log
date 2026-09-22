@@ -10638,3 +10638,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mindset...
 2026-09-22 15:24:12,372 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-22 15:24:12,385 [INFO] Slot published successfully: morning_motivation
+2026-09-22 17:35:05,476 [INFO] Failed posts list is empty.
+2026-09-22 17:35:05,647 [INFO] ============================================================
+2026-09-22 17:35:05,647 [INFO] Running slot: morning_motivation
+2026-09-22 17:35:05,647 [INFO] ============================================================
+2026-09-22 17:35:05,971 [INFO] Content selected: Motivation gets you started. Habit keeps you going.
+2026-09-22 17:35:06,781 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_111.jpg
+2026-09-22 17:35:06,781 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_111.jpg
+2026-09-22 17:35:06,781 [INFO] Caption preview: ☀️ Motivation gets you started. Habit keeps you going.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succ...
+2026-09-22 17:35:14,438 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-22 17:35:14,456 [INFO] Slot published successfully: morning_motivation
