@@ -10596,3 +10596,17 @@ Tag someone who can relate! 😂
 #RelatableLife #Funny #...
 2026-09-22 09:39:08,434 [INFO] ✅ Posted successfully [funny_meme]
 2026-09-22 09:39:08,450 [INFO] Slot published successfully: funny_meme
+2026-09-22 12:26:35,230 [INFO] Failed posts list is empty.
+2026-09-22 12:26:35,361 [INFO] ============================================================
+2026-09-22 12:26:35,361 [INFO] Running slot: morning_motivation
+2026-09-22 12:26:35,361 [INFO] ============================================================
+2026-09-22 12:26:35,555 [INFO] Content selected: Don't slow down. You're not done yet.
+2026-09-22 12:26:36,325 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_450.jpg
+2026-09-22 12:26:36,325 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_450.jpg
+2026-09-22 12:26:36,326 [INFO] Caption preview: ☀️ Don't slow down. You're not done yet.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMa...
+2026-09-22 12:26:41,697 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-22 12:26:41,713 [INFO] Slot published successfully: morning_motivation
