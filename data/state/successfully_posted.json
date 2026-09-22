@@ -15381,5 +15381,26 @@
       "post_id": "1181533578372151_122135160291364831"
     },
     "timestamp": "2026-09-22T17:35:14.441719"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Shoot for the moon. Even if you miss, you'll land among the stars.",
+      "content_index": 197,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T19:17:49.277413",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Shoot for the moon. Even if you miss, you'll land among the stars.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122135176587364831",
+      "post_id": "1181533578372151_122135176611364831"
+    },
+    "timestamp": "2026-09-22T19:17:53.981900"
   }
 ]

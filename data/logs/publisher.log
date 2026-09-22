@@ -10652,3 +10652,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Succ...
 2026-09-22 17:35:14,438 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-22 17:35:14,456 [INFO] Slot published successfully: morning_motivation
+2026-09-22 19:17:48,968 [INFO] Failed posts list is empty.
+2026-09-22 19:17:49,132 [INFO] ============================================================
+2026-09-22 19:17:49,133 [INFO] Running slot: morning_motivation
+2026-09-22 19:17:49,133 [INFO] ============================================================
+2026-09-22 19:17:49,277 [INFO] Content selected: Shoot for the moon. Even if you miss, you'll land among the stars.
+2026-09-22 19:17:50,179 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_197.jpg
+2026-09-22 19:17:50,179 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_197.jpg
+2026-09-22 19:17:50,180 [INFO] Caption preview: ☀️ Shoot for the moon. Even if you miss, you'll land among the stars.
+
+Share this with someone who needs it today! 💛
+
+#M...
+2026-09-22 19:17:53,979 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-22 19:17:53,992 [INFO] Slot published successfully: morning_motivation
