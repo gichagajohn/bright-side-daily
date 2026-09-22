@@ -10666,3 +10666,15 @@ Share this with someone who needs it today! 💛
 #M...
 2026-09-22 19:17:53,979 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-22 19:17:53,992 [INFO] Slot published successfully: morning_motivation
+2026-09-22 20:45:15,973 [INFO] Failed posts list is empty.
+2026-09-22 20:45:16,189 [INFO] ============================================================
+2026-09-22 20:45:16,189 [INFO] Running slot: morning_motivation
+2026-09-22 20:45:16,189 [INFO] ============================================================
+2026-09-22 20:45:16,403 [INFO] Content selected: Don't let the fear of losing be greater than the excitement of winning.
+2026-09-22 20:45:17,335 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_220.jpg
+2026-09-22 20:45:17,335 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_220.jpg
+2026-09-22 20:45:17,335 [INFO] Caption preview: ☀️ Don't let the fear of losing be greater than the excitement of winning.
+
+Share this with someone who needs it today! ...
+2026-09-22 20:45:21,240 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-22 20:45:21,258 [INFO] Slot published successfully: morning_motivation
