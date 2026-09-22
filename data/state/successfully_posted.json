@@ -15339,5 +15339,26 @@
       "post_id": "1181533578372151_122135131701364831"
     },
     "timestamp": "2026-09-22T13:53:05.813379"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Don't let the day run you. Run the day.",
+      "content_index": 531,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T15:24:07.952653",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Don't let the day run you. Run the day.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122135143473364831",
+      "post_id": "1181533578372151_122135143497364831"
+    },
+    "timestamp": "2026-09-22T15:24:12.374830"
   }
 ]

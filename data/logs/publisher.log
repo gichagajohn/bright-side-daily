@@ -10624,3 +10624,17 @@ Share this with someone who needs it today! 💛
 #YouGotThis #KeepG...
 2026-09-22 13:53:05,810 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-09-22 13:53:05,830 [INFO] Slot published successfully: midday_encouragement
+2026-09-22 15:24:07,685 [INFO] Failed posts list is empty.
+2026-09-22 15:24:07,806 [INFO] ============================================================
+2026-09-22 15:24:07,806 [INFO] Running slot: morning_motivation
+2026-09-22 15:24:07,806 [INFO] ============================================================
+2026-09-22 15:24:07,952 [INFO] Content selected: Don't let the day run you. Run the day.
+2026-09-22 15:24:08,863 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_531.jpg
+2026-09-22 15:24:08,863 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_531.jpg
+2026-09-22 15:24:08,863 [INFO] Caption preview: ☀️ Don't let the day run you. Run the day.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mindset...
+2026-09-22 15:24:12,372 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-22 15:24:12,385 [INFO] Slot published successfully: morning_motivation
