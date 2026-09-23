@@ -15549,5 +15549,26 @@
       "post_id": "1181533578372151_122135489259364831"
     },
     "timestamp": "2026-09-23T19:15:21.296537"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Step into your power. It's been waiting for you.",
+      "content_index": 599,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T20:57:39.171692",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Step into your power. It's been waiting for you.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122135527203364831",
+      "post_id": "1181533578372151_122135527227364831"
+    },
+    "timestamp": "2026-09-23T20:57:43.863302"
   }
 ]
