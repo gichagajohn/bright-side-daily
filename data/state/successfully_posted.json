@@ -15465,5 +15465,26 @@
       "post_id": "1181533578372151_122135372415364831"
     },
     "timestamp": "2026-09-23T12:37:35.583102"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Never give your best yesterday and offer mediocrity today.",
+      "content_index": 638,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T14:03:41.926148",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Never give your best yesterday and offer mediocrity today.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122135438391364831",
+      "post_id": "1181533578372151_122135438415364831"
+    },
+    "timestamp": "2026-09-23T14:03:47.392621"
   }
 ]
