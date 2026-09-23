@@ -15486,5 +15486,26 @@
       "post_id": "1181533578372151_122135438415364831"
     },
     "timestamp": "2026-09-23T14:03:47.392621"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Winners train. Losers complain.",
+      "content_index": 313,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T15:16:17.480722",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Winners train. Losers complain.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122135447697364831",
+      "post_id": "1181533578372151_122135447751364831"
+    },
+    "timestamp": "2026-09-23T15:16:21.630884"
   }
 ]
