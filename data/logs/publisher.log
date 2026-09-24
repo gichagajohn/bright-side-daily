@@ -10818,3 +10818,17 @@ Share this with someone who needs it today! 💛
 #...
 2026-09-24 13:59:59,485 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-09-24 13:59:59,502 [INFO] Slot published successfully: midday_encouragement
+2026-09-24 15:41:33,678 [INFO] Failed posts list is empty.
+2026-09-24 15:41:33,805 [INFO] ============================================================
+2026-09-24 15:41:33,805 [INFO] Running slot: morning_motivation
+2026-09-24 15:41:33,805 [INFO] ============================================================
+2026-09-24 15:41:33,960 [INFO] Content selected: Real winners don't quit. They adapt.
+2026-09-24 15:41:34,689 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_469.jpg
+2026-09-24 15:41:34,689 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_469.jpg
+2026-09-24 15:41:34,689 [INFO] Caption preview: ☀️ Real winners don't quit. They adapt.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMat...
+2026-09-24 15:41:37,885 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-24 15:41:37,900 [INFO] Slot published successfully: morning_motivation
