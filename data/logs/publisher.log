@@ -10846,3 +10846,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #...
 2026-09-24 17:48:50,328 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-24 17:48:50,345 [INFO] Slot published successfully: morning_motivation
+2026-09-24 19:31:28,090 [INFO] Failed posts list is empty.
+2026-09-24 19:31:28,565 [INFO] ============================================================
+2026-09-24 19:31:28,566 [INFO] Running slot: morning_motivation
+2026-09-24 19:31:28,566 [INFO] ============================================================
+2026-09-24 19:31:28,856 [INFO] Content selected: Every next level of your life requires a different you.
+2026-09-24 19:31:29,712 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_570.jpg
+2026-09-24 19:31:29,712 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_570.jpg
+2026-09-24 19:31:29,712 [INFO] Caption preview: ☀️ Every next level of your life requires a different you.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #...
+2026-09-24 19:31:33,715 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-24 19:31:33,740 [INFO] Slot published successfully: morning_motivation
