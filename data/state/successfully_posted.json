@@ -15696,5 +15696,26 @@
       "post_id": "1181533578372151_122135739105364831"
     },
     "timestamp": "2026-09-24T19:31:33.721179"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Be so committed they stop questioning your capability.",
+      "content_index": 626,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T21:01:52.905261",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Be so committed they stop questioning your capability.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122135749863364831",
+      "post_id": "1181533578372151_122135749887364831"
+    },
+    "timestamp": "2026-09-24T21:01:58.019445"
   }
 ]

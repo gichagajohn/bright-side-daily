@@ -10860,3 +10860,17 @@ Share this with someone who needs it today! 💛
 #Motivation #...
 2026-09-24 19:31:33,715 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-24 19:31:33,740 [INFO] Slot published successfully: morning_motivation
+2026-09-24 21:01:52,534 [INFO] Failed posts list is empty.
+2026-09-24 21:01:52,696 [INFO] ============================================================
+2026-09-24 21:01:52,696 [INFO] Running slot: morning_motivation
+2026-09-24 21:01:52,696 [INFO] ============================================================
+2026-09-24 21:01:52,905 [INFO] Content selected: Be so committed they stop questioning your capability.
+2026-09-24 21:01:53,841 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_626.jpg
+2026-09-24 21:01:53,841 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_626.jpg
+2026-09-24 21:01:53,841 [INFO] Caption preview: ☀️ Be so committed they stop questioning your capability.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #S...
+2026-09-24 21:01:58,016 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-24 21:01:58,033 [INFO] Slot published successfully: morning_motivation
