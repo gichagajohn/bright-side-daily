@@ -15822,5 +15822,26 @@
       "post_id": "1181533578372151_122135924649364831"
     },
     "timestamp": "2026-09-25T17:52:15.975510"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Be the version of yourself that your younger self would be proud of.",
+      "content_index": 417,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T19:35:21.606181",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Be the version of yourself that your younger self would be proud of.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122135944317364831",
+      "post_id": "1181533578372151_122135944341364831"
+    },
+    "timestamp": "2026-09-25T19:35:25.707226"
   }
 ]

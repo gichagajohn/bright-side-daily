@@ -10944,3 +10944,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Min...
 2026-09-25 17:52:15,972 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-25 17:52:15,989 [INFO] Slot published successfully: morning_motivation
+2026-09-25 19:35:21,189 [INFO] Failed posts list is empty.
+2026-09-25 19:35:21,356 [INFO] ============================================================
+2026-09-25 19:35:21,356 [INFO] Running slot: morning_motivation
+2026-09-25 19:35:21,357 [INFO] ============================================================
+2026-09-25 19:35:21,606 [INFO] Content selected: Be the version of yourself that your younger self would be proud of.
+2026-09-25 19:35:22,454 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_417.jpg
+2026-09-25 19:35:22,454 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_417.jpg
+2026-09-25 19:35:22,454 [INFO] Caption preview: ☀️ Be the version of yourself that your younger self would be proud of.
+
+Share this with someone who needs it today! 💛
+
+...
+2026-09-25 19:35:25,703 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-25 19:35:25,721 [INFO] Slot published successfully: morning_motivation
