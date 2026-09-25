@@ -15801,5 +15801,26 @@
       "post_id": "1181533578372151_122135907147364831"
     },
     "timestamp": "2026-09-25T15:43:05.012573"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Show the world what intentional looks like.",
+      "content_index": 608,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T17:52:10.366752",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Show the world what intentional looks like.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122135924625364831",
+      "post_id": "1181533578372151_122135924649364831"
+    },
+    "timestamp": "2026-09-25T17:52:15.975510"
   }
 ]

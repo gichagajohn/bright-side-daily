@@ -10930,3 +10930,17 @@ Share this with someone who needs it today! 💛
 #Motiv...
 2026-09-25 15:43:05,009 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-25 15:43:05,028 [INFO] Slot published successfully: morning_motivation
+2026-09-25 17:52:10,010 [INFO] Failed posts list is empty.
+2026-09-25 17:52:10,176 [INFO] ============================================================
+2026-09-25 17:52:10,176 [INFO] Running slot: morning_motivation
+2026-09-25 17:52:10,176 [INFO] ============================================================
+2026-09-25 17:52:10,366 [INFO] Content selected: Show the world what intentional looks like.
+2026-09-25 17:52:11,328 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_608.jpg
+2026-09-25 17:52:11,328 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_608.jpg
+2026-09-25 17:52:11,328 [INFO] Caption preview: ☀️ Show the world what intentional looks like.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Min...
+2026-09-25 17:52:15,972 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-25 17:52:15,989 [INFO] Slot published successfully: morning_motivation
