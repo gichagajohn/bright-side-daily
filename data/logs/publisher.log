@@ -10958,3 +10958,17 @@ Share this with someone who needs it today! 💛
 ...
 2026-09-25 19:35:25,703 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-25 19:35:25,721 [INFO] Slot published successfully: morning_motivation
+2026-09-25 20:58:56,620 [INFO] Failed posts list is empty.
+2026-09-25 20:58:56,777 [INFO] ============================================================
+2026-09-25 20:58:56,777 [INFO] Running slot: morning_motivation
+2026-09-25 20:58:56,778 [INFO] ============================================================
+2026-09-25 20:58:57,031 [INFO] Content selected: The expert in everything was once a beginner.
+2026-09-25 20:58:57,997 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_318.jpg
+2026-09-25 20:58:57,998 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_318.jpg
+2026-09-25 20:58:57,998 [INFO] Caption preview: ☀️ The expert in everything was once a beginner.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #M...
+2026-09-25 20:59:02,307 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-25 20:59:02,324 [INFO] Slot published successfully: morning_motivation
