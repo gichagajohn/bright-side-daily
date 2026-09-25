@@ -15780,5 +15780,26 @@
       "post_id": "1181533578372151_122135895603364831"
     },
     "timestamp": "2026-09-25T14:24:21.258109"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your success starts with the story you believe about yourself.",
+      "content_index": 600,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T15:42:58.513206",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your success starts with the story you believe about yourself.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122135907123364831",
+      "post_id": "1181533578372151_122135907147364831"
+    },
+    "timestamp": "2026-09-25T15:43:05.012573"
   }
 ]

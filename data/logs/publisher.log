@@ -10916,3 +10916,17 @@ Share this with someone who needs it today! 💛
 #Motivation...
 2026-09-25 14:24:21,254 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-25 14:24:21,540 [INFO] Slot published successfully: morning_motivation
+2026-09-25 15:42:57,638 [INFO] Failed posts list is empty.
+2026-09-25 15:42:57,829 [INFO] ============================================================
+2026-09-25 15:42:57,829 [INFO] Running slot: morning_motivation
+2026-09-25 15:42:57,829 [INFO] ============================================================
+2026-09-25 15:42:58,513 [INFO] Content selected: Your success starts with the story you believe about yourself.
+2026-09-25 15:42:59,634 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_600.jpg
+2026-09-25 15:42:59,634 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_600.jpg
+2026-09-25 15:42:59,634 [INFO] Caption preview: ☀️ Your success starts with the story you believe about yourself.
+
+Share this with someone who needs it today! 💛
+
+#Motiv...
+2026-09-25 15:43:05,009 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-25 15:43:05,028 [INFO] Slot published successfully: morning_motivation
