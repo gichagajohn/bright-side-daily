@@ -10888,3 +10888,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMa...
 2026-09-25 10:01:27,174 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-25 10:01:27,185 [INFO] Slot published successfully: morning_motivation
+2026-09-25 12:37:44,038 [INFO] Failed posts list is empty.
+2026-09-25 12:37:44,192 [INFO] ============================================================
+2026-09-25 12:37:44,193 [INFO] Running slot: morning_motivation
+2026-09-25 12:37:44,193 [INFO] ============================================================
+2026-09-25 12:37:44,409 [INFO] Content selected: Stay locked in.
+2026-09-25 12:37:45,000 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_252.jpg
+2026-09-25 12:37:45,000 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_252.jpg
+2026-09-25 12:37:45,000 [INFO] Caption preview: ☀️ Stay locked in.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #DailyMotivation...
+2026-09-25 12:37:50,070 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-25 12:37:50,087 [INFO] Slot published successfully: morning_motivation
