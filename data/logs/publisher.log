@@ -10902,3 +10902,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #DailyMotivation...
 2026-09-25 12:37:50,070 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-25 12:37:50,087 [INFO] Slot published successfully: morning_motivation
+2026-09-25 14:24:14,376 [INFO] Failed posts list is empty.
+2026-09-25 14:24:14,543 [INFO] ============================================================
+2026-09-25 14:24:14,543 [INFO] Running slot: morning_motivation
+2026-09-25 14:24:14,543 [INFO] ============================================================
+2026-09-25 14:24:14,781 [INFO] Content selected: Everything you've been through was training. Now compete.
+2026-09-25 14:24:15,600 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_582.jpg
+2026-09-25 14:24:15,600 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_582.jpg
+2026-09-25 14:24:15,600 [INFO] Caption preview: ☀️ Everything you've been through was training. Now compete.
+
+Share this with someone who needs it today! 💛
+
+#Motivation...
+2026-09-25 14:24:21,254 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-25 14:24:21,540 [INFO] Slot published successfully: morning_motivation
