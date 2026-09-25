@@ -10874,3 +10874,17 @@ Share this with someone who needs it today! 💛
 #Motivation #S...
 2026-09-24 21:01:58,016 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-24 21:01:58,033 [INFO] Slot published successfully: morning_motivation
+2026-09-25 10:01:22,196 [INFO] Failed posts list is empty.
+2026-09-25 10:01:22,293 [INFO] ============================================================
+2026-09-25 10:01:22,293 [INFO] Running slot: morning_motivation
+2026-09-25 10:01:22,293 [INFO] ============================================================
+2026-09-25 10:01:22,493 [INFO] Content selected: Failure is just feedback. Keep going.
+2026-09-25 10:01:23,605 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_445.jpg
+2026-09-25 10:01:23,605 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_445.jpg
+2026-09-25 10:01:23,605 [INFO] Caption preview: ☀️ Failure is just feedback. Keep going.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMa...
+2026-09-25 10:01:27,174 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-25 10:01:27,185 [INFO] Slot published successfully: morning_motivation

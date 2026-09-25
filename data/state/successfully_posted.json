@@ -15717,5 +15717,26 @@
       "post_id": "1181533578372151_122135749887364831"
     },
     "timestamp": "2026-09-24T21:01:58.019445"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Failure is just feedback. Keep going.",
+      "content_index": 445,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T10:01:22.493584",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Failure is just feedback. Keep going.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122135849559364831",
+      "post_id": "1181533578372151_122135849583364831"
+    },
+    "timestamp": "2026-09-25T10:01:27.176856"
   }
 ]
