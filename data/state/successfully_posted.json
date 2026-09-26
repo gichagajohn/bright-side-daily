@@ -15948,5 +15948,26 @@
       "post_id": "1181533578372151_122136098367364831"
     },
     "timestamp": "2026-09-26T14:52:08.108717"
+  },
+  {
+    "post": {
+      "slot": "evening_reflection",
+      "category": "gratitude_quotes",
+      "content": "Your perspective shifts when you shift to gratitude.",
+      "content_index": 89,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "soft sunrise through curtains"
+      },
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T16:59:51.242468",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83c\udf19 Your perspective shifts when you shift to gratitude.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Gratitude #Thankful #CountYourBlessings #GratefulHeart #Blessed #BrightSideDaily",
+    "fb_response": {
+      "id": "122136118923364831",
+      "post_id": "1181533578372151_122136118947364831"
+    },
+    "timestamp": "2026-09-26T16:59:57.165802"
   }
 ]
