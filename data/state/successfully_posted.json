@@ -15969,5 +15969,26 @@
       "post_id": "1181533578372151_122136118947364831"
     },
     "timestamp": "2026-09-26T16:59:57.165802"
+  },
+  {
+    "post": {
+      "slot": "engagement_question",
+      "category": "engagement_questions",
+      "content": "What would you tell someone who just lost their confidence?",
+      "content_index": 119,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "hand-drawn thought bubbles"
+      },
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T18:44:51.192974",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcac What would you tell someone who just lost their confidence?\n\nDrop your answer in the comments below \ud83d\udc47\n\n#Community #ShareYourThoughts #QuestionOfTheDay #ChatWithUs #BrightSideFamily #BrightSideDaily",
+    "fb_response": {
+      "id": "122136132447364831",
+      "post_id": "1181533578372151_122136132471364831"
+    },
+    "timestamp": "2026-09-26T18:44:56.262838"
   }
 ]
