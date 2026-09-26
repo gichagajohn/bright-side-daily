@@ -11012,3 +11012,17 @@ Share this with someone who needs it today! 💛
 #YouGotThis #KeepGoing #NeverGiv...
 2026-09-26 13:36:11,498 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-09-26 13:36:11,517 [INFO] Slot published successfully: midday_encouragement
+2026-09-26 14:52:02,688 [INFO] Failed posts list is empty.
+2026-09-26 14:52:02,864 [INFO] ============================================================
+2026-09-26 14:52:02,864 [INFO] Running slot: morning_motivation
+2026-09-26 14:52:02,864 [INFO] ============================================================
+2026-09-26 14:52:03,060 [INFO] Content selected: Keep the grind going even when nobody's watching.
+2026-09-26 14:52:03,872 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_293.jpg
+2026-09-26 14:52:03,872 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_293.jpg
+2026-09-26 14:52:03,872 [INFO] Caption preview: ☀️ Keep the grind going even when nobody's watching.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succes...
+2026-09-26 14:52:08,105 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-26 14:52:08,126 [INFO] Slot published successfully: morning_motivation
