@@ -16137,5 +16137,26 @@
       "post_id": "1181533578372151_122136314217364831"
     },
     "timestamp": "2026-09-27T19:20:21.539999"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Don't just dream it. Engineer it. Build it. Live it.",
+      "content_index": 686,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-09-27",
+      "timestamp": "2026-09-27T20:42:20.676350",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Don't just dream it. Engineer it. Build it. Live it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122136332655364831",
+      "post_id": "1181533578372151_122136332703364831"
+    },
+    "timestamp": "2026-09-27T20:42:25.522145"
   }
 ]

@@ -11152,3 +11152,17 @@ Share this with someone who needs it today! 💛
 #Motivati...
 2026-09-27 19:20:21,536 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-27 19:20:21,554 [INFO] Slot published successfully: morning_motivation
+2026-09-27 20:42:20,234 [INFO] Failed posts list is empty.
+2026-09-27 20:42:20,403 [INFO] ============================================================
+2026-09-27 20:42:20,403 [INFO] Running slot: morning_motivation
+2026-09-27 20:42:20,403 [INFO] ============================================================
+2026-09-27 20:42:20,676 [INFO] Content selected: Don't just dream it. Engineer it. Build it. Live it.
+2026-09-27 20:42:21,183 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_686.jpg
+2026-09-27 20:42:21,183 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_686.jpg
+2026-09-27 20:42:21,183 [INFO] Caption preview: ☀️ Don't just dream it. Engineer it. Build it. Live it.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Suc...
+2026-09-27 20:42:25,518 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-27 20:42:25,536 [INFO] Slot published successfully: morning_motivation
