@@ -11082,3 +11082,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mind...
 2026-09-27 10:22:53,202 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-27 10:22:53,647 [INFO] Slot published successfully: morning_motivation
+2026-09-27 12:51:11,558 [INFO] Failed posts list is empty.
+2026-09-27 12:51:11,757 [INFO] ============================================================
+2026-09-27 12:51:11,758 [INFO] Running slot: morning_motivation
+2026-09-27 12:51:11,758 [INFO] ============================================================
+2026-09-27 12:51:11,993 [INFO] Content selected: It doesn't matter how slow you go, as long as you don't stop.
+2026-09-27 12:51:12,940 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_275.jpg
+2026-09-27 12:51:12,940 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_275.jpg
+2026-09-27 12:51:12,940 [INFO] Caption preview: ☀️ It doesn't matter how slow you go, as long as you don't stop.
+
+Share this with someone who needs it today! 💛
+
+#Motiva...
+2026-09-27 12:51:15,937 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-27 12:51:15,955 [INFO] Slot published successfully: morning_motivation
