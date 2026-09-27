@@ -11124,3 +11124,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Su...
 2026-09-27 15:30:13,506 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-27 15:30:13,521 [INFO] Slot published successfully: morning_motivation
+2026-09-27 17:37:25,885 [INFO] Failed posts list is empty.
+2026-09-27 17:37:26,086 [INFO] ============================================================
+2026-09-27 17:37:26,086 [INFO] Running slot: morning_motivation
+2026-09-27 17:37:26,086 [INFO] ============================================================
+2026-09-27 17:37:26,385 [INFO] Content selected: Wake up. Pray. Hustle.
+2026-09-27 17:37:27,009 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_400.jpg
+2026-09-27 17:37:27,009 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_400.jpg
+2026-09-27 17:37:27,009 [INFO] Caption preview: ☀️ Wake up. Pray. Hustle.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #DailyMot...
+2026-09-27 17:37:33,490 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-27 17:37:33,508 [INFO] Slot published successfully: morning_motivation

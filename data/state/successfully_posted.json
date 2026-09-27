@@ -16095,5 +16095,26 @@
       "post_id": "1181533578372151_122136286659364831"
     },
     "timestamp": "2026-09-27T15:30:13.510333"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Wake up. Pray. Hustle.",
+      "content_index": 400,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "beautiful sunrise over mountains"
+      },
+      "date": "2026-09-27",
+      "timestamp": "2026-09-27T17:37:26.385542",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Wake up. Pray. Hustle.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122136301539364831",
+      "post_id": "1181533578372151_122136301569364831"
+    },
+    "timestamp": "2026-09-27T17:37:33.494207"
   }
 ]
