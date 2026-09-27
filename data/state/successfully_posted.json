@@ -16116,5 +16116,26 @@
       "post_id": "1181533578372151_122136301569364831"
     },
     "timestamp": "2026-09-27T17:37:33.494207"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Go be the story that inspires someone else to start theirs.",
+      "content_index": 612,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-09-27",
+      "timestamp": "2026-09-27T19:20:15.479076",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Go be the story that inspires someone else to start theirs.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122136314187364831",
+      "post_id": "1181533578372151_122136314217364831"
+    },
+    "timestamp": "2026-09-27T19:20:21.539999"
   }
 ]
