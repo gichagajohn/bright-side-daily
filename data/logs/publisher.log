@@ -11110,3 +11110,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mi...
 2026-09-27 14:32:26,233 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-27 14:32:26,253 [INFO] Slot published successfully: morning_motivation
+2026-09-27 15:30:09,653 [INFO] Failed posts list is empty.
+2026-09-27 15:30:09,821 [INFO] ============================================================
+2026-09-27 15:30:09,821 [INFO] Running slot: morning_motivation
+2026-09-27 15:30:09,821 [INFO] ============================================================
+2026-09-27 15:30:09,990 [INFO] Content selected: Mastery is not a destination. It is a daily practice.
+2026-09-27 15:30:10,888 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_411.jpg
+2026-09-27 15:30:10,888 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_411.jpg
+2026-09-27 15:30:10,888 [INFO] Caption preview: ☀️ Mastery is not a destination. It is a daily practice.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Su...
+2026-09-27 15:30:13,506 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-27 15:30:13,521 [INFO] Slot published successfully: morning_motivation

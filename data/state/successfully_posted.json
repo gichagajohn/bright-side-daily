@@ -16074,5 +16074,26 @@
       "post_id": "1181533578372151_122136278889364831"
     },
     "timestamp": "2026-09-27T14:32:26.237261"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Mastery is not a destination. It is a daily practice.",
+      "content_index": 411,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-09-27",
+      "timestamp": "2026-09-27T15:30:09.990246",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Mastery is not a destination. It is a daily practice.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122136286629364831",
+      "post_id": "1181533578372151_122136286659364831"
+    },
+    "timestamp": "2026-09-27T15:30:13.510333"
   }
 ]
