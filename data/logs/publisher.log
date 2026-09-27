@@ -11096,3 +11096,17 @@ Share this with someone who needs it today! 💛
 #Motiva...
 2026-09-27 12:51:15,937 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-27 12:51:15,955 [INFO] Slot published successfully: morning_motivation
+2026-09-27 14:32:21,683 [INFO] Failed posts list is empty.
+2026-09-27 14:32:21,911 [INFO] ============================================================
+2026-09-27 14:32:21,911 [INFO] Running slot: morning_motivation
+2026-09-27 14:32:21,912 [INFO] ============================================================
+2026-09-27 14:32:22,161 [INFO] Content selected: You are greater than your greatest obstacle.
+2026-09-27 14:32:22,840 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_646.jpg
+2026-09-27 14:32:22,841 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_646.jpg
+2026-09-27 14:32:22,841 [INFO] Caption preview: ☀️ You are greater than your greatest obstacle.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mi...
+2026-09-27 14:32:26,233 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-27 14:32:26,253 [INFO] Slot published successfully: morning_motivation

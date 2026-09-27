@@ -16053,5 +16053,26 @@
       "post_id": "1181533578372151_122136263871364831"
     },
     "timestamp": "2026-09-27T12:51:15.941370"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are greater than your greatest obstacle.",
+      "content_index": 646,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-09-27",
+      "timestamp": "2026-09-27T14:32:22.161676",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are greater than your greatest obstacle.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122136278859364831",
+      "post_id": "1181533578372151_122136278889364831"
+    },
+    "timestamp": "2026-09-27T14:32:26.237261"
   }
 ]
