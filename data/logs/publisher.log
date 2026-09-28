@@ -11180,3 +11180,17 @@ Share this with someone who needs it today! 💛
 #Per...
 2026-09-28 11:28:17,588 [INFO] ✅ Posted successfully [self_improvement]
 2026-09-28 11:28:17,605 [INFO] Slot published successfully: self_improvement
+2026-09-28 15:04:30,732 [INFO] Failed posts list is empty.
+2026-09-28 15:04:30,886 [INFO] ============================================================
+2026-09-28 15:04:30,886 [INFO] Running slot: morning_motivation
+2026-09-28 15:04:30,886 [INFO] ============================================================
+2026-09-28 15:04:31,080 [INFO] Content selected: You don't luck your way to the top. You work your way there.
+2026-09-28 15:04:32,126 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_301.jpg
+2026-09-28 15:04:32,126 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_301.jpg
+2026-09-28 15:04:32,126 [INFO] Caption preview: ☀️ You don't luck your way to the top. You work your way there.
+
+Share this with someone who needs it today! 💛
+
+#Motivat...
+2026-09-28 15:04:35,979 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-28 15:04:35,998 [INFO] Slot published successfully: morning_motivation
