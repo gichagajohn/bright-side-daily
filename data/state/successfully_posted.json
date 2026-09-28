@@ -16263,5 +16263,26 @@
       "post_id": "1181533578372151_122136541185364831"
     },
     "timestamp": "2026-09-28T20:03:42.705227"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Be the hardest worker in the room.",
+      "content_index": 258,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T21:25:25.502634",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Be the hardest worker in the room.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122136549957364831",
+      "post_id": "1181533578372151_122136549981364831"
+    },
+    "timestamp": "2026-09-28T21:25:31.649242"
   }
 ]
