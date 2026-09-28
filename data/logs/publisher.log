@@ -11166,3 +11166,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Suc...
 2026-09-27 20:42:25,518 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-27 20:42:25,536 [INFO] Slot published successfully: morning_motivation
+2026-09-28 11:28:13,125 [INFO] Failed posts list is empty.
+2026-09-28 11:28:13,266 [INFO] ============================================================
+2026-09-28 11:28:13,266 [INFO] Running slot: self_improvement
+2026-09-28 11:28:13,266 [INFO] ============================================================
+2026-09-28 11:28:13,443 [INFO] Content selected: Set your standards high and refuse to lower them for convenience.
+2026-09-28 11:28:14,044 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_268.jpg
+2026-09-28 11:28:14,044 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_268.jpg
+2026-09-28 11:28:14,044 [INFO] Caption preview: 📈 Set your standards high and refuse to lower them for convenience.
+
+Share this with someone who needs it today! 💛
+
+#Per...
+2026-09-28 11:28:17,588 [INFO] ✅ Posted successfully [self_improvement]
+2026-09-28 11:28:17,605 [INFO] Slot published successfully: self_improvement
