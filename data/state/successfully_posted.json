@@ -16200,5 +16200,26 @@
       "post_id": "1181533578372151_122136488469364831"
     },
     "timestamp": "2026-09-28T15:04:35.983234"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Winning is a habit. Make it yours.",
+      "content_index": 530,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T17:19:22.836163",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Winning is a habit. Make it yours.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122136515271364831",
+      "post_id": "1181533578372151_122136515295364831"
+    },
+    "timestamp": "2026-09-28T17:19:26.970268"
   }
 ]
