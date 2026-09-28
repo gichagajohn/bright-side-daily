@@ -11222,3 +11222,17 @@ Drop your answer in the comments below 👇
 #Community ...
 2026-09-28 18:24:00,944 [INFO] ✅ Posted successfully [engagement_question]
 2026-09-28 18:24:00,962 [INFO] Slot published successfully: engagement_question
+2026-09-28 20:03:36,957 [INFO] Failed posts list is empty.
+2026-09-28 20:03:37,136 [INFO] ============================================================
+2026-09-28 20:03:37,136 [INFO] Running slot: morning_motivation
+2026-09-28 20:03:37,136 [INFO] ============================================================
+2026-09-28 20:03:37,320 [INFO] Content selected: Stop waiting for the right time. Make the time right.
+2026-09-28 20:03:37,994 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_564.jpg
+2026-09-28 20:03:37,994 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_564.jpg
+2026-09-28 20:03:37,994 [INFO] Caption preview: ☀️ Stop waiting for the right time. Make the time right.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Su...
+2026-09-28 20:03:42,701 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-28 20:03:42,720 [INFO] Slot published successfully: morning_motivation

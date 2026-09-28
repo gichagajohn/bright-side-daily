@@ -16242,5 +16242,26 @@
       "post_id": "1181533578372151_122136528939364831"
     },
     "timestamp": "2026-09-28T18:24:00.947927"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Stop waiting for the right time. Make the time right.",
+      "content_index": 564,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T20:03:37.320042",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Stop waiting for the right time. Make the time right.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122136541161364831",
+      "post_id": "1181533578372151_122136541185364831"
+    },
+    "timestamp": "2026-09-28T20:03:42.705227"
   }
 ]
