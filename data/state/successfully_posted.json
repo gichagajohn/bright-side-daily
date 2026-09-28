@@ -16221,5 +16221,26 @@
       "post_id": "1181533578372151_122136515295364831"
     },
     "timestamp": "2026-09-28T17:19:26.970268"
+  },
+  {
+    "post": {
+      "slot": "engagement_question",
+      "category": "engagement_questions",
+      "content": "What's a step you took outside your comfort zone that paid off?",
+      "content_index": 217,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "colorful speech bubbles on pastel background"
+      },
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T18:23:54.484467",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcac What's a step you took outside your comfort zone that paid off?\n\nDrop your answer in the comments below \ud83d\udc47\n\n#Community #ShareYourThoughts #QuestionOfTheDay #ChatWithUs #BrightSideFamily #BrightSideDaily",
+    "fb_response": {
+      "id": "122136528915364831",
+      "post_id": "1181533578372151_122136528939364831"
+    },
+    "timestamp": "2026-09-28T18:24:00.947927"
   }
 ]
