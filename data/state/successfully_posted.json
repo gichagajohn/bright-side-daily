@@ -16284,5 +16284,26 @@
       "post_id": "1181533578372151_122136549981364831"
     },
     "timestamp": "2026-09-28T21:25:31.649242"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Push past comfortable into powerful.",
+      "content_index": 519,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T22:51:31.192674",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Push past comfortable into powerful.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122136559977364831",
+      "post_id": "1181533578372151_122136560001364831"
+    },
+    "timestamp": "2026-09-28T22:51:35.893147"
   }
 ]
