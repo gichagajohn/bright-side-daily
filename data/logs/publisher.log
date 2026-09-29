@@ -11334,3 +11334,17 @@ Drop your answer in the comments below 👇
 #Comm...
 2026-09-29 18:31:38,152 [INFO] ✅ Posted successfully [engagement_question]
 2026-09-29 18:31:38,164 [INFO] Slot published successfully: engagement_question
+2026-09-29 20:16:28,541 [INFO] Failed posts list is empty.
+2026-09-29 20:16:28,742 [INFO] ============================================================
+2026-09-29 20:16:28,742 [INFO] Running slot: morning_motivation
+2026-09-29 20:16:28,742 [INFO] ============================================================
+2026-09-29 20:16:28,993 [INFO] Content selected: Make every rep count. Every hour. Every day.
+2026-09-29 20:16:30,045 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_675.jpg
+2026-09-29 20:16:30,045 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_675.jpg
+2026-09-29 20:16:30,045 [INFO] Caption preview: ☀️ Make every rep count. Every hour. Every day.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mi...
+2026-09-29 20:16:34,589 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-29 20:16:34,607 [INFO] Slot published successfully: morning_motivation

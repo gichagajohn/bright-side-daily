@@ -16410,5 +16410,26 @@
       "post_id": "1181533578372151_122136750849364831"
     },
     "timestamp": "2026-09-29T18:31:38.154818"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Make every rep count. Every hour. Every day.",
+      "content_index": 675,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T20:16:28.993938",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Make every rep count. Every hour. Every day.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122136762333364831",
+      "post_id": "1181533578372151_122136762357364831"
+    },
+    "timestamp": "2026-09-29T20:16:34.592897"
   }
 ]
