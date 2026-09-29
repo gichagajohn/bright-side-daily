@@ -11348,3 +11348,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mi...
 2026-09-29 20:16:34,589 [INFO] ✅ Posted successfully [morning_motivation]
 2026-09-29 20:16:34,607 [INFO] Slot published successfully: morning_motivation
+2026-09-29 21:45:26,642 [INFO] Failed posts list is empty.
+2026-09-29 21:45:26,850 [INFO] ============================================================
+2026-09-29 21:45:26,850 [INFO] Running slot: morning_motivation
+2026-09-29 21:45:26,850 [INFO] ============================================================
+2026-09-29 21:45:27,075 [INFO] Content selected: The harder the climb, the better the view.
+2026-09-29 21:45:28,262 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_134.jpg
+2026-09-29 21:45:28,263 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_134.jpg
+2026-09-29 21:45:28,263 [INFO] Caption preview: ☀️ The harder the climb, the better the view.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mind...
+2026-09-29 21:45:33,184 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-29 21:45:33,202 [INFO] Slot published successfully: morning_motivation

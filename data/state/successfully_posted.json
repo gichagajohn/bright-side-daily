@@ -16431,5 +16431,26 @@
       "post_id": "1181533578372151_122136762357364831"
     },
     "timestamp": "2026-09-29T20:16:34.592897"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The harder the climb, the better the view.",
+      "content_index": 134,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T21:45:27.075561",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The harder the climb, the better the view.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122136773067364831",
+      "post_id": "1181533578372151_122136773091364831"
+    },
+    "timestamp": "2026-09-29T21:45:33.187545"
   }
 ]
