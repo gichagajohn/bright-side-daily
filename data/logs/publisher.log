@@ -11292,3 +11292,17 @@ Share this with someone who needs it today! 💛
 #Y...
 2026-09-29 13:51:00,413 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-09-29 13:51:00,431 [INFO] Slot published successfully: midday_encouragement
+2026-09-29 15:20:18,747 [INFO] Failed posts list is empty.
+2026-09-29 15:20:18,919 [INFO] ============================================================
+2026-09-29 15:20:18,919 [INFO] Running slot: morning_motivation
+2026-09-29 15:20:18,919 [INFO] ============================================================
+2026-09-29 15:20:19,157 [INFO] Content selected: Your commitment to your goals will outlast any obstacle.
+2026-09-29 15:20:20,141 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_481.jpg
+2026-09-29 15:20:20,141 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_481.jpg
+2026-09-29 15:20:20,141 [INFO] Caption preview: ☀️ Your commitment to your goals will outlast any obstacle.
+
+Share this with someone who needs it today! 💛
+
+#Motivation ...
+2026-09-29 15:20:25,682 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-29 15:20:25,700 [INFO] Slot published successfully: morning_motivation
