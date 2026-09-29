@@ -16326,5 +16326,26 @@
       "post_id": "1181533578372151_122136682311364831"
     },
     "timestamp": "2026-09-29T11:09:42.135134"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "There is more grace available for you than you have yet discovered.",
+      "content_index": 355,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "lone hiker emerging from a dense forest"
+      },
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T13:50:54.615426",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa There is more grace available for you than you have yet discovered.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122136708267364831",
+      "post_id": "1181533578372151_122136708291364831"
+    },
+    "timestamp": "2026-09-29T13:51:00.416919"
   }
 ]
