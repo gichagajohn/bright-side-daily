@@ -11320,3 +11320,17 @@ Share this with someone who needs it today! 💛
 #Gratitud...
 2026-09-29 16:46:57,258 [INFO] ✅ Posted successfully [evening_reflection]
 2026-09-29 16:46:57,272 [INFO] Slot published successfully: evening_reflection
+2026-09-29 18:31:32,945 [INFO] Failed posts list is empty.
+2026-09-29 18:31:33,051 [INFO] ============================================================
+2026-09-29 18:31:33,051 [INFO] Running slot: engagement_question
+2026-09-29 18:31:33,051 [INFO] ============================================================
+2026-09-29 18:31:33,204 [INFO] Content selected: If you could send a message to your younger self, what would you say?
+2026-09-29 18:31:33,824 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_4.jpg
+2026-09-29 18:31:33,825 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_4.jpg
+2026-09-29 18:31:33,825 [INFO] Caption preview: 💬 If you could send a message to your younger self, what would you say?
+
+Drop your answer in the comments below 👇
+
+#Comm...
+2026-09-29 18:31:38,152 [INFO] ✅ Posted successfully [engagement_question]
+2026-09-29 18:31:38,164 [INFO] Slot published successfully: engagement_question
