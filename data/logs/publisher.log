@@ -11432,3 +11432,17 @@ Drop your answer in the comments below 👇
 #Comm...
 2026-09-30 18:20:19,303 [INFO] ✅ Posted successfully [engagement_question]
 2026-09-30 18:20:19,321 [INFO] Slot published successfully: engagement_question
+2026-09-30 20:20:56,496 [INFO] Failed posts list is empty.
+2026-09-30 20:20:56,694 [INFO] ============================================================
+2026-09-30 20:20:56,694 [INFO] Running slot: morning_motivation
+2026-09-30 20:20:56,695 [INFO] ============================================================
+2026-09-30 20:20:56,908 [INFO] Content selected: Don't wish for it. Work for it.
+2026-09-30 20:20:57,410 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_117.jpg
+2026-09-30 20:20:57,410 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_117.jpg
+2026-09-30 20:20:57,410 [INFO] Caption preview: ☀️ Don't wish for it. Work for it.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters ...
+2026-09-30 20:21:02,362 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-30 20:21:02,380 [INFO] Slot published successfully: morning_motivation

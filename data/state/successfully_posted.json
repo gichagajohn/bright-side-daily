@@ -16557,5 +16557,26 @@
       "post_id": "1181533578372151_122136940491364831"
     },
     "timestamp": "2026-09-30T18:20:19.306785"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Don't wish for it. Work for it.",
+      "content_index": 117,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-09-30",
+      "timestamp": "2026-09-30T20:20:56.908702",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Don't wish for it. Work for it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122136968091364831",
+      "post_id": "1181533578372151_122136968115364831"
+    },
+    "timestamp": "2026-09-30T20:21:02.365464"
   }
 ]
