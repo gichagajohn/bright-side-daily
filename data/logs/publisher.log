@@ -11390,3 +11390,17 @@ Share this with someone who needs it today! 💛
 #YouGotThis #KeepGoi...
 2026-09-30 13:24:46,371 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-09-30 13:24:46,385 [INFO] Slot published successfully: midday_encouragement
+2026-09-30 15:35:45,226 [INFO] Failed posts list is empty.
+2026-09-30 15:35:45,401 [INFO] ============================================================
+2026-09-30 15:35:45,401 [INFO] Running slot: morning_motivation
+2026-09-30 15:35:45,401 [INFO] ============================================================
+2026-09-30 15:35:45,774 [INFO] Content selected: Today's sacrifice is tomorrow's success story.
+2026-09-30 15:35:46,204 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_642.jpg
+2026-09-30 15:35:46,204 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_642.jpg
+2026-09-30 15:35:46,204 [INFO] Caption preview: ☀️ Today's sacrifice is tomorrow's success story.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #...
+2026-09-30 15:35:52,416 [INFO] ✅ Posted successfully [morning_motivation]
+2026-09-30 15:35:52,434 [INFO] Slot published successfully: morning_motivation
