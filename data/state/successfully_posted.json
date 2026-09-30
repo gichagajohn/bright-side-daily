@@ -16452,5 +16452,26 @@
       "post_id": "1181533578372151_122136773091364831"
     },
     "timestamp": "2026-09-29T21:45:33.187545"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You hold the power to shape your future.",
+      "content_index": 367,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-09-30",
+      "timestamp": "2026-09-30T10:55:23.696276",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You hold the power to shape your future.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122136872355364831",
+      "post_id": "1181533578372151_122136872379364831"
+    },
+    "timestamp": "2026-09-30T10:55:28.704645"
   }
 ]
