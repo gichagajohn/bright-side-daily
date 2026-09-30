@@ -16578,5 +16578,26 @@
       "post_id": "1181533578372151_122136968115364831"
     },
     "timestamp": "2026-09-30T20:21:02.365464"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Compete at your highest level every single day.",
+      "content_index": 473,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-09-30",
+      "timestamp": "2026-09-30T21:45:58.866577",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Compete at your highest level every single day.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122136981495364831",
+      "post_id": "1181533578372151_122136981519364831"
+    },
+    "timestamp": "2026-09-30T21:46:02.790247"
   }
 ]
