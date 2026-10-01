@@ -16704,5 +16704,26 @@
       "post_id": "1181533578372151_122137150029364831"
     },
     "timestamp": "2026-10-01T20:36:09.593283"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Be the exception to every rule that says it can't be done.",
+      "content_index": 679,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-10-01",
+      "timestamp": "2026-10-01T22:13:47.275431",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Be the exception to every rule that says it can't be done.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122137160139364831",
+      "post_id": "1181533578372151_122137160163364831"
+    },
+    "timestamp": "2026-10-01T22:13:51.687390"
   }
 ]
