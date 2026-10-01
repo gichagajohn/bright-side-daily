@@ -16662,5 +16662,26 @@
       "post_id": "1181533578372151_122137130445364831"
     },
     "timestamp": "2026-10-01T17:15:05.733593"
+  },
+  {
+    "post": {
+      "slot": "engagement_question",
+      "category": "engagement_questions",
+      "content": "What's a belief you're currently challenging in yourself?",
+      "content_index": 377,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "hand-drawn thought bubbles"
+      },
+      "date": "2026-10-01",
+      "timestamp": "2026-10-01T18:45:58.301758",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcac What's a belief you're currently challenging in yourself?\n\nDrop your answer in the comments below \ud83d\udc47\n\n#Community #ShareYourThoughts #QuestionOfTheDay #ChatWithUs #BrightSideFamily #BrightSideDaily",
+    "fb_response": {
+      "id": "122137138719364831",
+      "post_id": "1181533578372151_122137138743364831"
+    },
+    "timestamp": "2026-10-01T18:46:03.017471"
   }
 ]

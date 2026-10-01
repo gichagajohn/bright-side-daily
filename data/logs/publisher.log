@@ -11520,3 +11520,17 @@ Share this with someone who needs it today! 💛
 #Motivati...
 2026-10-01 17:15:05,730 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-01 17:15:05,748 [INFO] Slot published successfully: morning_motivation
+2026-10-01 18:45:57,692 [INFO] Failed posts list is empty.
+2026-10-01 18:45:57,853 [INFO] ============================================================
+2026-10-01 18:45:57,853 [INFO] Running slot: engagement_question
+2026-10-01 18:45:57,853 [INFO] ============================================================
+2026-10-01 18:45:58,301 [INFO] Content selected: What's a belief you're currently challenging in yourself?
+2026-10-01 18:45:58,901 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_377.jpg
+2026-10-01 18:45:58,901 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_377.jpg
+2026-10-01 18:45:58,901 [INFO] Caption preview: 💬 What's a belief you're currently challenging in yourself?
+
+Drop your answer in the comments below 👇
+
+#Community #Share...
+2026-10-01 18:46:03,014 [INFO] ✅ Posted successfully [engagement_question]
+2026-10-01 18:46:03,032 [INFO] Slot published successfully: engagement_question
