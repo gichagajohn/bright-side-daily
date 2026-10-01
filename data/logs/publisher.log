@@ -11506,3 +11506,17 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/requests/models.py", line 1167, in raise_for_status
     raise HTTPError(http_error_msg, response=self)
 requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://api.pexels.com/v1/search?query=person+reaching+mountain+summit+sunrise&per_page=15&orientation=square
+2026-10-01 17:14:59,770 [INFO] Failed posts list is empty.
+2026-10-01 17:14:59,928 [INFO] ============================================================
+2026-10-01 17:14:59,928 [INFO] Running slot: morning_motivation
+2026-10-01 17:14:59,928 [INFO] ============================================================
+2026-10-01 17:15:00,124 [INFO] Content selected: Every sacrifice is a brick in the building of your success.
+2026-10-01 17:15:00,587 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_690.jpg
+2026-10-01 17:15:00,588 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_690.jpg
+2026-10-01 17:15:00,588 [INFO] Caption preview: ☀️ Every sacrifice is a brick in the building of your success.
+
+Share this with someone who needs it today! 💛
+
+#Motivati...
+2026-10-01 17:15:05,730 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-01 17:15:05,748 [INFO] Slot published successfully: morning_motivation
