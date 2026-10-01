@@ -11488,3 +11488,21 @@ Share this with someone who needs it today! 💛
 #Motivation #Succes...
 2026-10-01 14:17:51,821 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-01 14:17:51,840 [INFO] Slot published successfully: morning_motivation
+2026-10-01 15:59:18,293 [INFO] Failed posts list is empty.
+2026-10-01 15:59:18,453 [INFO] ============================================================
+2026-10-01 15:59:18,453 [INFO] Running slot: morning_motivation
+2026-10-01 15:59:18,453 [INFO] ============================================================
+2026-10-01 15:59:18,762 [INFO] Content selected: Your work ethic is your loudest statement.
+2026-10-01 15:59:20,950 [ERROR] Photo generation failed. Post will be skipped: 500 Server Error: Internal Server Error for url: https://api.pexels.com/v1/search?query=person+reaching+mountain+summit+sunrise&per_page=15&orientation=square
+Traceback (most recent call last):
+  File "/home/runner/work/bright-side-daily/bright-side-daily/src/scheduler.py", line 131, in run_slot
+    image_path = generator.generate(post)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/bright-side-daily/bright-side-daily/src/generators/pexels_photo_generator.py", line 129, in generate
+    image_response = requests.get(self._download_url(query), timeout=60)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/bright-side-daily/bright-side-daily/src/generators/pexels_photo_generator.py", line 105, in _download_url
+    response.raise_for_status()
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://api.pexels.com/v1/search?query=person+reaching+mountain+summit+sunrise&per_page=15&orientation=square
