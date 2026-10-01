@@ -11534,3 +11534,17 @@ Drop your answer in the comments below 👇
 #Community #Share...
 2026-10-01 18:46:03,014 [INFO] ✅ Posted successfully [engagement_question]
 2026-10-01 18:46:03,032 [INFO] Slot published successfully: engagement_question
+2026-10-01 20:36:04,264 [INFO] Failed posts list is empty.
+2026-10-01 20:36:04,412 [INFO] ============================================================
+2026-10-01 20:36:04,412 [INFO] Running slot: morning_motivation
+2026-10-01 20:36:04,412 [INFO] ============================================================
+2026-10-01 20:36:04,614 [INFO] Content selected: You are becoming the person you were always meant to be.
+2026-10-01 20:36:05,553 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_406.jpg
+2026-10-01 20:36:05,553 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_406.jpg
+2026-10-01 20:36:05,553 [INFO] Caption preview: ☀️ You are becoming the person you were always meant to be.
+
+Share this with someone who needs it today! 💛
+
+#Motivation ...
+2026-10-01 20:36:09,589 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-01 20:36:09,607 [INFO] Slot published successfully: morning_motivation
