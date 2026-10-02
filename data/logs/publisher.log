@@ -11630,3 +11630,17 @@ Drop your answer in the comments below 👇
 #...
 2026-10-02 18:18:02,151 [INFO] ✅ Posted successfully [engagement_question]
 2026-10-02 18:18:02,170 [INFO] Slot published successfully: engagement_question
+2026-10-02 20:11:04,523 [INFO] Failed posts list is empty.
+2026-10-02 20:11:04,678 [INFO] ============================================================
+2026-10-02 20:11:04,678 [INFO] Running slot: morning_motivation
+2026-10-02 20:11:04,678 [INFO] ============================================================
+2026-10-02 20:11:05,116 [INFO] Content selected: You have one life and one chance to give it everything. Go.
+2026-10-02 20:11:05,823 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_628.jpg
+2026-10-02 20:11:05,824 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_628.jpg
+2026-10-02 20:11:05,824 [INFO] Caption preview: ☀️ You have one life and one chance to give it everything. Go.
+
+Share this with someone who needs it today! 💛
+
+#Motivati...
+2026-10-02 20:11:10,885 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-02 20:11:10,903 [INFO] Slot published successfully: morning_motivation
