@@ -11644,3 +11644,17 @@ Share this with someone who needs it today! 💛
 #Motivati...
 2026-10-02 20:11:10,885 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-02 20:11:10,903 [INFO] Slot published successfully: morning_motivation
+2026-10-02 21:42:16,958 [INFO] Failed posts list is empty.
+2026-10-02 21:42:17,070 [INFO] ============================================================
+2026-10-02 21:42:17,070 [INFO] Running slot: morning_motivation
+2026-10-02 21:42:17,070 [INFO] ============================================================
+2026-10-02 21:42:17,209 [INFO] Content selected: Make something out of nothing. That is the mark of a champion.
+2026-10-02 21:42:18,319 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_614.jpg
+2026-10-02 21:42:18,320 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_614.jpg
+2026-10-02 21:42:18,320 [INFO] Caption preview: ☀️ Make something out of nothing. That is the mark of a champion.
+
+Share this with someone who needs it today! 💛
+
+#Motiv...
+2026-10-02 21:42:21,715 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-02 21:42:21,728 [INFO] Slot published successfully: morning_motivation
