@@ -11588,3 +11588,17 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it tod...
 2026-10-02 13:39:59,826 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-10-02 13:39:59,844 [INFO] Slot published successfully: midday_encouragement
+2026-10-02 15:20:53,020 [INFO] Failed posts list is empty.
+2026-10-02 15:20:53,228 [INFO] ============================================================
+2026-10-02 15:20:53,228 [INFO] Running slot: morning_motivation
+2026-10-02 15:20:53,228 [INFO] ============================================================
+2026-10-02 15:20:53,512 [INFO] Content selected: Stop doubting yourself. Work hard and make it happen.
+2026-10-02 15:20:55,505 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_130.jpg
+2026-10-02 15:20:55,505 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_130.jpg
+2026-10-02 15:20:55,505 [INFO] Caption preview: ☀️ Stop doubting yourself. Work hard and make it happen.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Su...
+2026-10-02 15:20:59,291 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-02 15:20:59,309 [INFO] Slot published successfully: morning_motivation

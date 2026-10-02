@@ -16767,5 +16767,26 @@
       "post_id": "1181533578372151_122137270317364831"
     },
     "timestamp": "2026-10-02T13:39:59.830197"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Stop doubting yourself. Work hard and make it happen.",
+      "content_index": 130,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T15:20:53.512341",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Stop doubting yourself. Work hard and make it happen.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122137284741364831",
+      "post_id": "1181533578372151_122137284789364831"
+    },
+    "timestamp": "2026-10-02T15:20:59.294818"
   }
 ]
