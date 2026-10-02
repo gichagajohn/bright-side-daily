@@ -11616,3 +11616,17 @@ Share this with someone who needs it today! 💛
 #Gratitude #Thankful ...
 2026-10-02 16:28:44,546 [INFO] ✅ Posted successfully [evening_reflection]
 2026-10-02 16:28:44,560 [INFO] Slot published successfully: evening_reflection
+2026-10-02 18:17:55,071 [INFO] Failed posts list is empty.
+2026-10-02 18:17:55,250 [INFO] ============================================================
+2026-10-02 18:17:55,250 [INFO] Running slot: engagement_question
+2026-10-02 18:17:55,250 [INFO] ============================================================
+2026-10-02 18:17:55,571 [INFO] Content selected: What's your relationship with failure — fear, teacher, or something else?
+2026-10-02 18:17:56,222 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_209.jpg
+2026-10-02 18:17:56,222 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_209.jpg
+2026-10-02 18:17:56,222 [INFO] Caption preview: 💬 What's your relationship with failure — fear, teacher, or something else?
+
+Drop your answer in the comments below 👇
+
+#...
+2026-10-02 18:18:02,151 [INFO] ✅ Posted successfully [engagement_question]
+2026-10-02 18:18:02,170 [INFO] Slot published successfully: engagement_question

@@ -16809,5 +16809,26 @@
       "post_id": "1181533578372151_122137297011364831"
     },
     "timestamp": "2026-10-02T16:28:44.550027"
+  },
+  {
+    "post": {
+      "slot": "engagement_question",
+      "category": "engagement_questions",
+      "content": "What's your relationship with failure \u2014 fear, teacher, or something else?",
+      "content_index": 209,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "warm coffee on table beside a sunrise window"
+      },
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T18:17:55.571786",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcac What's your relationship with failure \u2014 fear, teacher, or something else?\n\nDrop your answer in the comments below \ud83d\udc47\n\n#Community #ShareYourThoughts #QuestionOfTheDay #ChatWithUs #BrightSideFamily #BrightSideDaily",
+    "fb_response": {
+      "id": "122137316169364831",
+      "post_id": "1181533578372151_122137316193364831"
+    },
+    "timestamp": "2026-10-02T18:18:02.155586"
   }
 ]
