@@ -16893,5 +16893,26 @@
       "post_id": "1181533578372151_122137493523364831"
     },
     "timestamp": "2026-10-03T10:13:58.167093"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The best way out is always through.",
+      "content_index": 186,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T12:18:27.027672",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The best way out is always through.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122137528689364831",
+      "post_id": "1181533578372151_122137528713364831"
+    },
+    "timestamp": "2026-10-03T12:18:31.628981"
   }
 ]

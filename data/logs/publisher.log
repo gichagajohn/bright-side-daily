@@ -11672,3 +11672,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mi...
 2026-10-03 10:13:58,163 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-03 10:13:58,184 [INFO] Slot published successfully: morning_motivation
+2026-10-03 12:18:26,757 [INFO] Failed posts list is empty.
+2026-10-03 12:18:26,859 [INFO] ============================================================
+2026-10-03 12:18:26,859 [INFO] Running slot: morning_motivation
+2026-10-03 12:18:26,859 [INFO] ============================================================
+2026-10-03 12:18:27,027 [INFO] Content selected: The best way out is always through.
+2026-10-03 12:18:27,623 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_186.jpg
+2026-10-03 12:18:27,623 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_186.jpg
+2026-10-03 12:18:27,623 [INFO] Caption preview: ☀️ The best way out is always through.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatt...
+2026-10-03 12:18:31,625 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-03 12:18:31,638 [INFO] Slot published successfully: morning_motivation
