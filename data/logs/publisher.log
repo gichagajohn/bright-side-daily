@@ -11726,3 +11726,17 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it toda...
 2026-10-03 17:08:18,799 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-03 17:08:18,818 [INFO] Slot published successfully: morning_motivation
+2026-10-03 18:50:45,432 [INFO] Failed posts list is empty.
+2026-10-03 18:50:45,671 [INFO] ============================================================
+2026-10-03 18:50:45,671 [INFO] Running slot: engagement_question
+2026-10-03 18:50:45,671 [INFO] ============================================================
+2026-10-03 18:50:45,870 [INFO] Content selected: What's something that has softened your heart recently?
+2026-10-03 18:50:46,477 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_328.jpg
+2026-10-03 18:50:46,477 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_328.jpg
+2026-10-03 18:50:46,477 [INFO] Caption preview: 💬 What's something that has softened your heart recently?
+
+Drop your answer in the comments below 👇
+
+#Community #ShareYo...
+2026-10-03 18:50:51,118 [INFO] ✅ Posted successfully [engagement_question]
+2026-10-03 18:50:51,136 [INFO] Slot published successfully: engagement_question
