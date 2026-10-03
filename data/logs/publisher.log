@@ -11740,3 +11740,17 @@ Drop your answer in the comments below 👇
 #Community #ShareYo...
 2026-10-03 18:50:51,118 [INFO] ✅ Posted successfully [engagement_question]
 2026-10-03 18:50:51,136 [INFO] Slot published successfully: engagement_question
+2026-10-03 20:27:48,089 [INFO] Failed posts list is empty.
+2026-10-03 20:27:48,241 [INFO] ============================================================
+2026-10-03 20:27:48,242 [INFO] Running slot: morning_motivation
+2026-10-03 20:27:48,242 [INFO] ============================================================
+2026-10-03 20:27:48,758 [INFO] Content selected: The secret to success is to start.
+2026-10-03 20:27:49,648 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_32.jpg
+2026-10-03 20:27:49,648 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_32.jpg
+2026-10-03 20:27:49,648 [INFO] Caption preview: ☀️ The secret to success is to start.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatte...
+2026-10-03 20:27:54,621 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-03 20:27:54,652 [INFO] Slot published successfully: morning_motivation

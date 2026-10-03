@@ -16998,5 +16998,26 @@
       "post_id": "1181533578372151_122137607277364831"
     },
     "timestamp": "2026-10-03T18:50:51.122231"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The secret to success is to start.",
+      "content_index": 32,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T20:27:48.758370",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The secret to success is to start.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122137618263364831",
+      "post_id": "1181533578372151_122137618287364831"
+    },
+    "timestamp": "2026-10-03T20:27:54.627663"
   }
 ]
