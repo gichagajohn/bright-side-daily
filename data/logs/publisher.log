@@ -11700,3 +11700,17 @@ Share this with someone who needs it today! 💛
 #Motivat...
 2026-10-03 14:07:58,489 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-03 14:07:58,504 [INFO] Slot published successfully: morning_motivation
+2026-10-03 15:02:20,251 [INFO] Failed posts list is empty.
+2026-10-03 15:02:20,439 [INFO] ============================================================
+2026-10-03 15:02:20,439 [INFO] Running slot: morning_motivation
+2026-10-03 15:02:20,439 [INFO] ============================================================
+2026-10-03 15:02:20,667 [INFO] Content selected: Become so exceptional the world can't ignore you.
+2026-10-03 15:02:23,032 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_446.jpg
+2026-10-03 15:02:23,032 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_446.jpg
+2026-10-03 15:02:23,033 [INFO] Caption preview: ☀️ Become so exceptional the world can't ignore you.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succes...
+2026-10-03 15:02:26,410 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-03 15:02:26,428 [INFO] Slot published successfully: morning_motivation
