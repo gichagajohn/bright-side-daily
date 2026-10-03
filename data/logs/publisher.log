@@ -11658,3 +11658,17 @@ Share this with someone who needs it today! 💛
 #Motiv...
 2026-10-02 21:42:21,715 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-02 21:42:21,728 [INFO] Slot published successfully: morning_motivation
+2026-10-03 10:13:50,911 [INFO] Failed posts list is empty.
+2026-10-03 10:13:51,076 [INFO] ============================================================
+2026-10-03 10:13:51,076 [INFO] Running slot: morning_motivation
+2026-10-03 10:13:51,076 [INFO] ============================================================
+2026-10-03 10:13:51,315 [INFO] Content selected: You were born to lead yourself to greatness.
+2026-10-03 10:13:53,996 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_658.jpg
+2026-10-03 10:13:53,996 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_658.jpg
+2026-10-03 10:13:53,996 [INFO] Caption preview: ☀️ You were born to lead yourself to greatness.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mi...
+2026-10-03 10:13:58,163 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-03 10:13:58,184 [INFO] Slot published successfully: morning_motivation
