@@ -11686,3 +11686,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatt...
 2026-10-03 12:18:31,625 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-03 12:18:31,638 [INFO] Slot published successfully: morning_motivation
+2026-10-03 14:07:47,349 [INFO] Failed posts list is empty.
+2026-10-03 14:07:47,465 [INFO] ============================================================
+2026-10-03 14:07:47,465 [INFO] Running slot: morning_motivation
+2026-10-03 14:07:47,465 [INFO] ============================================================
+2026-10-03 14:07:47,692 [INFO] Content selected: Your only job is to be better today than you were yesterday.
+2026-10-03 14:07:48,334 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_226.jpg
+2026-10-03 14:07:48,334 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_226.jpg
+2026-10-03 14:07:48,334 [INFO] Caption preview: ☀️ Your only job is to be better today than you were yesterday.
+
+Share this with someone who needs it today! 💛
+
+#Motivat...
+2026-10-03 14:07:58,489 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-03 14:07:58,504 [INFO] Slot published successfully: morning_motivation
