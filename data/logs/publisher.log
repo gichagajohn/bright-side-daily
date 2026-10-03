@@ -11714,3 +11714,15 @@ Share this with someone who needs it today! 💛
 #Motivation #Succes...
 2026-10-03 15:02:26,410 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-03 15:02:26,428 [INFO] Slot published successfully: morning_motivation
+2026-10-03 17:08:13,823 [INFO] Failed posts list is empty.
+2026-10-03 17:08:13,986 [INFO] ============================================================
+2026-10-03 17:08:13,986 [INFO] Running slot: morning_motivation
+2026-10-03 17:08:13,986 [INFO] ============================================================
+2026-10-03 17:08:14,213 [INFO] Content selected: Your destiny doesn't come to those who wait. It comes to those who create.
+2026-10-03 17:08:14,631 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_536.jpg
+2026-10-03 17:08:14,632 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_536.jpg
+2026-10-03 17:08:14,632 [INFO] Caption preview: ☀️ Your destiny doesn't come to those who wait. It comes to those who create.
+
+Share this with someone who needs it toda...
+2026-10-03 17:08:18,799 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-03 17:08:18,818 [INFO] Slot published successfully: morning_motivation

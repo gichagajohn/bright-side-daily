@@ -16956,5 +16956,26 @@
       "post_id": "1181533578372151_122137574697364831"
     },
     "timestamp": "2026-10-03T15:02:26.413629"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your destiny doesn't come to those who wait. It comes to those who create.",
+      "content_index": 536,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T17:08:14.213059",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your destiny doesn't come to those who wait. It comes to those who create.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122137594851364831",
+      "post_id": "1181533578372151_122137594875364831"
+    },
+    "timestamp": "2026-10-03T17:08:18.803157"
   }
 ]
