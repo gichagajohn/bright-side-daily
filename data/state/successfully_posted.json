@@ -17145,5 +17145,26 @@
       "post_id": "1181533578372151_122137800771364831"
     },
     "timestamp": "2026-10-04T18:50:16.570948"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Train your mind to see the good in everything.",
+      "content_index": 340,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T20:45:57.712826",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Train your mind to see the good in everything.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122137816353364831",
+      "post_id": "1181533578372151_122137816377364831"
+    },
+    "timestamp": "2026-10-04T20:46:02.527651"
   }
 ]

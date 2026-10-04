@@ -11836,3 +11836,17 @@ Share this with someone who needs it today! 💛
 Drop your answer in the comments below...
 2026-10-04 18:50:16,568 [INFO] ✅ Posted successfully [engagement_question]
 2026-10-04 18:50:16,580 [INFO] Slot published successfully: engagement_question
+2026-10-04 20:45:57,357 [INFO] Failed posts list is empty.
+2026-10-04 20:45:57,499 [INFO] ============================================================
+2026-10-04 20:45:57,500 [INFO] Running slot: morning_motivation
+2026-10-04 20:45:57,500 [INFO] ============================================================
+2026-10-04 20:45:57,712 [INFO] Content selected: Train your mind to see the good in everything.
+2026-10-04 20:45:58,477 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_340.jpg
+2026-10-04 20:45:58,477 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_340.jpg
+2026-10-04 20:45:58,477 [INFO] Caption preview: ☀️ Train your mind to see the good in everything.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #...
+2026-10-04 20:46:02,524 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-04 20:46:02,539 [INFO] Slot published successfully: morning_motivation
