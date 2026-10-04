@@ -11824,3 +11824,15 @@ Share this with someone who needs it today! 💛
 #Motivat...
 2026-10-04 17:23:57,715 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-04 17:23:57,735 [INFO] Slot published successfully: morning_motivation
+2026-10-04 18:50:11,724 [INFO] Failed posts list is empty.
+2026-10-04 18:50:11,836 [INFO] ============================================================
+2026-10-04 18:50:11,837 [INFO] Running slot: engagement_question
+2026-10-04 18:50:11,837 [INFO] ============================================================
+2026-10-04 18:50:12,010 [INFO] Content selected: What's one thing you want to say to yourself today, out loud, in the comments?
+2026-10-04 18:50:12,822 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_472.jpg
+2026-10-04 18:50:12,823 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_472.jpg
+2026-10-04 18:50:12,823 [INFO] Caption preview: 💬 What's one thing you want to say to yourself today, out loud, in the comments?
+
+Drop your answer in the comments below...
+2026-10-04 18:50:16,568 [INFO] ✅ Posted successfully [engagement_question]
+2026-10-04 18:50:16,580 [INFO] Slot published successfully: engagement_question
