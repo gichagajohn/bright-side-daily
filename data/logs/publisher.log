@@ -11810,3 +11810,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters ...
 2026-10-04 15:38:39,469 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-04 15:38:39,481 [INFO] Slot published successfully: morning_motivation
+2026-10-04 17:23:52,701 [INFO] Failed posts list is empty.
+2026-10-04 17:23:52,864 [INFO] ============================================================
+2026-10-04 17:23:52,864 [INFO] Running slot: morning_motivation
+2026-10-04 17:23:52,864 [INFO] ============================================================
+2026-10-04 17:23:53,220 [INFO] Content selected: Rise every single day with something to prove — to yourself.
+2026-10-04 17:23:54,332 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_629.jpg
+2026-10-04 17:23:54,332 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_629.jpg
+2026-10-04 17:23:54,332 [INFO] Caption preview: ☀️ Rise every single day with something to prove — to yourself.
+
+Share this with someone who needs it today! 💛
+
+#Motivat...
+2026-10-04 17:23:57,715 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-04 17:23:57,735 [INFO] Slot published successfully: morning_motivation
