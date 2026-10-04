@@ -11782,3 +11782,17 @@ Share this with someone who needs it today! 💛
 #YouGotThis #KeepGoing #Ne...
 2026-10-04 13:04:55,314 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-10-04 13:04:55,332 [INFO] Slot published successfully: midday_encouragement
+2026-10-04 14:36:34,861 [INFO] Failed posts list is empty.
+2026-10-04 14:36:35,101 [INFO] ============================================================
+2026-10-04 14:36:35,101 [INFO] Running slot: morning_motivation
+2026-10-04 14:36:35,101 [INFO] ============================================================
+2026-10-04 14:36:35,298 [INFO] Content selected: Your growth is proof that you're doing it right.
+2026-10-04 14:36:36,312 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_386.jpg
+2026-10-04 14:36:36,312 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_386.jpg
+2026-10-04 14:36:36,312 [INFO] Caption preview: ☀️ Your growth is proof that you're doing it right.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success...
+2026-10-04 14:36:39,700 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-04 14:36:39,719 [INFO] Slot published successfully: morning_motivation

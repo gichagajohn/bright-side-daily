@@ -17061,5 +17061,26 @@
       "post_id": "1181533578372151_122137755795364831"
     },
     "timestamp": "2026-10-04T13:04:55.318710"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your growth is proof that you're doing it right.",
+      "content_index": 386,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T14:36:35.298707",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your growth is proof that you're doing it right.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122137766961364831",
+      "post_id": "1181533578372151_122137766991364831"
+    },
+    "timestamp": "2026-10-04T14:36:39.704227"
   }
 ]
