@@ -17082,5 +17082,26 @@
       "post_id": "1181533578372151_122137766991364831"
     },
     "timestamp": "2026-10-04T14:36:39.704227"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your time is now. Stop waiting.",
+      "content_index": 115,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T15:38:35.308232",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your time is now. Stop waiting.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122137776315364831",
+      "post_id": "1181533578372151_122137776339364831"
+    },
+    "timestamp": "2026-10-04T15:38:39.471891"
   }
 ]
