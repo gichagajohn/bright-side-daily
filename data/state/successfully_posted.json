@@ -17166,5 +17166,26 @@
       "post_id": "1181533578372151_122137816377364831"
     },
     "timestamp": "2026-10-04T20:46:02.527651"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Never confuse movement with progress.",
+      "content_index": 423,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-10-05",
+      "timestamp": "2026-10-05T12:04:13.610364",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Never confuse movement with progress.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122137932261364831",
+      "post_id": "1181533578372151_122137932285364831"
+    },
+    "timestamp": "2026-10-05T12:04:21.444011"
   }
 ]

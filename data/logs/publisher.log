@@ -11850,3 +11850,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #...
 2026-10-04 20:46:02,524 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-04 20:46:02,539 [INFO] Slot published successfully: morning_motivation
+2026-10-05 12:04:13,247 [INFO] Failed posts list is empty.
+2026-10-05 12:04:13,410 [INFO] ============================================================
+2026-10-05 12:04:13,410 [INFO] Running slot: morning_motivation
+2026-10-05 12:04:13,410 [INFO] ============================================================
+2026-10-05 12:04:13,610 [INFO] Content selected: Never confuse movement with progress.
+2026-10-05 12:04:15,274 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_423.jpg
+2026-10-05 12:04:15,274 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_423.jpg
+2026-10-05 12:04:15,274 [INFO] Caption preview: ☀️ Never confuse movement with progress.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMa...
+2026-10-05 12:04:21,440 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-05 12:04:21,458 [INFO] Slot published successfully: morning_motivation
