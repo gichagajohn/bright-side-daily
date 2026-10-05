@@ -17208,5 +17208,26 @@
       "post_id": "1181533578372151_122137966749364831"
     },
     "timestamp": "2026-10-05T15:39:39.493289"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The only thing between you and your goal is the work.",
+      "content_index": 508,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-10-05",
+      "timestamp": "2026-10-05T17:51:00.606385",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The only thing between you and your goal is the work.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122137985823364831",
+      "post_id": "1181533578372151_122137985847364831"
+    },
+    "timestamp": "2026-10-05T17:51:04.910305"
   }
 ]

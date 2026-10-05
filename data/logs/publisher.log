@@ -11878,3 +11878,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetM...
 2026-10-05 15:39:39,489 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-05 15:39:39,504 [INFO] Slot published successfully: morning_motivation
+2026-10-05 17:51:00,208 [INFO] Failed posts list is empty.
+2026-10-05 17:51:00,373 [INFO] ============================================================
+2026-10-05 17:51:00,373 [INFO] Running slot: morning_motivation
+2026-10-05 17:51:00,373 [INFO] ============================================================
+2026-10-05 17:51:00,606 [INFO] Content selected: The only thing between you and your goal is the work.
+2026-10-05 17:51:01,397 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_508.jpg
+2026-10-05 17:51:01,397 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_508.jpg
+2026-10-05 17:51:01,397 [INFO] Caption preview: ☀️ The only thing between you and your goal is the work.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Su...
+2026-10-05 17:51:04,907 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-05 17:51:04,925 [INFO] Slot published successfully: morning_motivation
