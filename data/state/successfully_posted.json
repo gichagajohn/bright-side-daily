@@ -17187,5 +17187,26 @@
       "post_id": "1181533578372151_122137932285364831"
     },
     "timestamp": "2026-10-05T12:04:21.444011"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Go further than you thought you could.",
+      "content_index": 399,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-10-05",
+      "timestamp": "2026-10-05T15:39:35.537654",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Go further than you thought you could.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122137966725364831",
+      "post_id": "1181533578372151_122137966749364831"
+    },
+    "timestamp": "2026-10-05T15:39:39.493289"
   }
 ]

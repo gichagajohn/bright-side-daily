@@ -11864,3 +11864,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMa...
 2026-10-05 12:04:21,440 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-05 12:04:21,458 [INFO] Slot published successfully: morning_motivation
+2026-10-05 15:39:35,216 [INFO] Failed posts list is empty.
+2026-10-05 15:39:35,335 [INFO] ============================================================
+2026-10-05 15:39:35,335 [INFO] Running slot: morning_motivation
+2026-10-05 15:39:35,335 [INFO] ============================================================
+2026-10-05 15:39:35,537 [INFO] Content selected: Go further than you thought you could.
+2026-10-05 15:39:36,278 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_399.jpg
+2026-10-05 15:39:36,278 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_399.jpg
+2026-10-05 15:39:36,279 [INFO] Caption preview: ☀️ Go further than you thought you could.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetM...
+2026-10-05 15:39:39,489 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-05 15:39:39,504 [INFO] Slot published successfully: morning_motivation
