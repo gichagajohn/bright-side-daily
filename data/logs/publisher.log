@@ -11906,3 +11906,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mindse...
 2026-10-05 22:13:00,524 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-05 22:13:00,543 [INFO] Slot published successfully: morning_motivation
+2026-10-05 23:35:20,161 [INFO] Failed posts list is empty.
+2026-10-05 23:35:20,325 [INFO] ============================================================
+2026-10-05 23:35:20,325 [INFO] Running slot: morning_motivation
+2026-10-05 23:35:20,325 [INFO] ============================================================
+2026-10-05 23:35:20,688 [INFO] Content selected: The world rewards the persistent above all others.
+2026-10-05 23:35:21,180 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_627.jpg
+2026-10-05 23:35:21,180 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_627.jpg
+2026-10-05 23:35:21,181 [INFO] Caption preview: ☀️ The world rewards the persistent above all others.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succe...
+2026-10-05 23:35:25,924 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-05 23:35:25,942 [INFO] Slot published successfully: morning_motivation
