@@ -17229,5 +17229,26 @@
       "post_id": "1181533578372151_122137985847364831"
     },
     "timestamp": "2026-10-05T17:51:04.910305"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You were built to do this. Now go do it.",
+      "content_index": 610,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-10-05",
+      "timestamp": "2026-10-05T22:12:54.416783",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You were built to do this. Now go do it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122138018949364831",
+      "post_id": "1181533578372151_122138018979364831"
+    },
+    "timestamp": "2026-10-05T22:13:00.528260"
   }
 ]
