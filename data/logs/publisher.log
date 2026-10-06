@@ -11934,3 +11934,17 @@ Share this with someone who needs it today! 💛
 #Person...
 2026-10-06 11:49:26,707 [INFO] ✅ Posted successfully [self_improvement]
 2026-10-06 11:49:26,725 [INFO] Slot published successfully: self_improvement
+2026-10-06 14:00:58,080 [INFO] Failed posts list is empty.
+2026-10-06 14:00:58,322 [INFO] ============================================================
+2026-10-06 14:00:58,322 [INFO] Running slot: morning_motivation
+2026-10-06 14:00:58,322 [INFO] ============================================================
+2026-10-06 14:00:58,529 [INFO] Content selected: The only person stopping you is you.
+2026-10-06 14:00:59,185 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_65.jpg
+2026-10-06 14:00:59,186 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_65.jpg
+2026-10-06 14:00:59,186 [INFO] Caption preview: ☀️ The only person stopping you is you.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMat...
+2026-10-06 14:01:02,136 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-06 14:01:02,155 [INFO] Slot published successfully: morning_motivation

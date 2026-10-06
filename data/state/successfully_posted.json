@@ -17292,5 +17292,26 @@
       "post_id": "1181533578372151_122138132847364831"
     },
     "timestamp": "2026-10-06T11:49:26.710684"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The only person stopping you is you.",
+      "content_index": 65,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T14:00:58.529757",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The only person stopping you is you.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122138152539364831",
+      "post_id": "1181533578372151_122138152563364831"
+    },
+    "timestamp": "2026-10-06T14:01:02.140396"
   }
 ]
