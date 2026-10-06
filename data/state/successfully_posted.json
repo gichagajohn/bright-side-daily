@@ -17397,5 +17397,26 @@
       "post_id": "1181533578372151_122138199105364831"
     },
     "timestamp": "2026-10-06T20:36:13.087637"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Outgrow your excuses.",
+      "content_index": 263,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T22:09:13.679630",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Outgrow your excuses.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122138208771364831",
+      "post_id": "1181533578372151_122138208807364831"
+    },
+    "timestamp": "2026-10-06T22:09:17.943133"
   }
 ]
