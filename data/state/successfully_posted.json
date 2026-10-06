@@ -17334,5 +17334,26 @@
       "post_id": "1181533578372151_122138164275364831"
     },
     "timestamp": "2026-10-06T15:40:30.738981"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The world steps aside for those who know where they are going.",
+      "content_index": 375,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T17:01:52.700343",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The world steps aside for those who know where they are going.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122138173569364831",
+      "post_id": "1181533578372151_122138173593364831"
+    },
+    "timestamp": "2026-10-06T17:01:59.070553"
   }
 ]
