@@ -17313,5 +17313,26 @@
       "post_id": "1181533578372151_122138152563364831"
     },
     "timestamp": "2026-10-06T14:01:02.140396"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Own your story.",
+      "content_index": 249,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T15:40:24.746808",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Own your story.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122138164251364831",
+      "post_id": "1181533578372151_122138164275364831"
+    },
+    "timestamp": "2026-10-06T15:40:30.738981"
   }
 ]
