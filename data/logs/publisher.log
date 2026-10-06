@@ -11920,3 +11920,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Succe...
 2026-10-05 23:35:25,924 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-05 23:35:25,942 [INFO] Slot published successfully: morning_motivation
+2026-10-06 11:49:20,894 [INFO] Failed posts list is empty.
+2026-10-06 11:49:21,061 [INFO] ============================================================
+2026-10-06 11:49:21,061 [INFO] Running slot: self_improvement
+2026-10-06 11:49:21,061 [INFO] ============================================================
+2026-10-06 11:49:21,331 [INFO] Content selected: The investment in your mind is the one that never depreciates.
+2026-10-06 11:49:21,885 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_614.jpg
+2026-10-06 11:49:21,886 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_614.jpg
+2026-10-06 11:49:21,886 [INFO] Caption preview: 📈 The investment in your mind is the one that never depreciates.
+
+Share this with someone who needs it today! 💛
+
+#Person...
+2026-10-06 11:49:26,707 [INFO] ✅ Posted successfully [self_improvement]
+2026-10-06 11:49:26,725 [INFO] Slot published successfully: self_improvement
