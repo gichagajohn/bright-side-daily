@@ -17376,5 +17376,26 @@
       "post_id": "1181533578372151_122138185401364831"
     },
     "timestamp": "2026-10-06T18:51:31.797769"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Consistency beats intensity.",
+      "content_index": 39,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T20:36:07.879096",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Consistency beats intensity.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122138199081364831",
+      "post_id": "1181533578372151_122138199105364831"
+    },
+    "timestamp": "2026-10-06T20:36:13.087637"
   }
 ]

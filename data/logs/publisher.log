@@ -11990,3 +11990,17 @@ Drop your answer in the comments below 👇
 #Commu...
 2026-10-06 18:51:31,794 [INFO] ✅ Posted successfully [engagement_question]
 2026-10-06 18:51:31,809 [INFO] Slot published successfully: engagement_question
+2026-10-06 20:36:07,473 [INFO] Failed posts list is empty.
+2026-10-06 20:36:07,670 [INFO] ============================================================
+2026-10-06 20:36:07,670 [INFO] Running slot: morning_motivation
+2026-10-06 20:36:07,670 [INFO] ============================================================
+2026-10-06 20:36:07,879 [INFO] Content selected: Consistency beats intensity.
+2026-10-06 20:36:08,672 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_39.jpg
+2026-10-06 20:36:08,672 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_39.jpg
+2026-10-06 20:36:08,672 [INFO] Caption preview: ☀️ Consistency beats intensity.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #Da...
+2026-10-06 20:36:13,083 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-06 20:36:13,103 [INFO] Slot published successfully: morning_motivation
