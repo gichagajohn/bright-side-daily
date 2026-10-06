@@ -11976,3 +11976,17 @@ Share this with someone who needs it today! 💛
 #Motiv...
 2026-10-06 17:01:59,066 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-06 17:01:59,082 [INFO] Slot published successfully: morning_motivation
+2026-10-06 18:51:27,533 [INFO] Failed posts list is empty.
+2026-10-06 18:51:27,657 [INFO] ============================================================
+2026-10-06 18:51:27,657 [INFO] Running slot: engagement_question
+2026-10-06 18:51:27,657 [INFO] ============================================================
+2026-10-06 18:51:27,819 [INFO] Content selected: What's something you want to experience before the end of this year?
+2026-10-06 18:51:28,549 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_251.jpg
+2026-10-06 18:51:28,549 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_251.jpg
+2026-10-06 18:51:28,549 [INFO] Caption preview: 💬 What's something you want to experience before the end of this year?
+
+Drop your answer in the comments below 👇
+
+#Commu...
+2026-10-06 18:51:31,794 [INFO] ✅ Posted successfully [engagement_question]
+2026-10-06 18:51:31,809 [INFO] Slot published successfully: engagement_question
