@@ -12060,3 +12060,17 @@ Share this with someone who needs it today! 💛
 #Gratitude #...
 2026-10-07 16:04:18,619 [INFO] ✅ Posted successfully [evening_reflection]
 2026-10-07 16:04:18,639 [INFO] Slot published successfully: evening_reflection
+2026-10-07 17:39:25,912 [INFO] Failed posts list is empty.
+2026-10-07 17:39:26,076 [INFO] ============================================================
+2026-10-07 17:39:26,076 [INFO] Running slot: morning_motivation
+2026-10-07 17:39:26,076 [INFO] ============================================================
+2026-10-07 17:39:26,311 [INFO] Content selected: Outwork your doubts every single day.
+2026-10-07 17:39:27,258 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_667.jpg
+2026-10-07 17:39:27,258 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_667.jpg
+2026-10-07 17:39:27,258 [INFO] Caption preview: ☀️ Outwork your doubts every single day.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMa...
+2026-10-07 17:39:30,471 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-07 17:39:30,498 [INFO] Slot published successfully: morning_motivation
