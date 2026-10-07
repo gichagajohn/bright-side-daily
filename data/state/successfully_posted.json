@@ -17523,5 +17523,26 @@
       "post_id": "1181533578372151_122138373141364831"
     },
     "timestamp": "2026-10-07T19:16:43.588797"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Earn your peace of mind every single day.",
+      "content_index": 381,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T20:50:25.722372",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Earn your peace of mind every single day.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122138382915364831",
+      "post_id": "1181533578372151_122138382939364831"
+    },
+    "timestamp": "2026-10-07T20:50:30.074037"
   }
 ]
