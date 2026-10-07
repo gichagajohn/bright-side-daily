@@ -17544,5 +17544,26 @@
       "post_id": "1181533578372151_122138382939364831"
     },
     "timestamp": "2026-10-07T20:50:30.074037"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Every morning is a fresh start. Use it.",
+      "content_index": 236,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "beautiful sunrise over mountains"
+      },
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T22:31:47.882100",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Every morning is a fresh start. Use it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122138391909364831",
+      "post_id": "1181533578372151_122138391933364831"
+    },
+    "timestamp": "2026-10-07T22:31:52.778499"
   }
 ]

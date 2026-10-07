@@ -12102,3 +12102,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Minds...
 2026-10-07 20:50:30,070 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-07 20:50:30,089 [INFO] Slot published successfully: morning_motivation
+2026-10-07 22:31:47,441 [INFO] Failed posts list is empty.
+2026-10-07 22:31:47,677 [INFO] ============================================================
+2026-10-07 22:31:47,678 [INFO] Running slot: morning_motivation
+2026-10-07 22:31:47,678 [INFO] ============================================================
+2026-10-07 22:31:47,882 [INFO] Content selected: Every morning is a fresh start. Use it.
+2026-10-07 22:31:48,600 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_236.jpg
+2026-10-07 22:31:48,600 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_236.jpg
+2026-10-07 22:31:48,600 [INFO] Caption preview: ☀️ Every morning is a fresh start. Use it.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mindset...
+2026-10-07 22:31:52,775 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-07 22:31:52,793 [INFO] Slot published successfully: morning_motivation
