@@ -12032,3 +12032,17 @@ Share this with someone who needs it today! 💛
 #Person...
 2026-10-07 11:33:19,158 [INFO] ✅ Posted successfully [self_improvement]
 2026-10-07 11:33:19,170 [INFO] Slot published successfully: self_improvement
+2026-10-07 14:18:01,368 [INFO] Failed posts list is empty.
+2026-10-07 14:18:01,948 [INFO] ============================================================
+2026-10-07 14:18:01,948 [INFO] Running slot: morning_motivation
+2026-10-07 14:18:01,948 [INFO] ============================================================
+2026-10-07 14:18:02,170 [INFO] Content selected: Never let the fear of striking out keep you from playing the game.
+2026-10-07 14:18:03,090 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_218.jpg
+2026-10-07 14:18:03,090 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_218.jpg
+2026-10-07 14:18:03,090 [INFO] Caption preview: ☀️ Never let the fear of striking out keep you from playing the game.
+
+Share this with someone who needs it today! 💛
+
+#M...
+2026-10-07 14:18:06,178 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-07 14:18:06,197 [INFO] Slot published successfully: morning_motivation
