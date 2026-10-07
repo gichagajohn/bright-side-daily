@@ -17502,5 +17502,26 @@
       "post_id": "1181533578372151_122138361885364831"
     },
     "timestamp": "2026-10-07T17:39:30.474696"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The best investment you can make is in yourself.",
+      "content_index": 164,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T19:16:38.162971",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The best investment you can make is in yourself.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122138373105364831",
+      "post_id": "1181533578372151_122138373141364831"
+    },
+    "timestamp": "2026-10-07T19:16:43.588797"
   }
 ]
