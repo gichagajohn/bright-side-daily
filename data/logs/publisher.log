@@ -12158,3 +12158,17 @@ Share this with someone who needs it today! 💛
 #Motivation #...
 2026-10-08 17:41:54,212 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-08 17:41:54,232 [INFO] Slot published successfully: morning_motivation
+2026-10-08 19:12:43,651 [INFO] Failed posts list is empty.
+2026-10-08 19:12:43,846 [INFO] ============================================================
+2026-10-08 19:12:43,846 [INFO] Running slot: morning_motivation
+2026-10-08 19:12:43,847 [INFO] ============================================================
+2026-10-08 19:12:44,035 [INFO] Content selected: Go all in. No regrets.
+2026-10-08 19:12:44,978 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_625.jpg
+2026-10-08 19:12:44,978 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_625.jpg
+2026-10-08 19:12:44,978 [INFO] Caption preview: ☀️ Go all in. No regrets.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #DailyMot...
+2026-10-08 19:12:49,117 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-08 19:12:49,135 [INFO] Slot published successfully: morning_motivation
