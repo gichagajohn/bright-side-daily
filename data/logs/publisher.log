@@ -12186,3 +12186,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetM...
 2026-10-08 20:52:40,744 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-08 20:52:40,763 [INFO] Slot published successfully: morning_motivation
+2026-10-08 22:44:45,213 [INFO] Failed posts list is empty.
+2026-10-08 22:44:45,426 [INFO] ============================================================
+2026-10-08 22:44:45,426 [INFO] Running slot: morning_motivation
+2026-10-08 22:44:45,426 [INFO] ============================================================
+2026-10-08 22:44:45,680 [INFO] Content selected: Breathe. Believe. Achieve.
+2026-10-08 22:44:46,538 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_397.jpg
+2026-10-08 22:44:46,538 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_397.jpg
+2026-10-08 22:44:46,538 [INFO] Caption preview: ☀️ Breathe. Believe. Achieve.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #Dail...
+2026-10-08 22:44:51,036 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-08 22:44:51,056 [INFO] Slot published successfully: morning_motivation
