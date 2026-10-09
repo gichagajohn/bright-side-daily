@@ -17775,5 +17775,26 @@
       "post_id": "1181533578372151_122138799609364831"
     },
     "timestamp": "2026-10-09T17:17:04.371481"
+  },
+  {
+    "post": {
+      "slot": "engagement_question",
+      "category": "engagement_questions",
+      "content": "What's the kindest thing you could choose to believe about yourself right now?",
+      "content_index": 605,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "bright vibrant community gathering"
+      },
+      "date": "2026-10-09",
+      "timestamp": "2026-10-09T18:43:17.729663",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcac What's the kindest thing you could choose to believe about yourself right now?\n\nDrop your answer in the comments below \ud83d\udc47\n\n#Community #ShareYourThoughts #QuestionOfTheDay #ChatWithUs #BrightSideFamily #BrightSideDaily",
+    "fb_response": {
+      "id": "122138809965364831",
+      "post_id": "1181533578372151_122138809989364831"
+    },
+    "timestamp": "2026-10-09T18:43:22.721970"
   }
 ]

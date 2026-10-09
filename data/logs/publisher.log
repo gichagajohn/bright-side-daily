@@ -12256,3 +12256,15 @@ Share this with someone who needs it today! 💛
 #Motivation #Su...
 2026-10-09 17:17:04,368 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-09 17:17:04,383 [INFO] Slot published successfully: morning_motivation
+2026-10-09 18:43:17,342 [INFO] Failed posts list is empty.
+2026-10-09 18:43:17,516 [INFO] ============================================================
+2026-10-09 18:43:17,517 [INFO] Running slot: engagement_question
+2026-10-09 18:43:17,517 [INFO] ============================================================
+2026-10-09 18:43:17,729 [INFO] Content selected: What's the kindest thing you could choose to believe about yourself right now?
+2026-10-09 18:43:18,665 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_605.jpg
+2026-10-09 18:43:18,665 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_605.jpg
+2026-10-09 18:43:18,665 [INFO] Caption preview: 💬 What's the kindest thing you could choose to believe about yourself right now?
+
+Drop your answer in the comments below...
+2026-10-09 18:43:22,718 [INFO] ✅ Posted successfully [engagement_question]
+2026-10-09 18:43:22,738 [INFO] Slot published successfully: engagement_question
