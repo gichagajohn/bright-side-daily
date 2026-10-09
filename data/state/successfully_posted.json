@@ -17754,5 +17754,26 @@
       "post_id": "1181533578372151_122138790291364831"
     },
     "timestamp": "2026-10-09T15:48:23.849247"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Difficult roads often lead to beautiful destinations.",
+      "content_index": 217,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-10-09",
+      "timestamp": "2026-10-09T17:16:59.603714",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Difficult roads often lead to beautiful destinations.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122138799579364831",
+      "post_id": "1181533578372151_122138799609364831"
+    },
+    "timestamp": "2026-10-09T17:17:04.371481"
   }
 ]

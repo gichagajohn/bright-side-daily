@@ -12242,3 +12242,17 @@ Share this with someone who needs it today! 💛
 #Moti...
 2026-10-09 15:48:23,845 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-09 15:48:23,864 [INFO] Slot published successfully: morning_motivation
+2026-10-09 17:16:59,248 [INFO] Failed posts list is empty.
+2026-10-09 17:16:59,371 [INFO] ============================================================
+2026-10-09 17:16:59,371 [INFO] Running slot: morning_motivation
+2026-10-09 17:16:59,371 [INFO] ============================================================
+2026-10-09 17:16:59,603 [INFO] Content selected: Difficult roads often lead to beautiful destinations.
+2026-10-09 17:17:00,673 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_217.jpg
+2026-10-09 17:17:00,673 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_217.jpg
+2026-10-09 17:17:00,673 [INFO] Caption preview: ☀️ Difficult roads often lead to beautiful destinations.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Su...
+2026-10-09 17:17:04,368 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-09 17:17:04,383 [INFO] Slot published successfully: morning_motivation
