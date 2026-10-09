@@ -12214,3 +12214,17 @@ Share this with someone who needs it today! 💛
 #Personal...
 2026-10-09 11:40:48,318 [INFO] ✅ Posted successfully [self_improvement]
 2026-10-09 11:40:48,341 [INFO] Slot published successfully: self_improvement
+2026-10-09 14:12:53,119 [INFO] Failed posts list is empty.
+2026-10-09 14:12:53,297 [INFO] ============================================================
+2026-10-09 14:12:53,297 [INFO] Running slot: morning_motivation
+2026-10-09 14:12:53,297 [INFO] ============================================================
+2026-10-09 14:12:53,500 [INFO] Content selected: You are a work in progress, and that's a beautiful thing.
+2026-10-09 14:12:54,211 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_234.jpg
+2026-10-09 14:12:54,211 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_234.jpg
+2026-10-09 14:12:54,211 [INFO] Caption preview: ☀️ You are a work in progress, and that's a beautiful thing.
+
+Share this with someone who needs it today! 💛
+
+#Motivation...
+2026-10-09 14:12:57,333 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-09 14:12:57,352 [INFO] Slot published successfully: morning_motivation
