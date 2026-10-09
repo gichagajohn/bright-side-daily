@@ -17796,5 +17796,26 @@
       "post_id": "1181533578372151_122138809989364831"
     },
     "timestamp": "2026-10-09T18:43:22.721970"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Make the next chapter greater than the last.",
+      "content_index": 688,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-10-09",
+      "timestamp": "2026-10-09T20:21:44.425607",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Make the next chapter greater than the last.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122138845515364831",
+      "post_id": "1181533578372151_122138845539364831"
+    },
+    "timestamp": "2026-10-09T20:21:48.428978"
   }
 ]
