@@ -17733,5 +17733,26 @@
       "post_id": "1181533578372151_122138780667364831"
     },
     "timestamp": "2026-10-09T14:12:57.336957"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Be savage about your goals, gentle with yourself along the way.",
+      "content_index": 341,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-10-09",
+      "timestamp": "2026-10-09T15:48:20.085465",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Be savage about your goals, gentle with yourself along the way.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122138790267364831",
+      "post_id": "1181533578372151_122138790291364831"
+    },
+    "timestamp": "2026-10-09T15:48:23.849247"
   }
 ]
