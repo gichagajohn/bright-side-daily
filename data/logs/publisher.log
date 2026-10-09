@@ -12282,3 +12282,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mi...
 2026-10-09 20:21:48,425 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-09 20:21:48,444 [INFO] Slot published successfully: morning_motivation
+2026-10-09 22:07:08,151 [INFO] Failed posts list is empty.
+2026-10-09 22:07:08,305 [INFO] ============================================================
+2026-10-09 22:07:08,305 [INFO] Running slot: morning_motivation
+2026-10-09 22:07:08,305 [INFO] ============================================================
+2026-10-09 22:07:08,528 [INFO] Content selected: Silence the doubt. Do the work.
+2026-10-09 22:07:09,387 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_426.jpg
+2026-10-09 22:07:09,387 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_426.jpg
+2026-10-09 22:07:09,387 [INFO] Caption preview: ☀️ Silence the doubt. Do the work.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters ...
+2026-10-09 22:07:11,946 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-09 22:07:12,496 [INFO] Slot published successfully: morning_motivation
