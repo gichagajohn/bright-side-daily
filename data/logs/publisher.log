@@ -12200,3 +12200,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #Dail...
 2026-10-08 22:44:51,036 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-08 22:44:51,056 [INFO] Slot published successfully: morning_motivation
+2026-10-09 11:40:43,890 [INFO] Failed posts list is empty.
+2026-10-09 11:40:44,043 [INFO] ============================================================
+2026-10-09 11:40:44,043 [INFO] Running slot: self_improvement
+2026-10-09 11:40:44,043 [INFO] ============================================================
+2026-10-09 11:40:44,274 [INFO] Content selected: Your future is built in quiet, consistent moments of effort.
+2026-10-09 11:40:44,847 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_58.jpg
+2026-10-09 11:40:44,848 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_58.jpg
+2026-10-09 11:40:44,848 [INFO] Caption preview: 📈 Your future is built in quiet, consistent moments of effort.
+
+Share this with someone who needs it today! 💛
+
+#Personal...
+2026-10-09 11:40:48,318 [INFO] ✅ Posted successfully [self_improvement]
+2026-10-09 11:40:48,341 [INFO] Slot published successfully: self_improvement
