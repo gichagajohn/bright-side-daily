@@ -12296,3 +12296,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters ...
 2026-10-09 22:07:11,946 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-09 22:07:12,496 [INFO] Slot published successfully: morning_motivation
+2026-10-10 10:58:00,813 [INFO] Failed posts list is empty.
+2026-10-10 10:58:00,968 [INFO] ============================================================
+2026-10-10 10:58:00,969 [INFO] Running slot: morning_motivation
+2026-10-10 10:58:00,969 [INFO] ============================================================
+2026-10-10 10:58:01,312 [INFO] Content selected: Progress, not perfection.
+2026-10-10 10:58:01,969 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_23.jpg
+2026-10-10 10:58:01,969 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_23.jpg
+2026-10-10 10:58:01,969 [INFO] Caption preview: ☀️ Progress, not perfection.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #Daily...
+2026-10-10 10:58:06,514 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-10 10:58:06,534 [INFO] Slot published successfully: morning_motivation
