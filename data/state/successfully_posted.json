@@ -17859,5 +17859,26 @@
       "post_id": "1181533578372151_122138945457364831"
     },
     "timestamp": "2026-10-10T10:58:06.517643"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "You are always exactly where your story needs you to be.",
+      "content_index": 523,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "lone hiker emerging from a dense forest"
+      },
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T13:22:14.942374",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa You are always exactly where your story needs you to be.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122138968437364831",
+      "post_id": "1181533578372151_122138968461364831"
+    },
+    "timestamp": "2026-10-10T13:22:19.903585"
   }
 ]
