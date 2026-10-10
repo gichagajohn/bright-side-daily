@@ -12324,3 +12324,17 @@ Share this with someone who needs it today! 💛
 #YouGotThis #...
 2026-10-10 13:22:19,899 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-10-10 13:22:19,917 [INFO] Slot published successfully: midday_encouragement
+2026-10-10 15:01:37,683 [INFO] Failed posts list is empty.
+2026-10-10 15:01:37,785 [INFO] ============================================================
+2026-10-10 15:01:37,785 [INFO] Running slot: morning_motivation
+2026-10-10 15:01:37,785 [INFO] ============================================================
+2026-10-10 15:01:37,937 [INFO] Content selected: Everything you want is on the other side of fear.
+2026-10-10 15:01:39,083 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_55.jpg
+2026-10-10 15:01:39,084 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_55.jpg
+2026-10-10 15:01:39,084 [INFO] Caption preview: ☀️ Everything you want is on the other side of fear.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succes...
+2026-10-10 15:01:44,400 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-10 15:01:44,412 [INFO] Slot published successfully: morning_motivation
