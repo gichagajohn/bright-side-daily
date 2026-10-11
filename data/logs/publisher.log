@@ -12460,3 +12460,17 @@ Share this with someone who needs it today! 💛
 #Mo...
 2026-10-11 17:57:13,358 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-11 17:57:13,377 [INFO] Slot published successfully: morning_motivation
+2026-10-11 19:45:47,324 [INFO] Failed posts list is empty.
+2026-10-11 19:45:47,467 [INFO] ============================================================
+2026-10-11 19:45:47,467 [INFO] Running slot: morning_motivation
+2026-10-11 19:45:47,467 [INFO] ============================================================
+2026-10-11 19:45:47,619 [INFO] Content selected: Make every second count.
+2026-10-11 19:45:48,768 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_311.jpg
+2026-10-11 19:45:48,768 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_311.jpg
+2026-10-11 19:45:48,768 [INFO] Caption preview: ☀️ Make every second count.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #DailyM...
+2026-10-11 19:45:51,956 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-11 19:45:51,973 [INFO] Slot published successfully: morning_motivation
