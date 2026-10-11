@@ -12392,3 +12392,15 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #...
 2026-10-10 21:00:28,161 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-10 21:00:28,182 [INFO] Slot published successfully: morning_motivation
+2026-10-11 11:15:26,225 [INFO] Failed posts list is empty.
+2026-10-11 11:15:26,370 [INFO] ============================================================
+2026-10-11 11:15:26,370 [INFO] Running slot: self_improvement
+2026-10-11 11:15:26,370 [INFO] ============================================================
+2026-10-11 11:15:26,589 [INFO] Content selected: Self-improvement is the practice of becoming the person you've always had the potential to be.
+2026-10-11 11:15:27,307 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_575.jpg
+2026-10-11 11:15:27,308 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_575.jpg
+2026-10-11 11:15:27,308 [INFO] Caption preview: 📈 Self-improvement is the practice of becoming the person you've always had the potential to be.
+
+Share this with someon...
+2026-10-11 11:15:31,457 [INFO] ✅ Posted successfully [self_improvement]
+2026-10-11 11:15:31,475 [INFO] Slot published successfully: self_improvement
