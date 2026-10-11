@@ -12418,3 +12418,17 @@ Share this with someone who needs it today! 💛
 #YouGotThis #...
 2026-10-11 13:50:51,256 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-10-11 13:50:51,269 [INFO] Slot published successfully: midday_encouragement
+2026-10-11 15:19:11,649 [INFO] Failed posts list is empty.
+2026-10-11 15:19:11,788 [INFO] ============================================================
+2026-10-11 15:19:11,788 [INFO] Running slot: morning_motivation
+2026-10-11 15:19:11,788 [INFO] ============================================================
+2026-10-11 15:19:11,998 [INFO] Content selected: Be the kind of person who gets things done.
+2026-10-11 15:19:13,067 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_384.jpg
+2026-10-11 15:19:13,067 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_384.jpg
+2026-10-11 15:19:13,067 [INFO] Caption preview: ☀️ Be the kind of person who gets things done.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Min...
+2026-10-11 15:19:18,643 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-11 15:19:18,842 [INFO] Slot published successfully: morning_motivation

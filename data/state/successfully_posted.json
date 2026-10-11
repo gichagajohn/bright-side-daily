@@ -18027,5 +18027,26 @@
       "post_id": "1181533578372151_122139148143364831"
     },
     "timestamp": "2026-10-11T13:50:51.258331"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Be the kind of person who gets things done.",
+      "content_index": 384,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T15:19:11.998223",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Be the kind of person who gets things done.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122139160893364831",
+      "post_id": "1181533578372151_122139160953364831"
+    },
+    "timestamp": "2026-10-11T15:19:18.646264"
   }
 ]
