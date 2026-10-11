@@ -12474,3 +12474,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #DailyM...
 2026-10-11 19:45:51,956 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-11 19:45:51,973 [INFO] Slot published successfully: morning_motivation
+2026-10-11 21:21:41,072 [INFO] Failed posts list is empty.
+2026-10-11 21:21:41,227 [INFO] ============================================================
+2026-10-11 21:21:41,228 [INFO] Running slot: morning_motivation
+2026-10-11 21:21:41,228 [INFO] ============================================================
+2026-10-11 21:21:41,478 [INFO] Content selected: You've got what it takes, but it will take everything you've got.
+2026-10-11 21:21:42,306 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_75.jpg
+2026-10-11 21:21:42,306 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_75.jpg
+2026-10-11 21:21:42,306 [INFO] Caption preview: ☀️ You've got what it takes, but it will take everything you've got.
+
+Share this with someone who needs it today! 💛
+
+#Mo...
+2026-10-11 21:21:46,263 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-11 21:21:46,282 [INFO] Slot published successfully: morning_motivation
