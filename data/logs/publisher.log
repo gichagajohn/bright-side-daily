@@ -12516,3 +12516,15 @@ Share this with someone who needs it today! 💛
 #Gratitude #Than...
 2026-10-12 16:34:25,145 [INFO] ✅ Posted successfully [evening_reflection]
 2026-10-12 16:34:25,165 [INFO] Slot published successfully: evening_reflection
+2026-10-12 18:33:29,474 [INFO] Failed posts list is empty.
+2026-10-12 18:33:29,696 [INFO] ============================================================
+2026-10-12 18:33:29,696 [INFO] Running slot: engagement_question
+2026-10-12 18:33:29,696 [INFO] ============================================================
+2026-10-12 18:33:29,973 [INFO] Content selected: What's the most transformative book, conversation, or experience you've had this year?
+2026-10-12 18:33:30,748 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_329.jpg
+2026-10-12 18:33:30,749 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_329.jpg
+2026-10-12 18:33:30,749 [INFO] Caption preview: 💬 What's the most transformative book, conversation, or experience you've had this year?
+
+Drop your answer in the commen...
+2026-10-12 18:33:35,810 [INFO] ✅ Posted successfully [engagement_question]
+2026-10-12 18:33:35,829 [INFO] Slot published successfully: engagement_question
