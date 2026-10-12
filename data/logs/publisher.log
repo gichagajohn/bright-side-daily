@@ -12528,3 +12528,17 @@ Share this with someone who needs it today! 💛
 Drop your answer in the commen...
 2026-10-12 18:33:35,810 [INFO] ✅ Posted successfully [engagement_question]
 2026-10-12 18:33:35,829 [INFO] Slot published successfully: engagement_question
+2026-10-12 20:05:48,275 [INFO] Failed posts list is empty.
+2026-10-12 20:05:48,466 [INFO] ============================================================
+2026-10-12 20:05:48,466 [INFO] Running slot: morning_motivation
+2026-10-12 20:05:48,466 [INFO] ============================================================
+2026-10-12 20:05:48,736 [INFO] Content selected: Your future self will thank you for the work you do today.
+2026-10-12 20:05:49,641 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_62.jpg
+2026-10-12 20:05:49,641 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_62.jpg
+2026-10-12 20:05:49,641 [INFO] Caption preview: ☀️ Your future self will thank you for the work you do today.
+
+Share this with someone who needs it today! 💛
+
+#Motivatio...
+2026-10-12 20:05:53,315 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-12 20:05:53,335 [INFO] Slot published successfully: morning_motivation

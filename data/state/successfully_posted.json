@@ -18195,5 +18195,26 @@
       "post_id": "1181533578372151_122139364203364831"
     },
     "timestamp": "2026-10-12T18:33:35.813771"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your future self will thank you for the work you do today.",
+      "content_index": 62,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T20:05:48.736811",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your future self will thank you for the work you do today.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122139376923364831",
+      "post_id": "1181533578372151_122139376947364831"
+    },
+    "timestamp": "2026-10-12T20:05:53.319407"
   }
 ]
