@@ -12542,3 +12542,15 @@ Share this with someone who needs it today! 💛
 #Motivatio...
 2026-10-12 20:05:53,315 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-12 20:05:53,335 [INFO] Slot published successfully: morning_motivation
+2026-10-12 21:39:58,365 [INFO] Failed posts list is empty.
+2026-10-12 21:39:58,458 [INFO] ============================================================
+2026-10-12 21:39:58,458 [INFO] Running slot: morning_motivation
+2026-10-12 21:39:58,458 [INFO] ============================================================
+2026-10-12 21:39:58,623 [INFO] Content selected: Your breakthrough is already written. You just have to do the work to read it.
+2026-10-12 21:39:59,365 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_624.jpg
+2026-10-12 21:39:59,365 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_624.jpg
+2026-10-12 21:39:59,365 [INFO] Caption preview: ☀️ Your breakthrough is already written. You just have to do the work to read it.
+
+Share this with someone who needs it ...
+2026-10-12 21:40:02,789 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-12 21:40:02,875 [INFO] Slot published successfully: morning_motivation

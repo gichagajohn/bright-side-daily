@@ -18216,5 +18216,26 @@
       "post_id": "1181533578372151_122139376947364831"
     },
     "timestamp": "2026-10-12T20:05:53.319407"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your breakthrough is already written. You just have to do the work to read it.",
+      "content_index": 624,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open book and coffee in a cozy reading nook"
+      },
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T21:39:58.623155",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your breakthrough is already written. You just have to do the work to read it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122139387351364831",
+      "post_id": "1181533578372151_122139387375364831"
+    },
+    "timestamp": "2026-10-12T21:40:02.791493"
   }
 ]
