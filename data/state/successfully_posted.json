@@ -18237,5 +18237,26 @@
       "post_id": "1181533578372151_122139387375364831"
     },
     "timestamp": "2026-10-12T21:40:02.791493"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You have everything you need. Now go get everything you want.",
+      "content_index": 640,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T22:37:31.056453",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You have everything you need. Now go get everything you want.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122139392937364831",
+      "post_id": "1181533578372151_122139392967364831"
+    },
+    "timestamp": "2026-10-12T22:37:41.340832"
   }
 ]

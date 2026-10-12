@@ -12554,3 +12554,17 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it ...
 2026-10-12 21:40:02,789 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-12 21:40:02,875 [INFO] Slot published successfully: morning_motivation
+2026-10-12 22:37:30,581 [INFO] Failed posts list is empty.
+2026-10-12 22:37:30,773 [INFO] ============================================================
+2026-10-12 22:37:30,774 [INFO] Running slot: morning_motivation
+2026-10-12 22:37:30,774 [INFO] ============================================================
+2026-10-12 22:37:31,056 [INFO] Content selected: You have everything you need. Now go get everything you want.
+2026-10-12 22:37:31,521 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_640.jpg
+2026-10-12 22:37:31,522 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_640.jpg
+2026-10-12 22:37:31,522 [INFO] Caption preview: ☀️ You have everything you need. Now go get everything you want.
+
+Share this with someone who needs it today! 💛
+
+#Motiva...
+2026-10-12 22:37:41,337 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-12 22:37:41,356 [INFO] Slot published successfully: morning_motivation
