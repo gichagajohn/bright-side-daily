@@ -12502,3 +12502,17 @@ Share this with someone who needs it today! 💛
 #Motivation #...
 2026-10-12 12:47:36,594 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-12 12:47:36,615 [INFO] Slot published successfully: morning_motivation
+2026-10-12 16:34:20,563 [INFO] Failed posts list is empty.
+2026-10-12 16:34:20,733 [INFO] ============================================================
+2026-10-12 16:34:20,733 [INFO] Running slot: evening_reflection
+2026-10-12 16:34:20,733 [INFO] ============================================================
+2026-10-12 16:34:20,933 [INFO] Content selected: The present moment, fully embraced, is always enough.
+2026-10-12 16:34:21,555 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_320.jpg
+2026-10-12 16:34:21,555 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_320.jpg
+2026-10-12 16:34:21,555 [INFO] Caption preview: 🌙 The present moment, fully embraced, is always enough.
+
+Share this with someone who needs it today! 💛
+
+#Gratitude #Than...
+2026-10-12 16:34:25,145 [INFO] ✅ Posted successfully [evening_reflection]
+2026-10-12 16:34:25,165 [INFO] Slot published successfully: evening_reflection
