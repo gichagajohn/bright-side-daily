@@ -12662,3 +12662,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #...
 2026-10-13 20:50:39,812 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-13 20:50:39,884 [INFO] Slot published successfully: morning_motivation
+2026-10-13 22:10:42,877 [INFO] Failed posts list is empty.
+2026-10-13 22:10:43,120 [INFO] ============================================================
+2026-10-13 22:10:43,120 [INFO] Running slot: morning_motivation
+2026-10-13 22:10:43,120 [INFO] ============================================================
+2026-10-13 22:10:43,442 [INFO] Content selected: Push past your comfort zone and into your purpose.
+2026-10-13 22:10:44,439 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_393.jpg
+2026-10-13 22:10:44,440 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_393.jpg
+2026-10-13 22:10:44,440 [INFO] Caption preview: ☀️ Push past your comfort zone and into your purpose.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succe...
+2026-10-13 22:10:49,360 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-13 22:10:49,380 [INFO] Slot published successfully: morning_motivation
