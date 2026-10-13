@@ -12634,3 +12634,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters...
 2026-10-13 17:55:18,281 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-13 17:55:18,293 [INFO] Slot published successfully: morning_motivation
+2026-10-13 19:48:21,945 [INFO] Failed posts list is empty.
+2026-10-13 19:48:22,112 [INFO] ============================================================
+2026-10-13 19:48:22,112 [INFO] Running slot: morning_motivation
+2026-10-13 19:48:22,112 [INFO] ============================================================
+2026-10-13 19:48:22,433 [INFO] Content selected: Success is not about luck, it's about consistency.
+2026-10-13 19:48:23,523 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_18.jpg
+2026-10-13 19:48:23,524 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_18.jpg
+2026-10-13 19:48:23,524 [INFO] Caption preview: ☀️ Success is not about luck, it's about consistency.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succe...
+2026-10-13 19:48:27,620 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-13 19:48:27,640 [INFO] Slot published successfully: morning_motivation

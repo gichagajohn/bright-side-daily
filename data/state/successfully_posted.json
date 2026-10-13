@@ -18363,5 +18363,26 @@
       "post_id": "1181533578372151_122139518931364831"
     },
     "timestamp": "2026-10-13T17:55:18.283972"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Success is not about luck, it's about consistency.",
+      "content_index": 18,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T19:48:22.433817",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Success is not about luck, it's about consistency.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122139529251364831",
+      "post_id": "1181533578372151_122139529281364831"
+    },
+    "timestamp": "2026-10-13T19:48:27.624758"
   }
 ]
