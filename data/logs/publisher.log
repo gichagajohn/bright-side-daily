@@ -12568,3 +12568,15 @@ Share this with someone who needs it today! 💛
 #Motiva...
 2026-10-12 22:37:41,337 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-12 22:37:41,356 [INFO] Slot published successfully: morning_motivation
+2026-10-13 00:02:11,509 [INFO] Failed posts list is empty.
+2026-10-13 00:02:11,737 [INFO] ============================================================
+2026-10-13 00:02:11,737 [INFO] Running slot: morning_motivation
+2026-10-13 00:02:11,738 [INFO] ============================================================
+2026-10-13 00:02:11,962 [INFO] Content selected: It's not what you go through that defines you; it's how you come out on the other side.
+2026-10-13 00:02:12,785 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_160.jpg
+2026-10-13 00:02:12,785 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_160.jpg
+2026-10-13 00:02:12,785 [INFO] Caption preview: ☀️ It's not what you go through that defines you; it's how you come out on the other side.
+
+Share this with someone who ...
+2026-10-13 00:02:18,102 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-13 00:02:18,123 [INFO] Slot published successfully: morning_motivation
