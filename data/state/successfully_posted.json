@@ -18384,5 +18384,26 @@
       "post_id": "1181533578372151_122139529281364831"
     },
     "timestamp": "2026-10-13T19:48:27.624758"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are not finished. You are just warming up.",
+      "content_index": 659,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T20:50:35.793475",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are not finished. You are just warming up.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122139533715364831",
+      "post_id": "1181533578372151_122139533739364831"
+    },
+    "timestamp": "2026-10-13T20:50:39.814593"
   }
 ]

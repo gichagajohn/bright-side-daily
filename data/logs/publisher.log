@@ -12648,3 +12648,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Succe...
 2026-10-13 19:48:27,620 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-13 19:48:27,640 [INFO] Slot published successfully: morning_motivation
+2026-10-13 20:50:35,479 [INFO] Failed posts list is empty.
+2026-10-13 20:50:35,653 [INFO] ============================================================
+2026-10-13 20:50:35,653 [INFO] Running slot: morning_motivation
+2026-10-13 20:50:35,653 [INFO] ============================================================
+2026-10-13 20:50:35,793 [INFO] Content selected: You are not finished. You are just warming up.
+2026-10-13 20:50:36,830 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_659.jpg
+2026-10-13 20:50:36,830 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_659.jpg
+2026-10-13 20:50:36,830 [INFO] Caption preview: ☀️ You are not finished. You are just warming up.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #...
+2026-10-13 20:50:39,812 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-13 20:50:39,884 [INFO] Slot published successfully: morning_motivation
