@@ -12704,3 +12704,17 @@ Share this with someone who needs it today! 💛
 #Motivatio...
 2026-10-14 12:42:38,035 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-14 12:42:38,052 [INFO] Slot published successfully: morning_motivation
+2026-10-14 14:19:02,017 [INFO] Failed posts list is empty.
+2026-10-14 14:19:02,143 [INFO] ============================================================
+2026-10-14 14:19:02,144 [INFO] Running slot: morning_motivation
+2026-10-14 14:19:02,144 [INFO] ============================================================
+2026-10-14 14:19:02,305 [INFO] Content selected: Be so good they can't ignore you.
+2026-10-14 14:19:03,571 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_110.jpg
+2026-10-14 14:19:03,571 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_110.jpg
+2026-10-14 14:19:03,571 [INFO] Caption preview: ☀️ Be so good they can't ignore you.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatter...
+2026-10-14 14:19:08,303 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-14 14:19:08,318 [INFO] Slot published successfully: morning_motivation
