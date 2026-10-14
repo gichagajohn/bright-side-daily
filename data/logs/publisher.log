@@ -12732,3 +12732,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Succ...
 2026-10-14 15:41:08,405 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-14 15:41:08,420 [INFO] Slot published successfully: morning_motivation
+2026-10-14 17:53:48,615 [INFO] Failed posts list is empty.
+2026-10-14 17:53:49,164 [INFO] ============================================================
+2026-10-14 17:53:49,164 [INFO] Running slot: morning_motivation
+2026-10-14 17:53:49,164 [INFO] ============================================================
+2026-10-14 17:53:49,448 [INFO] Content selected: You are not behind. Everyone is on their own timeline.
+2026-10-14 17:53:50,271 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_286.jpg
+2026-10-14 17:53:50,271 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_286.jpg
+2026-10-14 17:53:50,271 [INFO] Caption preview: ☀️ You are not behind. Everyone is on their own timeline.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #S...
+2026-10-14 17:53:54,501 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-14 17:53:54,517 [INFO] Slot published successfully: morning_motivation
