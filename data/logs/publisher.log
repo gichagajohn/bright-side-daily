@@ -12746,3 +12746,17 @@ Share this with someone who needs it today! 💛
 #Motivation #S...
 2026-10-14 17:53:54,501 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-14 17:53:54,517 [INFO] Slot published successfully: morning_motivation
+2026-10-14 19:45:12,494 [INFO] Failed posts list is empty.
+2026-10-14 19:45:12,594 [INFO] ============================================================
+2026-10-14 19:45:12,594 [INFO] Running slot: morning_motivation
+2026-10-14 19:45:12,594 [INFO] ============================================================
+2026-10-14 19:45:12,756 [INFO] Content selected: Your story is not over yet.
+2026-10-14 19:45:13,939 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_342.jpg
+2026-10-14 19:45:13,939 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_342.jpg
+2026-10-14 19:45:13,939 [INFO] Caption preview: ☀️ Your story is not over yet.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #Dai...
+2026-10-14 19:45:17,120 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-14 19:45:17,132 [INFO] Slot published successfully: morning_motivation
