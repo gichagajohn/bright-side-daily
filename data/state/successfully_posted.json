@@ -18447,5 +18447,26 @@
       "post_id": "1181533578372151_122139621219364831"
     },
     "timestamp": "2026-10-14T09:56:33.946883"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Act like the person you're becoming, not the one you were.",
+      "content_index": 693,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T12:42:32.652083",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Act like the person you're becoming, not the one you were.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122139638799364831",
+      "post_id": "1181533578372151_122139638823364831"
+    },
+    "timestamp": "2026-10-14T12:42:38.039018"
   }
 ]

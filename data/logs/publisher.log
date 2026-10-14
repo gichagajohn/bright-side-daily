@@ -12690,3 +12690,17 @@ Tag someone who can relate! 😂
 #RelatableLi...
 2026-10-14 09:56:33,941 [INFO] ✅ Posted successfully [funny_meme]
 2026-10-14 09:56:33,965 [INFO] Slot published successfully: funny_meme
+2026-10-14 12:42:32,328 [INFO] Failed posts list is empty.
+2026-10-14 12:42:32,471 [INFO] ============================================================
+2026-10-14 12:42:32,471 [INFO] Running slot: morning_motivation
+2026-10-14 12:42:32,471 [INFO] ============================================================
+2026-10-14 12:42:32,652 [INFO] Content selected: Act like the person you're becoming, not the one you were.
+2026-10-14 12:42:33,741 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_693.jpg
+2026-10-14 12:42:33,741 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_693.jpg
+2026-10-14 12:42:33,741 [INFO] Caption preview: ☀️ Act like the person you're becoming, not the one you were.
+
+Share this with someone who needs it today! 💛
+
+#Motivatio...
+2026-10-14 12:42:38,035 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-14 12:42:38,052 [INFO] Slot published successfully: morning_motivation
