@@ -12760,3 +12760,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #Dai...
 2026-10-14 19:45:17,120 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-14 19:45:17,132 [INFO] Slot published successfully: morning_motivation
+2026-10-14 21:11:49,279 [INFO] Failed posts list is empty.
+2026-10-14 21:11:49,384 [INFO] ============================================================
+2026-10-14 21:11:49,384 [INFO] Running slot: morning_motivation
+2026-10-14 21:11:49,384 [INFO] ============================================================
+2026-10-14 21:11:49,538 [INFO] Content selected: The fire inside you is stronger than the storm outside.
+2026-10-14 21:11:50,409 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_520.jpg
+2026-10-14 21:11:50,410 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_520.jpg
+2026-10-14 21:11:50,410 [INFO] Caption preview: ☀️ The fire inside you is stronger than the storm outside.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #...
+2026-10-14 21:11:54,631 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-14 21:11:54,643 [INFO] Slot published successfully: morning_motivation

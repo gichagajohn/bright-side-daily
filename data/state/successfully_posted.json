@@ -18552,5 +18552,26 @@
       "post_id": "1181533578372151_122139691263364831"
     },
     "timestamp": "2026-10-14T19:45:17.123357"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The fire inside you is stronger than the storm outside.",
+      "content_index": 520,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T21:11:49.538823",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The fire inside you is stronger than the storm outside.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122139698355364831",
+      "post_id": "1181533578372151_122139698379364831"
+    },
+    "timestamp": "2026-10-14T21:11:54.634091"
   }
 ]
