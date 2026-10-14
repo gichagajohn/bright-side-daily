@@ -18489,5 +18489,26 @@
       "post_id": "1181533578372151_122139648603364831"
     },
     "timestamp": "2026-10-14T14:19:08.305997"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Bet on yourself before anyone else gets the chance.",
+      "content_index": 552,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T15:41:04.881546",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Bet on yourself before anyone else gets the chance.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122139657099364831",
+      "post_id": "1181533578372151_122139657123364831"
+    },
+    "timestamp": "2026-10-14T15:41:08.407943"
   }
 ]
