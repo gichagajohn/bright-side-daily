@@ -12842,3 +12842,17 @@ Share this with someone who needs it today! 💛
 Share this with someone who ne...
 2026-10-15 17:41:37,224 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-15 17:41:37,244 [INFO] Slot published successfully: morning_motivation
+2026-10-15 19:28:53,040 [INFO] Failed posts list is empty.
+2026-10-15 19:28:53,211 [INFO] ============================================================
+2026-10-15 19:28:53,211 [INFO] Running slot: morning_motivation
+2026-10-15 19:28:53,211 [INFO] ============================================================
+2026-10-15 19:28:53,474 [INFO] Content selected: What you do today can improve all of your tomorrows.
+2026-10-15 19:28:55,519 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_139.jpg
+2026-10-15 19:28:55,520 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_139.jpg
+2026-10-15 19:28:55,520 [INFO] Caption preview: ☀️ What you do today can improve all of your tomorrows.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Suc...
+2026-10-15 19:28:58,972 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-15 19:28:58,992 [INFO] Slot published successfully: morning_motivation
