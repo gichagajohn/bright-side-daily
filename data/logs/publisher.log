@@ -12856,3 +12856,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Suc...
 2026-10-15 19:28:58,972 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-15 19:28:58,992 [INFO] Slot published successfully: morning_motivation
+2026-10-15 20:49:38,317 [INFO] Failed posts list is empty.
+2026-10-15 20:49:38,535 [INFO] ============================================================
+2026-10-15 20:49:38,536 [INFO] Running slot: morning_motivation
+2026-10-15 20:49:38,536 [INFO] ============================================================
+2026-10-15 20:49:38,803 [INFO] Content selected: Stop waiting and start creating.
+2026-10-15 20:49:39,755 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_374.jpg
+2026-10-15 20:49:39,756 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_374.jpg
+2026-10-15 20:49:39,756 [INFO] Caption preview: ☀️ Stop waiting and start creating.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters...
+2026-10-15 20:49:42,557 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-15 20:49:42,615 [INFO] Slot published successfully: morning_motivation
