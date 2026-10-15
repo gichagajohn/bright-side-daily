@@ -12830,3 +12830,15 @@ Share this with someone who needs it today! 💛
 #Motivatio...
 2026-10-15 15:28:57,651 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-15 15:28:57,671 [INFO] Slot published successfully: morning_motivation
+2026-10-15 17:41:32,906 [INFO] Failed posts list is empty.
+2026-10-15 17:41:33,067 [INFO] ============================================================
+2026-10-15 17:41:33,067 [INFO] Running slot: morning_motivation
+2026-10-15 17:41:33,067 [INFO] ============================================================
+2026-10-15 17:41:33,270 [INFO] Content selected: What you think, you create. What you feel, you attract. What you imagine, you become.
+2026-10-15 17:41:34,210 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_284.jpg
+2026-10-15 17:41:34,210 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_284.jpg
+2026-10-15 17:41:34,210 [INFO] Caption preview: ☀️ What you think, you create. What you feel, you attract. What you imagine, you become.
+
+Share this with someone who ne...
+2026-10-15 17:41:37,224 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-15 17:41:37,244 [INFO] Slot published successfully: morning_motivation
