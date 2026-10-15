@@ -12788,3 +12788,17 @@ Tag someone who can relate! 😂
 #Relatable...
 2026-10-15 09:38:12,253 [INFO] ✅ Posted successfully [funny_meme]
 2026-10-15 09:38:12,273 [INFO] Slot published successfully: funny_meme
+2026-10-15 12:30:33,613 [INFO] Failed posts list is empty.
+2026-10-15 12:30:33,794 [INFO] ============================================================
+2026-10-15 12:30:33,794 [INFO] Running slot: morning_motivation
+2026-10-15 12:30:33,794 [INFO] ============================================================
+2026-10-15 12:30:34,055 [INFO] Content selected: Make no excuses. Make no exceptions. Make it happen.
+2026-10-15 12:30:34,765 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_578.jpg
+2026-10-15 12:30:34,766 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_578.jpg
+2026-10-15 12:30:34,766 [INFO] Caption preview: ☀️ Make no excuses. Make no exceptions. Make it happen.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Suc...
+2026-10-15 12:30:39,907 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-15 12:30:39,926 [INFO] Slot published successfully: morning_motivation

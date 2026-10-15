@@ -18594,5 +18594,26 @@
       "post_id": "1181533578372151_122139777021364831"
     },
     "timestamp": "2026-10-15T09:38:12.257465"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Make no excuses. Make no exceptions. Make it happen.",
+      "content_index": 578,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T12:30:34.055537",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Make no excuses. Make no exceptions. Make it happen.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122139798759364831",
+      "post_id": "1181533578372151_122139798789364831"
+    },
+    "timestamp": "2026-10-15T12:30:39.910582"
   }
 ]
