@@ -18804,5 +18804,26 @@
       "post_id": "1181533578372151_122139964281364831"
     },
     "timestamp": "2026-10-16T15:09:33.712966"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You don't need to be perfect. You just need to begin.",
+      "content_index": 319,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T17:16:08.648338",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You don't need to be perfect. You just need to begin.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122139981489364831",
+      "post_id": "1181533578372151_122139981513364831"
+    },
+    "timestamp": "2026-10-16T17:16:13.361732"
   }
 ]
