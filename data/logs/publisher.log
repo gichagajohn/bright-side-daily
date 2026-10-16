@@ -12912,3 +12912,17 @@ Share this with someone who needs it today! 💛
 #YouGotThis #KeepGoing...
 2026-10-16 13:43:53,312 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-10-16 13:43:53,484 [INFO] Slot published successfully: midday_encouragement
+2026-10-16 15:09:27,421 [INFO] Failed posts list is empty.
+2026-10-16 15:09:27,540 [INFO] ============================================================
+2026-10-16 15:09:27,540 [INFO] Running slot: morning_motivation
+2026-10-16 15:09:27,540 [INFO] ============================================================
+2026-10-16 15:09:27,751 [INFO] Content selected: You are exactly where you need to be right now.
+2026-10-16 15:09:29,686 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_255.jpg
+2026-10-16 15:09:29,686 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_255.jpg
+2026-10-16 15:09:29,686 [INFO] Caption preview: ☀️ You are exactly where you need to be right now.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success ...
+2026-10-16 15:09:33,709 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-16 15:09:33,725 [INFO] Slot published successfully: morning_motivation
