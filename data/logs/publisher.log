@@ -12954,3 +12954,15 @@ Share this with someone who needs it today! 💛
 #Motivation #Succes...
 2026-10-16 19:03:12,952 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-16 19:03:12,965 [INFO] Slot published successfully: morning_motivation
+2026-10-16 20:23:27,235 [INFO] Failed posts list is empty.
+2026-10-16 20:23:27,406 [INFO] ============================================================
+2026-10-16 20:23:27,406 [INFO] Running slot: morning_motivation
+2026-10-16 20:23:27,407 [INFO] ============================================================
+2026-10-16 20:23:27,608 [INFO] Content selected: Whatever you put off today is waiting for you tomorrow with compound interest.
+2026-10-16 20:23:28,325 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_593.jpg
+2026-10-16 20:23:28,325 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_593.jpg
+2026-10-16 20:23:28,325 [INFO] Caption preview: ☀️ Whatever you put off today is waiting for you tomorrow with compound interest.
+
+Share this with someone who needs it ...
+2026-10-16 20:23:31,662 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-16 20:23:31,682 [INFO] Slot published successfully: morning_motivation
