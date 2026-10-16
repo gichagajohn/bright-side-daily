@@ -18825,5 +18825,26 @@
       "post_id": "1181533578372151_122139981513364831"
     },
     "timestamp": "2026-10-16T17:16:13.361732"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Success is simply the process of never giving up.",
+      "content_index": 472,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T19:03:07.816700",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Success is simply the process of never giving up.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122139996051364831",
+      "post_id": "1181533578372151_122139996075364831"
+    },
+    "timestamp": "2026-10-16T19:03:12.955218"
   }
 ]

@@ -12940,3 +12940,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Su...
 2026-10-16 17:16:13,358 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-16 17:16:13,374 [INFO] Slot published successfully: morning_motivation
+2026-10-16 19:03:07,553 [INFO] Failed posts list is empty.
+2026-10-16 19:03:07,660 [INFO] ============================================================
+2026-10-16 19:03:07,660 [INFO] Running slot: morning_motivation
+2026-10-16 19:03:07,660 [INFO] ============================================================
+2026-10-16 19:03:07,816 [INFO] Content selected: Success is simply the process of never giving up.
+2026-10-16 19:03:09,120 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_472.jpg
+2026-10-16 19:03:09,121 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_472.jpg
+2026-10-16 19:03:09,121 [INFO] Caption preview: ☀️ Success is simply the process of never giving up.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succes...
+2026-10-16 19:03:12,952 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-16 19:03:12,965 [INFO] Slot published successfully: morning_motivation
