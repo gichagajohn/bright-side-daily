@@ -18741,5 +18741,26 @@
       "post_id": "1181533578372151_122139925959364831"
     },
     "timestamp": "2026-10-16T09:31:26.183549"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Build something so big your problems look small next to it.",
+      "content_index": 682,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T12:09:12.244839",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Build something so big your problems look small next to it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122139943749364831",
+      "post_id": "1181533578372151_122139943779364831"
+    },
+    "timestamp": "2026-10-16T12:09:16.413504"
   }
 ]
