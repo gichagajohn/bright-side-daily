@@ -18993,5 +18993,26 @@
       "post_id": "1181533578372151_122140140177364831"
     },
     "timestamp": "2026-10-17T17:59:08.581404"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Discipline isn't a prison. It's freedom.",
+      "content_index": 528,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-10-17",
+      "timestamp": "2026-10-17T19:57:36.436437",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Discipline isn't a prison. It's freedom.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122140152531364831",
+      "post_id": "1181533578372151_122140152639364831"
+    },
+    "timestamp": "2026-10-17T19:57:41.419112"
   }
 ]
