@@ -18930,5 +18930,26 @@
       "post_id": "1181533578372151_122140109565364831"
     },
     "timestamp": "2026-10-17T12:40:34.561494"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You only get one shot at life. Make it count.",
+      "content_index": 257,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-10-17",
+      "timestamp": "2026-10-17T14:02:40.596493",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You only get one shot at life. Make it count.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122140118997364831",
+      "post_id": "1181533578372151_122140119021364831"
+    },
+    "timestamp": "2026-10-17T14:02:44.240415"
   }
 ]

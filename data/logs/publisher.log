@@ -13008,3 +13008,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Su...
 2026-10-17 12:40:34,557 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-17 12:40:34,578 [INFO] Slot published successfully: morning_motivation
+2026-10-17 14:02:40,350 [INFO] Failed posts list is empty.
+2026-10-17 14:02:40,460 [INFO] ============================================================
+2026-10-17 14:02:40,461 [INFO] Running slot: morning_motivation
+2026-10-17 14:02:40,461 [INFO] ============================================================
+2026-10-17 14:02:40,596 [INFO] Content selected: You only get one shot at life. Make it count.
+2026-10-17 14:02:41,284 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_257.jpg
+2026-10-17 14:02:41,284 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_257.jpg
+2026-10-17 14:02:41,284 [INFO] Caption preview: ☀️ You only get one shot at life. Make it count.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #M...
+2026-10-17 14:02:44,237 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-17 14:02:44,250 [INFO] Slot published successfully: morning_motivation
