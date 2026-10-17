@@ -13036,3 +13036,17 @@ Share this with someone who needs it today! 💛
 #Gratitude #Than...
 2026-10-17 16:15:44,015 [INFO] ✅ Posted successfully [evening_reflection]
 2026-10-17 16:15:44,035 [INFO] Slot published successfully: evening_reflection
+2026-10-17 17:59:02,049 [INFO] Failed posts list is empty.
+2026-10-17 17:59:02,216 [INFO] ============================================================
+2026-10-17 17:59:02,216 [INFO] Running slot: morning_motivation
+2026-10-17 17:59:02,216 [INFO] ============================================================
+2026-10-17 17:59:02,542 [INFO] Content selected: Do something today that your future self will thank you for.
+2026-10-17 17:59:03,237 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_78.jpg
+2026-10-17 17:59:03,237 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_78.jpg
+2026-10-17 17:59:03,237 [INFO] Caption preview: ☀️ Do something today that your future self will thank you for.
+
+Share this with someone who needs it today! 💛
+
+#Motivat...
+2026-10-17 17:59:08,577 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-17 17:59:08,597 [INFO] Slot published successfully: morning_motivation
