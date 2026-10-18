@@ -19077,5 +19077,26 @@
       "post_id": "1181533578372151_122140252401364831"
     },
     "timestamp": "2026-10-18T12:57:43.707921"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Run your race. Your lane leads to your destiny.",
+      "content_index": 696,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T14:16:12.055566",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Run your race. Your lane leads to your destiny.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122140261065364831",
+      "post_id": "1181533578372151_122140261167364831"
+    },
+    "timestamp": "2026-10-18T14:16:18.264717"
   }
 ]
