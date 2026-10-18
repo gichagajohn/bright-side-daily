@@ -13146,3 +13146,17 @@ Drop your answer in the comments below 👇
 #Community #ShareY...
 2026-10-18 18:18:21,792 [INFO] ✅ Posted successfully [engagement_question]
 2026-10-18 18:18:21,812 [INFO] Slot published successfully: engagement_question
+2026-10-18 19:57:20,728 [INFO] Failed posts list is empty.
+2026-10-18 19:57:20,850 [INFO] ============================================================
+2026-10-18 19:57:20,850 [INFO] Running slot: morning_motivation
+2026-10-18 19:57:20,850 [INFO] ============================================================
+2026-10-18 19:57:20,982 [INFO] Content selected: Do what others won't so you can have what others don't.
+2026-10-18 19:57:21,662 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_295.jpg
+2026-10-18 19:57:21,662 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_295.jpg
+2026-10-18 19:57:21,662 [INFO] Caption preview: ☀️ Do what others won't so you can have what others don't.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #...
+2026-10-18 19:57:26,106 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-18 19:57:26,120 [INFO] Slot published successfully: morning_motivation

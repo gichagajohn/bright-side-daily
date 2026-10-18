@@ -19140,5 +19140,26 @@
       "post_id": "1181533578372151_122140285473364831"
     },
     "timestamp": "2026-10-18T18:18:21.796426"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Do what others won't so you can have what others don't.",
+      "content_index": 295,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T19:57:20.982100",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Do what others won't so you can have what others don't.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122140295667364831",
+      "post_id": "1181533578372151_122140295691364831"
+    },
+    "timestamp": "2026-10-18T19:57:26.109618"
   }
 ]
