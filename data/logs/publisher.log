@@ -13092,3 +13092,17 @@ Share this with someone who needs it today! 💛
 #Pers...
 2026-10-18 11:58:28,235 [INFO] ✅ Posted successfully [self_improvement]
 2026-10-18 11:58:28,635 [INFO] Slot published successfully: self_improvement
+2026-10-18 12:57:35,807 [INFO] Failed posts list is empty.
+2026-10-18 12:57:36,574 [INFO] ============================================================
+2026-10-18 12:57:36,574 [INFO] Running slot: morning_motivation
+2026-10-18 12:57:36,574 [INFO] ============================================================
+2026-10-18 12:57:36,834 [INFO] Content selected: Plan your work. Work your plan.
+2026-10-18 12:57:37,690 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_425.jpg
+2026-10-18 12:57:37,690 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_425.jpg
+2026-10-18 12:57:37,690 [INFO] Caption preview: ☀️ Plan your work. Work your plan.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters ...
+2026-10-18 12:57:43,703 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-18 12:57:43,725 [INFO] Slot published successfully: morning_motivation

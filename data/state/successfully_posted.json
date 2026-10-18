@@ -19056,5 +19056,26 @@
       "post_id": "1181533578372151_122140247235364831"
     },
     "timestamp": "2026-10-18T11:58:28.240550"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Plan your work. Work your plan.",
+      "content_index": 425,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T12:57:36.834084",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Plan your work. Work your plan.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122140252377364831",
+      "post_id": "1181533578372151_122140252401364831"
+    },
+    "timestamp": "2026-10-18T12:57:43.707921"
   }
 ]
