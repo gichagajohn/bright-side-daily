@@ -13216,3 +13216,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #...
 2026-10-19 17:18:56,936 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-19 17:18:56,956 [INFO] Slot published successfully: morning_motivation
+2026-10-19 19:11:09,957 [INFO] Failed posts list is empty.
+2026-10-19 19:11:10,092 [INFO] ============================================================
+2026-10-19 19:11:10,092 [INFO] Running slot: morning_motivation
+2026-10-19 19:11:10,092 [INFO] ============================================================
+2026-10-19 19:11:10,332 [INFO] Content selected: Your energy introduces you before you even speak.
+2026-10-19 19:11:12,039 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_410.jpg
+2026-10-19 19:11:12,040 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_410.jpg
+2026-10-19 19:11:12,040 [INFO] Caption preview: ☀️ Your energy introduces you before you even speak.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succes...
+2026-10-19 19:11:15,767 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-19 19:11:16,627 [INFO] Slot published successfully: morning_motivation

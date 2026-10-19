@@ -19245,5 +19245,26 @@
       "post_id": "1181533578372151_122140427055364831"
     },
     "timestamp": "2026-10-19T17:18:56.939818"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your energy introduces you before you even speak.",
+      "content_index": 410,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T19:11:10.332449",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your energy introduces you before you even speak.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122140438521364831",
+      "post_id": "1181533578372151_122140438545364831"
+    },
+    "timestamp": "2026-10-19T19:11:15.770670"
   }
 ]
