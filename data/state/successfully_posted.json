@@ -19182,5 +19182,26 @@
       "post_id": "1181533578372151_122140379289364831"
     },
     "timestamp": "2026-10-19T10:32:15.613714"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Go harder than you planned. Rest smarter than you thought.",
+      "content_index": 548,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T14:26:08.809212",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Go harder than you planned. Rest smarter than you thought.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122140408491364831",
+      "post_id": "1181533578372151_122140408515364831"
+    },
+    "timestamp": "2026-10-19T14:26:13.490724"
   }
 ]
