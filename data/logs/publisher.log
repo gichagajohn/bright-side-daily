@@ -13244,3 +13244,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #M...
 2026-10-19 20:44:43,490 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-19 20:44:43,508 [INFO] Slot published successfully: morning_motivation
+2026-10-19 21:55:57,852 [INFO] Failed posts list is empty.
+2026-10-19 21:55:58,015 [INFO] ============================================================
+2026-10-19 21:55:58,015 [INFO] Running slot: morning_motivation
+2026-10-19 21:55:58,015 [INFO] ============================================================
+2026-10-19 21:55:58,214 [INFO] Content selected: Success belongs to those who refuse to call it impossible.
+2026-10-19 21:55:58,929 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_648.jpg
+2026-10-19 21:55:58,930 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_648.jpg
+2026-10-19 21:55:58,930 [INFO] Caption preview: ☀️ Success belongs to those who refuse to call it impossible.
+
+Share this with someone who needs it today! 💛
+
+#Motivatio...
+2026-10-19 21:56:05,961 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-19 21:56:05,983 [INFO] Slot published successfully: morning_motivation
