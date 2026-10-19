@@ -19161,5 +19161,26 @@
       "post_id": "1181533578372151_122140295691364831"
     },
     "timestamp": "2026-10-18T19:57:26.109618"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The only way forward is forward.",
+      "content_index": 540,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T10:32:10.980820",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The only way forward is forward.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122140379265364831",
+      "post_id": "1181533578372151_122140379289364831"
+    },
+    "timestamp": "2026-10-19T10:32:15.613714"
   }
 ]
