@@ -19266,5 +19266,26 @@
       "post_id": "1181533578372151_122140438545364831"
     },
     "timestamp": "2026-10-19T19:11:15.770670"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "In the middle of difficulty lies opportunity.",
+      "content_index": 177,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T20:44:38.068772",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f In the middle of difficulty lies opportunity.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122140445415364831",
+      "post_id": "1181533578372151_122140445445364831"
+    },
+    "timestamp": "2026-10-19T20:44:43.494346"
   }
 ]
