@@ -19224,5 +19224,26 @@
       "post_id": "1181533578372151_122140419573364831"
     },
     "timestamp": "2026-10-19T16:10:22.077281"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The world is yours. Go get it.",
+      "content_index": 362,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T17:18:47.887200",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The world is yours. Go get it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122140427031364831",
+      "post_id": "1181533578372151_122140427055364831"
+    },
+    "timestamp": "2026-10-19T17:18:56.939818"
   }
 ]
