@@ -13328,3 +13328,17 @@ Share this with someone who needs it today! 💛
 ...
 2026-10-20 17:51:46,234 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-20 17:51:46,255 [INFO] Slot published successfully: morning_motivation
+2026-10-20 19:39:45,445 [INFO] Failed posts list is empty.
+2026-10-20 19:39:45,655 [INFO] ============================================================
+2026-10-20 19:39:45,655 [INFO] Running slot: morning_motivation
+2026-10-20 19:39:45,655 [INFO] ============================================================
+2026-10-20 19:39:45,871 [INFO] Content selected: Let your legacy be your greatest work.
+2026-10-20 19:39:46,692 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_657.jpg
+2026-10-20 19:39:46,692 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_657.jpg
+2026-10-20 19:39:46,692 [INFO] Caption preview: ☀️ Let your legacy be your greatest work.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetM...
+2026-10-20 19:39:50,078 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-20 19:39:50,100 [INFO] Slot published successfully: morning_motivation

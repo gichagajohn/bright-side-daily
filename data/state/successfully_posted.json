@@ -19413,5 +19413,26 @@
       "post_id": "1181533578372151_122140601193364831"
     },
     "timestamp": "2026-10-20T17:51:46.237792"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Let your legacy be your greatest work.",
+      "content_index": 657,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T19:39:45.871521",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Let your legacy be your greatest work.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122140618143364831",
+      "post_id": "1181533578372151_122140618167364831"
+    },
+    "timestamp": "2026-10-20T19:39:50.083729"
   }
 ]
