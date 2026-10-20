@@ -13286,3 +13286,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success ...
 2026-10-20 12:35:22,717 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-20 12:35:22,738 [INFO] Slot published successfully: morning_motivation
+2026-10-20 14:04:31,055 [INFO] Failed posts list is empty.
+2026-10-20 14:04:31,248 [INFO] ============================================================
+2026-10-20 14:04:31,249 [INFO] Running slot: morning_motivation
+2026-10-20 14:04:31,249 [INFO] ============================================================
+2026-10-20 14:04:31,537 [INFO] Content selected: You are a limitless being in a limited world. Break the limits.
+2026-10-20 14:04:32,621 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_523.jpg
+2026-10-20 14:04:32,621 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_523.jpg
+2026-10-20 14:04:32,622 [INFO] Caption preview: ☀️ You are a limitless being in a limited world. Break the limits.
+
+Share this with someone who needs it today! 💛
+
+#Moti...
+2026-10-20 14:04:36,166 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-20 14:04:36,187 [INFO] Slot published successfully: morning_motivation
