@@ -13300,3 +13300,17 @@ Share this with someone who needs it today! 💛
 #Moti...
 2026-10-20 14:04:36,166 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-20 14:04:36,187 [INFO] Slot published successfully: morning_motivation
+2026-10-20 15:32:23,279 [INFO] Failed posts list is empty.
+2026-10-20 15:32:23,423 [INFO] ============================================================
+2026-10-20 15:32:23,423 [INFO] Running slot: morning_motivation
+2026-10-20 15:32:23,423 [INFO] ============================================================
+2026-10-20 15:32:23,631 [INFO] Content selected: Legends are not born. They are built. Daily.
+2026-10-20 15:32:24,705 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_677.jpg
+2026-10-20 15:32:24,705 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_677.jpg
+2026-10-20 15:32:24,705 [INFO] Caption preview: ☀️ Legends are not born. They are built. Daily.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mi...
+2026-10-20 15:32:30,508 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-20 15:32:30,529 [INFO] Slot published successfully: morning_motivation

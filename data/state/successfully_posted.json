@@ -19371,5 +19371,26 @@
       "post_id": "1181533578372151_122140577691364831"
     },
     "timestamp": "2026-10-20T14:04:36.170801"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Legends are not born. They are built. Daily.",
+      "content_index": 677,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T15:32:23.631332",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Legends are not born. They are built. Daily.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122140590723364831",
+      "post_id": "1181533578372151_122140590747364831"
+    },
+    "timestamp": "2026-10-20T15:32:30.512692"
   }
 ]
