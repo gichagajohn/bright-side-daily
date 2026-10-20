@@ -13314,3 +13314,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mi...
 2026-10-20 15:32:30,508 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-20 15:32:30,529 [INFO] Slot published successfully: morning_motivation
+2026-10-20 17:51:35,281 [INFO] Failed posts list is empty.
+2026-10-20 17:51:35,469 [INFO] ============================================================
+2026-10-20 17:51:35,469 [INFO] Running slot: morning_motivation
+2026-10-20 17:51:35,469 [INFO] ============================================================
+2026-10-20 17:51:35,716 [INFO] Content selected: The work you avoid is usually the work that would change everything.
+2026-10-20 17:51:36,580 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_534.jpg
+2026-10-20 17:51:36,580 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_534.jpg
+2026-10-20 17:51:36,580 [INFO] Caption preview: ☀️ The work you avoid is usually the work that would change everything.
+
+Share this with someone who needs it today! 💛
+
+...
+2026-10-20 17:51:46,234 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-20 17:51:46,255 [INFO] Slot published successfully: morning_motivation
