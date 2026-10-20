@@ -19434,5 +19434,26 @@
       "post_id": "1181533578372151_122140618167364831"
     },
     "timestamp": "2026-10-20T19:39:50.083729"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Do the work. See the results.",
+      "content_index": 250,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T21:08:00.380739",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Do the work. See the results.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122140627509364831",
+      "post_id": "1181533578372151_122140627533364831"
+    },
+    "timestamp": "2026-10-20T21:08:05.571687"
   }
 ]
