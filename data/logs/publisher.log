@@ -13384,3 +13384,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Succ...
 2026-10-21 12:46:58,190 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-21 12:46:58,206 [INFO] Slot published successfully: morning_motivation
+2026-10-21 14:19:24,243 [INFO] Failed posts list is empty.
+2026-10-21 14:19:24,462 [INFO] ============================================================
+2026-10-21 14:19:24,463 [INFO] Running slot: morning_motivation
+2026-10-21 14:19:24,463 [INFO] ============================================================
+2026-10-21 14:19:24,793 [INFO] Content selected: The breakthrough is always on the other side of the breakdown.
+2026-10-21 14:19:25,388 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_669.jpg
+2026-10-21 14:19:25,388 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_669.jpg
+2026-10-21 14:19:25,388 [INFO] Caption preview: ☀️ The breakthrough is always on the other side of the breakdown.
+
+Share this with someone who needs it today! 💛
+
+#Motiv...
+2026-10-21 14:19:30,528 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-21 14:19:30,549 [INFO] Slot published successfully: morning_motivation

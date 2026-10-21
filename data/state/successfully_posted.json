@@ -19497,5 +19497,26 @@
       "post_id": "1181533578372151_122140722567364831"
     },
     "timestamp": "2026-10-21T12:46:58.193391"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The breakthrough is always on the other side of the breakdown.",
+      "content_index": 669,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-10-21",
+      "timestamp": "2026-10-21T14:19:24.793665",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The breakthrough is always on the other side of the breakdown.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122140734105364831",
+      "post_id": "1181533578372151_122140734135364831"
+    },
+    "timestamp": "2026-10-21T14:19:30.532367"
   }
 ]
