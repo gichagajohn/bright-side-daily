@@ -19518,5 +19518,26 @@
       "post_id": "1181533578372151_122140734135364831"
     },
     "timestamp": "2026-10-21T14:19:30.532367"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Every day is a second chance.",
+      "content_index": 387,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-10-21",
+      "timestamp": "2026-10-21T15:48:32.624029",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Every day is a second chance.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122140743957364831",
+      "post_id": "1181533578372151_122140743981364831"
+    },
+    "timestamp": "2026-10-21T15:48:38.441991"
   }
 ]

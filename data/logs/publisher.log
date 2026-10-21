@@ -13398,3 +13398,17 @@ Share this with someone who needs it today! 💛
 #Motiv...
 2026-10-21 14:19:30,528 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-21 14:19:30,549 [INFO] Slot published successfully: morning_motivation
+2026-10-21 15:48:32,153 [INFO] Failed posts list is empty.
+2026-10-21 15:48:32,389 [INFO] ============================================================
+2026-10-21 15:48:32,389 [INFO] Running slot: morning_motivation
+2026-10-21 15:48:32,389 [INFO] ============================================================
+2026-10-21 15:48:32,624 [INFO] Content selected: Every day is a second chance.
+2026-10-21 15:48:33,515 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_387.jpg
+2026-10-21 15:48:33,516 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_387.jpg
+2026-10-21 15:48:33,516 [INFO] Caption preview: ☀️ Every day is a second chance.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #D...
+2026-10-21 15:48:38,437 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-21 15:48:38,458 [INFO] Slot published successfully: morning_motivation
