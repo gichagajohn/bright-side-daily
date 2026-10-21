@@ -19560,5 +19560,26 @@
       "post_id": "1181533578372151_122140757115364831"
     },
     "timestamp": "2026-10-21T17:57:48.896390"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your best performance hasn't happened yet.",
+      "content_index": 588,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-10-21",
+      "timestamp": "2026-10-21T19:41:22.375138",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your best performance hasn't happened yet.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122140768173364831",
+      "post_id": "1181533578372151_122140768197364831"
+    },
+    "timestamp": "2026-10-21T19:41:25.959867"
   }
 ]
