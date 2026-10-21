@@ -13412,3 +13412,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMatters #D...
 2026-10-21 15:48:38,437 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-21 15:48:38,458 [INFO] Slot published successfully: morning_motivation
+2026-10-21 17:57:44,041 [INFO] Failed posts list is empty.
+2026-10-21 17:57:44,193 [INFO] ============================================================
+2026-10-21 17:57:44,194 [INFO] Running slot: morning_motivation
+2026-10-21 17:57:44,194 [INFO] ============================================================
+2026-10-21 17:57:44,502 [INFO] Content selected: You are a force to be reckoned with.
+2026-10-21 17:57:45,456 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_361.jpg
+2026-10-21 17:57:45,457 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_361.jpg
+2026-10-21 17:57:45,457 [INFO] Caption preview: ☀️ You are a force to be reckoned with.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMat...
+2026-10-21 17:57:48,891 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-21 17:57:48,913 [INFO] Slot published successfully: morning_motivation
