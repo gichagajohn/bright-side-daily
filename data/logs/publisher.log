@@ -13482,3 +13482,17 @@ Share this with someone who needs it today! 💛
 #Motivation ...
 2026-10-22 12:50:12,454 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-22 12:50:12,476 [INFO] Slot published successfully: morning_motivation
+2026-10-22 14:19:26,133 [INFO] Failed posts list is empty.
+2026-10-22 14:19:26,339 [INFO] ============================================================
+2026-10-22 14:19:26,339 [INFO] Running slot: morning_motivation
+2026-10-22 14:19:26,340 [INFO] ============================================================
+2026-10-22 14:19:26,559 [INFO] Content selected: You are on the path. Trust the path.
+2026-10-22 14:19:27,423 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_699.jpg
+2026-10-22 14:19:27,424 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_699.jpg
+2026-10-22 14:19:27,424 [INFO] Caption preview: ☀️ You are on the path. Trust the path.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMat...
+2026-10-22 14:19:30,896 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-22 14:19:30,917 [INFO] Slot published successfully: morning_motivation
