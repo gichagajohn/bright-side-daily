@@ -13496,3 +13496,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMat...
 2026-10-22 14:19:30,896 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-22 14:19:30,917 [INFO] Slot published successfully: morning_motivation
+2026-10-22 15:46:41,744 [INFO] Failed posts list is empty.
+2026-10-22 15:46:41,871 [INFO] ============================================================
+2026-10-22 15:46:41,871 [INFO] Running slot: morning_motivation
+2026-10-22 15:46:41,871 [INFO] ============================================================
+2026-10-22 15:46:42,120 [INFO] Content selected: Your life is your message to the world. Make it inspiring.
+2026-10-22 15:46:43,546 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_182.jpg
+2026-10-22 15:46:43,546 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_182.jpg
+2026-10-22 15:46:43,546 [INFO] Caption preview: ☀️ Your life is your message to the world. Make it inspiring.
+
+Share this with someone who needs it today! 💛
+
+#Motivatio...
+2026-10-22 15:46:47,585 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-22 15:46:47,604 [INFO] Slot published successfully: morning_motivation
