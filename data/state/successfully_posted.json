@@ -19707,5 +19707,26 @@
       "post_id": "1181533578372151_122140920537364831"
     },
     "timestamp": "2026-10-22T17:54:19.060535"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Hustle now so you can live boldly later.",
+      "content_index": 569,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T19:34:10.132894",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Hustle now so you can live boldly later.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122140935009364831",
+      "post_id": "1181533578372151_122140935033364831"
+    },
+    "timestamp": "2026-10-22T19:34:16.067381"
   }
 ]

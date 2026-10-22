@@ -13524,3 +13524,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #...
 2026-10-22 17:54:19,057 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-22 17:54:19,074 [INFO] Slot published successfully: morning_motivation
+2026-10-22 19:34:09,675 [INFO] Failed posts list is empty.
+2026-10-22 19:34:09,923 [INFO] ============================================================
+2026-10-22 19:34:09,923 [INFO] Running slot: morning_motivation
+2026-10-22 19:34:09,923 [INFO] ============================================================
+2026-10-22 19:34:10,132 [INFO] Content selected: Hustle now so you can live boldly later.
+2026-10-22 19:34:11,579 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_569.jpg
+2026-10-22 19:34:11,579 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_569.jpg
+2026-10-22 19:34:11,579 [INFO] Caption preview: ☀️ Hustle now so you can live boldly later.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mindse...
+2026-10-22 19:34:16,063 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-22 19:34:16,085 [INFO] Slot published successfully: morning_motivation
