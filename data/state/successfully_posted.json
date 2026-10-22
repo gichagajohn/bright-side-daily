@@ -19623,5 +19623,26 @@
       "post_id": "1181533578372151_122140867767364831"
     },
     "timestamp": "2026-10-22T09:51:56.692214"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are closer to your breakthrough than your breakdown.",
+      "content_index": 566,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T12:50:06.558112",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are closer to your breakthrough than your breakdown.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122140886943364831",
+      "post_id": "1181533578372151_122140886979364831"
+    },
+    "timestamp": "2026-10-22T12:50:12.459007"
   }
 ]
