@@ -19728,5 +19728,26 @@
       "post_id": "1181533578372151_122140935033364831"
     },
     "timestamp": "2026-10-22T19:34:16.067381"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Keep moving. Progress is happening even when you can't see it.",
+      "content_index": 656,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T21:05:56.035477",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Keep moving. Progress is happening even when you can't see it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122140945473364831",
+      "post_id": "1181533578372151_122140945509364831"
+    },
+    "timestamp": "2026-10-22T21:06:00.820949"
   }
 ]

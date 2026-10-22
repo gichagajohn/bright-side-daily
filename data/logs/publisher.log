@@ -13538,3 +13538,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mindse...
 2026-10-22 19:34:16,063 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-22 19:34:16,085 [INFO] Slot published successfully: morning_motivation
+2026-10-22 21:05:55,694 [INFO] Failed posts list is empty.
+2026-10-22 21:05:55,815 [INFO] ============================================================
+2026-10-22 21:05:55,815 [INFO] Running slot: morning_motivation
+2026-10-22 21:05:55,815 [INFO] ============================================================
+2026-10-22 21:05:56,035 [INFO] Content selected: Keep moving. Progress is happening even when you can't see it.
+2026-10-22 21:05:57,047 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_656.jpg
+2026-10-22 21:05:57,047 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_656.jpg
+2026-10-22 21:05:57,048 [INFO] Caption preview: ☀️ Keep moving. Progress is happening even when you can't see it.
+
+Share this with someone who needs it today! 💛
+
+#Motiv...
+2026-10-22 21:06:00,816 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-22 21:06:00,833 [INFO] Slot published successfully: morning_motivation
