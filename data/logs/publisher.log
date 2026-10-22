@@ -13510,3 +13510,17 @@ Share this with someone who needs it today! 💛
 #Motivatio...
 2026-10-22 15:46:47,585 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-22 15:46:47,604 [INFO] Slot published successfully: morning_motivation
+2026-10-22 17:54:12,547 [INFO] Failed posts list is empty.
+2026-10-22 17:54:12,668 [INFO] ============================================================
+2026-10-22 17:54:12,668 [INFO] Running slot: morning_motivation
+2026-10-22 17:54:12,668 [INFO] ============================================================
+2026-10-22 17:54:12,829 [INFO] Content selected: Your commitment today is your result tomorrow.
+2026-10-22 17:54:13,841 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_611.jpg
+2026-10-22 17:54:13,841 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_611.jpg
+2026-10-22 17:54:13,841 [INFO] Caption preview: ☀️ Your commitment today is your result tomorrow.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #...
+2026-10-22 17:54:19,057 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-22 17:54:19,074 [INFO] Slot published successfully: morning_motivation

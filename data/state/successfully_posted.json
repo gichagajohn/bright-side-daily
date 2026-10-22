@@ -19686,5 +19686,26 @@
       "post_id": "1181533578372151_122140909173364831"
     },
     "timestamp": "2026-10-22T15:46:47.590064"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your commitment today is your result tomorrow.",
+      "content_index": 611,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T17:54:12.829059",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your commitment today is your result tomorrow.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122140920507364831",
+      "post_id": "1181533578372151_122140920537364831"
+    },
+    "timestamp": "2026-10-22T17:54:19.060535"
   }
 ]
