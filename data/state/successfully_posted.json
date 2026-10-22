@@ -19602,5 +19602,26 @@
       "post_id": "1181533578372151_122140776075364831"
     },
     "timestamp": "2026-10-21T21:06:35.278562"
+  },
+  {
+    "post": {
+      "slot": "funny_meme",
+      "category": "meme_captions",
+      "content": "Me confidently going the wrong direction and pretending it was intentional.",
+      "content_index": 213,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person doing a funny but relatable face"
+      },
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T09:51:50.861179",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\ude04 Me confidently going the wrong direction and pretending it was intentional.\n\nTag someone who can relate! \ud83d\ude02\n\n#RelatableLife #Funny #MondayMood #TooReal #WeekdayVibes #BrightSideDaily",
+    "fb_response": {
+      "id": "122140867743364831",
+      "post_id": "1181533578372151_122140867767364831"
+    },
+    "timestamp": "2026-10-22T09:51:56.692214"
   }
 ]
