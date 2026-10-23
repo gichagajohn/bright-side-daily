@@ -19875,5 +19875,26 @@
       "post_id": "1181533578372151_122141131953364831"
     },
     "timestamp": "2026-10-23T19:34:56.412292"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The harder you work, the luckier you get.",
+      "content_index": 636,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T20:52:21.524085",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The harder you work, the luckier you get.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122141138781364831",
+      "post_id": "1181533578372151_122141138805364831"
+    },
+    "timestamp": "2026-10-23T20:52:27.143797"
   }
 ]

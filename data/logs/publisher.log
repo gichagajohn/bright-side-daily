@@ -13634,3 +13634,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMat...
 2026-10-23 19:34:56,409 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-23 19:34:56,423 [INFO] Slot published successfully: morning_motivation
+2026-10-23 20:52:21,244 [INFO] Failed posts list is empty.
+2026-10-23 20:52:21,371 [INFO] ============================================================
+2026-10-23 20:52:21,371 [INFO] Running slot: morning_motivation
+2026-10-23 20:52:21,371 [INFO] ============================================================
+2026-10-23 20:52:21,524 [INFO] Content selected: The harder you work, the luckier you get.
+2026-10-23 20:52:22,408 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_636.jpg
+2026-10-23 20:52:22,408 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_636.jpg
+2026-10-23 20:52:22,408 [INFO] Caption preview: ☀️ The harder you work, the luckier you get.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Minds...
+2026-10-23 20:52:27,140 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-23 20:52:27,158 [INFO] Slot published successfully: morning_motivation
