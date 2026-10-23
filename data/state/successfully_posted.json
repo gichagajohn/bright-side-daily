@@ -19812,5 +19812,26 @@
       "post_id": "1181533578372151_122141093427364831"
     },
     "timestamp": "2026-10-23T14:02:56.688332"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Build momentum. Keep going. Never settle.",
+      "content_index": 388,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T15:37:22.299471",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Build momentum. Keep going. Never settle.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122141105061364831",
+      "post_id": "1181533578372151_122141105085364831"
+    },
+    "timestamp": "2026-10-23T15:37:26.168754"
   }
 ]
