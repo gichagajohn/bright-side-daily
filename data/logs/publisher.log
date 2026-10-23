@@ -13620,3 +13620,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success...
 2026-10-23 17:48:42,917 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-23 17:48:42,930 [INFO] Slot published successfully: morning_motivation
+2026-10-23 19:34:50,340 [INFO] Failed posts list is empty.
+2026-10-23 19:34:50,454 [INFO] ============================================================
+2026-10-23 19:34:50,454 [INFO] Running slot: morning_motivation
+2026-10-23 19:34:50,454 [INFO] ============================================================
+2026-10-23 19:34:50,639 [INFO] Content selected: Rise to the moment. Then rise again.
+2026-10-23 19:34:51,610 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_542.jpg
+2026-10-23 19:34:51,610 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_542.jpg
+2026-10-23 19:34:51,610 [INFO] Caption preview: ☀️ Rise to the moment. Then rise again.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMat...
+2026-10-23 19:34:56,409 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-23 19:34:56,423 [INFO] Slot published successfully: morning_motivation

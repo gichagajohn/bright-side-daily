@@ -19854,5 +19854,26 @@
       "post_id": "1181533578372151_122141118141364831"
     },
     "timestamp": "2026-10-23T17:48:42.920166"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Rise to the moment. Then rise again.",
+      "content_index": 542,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T19:34:50.639344",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Rise to the moment. Then rise again.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122141131929364831",
+      "post_id": "1181533578372151_122141131953364831"
+    },
+    "timestamp": "2026-10-23T19:34:56.412292"
   }
 ]
