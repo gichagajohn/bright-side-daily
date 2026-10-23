@@ -19833,5 +19833,26 @@
       "post_id": "1181533578372151_122141105085364831"
     },
     "timestamp": "2026-10-23T15:37:26.168754"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Success doesn't explain itself. Your actions do.",
+      "content_index": 546,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T17:48:36.600052",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Success doesn't explain itself. Your actions do.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122141118105364831",
+      "post_id": "1181533578372151_122141118141364831"
+    },
+    "timestamp": "2026-10-23T17:48:42.920166"
   }
 ]
