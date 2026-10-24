@@ -13690,3 +13690,17 @@ Share this with someone who needs it today! 💛
 #YouGotThis #KeepGoing ...
 2026-10-24 13:04:33,050 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-10-24 13:04:33,072 [INFO] Slot published successfully: midday_encouragement
+2026-10-24 14:13:57,643 [INFO] Failed posts list is empty.
+2026-10-24 14:13:57,769 [INFO] ============================================================
+2026-10-24 14:13:57,770 [INFO] Running slot: morning_motivation
+2026-10-24 14:13:57,770 [INFO] ============================================================
+2026-10-24 14:13:57,952 [INFO] Content selected: Small daily improvements are the key to massive long-term success.
+2026-10-24 14:13:58,807 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_8.jpg
+2026-10-24 14:13:58,807 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_8.jpg
+2026-10-24 14:13:58,807 [INFO] Caption preview: ☀️ Small daily improvements are the key to massive long-term success.
+
+Share this with someone who needs it today! 💛
+
+#M...
+2026-10-24 14:14:04,711 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-24 14:14:04,927 [INFO] Slot published successfully: morning_motivation

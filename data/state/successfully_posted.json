@@ -19959,5 +19959,26 @@
       "post_id": "1181533578372151_122141248095364831"
     },
     "timestamp": "2026-10-24T13:04:33.054697"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Small daily improvements are the key to massive long-term success.",
+      "content_index": 8,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-10-24",
+      "timestamp": "2026-10-24T14:13:57.952644",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Small daily improvements are the key to massive long-term success.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122141256039364831",
+      "post_id": "1181533578372151_122141256063364831"
+    },
+    "timestamp": "2026-10-24T14:14:04.714769"
   }
 ]
