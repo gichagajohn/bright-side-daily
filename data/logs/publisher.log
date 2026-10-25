@@ -13812,3 +13812,17 @@ Share this with someone who needs it today! 💛
 #Mot...
 2026-10-25 17:00:50,311 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-25 17:00:50,327 [INFO] Slot published successfully: morning_motivation
+2026-10-25 18:34:26,635 [INFO] Failed posts list is empty.
+2026-10-25 18:34:26,805 [INFO] ============================================================
+2026-10-25 18:34:26,805 [INFO] Running slot: engagement_question
+2026-10-25 18:34:26,805 [INFO] ============================================================
+2026-10-25 18:34:27,154 [INFO] Content selected: What's the best decision you've made for your mental health?
+2026-10-25 18:34:27,977 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_376.jpg
+2026-10-25 18:34:27,977 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_376.jpg
+2026-10-25 18:34:27,977 [INFO] Caption preview: 💬 What's the best decision you've made for your mental health?
+
+Drop your answer in the comments below 👇
+
+#Community #Sh...
+2026-10-25 18:34:31,847 [INFO] ✅ Posted successfully [engagement_question]
+2026-10-25 18:34:31,870 [INFO] Slot published successfully: engagement_question
