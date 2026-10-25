@@ -13826,3 +13826,17 @@ Drop your answer in the comments below 👇
 #Community #Sh...
 2026-10-25 18:34:31,847 [INFO] ✅ Posted successfully [engagement_question]
 2026-10-25 18:34:31,870 [INFO] Slot published successfully: engagement_question
+2026-10-25 20:16:29,938 [INFO] Failed posts list is empty.
+2026-10-25 20:16:30,179 [INFO] ============================================================
+2026-10-25 20:16:30,179 [INFO] Running slot: morning_motivation
+2026-10-25 20:16:30,179 [INFO] ============================================================
+2026-10-25 20:16:30,420 [INFO] Content selected: Your passion and your persistence together are unstoppable.
+2026-10-25 20:16:30,845 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_637.jpg
+2026-10-25 20:16:30,845 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_637.jpg
+2026-10-25 20:16:30,845 [INFO] Caption preview: ☀️ Your passion and your persistence together are unstoppable.
+
+Share this with someone who needs it today! 💛
+
+#Motivati...
+2026-10-25 20:16:35,647 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-25 20:16:35,669 [INFO] Slot published successfully: morning_motivation

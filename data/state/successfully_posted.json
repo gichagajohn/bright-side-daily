@@ -20169,5 +20169,26 @@
       "post_id": "1181533578372151_122141461317364831"
     },
     "timestamp": "2026-10-25T18:34:31.850948"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your passion and your persistence together are unstoppable.",
+      "content_index": 637,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "friends laughing together outdoors in golden hour"
+      },
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T20:16:30.420117",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your passion and your persistence together are unstoppable.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122141471901364831",
+      "post_id": "1181533578372151_122141471925364831"
+    },
+    "timestamp": "2026-10-25T20:16:35.651408"
   }
 ]
