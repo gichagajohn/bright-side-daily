@@ -13798,3 +13798,17 @@ Share this with someone who needs it today! 💛
 #Mot...
 2026-10-25 14:46:02,407 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-25 14:46:02,424 [INFO] Slot published successfully: morning_motivation
+2026-10-25 17:00:44,745 [INFO] Failed posts list is empty.
+2026-10-25 17:00:44,854 [INFO] ============================================================
+2026-10-25 17:00:44,855 [INFO] Running slot: morning_motivation
+2026-10-25 17:00:44,855 [INFO] ============================================================
+2026-10-25 17:00:45,047 [INFO] Content selected: The road to success is dotted with many tempting parking spaces.
+2026-10-25 17:00:45,998 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_73.jpg
+2026-10-25 17:00:45,998 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_73.jpg
+2026-10-25 17:00:45,998 [INFO] Caption preview: ☀️ The road to success is dotted with many tempting parking spaces.
+
+Share this with someone who needs it today! 💛
+
+#Mot...
+2026-10-25 17:00:50,311 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-25 17:00:50,327 [INFO] Slot published successfully: morning_motivation

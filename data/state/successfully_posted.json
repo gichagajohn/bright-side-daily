@@ -20127,5 +20127,26 @@
       "post_id": "1181533578372151_122141423259364831"
     },
     "timestamp": "2026-10-25T14:46:02.410929"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The road to success is dotted with many tempting parking spaces.",
+      "content_index": 73,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T17:00:45.047660",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The road to success is dotted with many tempting parking spaces.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122141442135364831",
+      "post_id": "1181533578372151_122141442159364831"
+    },
+    "timestamp": "2026-10-25T17:00:50.315895"
   }
 ]
