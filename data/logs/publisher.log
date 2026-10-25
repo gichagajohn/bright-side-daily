@@ -13784,3 +13784,17 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it to...
 2026-10-25 13:32:58,014 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-10-25 13:32:58,035 [INFO] Slot published successfully: midday_encouragement
+2026-10-25 14:45:57,002 [INFO] Failed posts list is empty.
+2026-10-25 14:45:57,137 [INFO] ============================================================
+2026-10-25 14:45:57,137 [INFO] Running slot: morning_motivation
+2026-10-25 14:45:57,137 [INFO] ============================================================
+2026-10-25 14:45:57,289 [INFO] Content selected: Your consistency is building something nobody can take from you.
+2026-10-25 14:45:57,971 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_568.jpg
+2026-10-25 14:45:57,971 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_568.jpg
+2026-10-25 14:45:57,971 [INFO] Caption preview: ☀️ Your consistency is building something nobody can take from you.
+
+Share this with someone who needs it today! 💛
+
+#Mot...
+2026-10-25 14:46:02,407 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-25 14:46:02,424 [INFO] Slot published successfully: morning_motivation

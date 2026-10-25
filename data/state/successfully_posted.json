@@ -20106,5 +20106,26 @@
       "post_id": "1181533578372151_122141413749364831"
     },
     "timestamp": "2026-10-25T13:32:58.018235"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your consistency is building something nobody can take from you.",
+      "content_index": 568,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T14:45:57.289934",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your consistency is building something nobody can take from you.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122141423217364831",
+      "post_id": "1181533578372151_122141423259364831"
+    },
+    "timestamp": "2026-10-25T14:46:02.410929"
   }
 ]
