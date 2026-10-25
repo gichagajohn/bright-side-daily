@@ -13758,3 +13758,17 @@ Tag someone who can relate! 😂
 #RelatableLi...
 2026-10-25 09:35:48,195 [INFO] ✅ Posted successfully [funny_meme]
 2026-10-25 09:35:48,218 [INFO] Slot published successfully: funny_meme
+2026-10-25 12:23:55,705 [INFO] Failed posts list is empty.
+2026-10-25 12:23:55,873 [INFO] ============================================================
+2026-10-25 12:23:55,873 [INFO] Running slot: morning_motivation
+2026-10-25 12:23:55,873 [INFO] ============================================================
+2026-10-25 12:23:56,247 [INFO] Content selected: One decision can change your entire life.
+2026-10-25 12:23:56,780 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_346.jpg
+2026-10-25 12:23:56,780 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_346.jpg
+2026-10-25 12:23:56,780 [INFO] Caption preview: ☀️ One decision can change your entire life.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Minds...
+2026-10-25 12:24:01,654 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-25 12:24:01,677 [INFO] Slot published successfully: morning_motivation

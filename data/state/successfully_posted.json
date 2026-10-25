@@ -20064,5 +20064,26 @@
       "post_id": "1181533578372151_122141371665364831"
     },
     "timestamp": "2026-10-25T09:35:48.199368"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "One decision can change your entire life.",
+      "content_index": 346,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T12:23:56.247154",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f One decision can change your entire life.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122141404053364831",
+      "post_id": "1181533578372151_122141404077364831"
+    },
+    "timestamp": "2026-10-25T12:24:01.659038"
   }
 ]
