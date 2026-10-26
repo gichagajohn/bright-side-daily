@@ -13840,3 +13840,17 @@ Share this with someone who needs it today! 💛
 #Motivati...
 2026-10-25 20:16:35,647 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-25 20:16:35,669 [INFO] Slot published successfully: morning_motivation
+2026-10-26 10:47:20,837 [INFO] Failed posts list is empty.
+2026-10-26 10:47:20,996 [INFO] ============================================================
+2026-10-26 10:47:20,996 [INFO] Running slot: morning_motivation
+2026-10-26 10:47:20,996 [INFO] ============================================================
+2026-10-26 10:47:21,277 [INFO] Content selected: Today is a new chapter. Write something worth reading.
+2026-10-26 10:47:22,476 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_280.jpg
+2026-10-26 10:47:22,476 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_280.jpg
+2026-10-26 10:47:22,476 [INFO] Caption preview: ☀️ Today is a new chapter. Write something worth reading.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #S...
+2026-10-26 10:47:28,562 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-26 10:47:28,585 [INFO] Slot published successfully: morning_motivation

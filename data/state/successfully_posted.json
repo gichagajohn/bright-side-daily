@@ -20190,5 +20190,26 @@
       "post_id": "1181533578372151_122141471925364831"
     },
     "timestamp": "2026-10-25T20:16:35.651408"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Today is a new chapter. Write something worth reading.",
+      "content_index": 280,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "open book and coffee in a cozy reading nook"
+      },
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T10:47:21.277636",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Today is a new chapter. Write something worth reading.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122141560389364831",
+      "post_id": "1181533578372151_122141560419364831"
+    },
+    "timestamp": "2026-10-26T10:47:28.567121"
   }
 ]
