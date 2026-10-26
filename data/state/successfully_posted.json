@@ -20295,5 +20295,26 @@
       "post_id": "1181533578372151_122141613477364831"
     },
     "timestamp": "2026-10-26T19:05:57.404389"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Don't confuse motion for progress. Make every move count.",
+      "content_index": 575,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T20:46:42.100331",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Don't confuse motion for progress. Make every move count.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122141625963364831",
+      "post_id": "1181533578372151_122141625993364831"
+    },
+    "timestamp": "2026-10-26T20:46:49.680552"
   }
 ]
