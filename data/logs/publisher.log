@@ -13854,3 +13854,17 @@ Share this with someone who needs it today! 💛
 #Motivation #S...
 2026-10-26 10:47:28,562 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-26 10:47:28,585 [INFO] Slot published successfully: morning_motivation
+2026-10-26 13:59:32,725 [INFO] Failed posts list is empty.
+2026-10-26 13:59:32,855 [INFO] ============================================================
+2026-10-26 13:59:32,855 [INFO] Running slot: midday_encouragement
+2026-10-26 13:59:32,856 [INFO] ============================================================
+2026-10-26 13:59:33,005 [INFO] Content selected: The darkness before dawn is just the setup for your sunrise.
+2026-10-26 13:59:34,042 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/midday_encouragement_25.jpg
+2026-10-26 13:59:34,042 [INFO] Publishing [midday_encouragement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/midday_encouragement_25.jpg
+2026-10-26 13:59:34,042 [INFO] Caption preview: 💪 The darkness before dawn is just the setup for your sunrise.
+
+Share this with someone who needs it today! 💛
+
+#YouGotTh...
+2026-10-26 13:59:37,912 [INFO] ✅ Posted successfully [midday_encouragement]
+2026-10-26 13:59:37,929 [INFO] Slot published successfully: midday_encouragement
