@@ -20274,5 +20274,26 @@
       "post_id": "1181533578372151_122141603271364831"
     },
     "timestamp": "2026-10-26T17:06:20.897690"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The grind respects no one \u2014 keep grinding.",
+      "content_index": 490,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T19:05:51.443246",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The grind respects no one \u2014 keep grinding.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122141613441364831",
+      "post_id": "1181533578372151_122141613477364831"
+    },
+    "timestamp": "2026-10-26T19:05:57.404389"
   }
 ]
