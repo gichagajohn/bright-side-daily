@@ -13882,3 +13882,17 @@ Share this with someone who needs it today! 💛
 #Motivation ...
 2026-10-26 15:49:53,522 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-26 15:49:53,535 [INFO] Slot published successfully: morning_motivation
+2026-10-26 17:06:16,295 [INFO] Failed posts list is empty.
+2026-10-26 17:06:16,504 [INFO] ============================================================
+2026-10-26 17:06:16,504 [INFO] Running slot: morning_motivation
+2026-10-26 17:06:16,504 [INFO] ============================================================
+2026-10-26 17:06:16,738 [INFO] Content selected: The pain you feel today will be the strength you feel tomorrow.
+2026-10-26 17:06:17,402 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_274.jpg
+2026-10-26 17:06:17,402 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_274.jpg
+2026-10-26 17:06:17,402 [INFO] Caption preview: ☀️ The pain you feel today will be the strength you feel tomorrow.
+
+Share this with someone who needs it today! 💛
+
+#Moti...
+2026-10-26 17:06:20,893 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-26 17:06:20,915 [INFO] Slot published successfully: morning_motivation
