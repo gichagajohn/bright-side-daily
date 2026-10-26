@@ -13924,3 +13924,17 @@ Share this with someone who needs it today! 💛
 #Motivation...
 2026-10-26 20:46:49,678 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-26 20:46:49,691 [INFO] Slot published successfully: morning_motivation
+2026-10-26 22:10:41,367 [INFO] Failed posts list is empty.
+2026-10-26 22:10:41,583 [INFO] ============================================================
+2026-10-26 22:10:41,583 [INFO] Running slot: morning_motivation
+2026-10-26 22:10:41,583 [INFO] ============================================================
+2026-10-26 22:10:41,845 [INFO] Content selected: Every day is a chance to be better than you were yesterday.
+2026-10-26 22:10:42,383 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_338.jpg
+2026-10-26 22:10:42,383 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_338.jpg
+2026-10-26 22:10:42,383 [INFO] Caption preview: ☀️ Every day is a chance to be better than you were yesterday.
+
+Share this with someone who needs it today! 💛
+
+#Motivati...
+2026-10-26 22:10:47,129 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-26 22:10:47,153 [INFO] Slot published successfully: morning_motivation
