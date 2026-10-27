@@ -13992,3 +13992,15 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it tod...
 2026-10-27 16:10:23,082 [INFO] ✅ Posted successfully [evening_reflection]
 2026-10-27 16:10:23,107 [INFO] Slot published successfully: evening_reflection
+2026-10-27 18:37:11,600 [INFO] Failed posts list is empty.
+2026-10-27 18:37:11,765 [INFO] ============================================================
+2026-10-27 18:37:11,765 [INFO] Running slot: engagement_question
+2026-10-27 18:37:11,765 [INFO] ============================================================
+2026-10-27 18:37:12,008 [INFO] Content selected: What's something you're currently grateful for that wasn't in your life a year ago?
+2026-10-27 18:37:13,182 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_343.jpg
+2026-10-27 18:37:13,182 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_343.jpg
+2026-10-27 18:37:13,182 [INFO] Caption preview: 💬 What's something you're currently grateful for that wasn't in your life a year ago?
+
+Drop your answer in the comments ...
+2026-10-27 18:37:16,424 [INFO] ✅ Posted successfully [engagement_question]
+2026-10-27 18:37:16,447 [INFO] Slot published successfully: engagement_question

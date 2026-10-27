@@ -20421,5 +20421,26 @@
       "post_id": "1181533578372151_122141766039364831"
     },
     "timestamp": "2026-10-27T16:10:23.087717"
+  },
+  {
+    "post": {
+      "slot": "engagement_question",
+      "category": "engagement_questions",
+      "content": "What's something you're currently grateful for that wasn't in your life a year ago?",
+      "content_index": 343,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "notebook open with a question mark illustration"
+      },
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T18:37:12.008681",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcac What's something you're currently grateful for that wasn't in your life a year ago?\n\nDrop your answer in the comments below \ud83d\udc47\n\n#Community #ShareYourThoughts #QuestionOfTheDay #ChatWithUs #BrightSideFamily #BrightSideDaily",
+    "fb_response": {
+      "id": "122141783763364831",
+      "post_id": "1181533578372151_122141783787364831"
+    },
+    "timestamp": "2026-10-27T18:37:16.428783"
   }
 ]
