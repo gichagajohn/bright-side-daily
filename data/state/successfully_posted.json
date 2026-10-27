@@ -20442,5 +20442,26 @@
       "post_id": "1181533578372151_122141783787364831"
     },
     "timestamp": "2026-10-27T18:37:16.428783"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are never too old to set another goal or to dream a new dream.",
+      "content_index": 207,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T20:16:19.722755",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are never too old to set another goal or to dream a new dream.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122141795961364831",
+      "post_id": "1181533578372151_122141795985364831"
+    },
+    "timestamp": "2026-10-27T20:16:25.409293"
   }
 ]

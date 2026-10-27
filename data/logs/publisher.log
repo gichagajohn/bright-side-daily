@@ -14004,3 +14004,17 @@ Share this with someone who needs it tod...
 Drop your answer in the comments ...
 2026-10-27 18:37:16,424 [INFO] ✅ Posted successfully [engagement_question]
 2026-10-27 18:37:16,447 [INFO] Slot published successfully: engagement_question
+2026-10-27 20:16:19,318 [INFO] Failed posts list is empty.
+2026-10-27 20:16:19,490 [INFO] ============================================================
+2026-10-27 20:16:19,490 [INFO] Running slot: morning_motivation
+2026-10-27 20:16:19,490 [INFO] ============================================================
+2026-10-27 20:16:19,722 [INFO] Content selected: You are never too old to set another goal or to dream a new dream.
+2026-10-27 20:16:20,956 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_207.jpg
+2026-10-27 20:16:20,957 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_207.jpg
+2026-10-27 20:16:20,957 [INFO] Caption preview: ☀️ You are never too old to set another goal or to dream a new dream.
+
+Share this with someone who needs it today! 💛
+
+#M...
+2026-10-27 20:16:25,404 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-27 20:16:25,426 [INFO] Slot published successfully: morning_motivation
