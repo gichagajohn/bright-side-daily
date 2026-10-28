@@ -14058,3 +14058,15 @@ Share this with someone who needs it today! 💛
 Share this with someone who n...
 2026-10-28 13:52:52,585 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-10-28 13:52:52,607 [INFO] Slot published successfully: midday_encouragement
+2026-10-28 15:42:36,623 [INFO] Failed posts list is empty.
+2026-10-28 15:42:36,777 [INFO] ============================================================
+2026-10-28 15:42:36,777 [INFO] Running slot: morning_motivation
+2026-10-28 15:42:36,778 [INFO] ============================================================
+2026-10-28 15:42:37,051 [INFO] Content selected: Little by little, day by day, what is meant for you will find its way.
+2026-10-28 15:42:38,045 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_165.jpg
+2026-10-28 15:42:38,046 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_165.jpg
+2026-10-28 15:42:38,046 [INFO] Caption preview: ☀️ Little by little, day by day, what is meant for you will find its way.
+
+Share this with someone who needs it today! 💛...
+2026-10-28 15:42:42,087 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-28 15:42:42,110 [INFO] Slot published successfully: morning_motivation
