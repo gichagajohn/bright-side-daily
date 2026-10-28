@@ -14098,3 +14098,17 @@ Drop your answer in the comments below 👇
 ...
 2026-10-28 18:44:05,006 [INFO] ✅ Posted successfully [engagement_question]
 2026-10-28 18:44:05,028 [INFO] Slot published successfully: engagement_question
+2026-10-28 20:36:32,023 [INFO] Failed posts list is empty.
+2026-10-28 20:36:32,179 [INFO] ============================================================
+2026-10-28 20:36:32,179 [INFO] Running slot: morning_motivation
+2026-10-28 20:36:32,179 [INFO] ============================================================
+2026-10-28 20:36:32,430 [INFO] Content selected: The secret of success is to be ready when opportunity comes.
+2026-10-28 20:36:33,483 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_105.jpg
+2026-10-28 20:36:33,484 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_105.jpg
+2026-10-28 20:36:33,484 [INFO] Caption preview: ☀️ The secret of success is to be ready when opportunity comes.
+
+Share this with someone who needs it today! 💛
+
+#Motivat...
+2026-10-28 20:36:37,842 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-28 20:36:37,865 [INFO] Slot published successfully: morning_motivation
