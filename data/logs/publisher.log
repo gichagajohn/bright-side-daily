@@ -14046,3 +14046,15 @@ Share this with someone who needs it today! 💛
 #PersonalGr...
 2026-10-28 11:00:44,242 [INFO] ✅ Posted successfully [self_improvement]
 2026-10-28 11:00:44,256 [INFO] Slot published successfully: self_improvement
+2026-10-28 13:52:46,425 [INFO] Failed posts list is empty.
+2026-10-28 13:52:46,586 [INFO] ============================================================
+2026-10-28 13:52:46,586 [INFO] Running slot: midday_encouragement
+2026-10-28 13:52:46,586 [INFO] ============================================================
+2026-10-28 13:52:46,898 [INFO] Content selected: There is a version of you on the other side of this struggle — and they are incredible.
+2026-10-28 13:52:47,728 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/midday_encouragement_317.jpg
+2026-10-28 13:52:47,729 [INFO] Publishing [midday_encouragement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/midday_encouragement_317.jpg
+2026-10-28 13:52:47,729 [INFO] Caption preview: 💪 There is a version of you on the other side of this struggle — and they are incredible.
+
+Share this with someone who n...
+2026-10-28 13:52:52,585 [INFO] ✅ Posted successfully [midday_encouragement]
+2026-10-28 13:52:52,607 [INFO] Slot published successfully: midday_encouragement
