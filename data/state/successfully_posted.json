@@ -20673,5 +20673,26 @@
       "post_id": "1181533578372151_122142080715364831"
     },
     "timestamp": "2026-10-29T15:49:46.120259"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your story is still being written. Make it legendary.",
+      "content_index": 558,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T17:17:32.396169",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your story is still being written. Make it legendary.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122142090309364831",
+      "post_id": "1181533578372151_122142090333364831"
+    },
+    "timestamp": "2026-10-29T17:17:36.821511"
   }
 ]
