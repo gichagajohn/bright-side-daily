@@ -20715,5 +20715,26 @@
       "post_id": "1181533578372151_122142102393364831"
     },
     "timestamp": "2026-10-29T18:54:13.718431"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "One more rep. One more mile. One more day.",
+      "content_index": 119,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T20:41:38.623958",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f One more rep. One more mile. One more day.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122142112197364831",
+      "post_id": "1181533578372151_122142112221364831"
+    },
+    "timestamp": "2026-10-29T20:41:43.530630"
   }
 ]

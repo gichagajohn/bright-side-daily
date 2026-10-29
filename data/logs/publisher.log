@@ -14197,3 +14197,17 @@ Drop your answer in the comments below 👇
 #Community #ShareYourThou...
 2026-10-29 18:54:13,715 [INFO] ✅ Posted successfully [engagement_question]
 2026-10-29 18:54:13,729 [INFO] Slot published successfully: engagement_question
+2026-10-29 20:41:38,148 [INFO] Failed posts list is empty.
+2026-10-29 20:41:38,353 [INFO] ============================================================
+2026-10-29 20:41:38,353 [INFO] Running slot: morning_motivation
+2026-10-29 20:41:38,353 [INFO] ============================================================
+2026-10-29 20:41:38,623 [INFO] Content selected: One more rep. One more mile. One more day.
+2026-10-29 20:41:39,557 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_119.jpg
+2026-10-29 20:41:39,557 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_119.jpg
+2026-10-29 20:41:39,557 [INFO] Caption preview: ☀️ One more rep. One more mile. One more day.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mind...
+2026-10-29 20:41:43,524 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-29 20:41:43,549 [INFO] Slot published successfully: morning_motivation
