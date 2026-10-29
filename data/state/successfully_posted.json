@@ -20736,5 +20736,26 @@
       "post_id": "1181533578372151_122142112221364831"
     },
     "timestamp": "2026-10-29T20:41:43.530630"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Chase the vision, not the money.",
+      "content_index": 232,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T22:18:52.368377",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Chase the vision, not the money.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122142120015364831",
+      "post_id": "1181533578372151_122142120039364831"
+    },
+    "timestamp": "2026-10-29T22:18:56.769991"
   }
 ]
