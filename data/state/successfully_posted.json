@@ -20652,5 +20652,26 @@
       "post_id": "1181533578372151_122142068169364831"
     },
     "timestamp": "2026-10-29T13:59:17.774349"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Turn pain into power and pressure into diamonds.",
+      "content_index": 333,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T15:49:41.262718",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Turn pain into power and pressure into diamonds.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122142080691364831",
+      "post_id": "1181533578372151_122142080715364831"
+    },
+    "timestamp": "2026-10-29T15:49:46.120259"
   }
 ]
