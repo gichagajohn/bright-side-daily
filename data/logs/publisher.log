@@ -14251,3 +14251,15 @@ Share this with someone who needs it today! 💛
 Share this with someone who ne...
 2026-10-30 13:53:52,644 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-10-30 13:53:52,666 [INFO] Slot published successfully: midday_encouragement
+2026-10-30 15:30:17,361 [INFO] Failed posts list is empty.
+2026-10-30 15:30:17,513 [INFO] ============================================================
+2026-10-30 15:30:17,513 [INFO] Running slot: morning_motivation
+2026-10-30 15:30:17,513 [INFO] ============================================================
+2026-10-30 15:30:17,768 [INFO] Content selected: Stop waiting for the perfect moment. Take the moment and make it perfect.
+2026-10-30 15:30:18,532 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_9.jpg
+2026-10-30 15:30:18,533 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_9.jpg
+2026-10-30 15:30:18,533 [INFO] Caption preview: ☀️ Stop waiting for the perfect moment. Take the moment and make it perfect.
+
+Share this with someone who needs it today...
+2026-10-30 15:30:23,535 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-30 15:30:23,558 [INFO] Slot published successfully: morning_motivation

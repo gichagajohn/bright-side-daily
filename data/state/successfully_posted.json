@@ -20799,5 +20799,26 @@
       "post_id": "1181533578372151_122142234615364831"
     },
     "timestamp": "2026-10-30T13:53:52.648627"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Stop waiting for the perfect moment. Take the moment and make it perfect.",
+      "content_index": 9,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T15:30:17.768791",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Stop waiting for the perfect moment. Take the moment and make it perfect.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122142247143364831",
+      "post_id": "1181533578372151_122142247167364831"
+    },
+    "timestamp": "2026-10-30T15:30:23.539885"
   }
 ]
