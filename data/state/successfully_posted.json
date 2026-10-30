@@ -20862,5 +20862,26 @@
       "post_id": "1181533578372151_122142263673364831"
     },
     "timestamp": "2026-10-30T18:30:35.593886"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "No goal is too big for a committed heart.",
+      "content_index": 475,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T20:12:12.639202",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f No goal is too big for a committed heart.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122142274395364831",
+      "post_id": "1181533578372151_122142274419364831"
+    },
+    "timestamp": "2026-10-30T20:12:17.898772"
   }
 ]

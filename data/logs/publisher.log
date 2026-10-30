@@ -14289,3 +14289,17 @@ Drop your answer in the comments below 👇
 #Community #ShareYourThoughts #...
 2026-10-30 18:30:35,589 [INFO] ✅ Posted successfully [engagement_question]
 2026-10-30 18:30:35,612 [INFO] Slot published successfully: engagement_question
+2026-10-30 20:12:12,269 [INFO] Failed posts list is empty.
+2026-10-30 20:12:12,406 [INFO] ============================================================
+2026-10-30 20:12:12,406 [INFO] Running slot: morning_motivation
+2026-10-30 20:12:12,406 [INFO] ============================================================
+2026-10-30 20:12:12,639 [INFO] Content selected: No goal is too big for a committed heart.
+2026-10-30 20:12:13,625 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_475.jpg
+2026-10-30 20:12:13,625 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_475.jpg
+2026-10-30 20:12:13,625 [INFO] Caption preview: ☀️ No goal is too big for a committed heart.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Minds...
+2026-10-30 20:12:17,895 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-30 20:12:17,913 [INFO] Slot published successfully: morning_motivation
