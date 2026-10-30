@@ -20841,5 +20841,26 @@
       "post_id": "1181533578372151_122142255417364831"
     },
     "timestamp": "2026-10-30T16:55:46.879776"
+  },
+  {
+    "post": {
+      "slot": "engagement_question",
+      "category": "engagement_questions",
+      "content": "What has been your greatest teacher so far?",
+      "content_index": 54,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "warm coffee on table beside a sunrise window"
+      },
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T18:30:31.376551",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcac What has been your greatest teacher so far?\n\nDrop your answer in the comments below \ud83d\udc47\n\n#Community #ShareYourThoughts #QuestionOfTheDay #ChatWithUs #BrightSideFamily #BrightSideDaily",
+    "fb_response": {
+      "id": "122142263649364831",
+      "post_id": "1181533578372151_122142263673364831"
+    },
+    "timestamp": "2026-10-30T18:30:35.593886"
   }
 ]
