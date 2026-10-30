@@ -20778,5 +20778,26 @@
       "post_id": "1181533578372151_122142213519364831"
     },
     "timestamp": "2026-10-30T11:12:00.345362"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "You have walked through hard things before and emerged stronger. This is no different.",
+      "content_index": 548,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "lighthouse in stormy sea"
+      },
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T13:53:46.358860",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa You have walked through hard things before and emerged stronger. This is no different.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122142234591364831",
+      "post_id": "1181533578372151_122142234615364831"
+    },
+    "timestamp": "2026-10-30T13:53:52.648627"
   }
 ]
