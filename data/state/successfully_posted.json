@@ -21009,5 +21009,26 @@
       "post_id": "1181533578372151_122142470151364831"
     },
     "timestamp": "2026-10-31T17:34:49.937454"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Don't let yesterday take up too much of today.",
+      "content_index": 154,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T19:35:46.698324",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Don't let yesterday take up too much of today.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122142483255364831",
+      "post_id": "1181533578372151_122142483279364831"
+    },
+    "timestamp": "2026-10-31T19:35:51.419341"
   }
 ]
