@@ -14317,3 +14317,17 @@ Share this with someone who needs it today! 💛
 #Motiv...
 2026-10-30 21:52:13,831 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-30 21:52:13,854 [INFO] Slot published successfully: morning_motivation
+2026-10-31 10:44:34,179 [INFO] Failed posts list is empty.
+2026-10-31 10:44:34,273 [INFO] ============================================================
+2026-10-31 10:44:34,273 [INFO] Running slot: morning_motivation
+2026-10-31 10:44:34,273 [INFO] ============================================================
+2026-10-31 10:44:34,424 [INFO] Content selected: The only limit is the one you set for yourself.
+2026-10-31 10:44:35,466 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_1.jpg
+2026-10-31 10:44:35,466 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_1.jpg
+2026-10-31 10:44:35,466 [INFO] Caption preview: ☀️ The only limit is the one you set for yourself.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success ...
+2026-10-31 10:44:40,356 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-31 10:44:40,369 [INFO] Slot published successfully: morning_motivation
