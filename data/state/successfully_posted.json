@@ -20946,5 +20946,26 @@
       "post_id": "1181533578372151_122142435879364831"
     },
     "timestamp": "2026-10-31T13:25:42.473934"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are the sum of your daily choices.",
+      "content_index": 432,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T14:59:33.549521",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are the sum of your daily choices.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122142451299364831",
+      "post_id": "1181533578372151_122142451323364831"
+    },
+    "timestamp": "2026-10-31T14:59:40.200722"
   }
 ]

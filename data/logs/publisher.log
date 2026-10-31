@@ -14345,3 +14345,17 @@ Share this with someone who needs it today! 💛
 #YouGotT...
 2026-10-31 13:25:42,467 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-10-31 13:25:42,503 [INFO] Slot published successfully: midday_encouragement
+2026-10-31 14:59:33,115 [INFO] Failed posts list is empty.
+2026-10-31 14:59:33,326 [INFO] ============================================================
+2026-10-31 14:59:33,326 [INFO] Running slot: morning_motivation
+2026-10-31 14:59:33,326 [INFO] ============================================================
+2026-10-31 14:59:33,549 [INFO] Content selected: You are the sum of your daily choices.
+2026-10-31 14:59:34,722 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_432.jpg
+2026-10-31 14:59:34,722 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_432.jpg
+2026-10-31 14:59:34,722 [INFO] Caption preview: ☀️ You are the sum of your daily choices.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetM...
+2026-10-31 14:59:40,196 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-31 14:59:40,219 [INFO] Slot published successfully: morning_motivation
