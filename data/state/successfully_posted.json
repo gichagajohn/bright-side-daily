@@ -21030,5 +21030,26 @@
       "post_id": "1181533578372151_122142483279364831"
     },
     "timestamp": "2026-10-31T19:35:51.419341"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Success is a decision you make before you take the first step.",
+      "content_index": 503,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T20:52:37.127959",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Success is a decision you make before you take the first step.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122142491295364831",
+      "post_id": "1181533578372151_122142491319364831"
+    },
+    "timestamp": "2026-10-31T20:52:40.919816"
   }
 ]
