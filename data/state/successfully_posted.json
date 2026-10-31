@@ -20967,5 +20967,26 @@
       "post_id": "1181533578372151_122142451323364831"
     },
     "timestamp": "2026-10-31T14:59:40.200722"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your time is now. Don't waste another second.",
+      "content_index": 592,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T15:56:24.208922",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your time is now. Don't waste another second.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122142459237364831",
+      "post_id": "1181533578372151_122142459261364831"
+    },
+    "timestamp": "2026-10-31T15:56:30.226449"
   }
 ]
