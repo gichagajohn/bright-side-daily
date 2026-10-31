@@ -20988,5 +20988,26 @@
       "post_id": "1181533578372151_122142459261364831"
     },
     "timestamp": "2026-10-31T15:56:30.226449"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Let your purpose be louder than your fears.",
+      "content_index": 507,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T17:34:42.299261",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Let your purpose be louder than your fears.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122142470127364831",
+      "post_id": "1181533578372151_122142470151364831"
+    },
+    "timestamp": "2026-10-31T17:34:49.937454"
   }
 ]

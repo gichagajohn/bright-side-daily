@@ -14373,3 +14373,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #M...
 2026-10-31 15:56:30,221 [INFO] ✅ Posted successfully [morning_motivation]
 2026-10-31 15:56:30,243 [INFO] Slot published successfully: morning_motivation
+2026-10-31 17:34:41,947 [INFO] Failed posts list is empty.
+2026-10-31 17:34:42,088 [INFO] ============================================================
+2026-10-31 17:34:42,088 [INFO] Running slot: morning_motivation
+2026-10-31 17:34:42,088 [INFO] ============================================================
+2026-10-31 17:34:42,299 [INFO] Content selected: Let your purpose be louder than your fears.
+2026-10-31 17:34:43,226 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_507.jpg
+2026-10-31 17:34:43,226 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_507.jpg
+2026-10-31 17:34:43,227 [INFO] Caption preview: ☀️ Let your purpose be louder than your fears.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Min...
+2026-10-31 17:34:49,934 [INFO] ✅ Posted successfully [morning_motivation]
+2026-10-31 17:34:49,951 [INFO] Slot published successfully: morning_motivation
