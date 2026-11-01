@@ -14485,3 +14485,17 @@ Drop your answer in the comments below 👇
 ...
 2026-11-01 18:19:57,230 [INFO] ✅ Posted successfully [engagement_question]
 2026-11-01 18:19:57,248 [INFO] Slot published successfully: engagement_question
+2026-11-01 19:54:56,125 [INFO] Failed posts list is empty.
+2026-11-01 19:54:56,280 [INFO] ============================================================
+2026-11-01 19:54:56,280 [INFO] Running slot: morning_motivation
+2026-11-01 19:54:56,280 [INFO] ============================================================
+2026-11-01 19:54:56,538 [INFO] Content selected: Your mindset determines your outcome.
+2026-11-01 19:54:57,784 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_19.jpg
+2026-11-01 19:54:57,784 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_19.jpg
+2026-11-01 19:54:57,784 [INFO] Caption preview: ☀️ Your mindset determines your outcome.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMa...
+2026-11-01 19:55:03,847 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-01 19:55:03,870 [INFO] Slot published successfully: morning_motivation
