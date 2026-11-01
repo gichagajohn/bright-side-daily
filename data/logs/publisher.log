@@ -14471,3 +14471,17 @@ Share this with someone who needs it today! 💛
 #Gra...
 2026-11-01 16:59:09,195 [INFO] ✅ Posted successfully [evening_reflection]
 2026-11-01 16:59:09,218 [INFO] Slot published successfully: evening_reflection
+2026-11-01 18:19:52,295 [INFO] Failed posts list is empty.
+2026-11-01 18:19:52,443 [INFO] ============================================================
+2026-11-01 18:19:52,443 [INFO] Running slot: engagement_question
+2026-11-01 18:19:52,443 [INFO] ============================================================
+2026-11-01 18:19:52,642 [INFO] Content selected: What does 'being your best self' actually look like in your everyday life?
+2026-11-01 18:19:53,637 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_250.jpg
+2026-11-01 18:19:53,637 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_250.jpg
+2026-11-01 18:19:53,637 [INFO] Caption preview: 💬 What does 'being your best self' actually look like in your everyday life?
+
+Drop your answer in the comments below 👇
+
+...
+2026-11-01 18:19:57,230 [INFO] ✅ Posted successfully [engagement_question]
+2026-11-01 18:19:57,248 [INFO] Slot published successfully: engagement_question
