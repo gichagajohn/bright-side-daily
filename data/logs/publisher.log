@@ -14499,3 +14499,15 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetMa...
 2026-11-01 19:55:03,847 [INFO] ✅ Posted successfully [morning_motivation]
 2026-11-01 19:55:03,870 [INFO] Slot published successfully: morning_motivation
+2026-11-01 21:35:09,293 [INFO] Failed posts list is empty.
+2026-11-01 21:35:09,406 [INFO] ============================================================
+2026-11-01 21:35:09,406 [INFO] Running slot: morning_motivation
+2026-11-01 21:35:09,406 [INFO] ============================================================
+2026-11-01 21:35:09,627 [INFO] Content selected: You are enough today. You were enough yesterday. You will be enough tomorrow.
+2026-11-01 21:35:10,538 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_261.jpg
+2026-11-01 21:35:10,538 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_261.jpg
+2026-11-01 21:35:10,538 [INFO] Caption preview: ☀️ You are enough today. You were enough yesterday. You will be enough tomorrow.
+
+Share this with someone who needs it t...
+2026-11-01 21:35:14,126 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-01 21:35:14,141 [INFO] Slot published successfully: morning_motivation
