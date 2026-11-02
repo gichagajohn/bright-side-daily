@@ -21240,5 +21240,26 @@
       "post_id": "1181533578372151_122142773301364831"
     },
     "timestamp": "2026-11-02T16:53:20.862373"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Rise early, work wisely, rest deeply, repeat.",
+      "content_index": 561,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T19:08:27.173010",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Rise early, work wisely, rest deeply, repeat.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122142824121364831",
+      "post_id": "1181533578372151_122142824151364831"
+    },
+    "timestamp": "2026-11-02T19:08:33.259648"
   }
 ]
