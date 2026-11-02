@@ -14579,3 +14579,17 @@ Share this with someone who needs it today! 💛
 #Motivation #S...
 2026-11-02 22:14:59,989 [INFO] ✅ Posted successfully [morning_motivation]
 2026-11-02 22:15:00,011 [INFO] Slot published successfully: morning_motivation
+2026-11-02 23:14:01,900 [INFO] Failed posts list is empty.
+2026-11-02 23:14:02,055 [INFO] ============================================================
+2026-11-02 23:14:02,055 [INFO] Running slot: morning_motivation
+2026-11-02 23:14:02,056 [INFO] ============================================================
+2026-11-02 23:14:02,283 [INFO] Content selected: Success is rented, not owned. Keep paying.
+2026-11-02 23:14:03,522 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_468.jpg
+2026-11-02 23:14:03,522 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_468.jpg
+2026-11-02 23:14:03,522 [INFO] Caption preview: ☀️ Success is rented, not owned. Keep paying.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mind...
+2026-11-02 23:14:07,704 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-02 23:14:07,727 [INFO] Slot published successfully: morning_motivation
