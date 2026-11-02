@@ -21198,5 +21198,26 @@
       "post_id": "1181533578372151_122142662055364831"
     },
     "timestamp": "2026-11-01T21:35:14.129688"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "It's darkest before dawn. Hold on.",
+      "content_index": 93,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "beautiful sunrise over mountains"
+      },
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T13:09:11.793652",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa It's darkest before dawn. Hold on.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122142749373364831",
+      "post_id": "1181533578372151_122142749403364831"
+    },
+    "timestamp": "2026-11-02T13:09:16.291993"
   }
 ]
