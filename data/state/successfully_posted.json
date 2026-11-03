@@ -21366,5 +21366,26 @@
       "post_id": "1181533578372151_122142963003364831"
     },
     "timestamp": "2026-11-03T12:38:29.962579"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are the architect of your own legacy.",
+      "content_index": 562,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-11-03",
+      "timestamp": "2026-11-03T14:53:51.985268",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are the architect of your own legacy.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122142974727364831",
+      "post_id": "1181533578372151_122142974751364831"
+    },
+    "timestamp": "2026-11-03T14:53:57.646404"
   }
 ]

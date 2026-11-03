@@ -14621,3 +14621,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success ...
 2026-11-03 12:38:29,957 [INFO] ✅ Posted successfully [morning_motivation]
 2026-11-03 12:38:29,980 [INFO] Slot published successfully: morning_motivation
+2026-11-03 14:53:51,639 [INFO] Failed posts list is empty.
+2026-11-03 14:53:51,777 [INFO] ============================================================
+2026-11-03 14:53:51,777 [INFO] Running slot: morning_motivation
+2026-11-03 14:53:51,777 [INFO] ============================================================
+2026-11-03 14:53:51,985 [INFO] Content selected: You are the architect of your own legacy.
+2026-11-03 14:53:52,953 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_562.jpg
+2026-11-03 14:53:52,953 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_562.jpg
+2026-11-03 14:53:52,953 [INFO] Caption preview: ☀️ You are the architect of your own legacy.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Minds...
+2026-11-03 14:53:57,642 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-03 14:53:57,955 [INFO] Slot published successfully: morning_motivation
