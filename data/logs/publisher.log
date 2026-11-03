@@ -14675,3 +14675,16 @@ Share this with someone who needs it today! 💛
 #Motivation ...
 2026-11-03 20:00:29,769 [INFO] ✅ Posted successfully [morning_motivation]
 2026-11-03 20:00:29,783 [INFO] Slot published successfully: morning_motivation
+2026-11-03 21:18:28,199 [INFO] Failed posts list is empty.
+2026-11-03 21:18:28,364 [INFO] ============================================================
+2026-11-03 21:18:28,365 [INFO] Running slot: morning_motivation
+2026-11-03 21:18:28,365 [INFO] ============================================================
+2026-11-03 21:18:28,674 [INFO] Content selected: Start each day with a grateful heart and a burning desire to improve.
+2026-11-03 21:18:29,698 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_157.jpg
+2026-11-03 21:18:29,699 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_157.jpg
+2026-11-03 21:18:29,699 [INFO] Caption preview: ☀️ Start each day with a grateful heart and a burning desire to improve.
+
+Share this with someone who needs it today! 💛
+...
+2026-11-03 21:18:33,040 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-03 21:18:33,064 [INFO] Slot published successfully: morning_motivation
