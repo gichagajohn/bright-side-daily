@@ -14607,3 +14607,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mi...
 2026-11-03 00:19:32,917 [INFO] ✅ Posted successfully [morning_motivation]
 2026-11-03 00:19:32,939 [INFO] Slot published successfully: morning_motivation
+2026-11-03 12:38:24,229 [INFO] Failed posts list is empty.
+2026-11-03 12:38:24,371 [INFO] ============================================================
+2026-11-03 12:38:24,371 [INFO] Running slot: morning_motivation
+2026-11-03 12:38:24,371 [INFO] ============================================================
+2026-11-03 12:38:24,602 [INFO] Content selected: Believe in yourself even when no one else does.
+2026-11-03 12:38:25,412 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_22.jpg
+2026-11-03 12:38:25,413 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_22.jpg
+2026-11-03 12:38:25,413 [INFO] Caption preview: ☀️ Believe in yourself even when no one else does.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success ...
+2026-11-03 12:38:29,957 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-03 12:38:29,980 [INFO] Slot published successfully: morning_motivation
