@@ -21429,5 +21429,26 @@
       "post_id": "1181533578372151_122142993897364831"
     },
     "timestamp": "2026-11-03T18:12:58.425295"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Take radical responsibility for everything in your life.",
+      "content_index": 418,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-11-03",
+      "timestamp": "2026-11-03T20:00:24.164576",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Take radical responsibility for everything in your life.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122143007715364831",
+      "post_id": "1181533578372151_122143007739364831"
+    },
+    "timestamp": "2026-11-03T20:00:29.772030"
   }
 ]
