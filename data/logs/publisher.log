@@ -14649,3 +14649,15 @@ Share this with someone who needs it today! 💛
 #Gratitude #Thankful #Coun...
 2026-11-03 16:48:50,777 [INFO] ✅ Posted successfully [evening_reflection]
 2026-11-03 16:48:50,804 [INFO] Slot published successfully: evening_reflection
+2026-11-03 18:12:53,297 [INFO] Failed posts list is empty.
+2026-11-03 18:12:53,425 [INFO] ============================================================
+2026-11-03 18:12:53,425 [INFO] Running slot: engagement_question
+2026-11-03 18:12:53,425 [INFO] ============================================================
+2026-11-03 18:12:53,624 [INFO] Content selected: What's one thing you want to do before the end of this week just for yourself?
+2026-11-03 18:12:54,861 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_682.jpg
+2026-11-03 18:12:54,861 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_682.jpg
+2026-11-03 18:12:54,861 [INFO] Caption preview: 💬 What's one thing you want to do before the end of this week just for yourself?
+
+Drop your answer in the comments below...
+2026-11-03 18:12:58,422 [INFO] ✅ Posted successfully [engagement_question]
+2026-11-03 18:12:58,440 [INFO] Slot published successfully: engagement_question
