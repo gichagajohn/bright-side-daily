@@ -14688,3 +14688,15 @@ Share this with someone who needs it today! 💛
 ...
 2026-11-03 21:18:33,040 [INFO] ✅ Posted successfully [morning_motivation]
 2026-11-03 21:18:33,064 [INFO] Slot published successfully: morning_motivation
+2026-11-03 22:46:31,400 [INFO] Failed posts list is empty.
+2026-11-03 22:46:31,520 [INFO] ============================================================
+2026-11-03 22:46:31,520 [INFO] Running slot: morning_motivation
+2026-11-03 22:46:31,520 [INFO] ============================================================
+2026-11-03 22:46:31,708 [INFO] Content selected: What is meant for you will not pass you by — but you must meet it halfway.
+2026-11-03 22:46:32,378 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_589.jpg
+2026-11-03 22:46:32,378 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_589.jpg
+2026-11-03 22:46:32,378 [INFO] Caption preview: ☀️ What is meant for you will not pass you by — but you must meet it halfway.
+
+Share this with someone who needs it toda...
+2026-11-03 22:46:38,430 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-03 22:46:38,445 [INFO] Slot published successfully: morning_motivation
