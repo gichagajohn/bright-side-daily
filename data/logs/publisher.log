@@ -14742,3 +14742,15 @@ Share this with someone who needs it today! 💛
 #Gratitude #Thankful #Cou...
 2026-11-04 16:49:06,058 [INFO] ✅ Posted successfully [evening_reflection]
 2026-11-04 16:49:06,084 [INFO] Slot published successfully: evening_reflection
+2026-11-04 18:24:37,268 [INFO] Failed posts list is empty.
+2026-11-04 18:24:37,486 [INFO] ============================================================
+2026-11-04 18:24:37,487 [INFO] Running slot: engagement_question
+2026-11-04 18:24:37,487 [INFO] ============================================================
+2026-11-04 18:24:37,712 [INFO] Content selected: What's one small action you're taking today that future you will thank you for?
+2026-11-04 18:24:38,740 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_641.jpg
+2026-11-04 18:24:38,741 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_641.jpg
+2026-11-04 18:24:38,741 [INFO] Caption preview: 💬 What's one small action you're taking today that future you will thank you for?
+
+Drop your answer in the comments belo...
+2026-11-04 18:24:44,440 [INFO] ✅ Posted successfully [engagement_question]
+2026-11-04 18:24:44,463 [INFO] Slot published successfully: engagement_question
