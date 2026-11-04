@@ -14768,3 +14768,17 @@ Share this with someone who needs it today! 💛
 #Motivati...
 2026-11-04 20:21:25,011 [INFO] ✅ Posted successfully [morning_motivation]
 2026-11-04 20:21:25,029 [INFO] Slot published successfully: morning_motivation
+2026-11-04 21:34:36,734 [INFO] Failed posts list is empty.
+2026-11-04 21:34:36,826 [INFO] ============================================================
+2026-11-04 21:34:36,826 [INFO] Running slot: morning_motivation
+2026-11-04 21:34:36,826 [INFO] ============================================================
+2026-11-04 21:34:37,013 [INFO] Content selected: Do the work. Be the result.
+2026-11-04 21:34:37,559 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_601.jpg
+2026-11-04 21:34:37,559 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_601.jpg
+2026-11-04 21:34:37,559 [INFO] Caption preview: ☀️ Do the work. Be the result.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #Dai...
+2026-11-04 21:34:41,811 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-04 21:34:41,825 [INFO] Slot published successfully: morning_motivation
