@@ -14754,3 +14754,17 @@ Share this with someone who needs it today! 💛
 Drop your answer in the comments belo...
 2026-11-04 18:24:44,440 [INFO] ✅ Posted successfully [engagement_question]
 2026-11-04 18:24:44,463 [INFO] Slot published successfully: engagement_question
+2026-11-04 20:21:19,925 [INFO] Failed posts list is empty.
+2026-11-04 20:21:20,071 [INFO] ============================================================
+2026-11-04 20:21:20,071 [INFO] Running slot: morning_motivation
+2026-11-04 20:21:20,071 [INFO] ============================================================
+2026-11-04 20:21:20,252 [INFO] Content selected: You are one decision away from a completely different life.
+2026-11-04 20:21:21,629 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_14.jpg
+2026-11-04 20:21:21,629 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_14.jpg
+2026-11-04 20:21:21,629 [INFO] Caption preview: ☀️ You are one decision away from a completely different life.
+
+Share this with someone who needs it today! 💛
+
+#Motivati...
+2026-11-04 20:21:25,011 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-04 20:21:25,029 [INFO] Slot published successfully: morning_motivation

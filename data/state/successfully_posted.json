@@ -21576,5 +21576,26 @@
       "post_id": "1181533578372151_122143154103364831"
     },
     "timestamp": "2026-11-04T18:24:44.444218"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are one decision away from a completely different life.",
+      "content_index": 14,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-11-04",
+      "timestamp": "2026-11-04T20:21:20.252447",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are one decision away from a completely different life.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122143165017364831",
+      "post_id": "1181533578372151_122143165041364831"
+    },
+    "timestamp": "2026-11-04T20:21:25.014593"
   }
 ]
