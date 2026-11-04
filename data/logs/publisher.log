@@ -14700,3 +14700,17 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it toda...
 2026-11-03 22:46:38,430 [INFO] ✅ Posted successfully [morning_motivation]
 2026-11-03 22:46:38,445 [INFO] Slot published successfully: morning_motivation
+2026-11-04 12:47:55,530 [INFO] Failed posts list is empty.
+2026-11-04 12:47:55,735 [INFO] ============================================================
+2026-11-04 12:47:55,735 [INFO] Running slot: morning_motivation
+2026-11-04 12:47:55,735 [INFO] ============================================================
+2026-11-04 12:47:55,974 [INFO] Content selected: Strive for progress, not perfection.
+2026-11-04 12:47:56,865 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_72.jpg
+2026-11-04 12:47:56,865 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_72.jpg
+2026-11-04 12:47:56,865 [INFO] Caption preview: ☀️ Strive for progress, not perfection.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMat...
+2026-11-04 12:48:04,505 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-04 12:48:04,528 [INFO] Slot published successfully: morning_motivation
