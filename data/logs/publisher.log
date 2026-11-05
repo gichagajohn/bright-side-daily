@@ -14794,3 +14794,17 @@ Share this with someone who needs it today! 💛
 Share this with someone who nee...
 2026-11-04 23:05:10,261 [INFO] ✅ Posted successfully [morning_motivation]
 2026-11-04 23:05:10,279 [INFO] Slot published successfully: morning_motivation
+2026-11-05 12:56:58,686 [INFO] Failed posts list is empty.
+2026-11-05 12:56:58,805 [INFO] ============================================================
+2026-11-05 12:56:58,805 [INFO] Running slot: morning_motivation
+2026-11-05 12:56:58,805 [INFO] ============================================================
+2026-11-05 12:56:58,987 [INFO] Content selected: The road is hard but the destination is glorious.
+2026-11-05 12:56:59,507 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_649.jpg
+2026-11-05 12:56:59,507 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_649.jpg
+2026-11-05 12:56:59,507 [INFO] Caption preview: ☀️ The road is hard but the destination is glorious.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succes...
+2026-11-05 12:57:04,761 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-05 12:57:04,780 [INFO] Slot published successfully: morning_motivation
