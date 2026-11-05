@@ -21744,5 +21744,26 @@
       "post_id": "1181533578372151_122143325019364831"
     },
     "timestamp": "2026-11-05T20:31:20.054174"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Don't be the same. Be better.",
+      "content_index": 260,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T21:36:26.646138",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Don't be the same. Be better.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122143332627364831",
+      "post_id": "1181533578372151_122143332651364831"
+    },
+    "timestamp": "2026-11-05T21:36:32.937123"
   }
 ]

@@ -14862,3 +14862,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #MindsetM...
 2026-11-05 20:31:20,051 [INFO] ✅ Posted successfully [morning_motivation]
 2026-11-05 20:31:20,069 [INFO] Slot published successfully: morning_motivation
+2026-11-05 21:36:26,168 [INFO] Failed posts list is empty.
+2026-11-05 21:36:26,328 [INFO] ============================================================
+2026-11-05 21:36:26,328 [INFO] Running slot: morning_motivation
+2026-11-05 21:36:26,328 [INFO] ============================================================
+2026-11-05 21:36:26,646 [INFO] Content selected: Don't be the same. Be better.
+2026-11-05 21:36:27,709 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_260.jpg
+2026-11-05 21:36:27,709 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_260.jpg
+2026-11-05 21:36:27,709 [INFO] Caption preview: ☀️ Don't be the same. Be better.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters #D...
+2026-11-05 21:36:32,932 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-05 21:36:32,955 [INFO] Slot published successfully: morning_motivation
