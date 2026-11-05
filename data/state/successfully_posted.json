@@ -21681,5 +21681,26 @@
       "post_id": "1181533578372151_122143292919364831"
     },
     "timestamp": "2026-11-05T15:14:31.210587"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Build habits that serve your highest self.",
+      "content_index": 485,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T17:04:03.248057",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Build habits that serve your highest self.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122143303917364831",
+      "post_id": "1181533578372151_122143303941364831"
+    },
+    "timestamp": "2026-11-05T17:04:08.476477"
   }
 ]
