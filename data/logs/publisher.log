@@ -14808,3 +14808,15 @@ Share this with someone who needs it today! 💛
 #Motivation #Succes...
 2026-11-05 12:57:04,761 [INFO] ✅ Posted successfully [morning_motivation]
 2026-11-05 12:57:04,780 [INFO] Slot published successfully: morning_motivation
+2026-11-05 15:14:25,375 [INFO] Failed posts list is empty.
+2026-11-05 15:14:25,495 [INFO] ============================================================
+2026-11-05 15:14:25,495 [INFO] Running slot: morning_motivation
+2026-11-05 15:14:25,495 [INFO] ============================================================
+2026-11-05 15:14:25,674 [INFO] Content selected: The difference between ordinary and extraordinary is that little extra.
+2026-11-05 15:14:26,570 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_26.jpg
+2026-11-05 15:14:26,571 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_26.jpg
+2026-11-05 15:14:26,571 [INFO] Caption preview: ☀️ The difference between ordinary and extraordinary is that little extra.
+
+Share this with someone who needs it today! ...
+2026-11-05 15:14:31,207 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-05 15:14:31,226 [INFO] Slot published successfully: morning_motivation
