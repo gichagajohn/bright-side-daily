@@ -14834,3 +14834,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Success #Mind...
 2026-11-05 17:04:08,472 [INFO] ✅ Posted successfully [morning_motivation]
 2026-11-05 17:04:08,495 [INFO] Slot published successfully: morning_motivation
+2026-11-05 18:29:17,703 [INFO] Failed posts list is empty.
+2026-11-05 18:29:17,847 [INFO] ============================================================
+2026-11-05 18:29:17,847 [INFO] Running slot: engagement_question
+2026-11-05 18:29:17,847 [INFO] ============================================================
+2026-11-05 18:29:18,100 [INFO] Content selected: What's the one thing this community needs to hear from you today?
+2026-11-05 18:29:18,845 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_638.jpg
+2026-11-05 18:29:18,845 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_638.jpg
+2026-11-05 18:29:18,845 [INFO] Caption preview: 💬 What's the one thing this community needs to hear from you today?
+
+Drop your answer in the comments below 👇
+
+#Communit...
+2026-11-05 18:29:24,571 [INFO] ✅ Posted successfully [engagement_question]
+2026-11-05 18:29:24,595 [INFO] Slot published successfully: engagement_question
