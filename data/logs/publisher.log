@@ -14974,3 +14974,17 @@ Share this with someone who needs it today! 💛
 #Mot...
 2026-11-06 21:07:18,262 [INFO] ✅ Posted successfully [morning_motivation]
 2026-11-06 21:07:18,277 [INFO] Slot published successfully: morning_motivation
+2026-11-06 22:37:35,003 [INFO] Failed posts list is empty.
+2026-11-06 22:37:35,122 [INFO] ============================================================
+2026-11-06 22:37:35,122 [INFO] Running slot: morning_motivation
+2026-11-06 22:37:35,122 [INFO] ============================================================
+2026-11-06 22:37:35,315 [INFO] Content selected: Do what you love and you'll never work a day in your life.
+2026-11-06 22:37:36,379 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_208.jpg
+2026-11-06 22:37:36,379 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_208.jpg
+2026-11-06 22:37:36,379 [INFO] Caption preview: ☀️ Do what you love and you'll never work a day in your life.
+
+Share this with someone who needs it today! 💛
+
+#Motivatio...
+2026-11-06 22:37:40,828 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-06 22:37:40,847 [INFO] Slot published successfully: morning_motivation
