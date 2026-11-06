@@ -14932,3 +14932,17 @@ Share this with someone who needs it today! 💛
 #Gratitud...
 2026-11-06 16:34:42,233 [INFO] ✅ Posted successfully [evening_reflection]
 2026-11-06 16:34:42,273 [INFO] Slot published successfully: evening_reflection
+2026-11-06 17:47:27,428 [INFO] Failed posts list is empty.
+2026-11-06 17:47:27,548 [INFO] ============================================================
+2026-11-06 17:47:27,548 [INFO] Running slot: morning_motivation
+2026-11-06 17:47:27,548 [INFO] ============================================================
+2026-11-06 17:47:27,725 [INFO] Content selected: Every great journey starts with one bold decision.
+2026-11-06 17:47:28,300 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_632.jpg
+2026-11-06 17:47:28,300 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_632.jpg
+2026-11-06 17:47:28,300 [INFO] Caption preview: ☀️ Every great journey starts with one bold decision.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succe...
+2026-11-06 17:47:33,401 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-06 17:47:33,420 [INFO] Slot published successfully: morning_motivation
