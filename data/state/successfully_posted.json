@@ -21786,5 +21786,26 @@
       "post_id": "1181533578372151_122143345449364831"
     },
     "timestamp": "2026-11-05T23:08:34.426222"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Invest in your becoming. It pays forever.",
+      "content_index": 444,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T12:44:27.303078",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Invest in your becoming. It pays forever.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122143435773364831",
+      "post_id": "1181533578372151_122143435797364831"
+    },
+    "timestamp": "2026-11-06T12:44:31.930640"
   }
 ]
