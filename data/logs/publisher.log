@@ -14946,3 +14946,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Succe...
 2026-11-06 17:47:33,401 [INFO] ✅ Posted successfully [morning_motivation]
 2026-11-06 17:47:33,420 [INFO] Slot published successfully: morning_motivation
+2026-11-06 19:54:12,597 [INFO] Failed posts list is empty.
+2026-11-06 19:54:12,686 [INFO] ============================================================
+2026-11-06 19:54:12,686 [INFO] Running slot: morning_motivation
+2026-11-06 19:54:12,686 [INFO] ============================================================
+2026-11-06 19:54:12,831 [INFO] Content selected: Build something real. Make it last.
+2026-11-06 19:54:13,655 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_595.jpg
+2026-11-06 19:54:13,655 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_595.jpg
+2026-11-06 19:54:13,655 [INFO] Caption preview: ☀️ Build something real. Make it last.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatt...
+2026-11-06 19:54:18,127 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-06 19:54:18,141 [INFO] Slot published successfully: morning_motivation

@@ -21870,5 +21870,26 @@
       "post_id": "1181533578372151_122143479915364831"
     },
     "timestamp": "2026-11-06T17:47:33.404470"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Build something real. Make it last.",
+      "content_index": 595,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T19:54:12.831451",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Build something real. Make it last.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122143493967364831",
+      "post_id": "1181533578372151_122143493991364831"
+    },
+    "timestamp": "2026-11-06T19:54:18.130234"
   }
 ]
