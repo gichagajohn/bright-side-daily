@@ -14988,3 +14988,15 @@ Share this with someone who needs it today! 💛
 #Motivatio...
 2026-11-06 22:37:40,828 [INFO] ✅ Posted successfully [morning_motivation]
 2026-11-06 22:37:40,847 [INFO] Slot published successfully: morning_motivation
+2026-11-07 11:31:59,310 [INFO] Failed posts list is empty.
+2026-11-07 11:31:59,401 [INFO] ============================================================
+2026-11-07 11:31:59,401 [INFO] Running slot: self_improvement
+2026-11-07 11:31:59,401 [INFO] ============================================================
+2026-11-07 11:31:59,629 [INFO] Content selected: Make growth your identity and no setback can permanently knock you down.
+2026-11-07 11:32:00,219 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_564.jpg
+2026-11-07 11:32:00,219 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_564.jpg
+2026-11-07 11:32:00,219 [INFO] Caption preview: 📈 Make growth your identity and no setback can permanently knock you down.
+
+Share this with someone who needs it today! ...
+2026-11-07 11:32:05,738 [INFO] ✅ Posted successfully [self_improvement]
+2026-11-07 11:32:05,755 [INFO] Slot published successfully: self_improvement
