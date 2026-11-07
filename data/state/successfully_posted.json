@@ -22038,5 +22038,26 @@
       "post_id": "1181533578372151_122143667367364831"
     },
     "timestamp": "2026-11-07T17:58:47.190769"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "If you want it, work for it. It's that simple.",
+      "content_index": 69,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T19:41:11.300935",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f If you want it, work for it. It's that simple.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122143681323364831",
+      "post_id": "1181533578372151_122143681347364831"
+    },
+    "timestamp": "2026-11-07T19:41:16.925749"
   }
 ]

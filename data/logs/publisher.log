@@ -15056,3 +15056,17 @@ Share this with someone who needs it today! 💛
 #Motivation #Su...
 2026-11-07 17:58:47,186 [INFO] ✅ Posted successfully [morning_motivation]
 2026-11-07 17:58:47,209 [INFO] Slot published successfully: morning_motivation
+2026-11-07 19:41:10,904 [INFO] Failed posts list is empty.
+2026-11-07 19:41:11,049 [INFO] ============================================================
+2026-11-07 19:41:11,049 [INFO] Running slot: morning_motivation
+2026-11-07 19:41:11,049 [INFO] ============================================================
+2026-11-07 19:41:11,300 [INFO] Content selected: If you want it, work for it. It's that simple.
+2026-11-07 19:41:12,022 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_69.jpg
+2026-11-07 19:41:12,022 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_69.jpg
+2026-11-07 19:41:12,022 [INFO] Caption preview: ☀️ If you want it, work for it. It's that simple.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #...
+2026-11-07 19:41:16,922 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-07 19:41:16,998 [INFO] Slot published successfully: morning_motivation
