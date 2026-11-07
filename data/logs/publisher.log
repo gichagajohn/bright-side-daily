@@ -15014,3 +15014,17 @@ Share this with someone who needs it today! 💛
 #YouGotThis #KeepGoi...
 2026-11-07 13:47:17,682 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-11-07 13:47:17,700 [INFO] Slot published successfully: midday_encouragement
+2026-11-07 15:23:46,692 [INFO] Failed posts list is empty.
+2026-11-07 15:23:46,829 [INFO] ============================================================
+2026-11-07 15:23:46,829 [INFO] Running slot: morning_motivation
+2026-11-07 15:23:46,829 [INFO] ============================================================
+2026-11-07 15:23:46,982 [INFO] Content selected: Success is the reward for those who refuse to quit.
+2026-11-07 15:23:48,306 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_290.jpg
+2026-11-07 15:23:48,306 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_290.jpg
+2026-11-07 15:23:48,306 [INFO] Caption preview: ☀️ Success is the reward for those who refuse to quit.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succ...
+2026-11-07 15:23:53,716 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-07 15:23:53,734 [INFO] Slot published successfully: morning_motivation

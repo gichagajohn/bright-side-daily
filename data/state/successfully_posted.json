@@ -21975,5 +21975,26 @@
       "post_id": "1181533578372151_122143633197364831"
     },
     "timestamp": "2026-11-07T13:47:17.685942"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Success is the reward for those who refuse to quit.",
+      "content_index": 290,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T15:23:46.982682",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Success is the reward for those who refuse to quit.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122143647741364831",
+      "post_id": "1181533578372151_122143647771364831"
+    },
+    "timestamp": "2026-11-07T15:23:53.720466"
   }
 ]
