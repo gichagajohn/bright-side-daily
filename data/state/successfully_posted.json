@@ -22101,5 +22101,26 @@
       "post_id": "1181533578372151_122143802295364831"
     },
     "timestamp": "2026-11-08T11:43:50.938907"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Everything you've been through has prepared you for this moment.",
+      "content_index": 403,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T14:07:47.460863",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Everything you've been through has prepared you for this moment.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122143820379364831",
+      "post_id": "1181533578372151_122143820403364831"
+    },
+    "timestamp": "2026-11-08T14:07:53.551287"
   }
 ]

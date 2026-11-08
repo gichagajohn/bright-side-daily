@@ -15096,3 +15096,17 @@ Share this with someone who needs it today! 💛
 #PersonalGrowth #Sel...
 2026-11-08 11:43:50,934 [INFO] ✅ Posted successfully [self_improvement]
 2026-11-08 11:43:50,953 [INFO] Slot published successfully: self_improvement
+2026-11-08 14:07:47,157 [INFO] Failed posts list is empty.
+2026-11-08 14:07:47,288 [INFO] ============================================================
+2026-11-08 14:07:47,288 [INFO] Running slot: morning_motivation
+2026-11-08 14:07:47,288 [INFO] ============================================================
+2026-11-08 14:07:47,460 [INFO] Content selected: Everything you've been through has prepared you for this moment.
+2026-11-08 14:07:48,420 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_403.jpg
+2026-11-08 14:07:48,420 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_403.jpg
+2026-11-08 14:07:48,420 [INFO] Caption preview: ☀️ Everything you've been through has prepared you for this moment.
+
+Share this with someone who needs it today! 💛
+
+#Mot...
+2026-11-08 14:07:53,547 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-08 14:07:53,567 [INFO] Slot published successfully: morning_motivation
