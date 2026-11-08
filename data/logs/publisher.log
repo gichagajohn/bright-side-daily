@@ -15082,3 +15082,17 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it toda...
 2026-11-07 21:19:32,616 [INFO] ✅ Posted successfully [morning_motivation]
 2026-11-07 21:19:32,640 [INFO] Slot published successfully: morning_motivation
+2026-11-08 11:43:45,774 [INFO] Failed posts list is empty.
+2026-11-08 11:43:45,914 [INFO] ============================================================
+2026-11-08 11:43:45,914 [INFO] Running slot: self_improvement
+2026-11-08 11:43:45,914 [INFO] ============================================================
+2026-11-08 11:43:46,100 [INFO] Content selected: Every person you meet is a teacher. Stay curious.
+2026-11-08 11:43:47,256 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_197.jpg
+2026-11-08 11:43:47,256 [INFO] Publishing [self_improvement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/self_improvement_197.jpg
+2026-11-08 11:43:47,256 [INFO] Caption preview: 📈 Every person you meet is a teacher. Stay curious.
+
+Share this with someone who needs it today! 💛
+
+#PersonalGrowth #Sel...
+2026-11-08 11:43:50,934 [INFO] ✅ Posted successfully [self_improvement]
+2026-11-08 11:43:50,953 [INFO] Slot published successfully: self_improvement
