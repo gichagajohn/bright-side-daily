@@ -22185,5 +22185,26 @@
       "post_id": "1181533578372151_122143844841364831"
     },
     "timestamp": "2026-11-08T18:16:53.347195"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Stay focused and never give up.",
+      "content_index": 316,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T20:00:14.526135",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Stay focused and never give up.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122143858761364831",
+      "post_id": "1181533578372151_122143858785364831"
+    },
+    "timestamp": "2026-11-08T20:00:19.014326"
   }
 ]
