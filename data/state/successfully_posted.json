@@ -22122,5 +22122,26 @@
       "post_id": "1181533578372151_122143820403364831"
     },
     "timestamp": "2026-11-08T14:07:53.551287"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Success usually comes to those who are too busy to be looking for it.",
+      "content_index": 153,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T15:45:54.516419",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Success usually comes to those who are too busy to be looking for it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122143829619364831",
+      "post_id": "1181533578372151_122143829643364831"
+    },
+    "timestamp": "2026-11-08T15:45:59.988749"
   }
 ]
