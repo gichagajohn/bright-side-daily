@@ -22227,5 +22227,26 @@
       "post_id": "1181533578372151_122143867959364831"
     },
     "timestamp": "2026-11-08T21:33:58.523523"
+  },
+  {
+    "post": {
+      "slot": "midday_encouragement",
+      "category": "encouragement_quotes",
+      "content": "You are not losing. You are in the middle of a story that ends in triumph.",
+      "content_index": 572,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "lighthouse in stormy sea"
+      },
+      "date": "2026-11-09",
+      "timestamp": "2026-11-09T13:39:02.261967",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83d\udcaa You are not losing. You are in the middle of a story that ends in triumph.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement #BrightSideDaily",
+    "fb_response": {
+      "id": "122143968897364831",
+      "post_id": "1181533578372151_122143968921364831"
+    },
+    "timestamp": "2026-11-09T13:39:07.140937"
   }
 ]
