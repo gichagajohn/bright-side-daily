@@ -22248,5 +22248,26 @@
       "post_id": "1181533578372151_122143968921364831"
     },
     "timestamp": "2026-11-09T13:39:07.140937"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The vision demands sacrifice. Make it willingly.",
+      "content_index": 633,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-11-09",
+      "timestamp": "2026-11-09T17:15:10.164988",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The vision demands sacrifice. Make it willingly.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122143992105364831",
+      "post_id": "1181533578372151_122143992129364831"
+    },
+    "timestamp": "2026-11-09T17:15:16.110484"
   }
 ]

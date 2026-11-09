@@ -15191,3 +15191,17 @@ Share this with someone who needs it today! 💛
 Share this with someone who needs it today...
 2026-11-09 13:39:07,136 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-11-09 13:39:07,159 [INFO] Slot published successfully: midday_encouragement
+2026-11-09 17:15:09,813 [INFO] Failed posts list is empty.
+2026-11-09 17:15:09,931 [INFO] ============================================================
+2026-11-09 17:15:09,931 [INFO] Running slot: morning_motivation
+2026-11-09 17:15:09,931 [INFO] ============================================================
+2026-11-09 17:15:10,165 [INFO] Content selected: The vision demands sacrifice. Make it willingly.
+2026-11-09 17:15:11,157 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_633.jpg
+2026-11-09 17:15:11,157 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_633.jpg
+2026-11-09 17:15:11,157 [INFO] Caption preview: ☀️ The vision demands sacrifice. Make it willingly.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success...
+2026-11-09 17:15:16,107 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-09 17:15:16,125 [INFO] Slot published successfully: morning_motivation
