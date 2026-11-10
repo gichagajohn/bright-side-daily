@@ -15317,3 +15317,15 @@ Share this with someone who needs it today! 💛
 #Gratitude #Thankful #Count...
 2026-11-10 16:46:10,006 [INFO] ✅ Posted successfully [evening_reflection]
 2026-11-10 16:46:10,027 [INFO] Slot published successfully: evening_reflection
+2026-11-10 18:26:58,652 [INFO] Failed posts list is empty.
+2026-11-10 18:26:58,837 [INFO] ============================================================
+2026-11-10 18:26:58,837 [INFO] Running slot: engagement_question
+2026-11-10 18:26:58,837 [INFO] ============================================================
+2026-11-10 18:26:59,096 [INFO] Content selected: What's a story from your life that has become someone else's source of hope?
+2026-11-10 18:26:59,900 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_506.jpg
+2026-11-10 18:26:59,900 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_506.jpg
+2026-11-10 18:26:59,900 [INFO] Caption preview: 💬 What's a story from your life that has become someone else's source of hope?
+
+Drop your answer in the comments below 👇...
+2026-11-10 18:27:03,531 [INFO] ✅ Posted successfully [engagement_question]
+2026-11-10 18:27:03,554 [INFO] Slot published successfully: engagement_question
