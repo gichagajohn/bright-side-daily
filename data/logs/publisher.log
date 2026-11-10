@@ -15275,3 +15275,17 @@ Share this with someone who needs it today! 💛
 #Motivatio...
 2026-11-10 01:03:38,834 [INFO] ✅ Posted successfully [morning_motivation]
 2026-11-10 01:03:38,848 [INFO] Slot published successfully: morning_motivation
+2026-11-10 13:16:41,929 [INFO] Failed posts list is empty.
+2026-11-10 13:16:42,024 [INFO] ============================================================
+2026-11-10 13:16:42,024 [INFO] Running slot: midday_encouragement
+2026-11-10 13:16:42,024 [INFO] ============================================================
+2026-11-10 13:16:42,220 [INFO] Content selected: You don't need to see the whole staircase — just take the next step.
+2026-11-10 13:16:43,292 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/midday_encouragement_310.jpg
+2026-11-10 13:16:43,292 [INFO] Publishing [midday_encouragement] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/midday_encouragement_310.jpg
+2026-11-10 13:16:43,292 [INFO] Caption preview: 💪 You don't need to see the whole staircase — just take the next step.
+
+Share this with someone who needs it today! 💛
+
+#...
+2026-11-10 13:16:49,232 [INFO] ✅ Posted successfully [midday_encouragement]
+2026-11-10 13:16:49,246 [INFO] Slot published successfully: midday_encouragement
