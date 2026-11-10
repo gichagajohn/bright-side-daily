@@ -22458,5 +22458,26 @@
       "post_id": "1181533578372151_122144164119364831"
     },
     "timestamp": "2026-11-10T18:27:03.536687"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Today's struggle is tomorrow's strength.",
+      "content_index": 125,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T20:22:49.719026",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Today's struggle is tomorrow's strength.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144175681364831",
+      "post_id": "1181533578372151_122144175705364831"
+    },
+    "timestamp": "2026-11-10T20:22:54.514539"
   }
 ]

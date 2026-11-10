@@ -15329,3 +15329,19 @@ Share this with someone who needs it today! 💛
 Drop your answer in the comments below 👇...
 2026-11-10 18:27:03,531 [INFO] ✅ Posted successfully [engagement_question]
 2026-11-10 18:27:03,554 [INFO] Slot published successfully: engagement_question
+2026-11-10 20:22:49,446 [INFO] Failed posts list is empty.
+2026-11-10 20:22:49,561 [INFO] ──────────────────────────────────────────────────
+2026-11-10 20:22:49,561 [INFO] ▶  Running slot: morning_motivation
+2026-11-10 20:22:49,562 [INFO] ──────────────────────────────────────────────────
+2026-11-10 20:22:49,719 [INFO] 📝 Content selected: Today's struggle is tomorrow's strength....
+2026-11-10 20:22:50,494 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_125.jpg
+2026-11-10 20:22:50,494 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_125.jpg
+2026-11-10 20:22:50,494 [INFO] Caption preview: ☀️ Today's struggle is tomorrow's strength.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mindse...
+2026-11-10 20:22:54,511 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-10 20:22:54,527 [WARNING] Instagram skipped for [morning_motivation]: IG_* or SUPABASE_* secrets are not configured.
+2026-11-10 20:22:54,527 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-10 20:22:54,527 [WARNING] ⚠️  Instagram skipped [morning_motivation]: Instagram credentials not configured.
