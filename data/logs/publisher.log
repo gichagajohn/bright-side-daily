@@ -15361,3 +15361,19 @@ Share this with someone who needs it today! 💛
 2026-11-10 21:28:48,426 [WARNING] Instagram skipped for [morning_motivation]: IG_* or SUPABASE_* secrets are not configured.
 2026-11-10 21:28:48,426 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-10 21:28:48,426 [WARNING] ⚠️  Instagram skipped [morning_motivation]: Instagram credentials not configured.
+2026-11-10 22:43:22,656 [INFO] Failed posts list is empty.
+2026-11-10 22:43:22,906 [INFO] ──────────────────────────────────────────────────
+2026-11-10 22:43:22,906 [INFO] ▶  Running slot: morning_motivation
+2026-11-10 22:43:22,906 [INFO] ──────────────────────────────────────────────────
+2026-11-10 22:43:23,171 [INFO] 📝 Content selected: Greatness lives just beyond where most people stop....
+2026-11-10 22:43:23,889 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_463.jpg
+2026-11-10 22:43:23,890 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_463.jpg
+2026-11-10 22:43:23,890 [INFO] Caption preview: ☀️ Greatness lives just beyond where most people stop.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succ...
+2026-11-10 22:43:27,517 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-10 22:43:27,531 [WARNING] Instagram skipped for [morning_motivation]: IG_* or SUPABASE_* secrets are not configured.
+2026-11-10 22:43:27,531 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-10 22:43:27,531 [WARNING] ⚠️  Instagram skipped [morning_motivation]: Instagram credentials not configured.
