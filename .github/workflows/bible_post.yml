@@ -42,20 +42,16 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y fonts-dejavu-core
 
-      - name: Create environment file
-        run: |
-          cat > .env <<EOF
-          FB_PAGE_ID=${{ secrets.FB_PAGE_ID }}
-          FB_PAGE_ACCESS_TOKEN=${{ secrets.FB_PAGE_ACCESS_TOKEN }}
-          PEXELS_API_KEY=${{ secrets.PEXELS_API_KEY }}
-          DRY_RUN=false
-          EOF
-
       - name: Publish Bible world encouragement
         env:
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          SUPABASE_BUCKET: ${{ secrets.SUPABASE_BUCKET }}
           DRY_RUN: "false"
         run: |
           python scripts/post_bible.py
@@ -79,11 +75,13 @@ jobs:
             echo "Bible history file was not created."
           fi
 
-      - name: Upload Bible image
+      - name: Upload post images
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: bible-post-${{ github.run_number }}
-          path: images/output/bible_world_encouragement.jpg
+          path: |
+            images/output/bible_world_encouragement.jpg
+            images/output/instagram/
           if-no-files-found: ignore
           retention-days: 14

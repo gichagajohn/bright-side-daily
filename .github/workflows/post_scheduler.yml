@@ -1,173 +1,172 @@
-name: Bright Side Daily - Auto Poster
+name: 🌟 Bright Side Daily — Auto Poster
 
 on:
   schedule:
-    # All times are UTC.
-    # Kenya/East Africa Time is UTC+3.
-
-    - cron: "0 5 * * *"
-      # 08:00 EAT - Morning Motivation
-
-    - cron: "0 7 * * *"
-      # 10:00 EAT - Positive Quote
-
-    - cron: "0 9 * * *"
-      # 12:00 EAT - Funny Meme
-
-    - cron: "0 11 * * *"
-      # 14:00 EAT - Self Improvement
-
-    - cron: "0 13 * * *"
-      # 16:00 EAT - Midday Encouragement
-
-    - cron: "0 16 * * *"
-      # 19:00 EAT - Evening Reflection
-
-    - cron: "0 18 * * *"
-      # 21:00 EAT - Engagement Question
+    # ── All times UTC. Kenya EAT = UTC+3 ──────────────────────────────────
+    # Facebook allows up to ~25 posts/day. 10 posts is well within limits.
+    #
+    #  UTC   →  EAT      Slot
+    - cron: '0 5 * * *'   # 08:00 AM EAT — Morning Motivation
+    - cron: '0 7 * * *'   # 10:00 AM EAT — Positive Quote
+    - cron: '0 8 * * *'   # 11:00 AM EAT — Self Improvement
+    - cron: '0 9 * * *'   # 12:00 PM EAT — Funny Meme
+    - cron: '0 10 * * *'  # 01:00 PM EAT — Midday Encouragement
+    - cron: '0 11 * * *'  # 02:00 PM EAT — Afternoon Wisdom
+    - cron: '0 13 * * *'  # 04:00 PM EAT — Gratitude Moment
+    - cron: '0 14 * * *'  # 05:00 PM EAT — Bible World Encouragement
+    - cron: '0 15 * * *'  # 06:00 PM EAT — Engagement Question
+    - cron: '0 16 * * *'  # 07:00 PM EAT — Evening Reflection
+    - cron: '0 18 * * *'  # 09:00 PM EAT — Night Inspiration
 
   workflow_dispatch:
     inputs:
       slot:
-        description: "Slot to post manually"
+        description: 'Slot to post (leave empty for auto-detect)'
         required: false
-        default: ""
-
+        default: ''
       dry_run:
-        description: "Set true to test without Facebook publishing"
+        description: 'Dry run — true skips actual Facebook posting'
         required: false
-        default: "false"
+        default: 'false'
 
 permissions:
   contents: write
 
-concurrency:
-  group: bright-side-daily-posting
-  cancel-in-progress: false
-
 jobs:
   post:
-    name: Post to Facebook
+    name: 📢 Post to Facebook
     runs-on: ubuntu-latest
     timeout-minutes: 15
 
     steps:
+      # ── 1. Checkout ────────────────────────────────────────────────────────
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
 
-      - name: Set up Python
+      # ── 2. Python setup ────────────────────────────────────────────────────
+      - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
-          cache: pip
+          python-version: '3.11'
+          cache: 'pip'
 
+      # ── 3. Dependencies ────────────────────────────────────────────────────
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
+          pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Install fonts
+      # ── 4. Content library check ───────────────────────────────────────────
+      - name: Generate content library (if missing)
         run: |
-          sudo apt-get update
-          sudo apt-get install -y fonts-dejavu-core
+          if [ ! -f "content/library.json" ]; then
+            echo "Content library missing — generating..."
+            python scripts/generate_content_library.py
+          else
+            echo "Content library exists."
+          fi
 
-      - name: Determine posting slot
+      # ── 5. Detect slot ─────────────────────────────────────────────────────
+      - name: Determine slot
         id: slot_detect
-        shell: bash
         run: |
-          HOUR="$(date -u +%H)"
+          HOUR=$(date -u +%H)
           INPUT_SLOT="${{ github.event.inputs.slot }}"
 
           if [ -n "$INPUT_SLOT" ]; then
             SLOT="$INPUT_SLOT"
-
+            echo "Manual slot: $SLOT"
           elif [ "$HOUR" = "05" ]; then
             SLOT="morning_motivation"
-
           elif [ "$HOUR" = "07" ]; then
             SLOT="positive_quote"
-
+          elif [ "$HOUR" = "08" ]; then
+            SLOT="self_improvement"
           elif [ "$HOUR" = "09" ]; then
             SLOT="funny_meme"
-
-          elif [ "$HOUR" = "11" ]; then
-            SLOT="self_improvement"
-
-          elif [ "$HOUR" = "13" ]; then
+          elif [ "$HOUR" = "10" ]; then
             SLOT="midday_encouragement"
-
+          elif [ "$HOUR" = "11" ]; then
+            SLOT="afternoon_wisdom"
+          elif [ "$HOUR" = "13" ]; then
+            SLOT="gratitude_moment"
+          elif [ "$HOUR" = "14" ]; then
+            SLOT="bible_world_encouragement"
+          elif [ "$HOUR" = "15" ]; then
+            SLOT="engagement_question"
           elif [ "$HOUR" = "16" ]; then
             SLOT="evening_reflection"
-
           elif [ "$HOUR" = "18" ]; then
-            SLOT="engagement_question"
-
+            SLOT="night_inspiration"
           else
             SLOT="morning_motivation"
-            echo "No matching hour. Using morning_motivation."
+            echo "Unknown hour $HOUR — defaulting to morning_motivation"
           fi
 
+          echo "slot=$SLOT" >> $GITHUB_OUTPUT
           echo "Selected slot: $SLOT"
-          echo "slot=$SLOT" >> "$GITHUB_OUTPUT"
 
-      - name: Create environment file
-        run: |
-          cat > .env <<EOF
-          FB_PAGE_ID=${{ secrets.FB_PAGE_ID }}
-          FB_PAGE_ACCESS_TOKEN=${{ secrets.FB_PAGE_ACCESS_TOKEN }}
-          PEXELS_API_KEY=${{ secrets.PEXELS_API_KEY }}
-          DRY_RUN=${{ github.event.inputs.dry_run || 'false' }}
-          EOF
-
+      # ── 6. Retry failed posts ──────────────────────────────────────────────
       - name: Retry failed posts
         env:
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
         run: |
-          python src/scheduler.py --retry-failed || true
+          python src/scheduler.py --retry-failed || echo "No failed posts to retry."
 
-      - name: Generate photo and publish
+      # ── 7. Post to Facebook ────────────────────────────────────────────────
+      - name: Post to Facebook
+        id: post
         env:
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          SUPABASE_BUCKET: ${{ secrets.SUPABASE_BUCKET }}
           DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
         run: |
           SLOT="${{ steps.slot_detect.outputs.slot }}"
           echo "Posting slot: $SLOT"
           python src/scheduler.py --slot "$SLOT"
 
-      - name: Save state files
-        if: always()
+      # ── 8. Collect metrics ─────────────────────────────────────────────────
+      - name: Collect engagement metrics
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python src/agents/performance_agent.py || echo "Metrics skipped."
+        continue-on-error: true
 
+      # ── 9. Commit state ────────────────────────────────────────────────────
+      - name: Commit state files
+        run: |
+          git config --local user.email "brightside-bot@users.noreply.github.com"
+          git config --local user.name "Bright Side Daily Bot"
           git add data/ content/ --force
+          git diff --staged --quiet || git commit -m "🤖 Auto: state update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
+        continue-on-error: true
 
-          if ! git diff --staged --quiet; then
-            git commit -m "chore: save Bright Side Daily state [skip ci]"
-            git push
-          else
-            echo "No state changes to commit."
-          fi
-
-      - name: Upload generated images
-        if: always()
+      # ── 10. Upload images ──────────────────────────────────────────────────
+      - name: Upload post images
         uses: actions/upload-artifact@v4
+        if: always()
         with:
-          name: bright-side-images-${{ github.run_number }}
+          name: post-images-${{ steps.slot_detect.outputs.slot }}-${{ github.run_number }}
           path: images/output/
-          if-no-files-found: ignore
-          retention-days: 14
+          retention-days: 30
 
+      # ── 11. Upload logs ────────────────────────────────────────────────────
       - name: Upload logs
-        if: always()
         uses: actions/upload-artifact@v4
+        if: always()
         with:
-          name: bright-side-logs-${{ github.run_number }}
+          name: logs-${{ steps.slot_detect.outputs.slot }}-${{ github.run_number }}
           path: data/logs/
-          if-no-files-found: ignore
           retention-days: 14
