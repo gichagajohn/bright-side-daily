@@ -15289,3 +15289,17 @@ Share this with someone who needs it today! 💛
 #...
 2026-11-10 13:16:49,232 [INFO] ✅ Posted successfully [midday_encouragement]
 2026-11-10 13:16:49,246 [INFO] Slot published successfully: midday_encouragement
+2026-11-10 15:27:15,133 [INFO] Failed posts list is empty.
+2026-11-10 15:27:15,288 [INFO] ============================================================
+2026-11-10 15:27:15,288 [INFO] Running slot: morning_motivation
+2026-11-10 15:27:15,288 [INFO] ============================================================
+2026-11-10 15:27:15,614 [INFO] Content selected: Stop comparing. Start creating.
+2026-11-10 15:27:16,031 [INFO] Photo created: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_281.jpg
+2026-11-10 15:27:16,031 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_281.jpg
+2026-11-10 15:27:16,031 [INFO] Caption preview: ☀️ Stop comparing. Start creating.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatters ...
+2026-11-10 15:27:21,793 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-10 15:27:21,817 [INFO] Slot published successfully: morning_motivation

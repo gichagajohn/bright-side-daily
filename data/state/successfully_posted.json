@@ -22395,5 +22395,26 @@
       "post_id": "1181533578372151_122144122041364831"
     },
     "timestamp": "2026-11-10T13:16:49.235071"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Stop comparing. Start creating.",
+      "content_index": 281,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T15:27:15.614559",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Stop comparing. Start creating.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144140659364831",
+      "post_id": "1181533578372151_122144140683364831"
+    },
+    "timestamp": "2026-11-10T15:27:21.798318"
   }
 ]
