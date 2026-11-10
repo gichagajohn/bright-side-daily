@@ -22479,5 +22479,26 @@
       "post_id": "1181533578372151_122144175705364831"
     },
     "timestamp": "2026-11-10T20:22:54.514539"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Start where you are. Use what you have. Do what you can.",
+      "content_index": 99,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T21:28:43.971284",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Start where you are. Use what you have. Do what you can.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144180907364831",
+      "post_id": "1181533578372151_122144180931364831"
+    },
+    "timestamp": "2026-11-10T21:28:48.410715"
   }
 ]
