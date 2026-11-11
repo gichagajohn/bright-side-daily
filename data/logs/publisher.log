@@ -15467,3 +15467,19 @@ Share this with someone who needs it today! 💛
 2026-11-11 20:05:31,518 [WARNING] Instagram skipped for [morning_motivation]: IG_* or SUPABASE_* secrets are not configured.
 2026-11-11 20:05:31,518 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-11 20:05:31,518 [WARNING] ⚠️  Instagram skipped [morning_motivation]: Instagram credentials not configured.
+2026-11-11 21:00:45,265 [INFO] Failed posts list is empty.
+2026-11-11 21:00:45,411 [INFO] ──────────────────────────────────────────────────
+2026-11-11 21:00:45,411 [INFO] ▶  Running slot: morning_motivation
+2026-11-11 21:00:45,411 [INFO] ──────────────────────────────────────────────────
+2026-11-11 21:00:45,737 [INFO] 📝 Content selected: Stop thinking and start doing. The world rewards action....
+2026-11-11 21:00:46,483 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_465.jpg
+2026-11-11 21:00:46,483 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_465.jpg
+2026-11-11 21:00:46,484 [INFO] Caption preview: ☀️ Stop thinking and start doing. The world rewards action.
+
+Share this with someone who needs it today! 💛
+
+#Motivation ...
+2026-11-11 21:00:50,952 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-11 21:00:50,977 [WARNING] Instagram skipped for [morning_motivation]: IG_* or SUPABASE_* secrets are not configured.
+2026-11-11 21:00:50,977 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-11 21:00:50,977 [WARNING] ⚠️  Instagram skipped [morning_motivation]: Instagram credentials not configured.
