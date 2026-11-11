@@ -15398,3 +15398,19 @@ Share this with someone who needs it today! 💛
 2026-11-11 14:57:45,804 [INFO] ▶  Running slot: bible_world_encouragement
 2026-11-11 14:57:45,804 [INFO] ──────────────────────────────────────────────────
 2026-11-11 14:57:46,112 [ERROR] ❌ Content selection failed: 'dict' object has no attribute 'lower'
+2026-11-11 15:44:45,313 [INFO] Failed posts list is empty.
+2026-11-11 15:44:45,465 [INFO] ──────────────────────────────────────────────────
+2026-11-11 15:44:45,466 [INFO] ▶  Running slot: engagement_question
+2026-11-11 15:44:45,466 [INFO] ──────────────────────────────────────────────────
+2026-11-11 15:44:45,825 [INFO] 📝 Content selected: What would make this season of your life unforgettable for good reasons?...
+2026-11-11 15:44:46,595 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_289.jpg
+2026-11-11 15:44:46,595 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_289.jpg
+2026-11-11 15:44:46,595 [INFO] Caption preview: 💬 What would make this season of your life unforgettable for good reasons?
+
+Drop your answer in the comments below 👇
+
+#C...
+2026-11-11 15:44:51,585 [INFO] ✅ Posted successfully [engagement_question]
+2026-11-11 15:44:51,608 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
+2026-11-11 15:44:51,608 [INFO] ✅ Facebook published [engagement_question]
+2026-11-11 15:44:51,608 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
