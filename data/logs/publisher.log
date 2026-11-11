@@ -15414,3 +15414,19 @@ Drop your answer in the comments below 👇
 2026-11-11 15:44:51,608 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
 2026-11-11 15:44:51,608 [INFO] ✅ Facebook published [engagement_question]
 2026-11-11 15:44:51,608 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
+2026-11-11 16:51:56,982 [INFO] Failed posts list is empty.
+2026-11-11 16:51:57,131 [INFO] ──────────────────────────────────────────────────
+2026-11-11 16:51:57,132 [INFO] ▶  Running slot: evening_reflection
+2026-11-11 16:51:57,132 [INFO] ──────────────────────────────────────────────────
+2026-11-11 16:51:57,337 [INFO] 📝 Content selected: Gratitude makes the heart generous and the spirit free....
+2026-11-11 16:51:57,919 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_574.jpg
+2026-11-11 16:51:57,919 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_574.jpg
+2026-11-11 16:51:57,919 [INFO] Caption preview: 🌙 Gratitude makes the heart generous and the spirit free.
+
+Share this with someone who needs it today! 💛
+
+#Gratitude #Th...
+2026-11-11 16:52:01,922 [INFO] ✅ Posted successfully [evening_reflection]
+2026-11-11 16:52:01,969 [WARNING] Instagram skipped for [evening_reflection]: IG_* or SUPABASE_* secrets are not configured.
+2026-11-11 16:52:01,969 [INFO] ✅ Facebook published [evening_reflection]
+2026-11-11 16:52:01,969 [WARNING] ⚠️  Instagram skipped [evening_reflection]: Instagram credentials not configured.
