@@ -15430,3 +15430,19 @@ Share this with someone who needs it today! 💛
 2026-11-11 16:52:01,969 [WARNING] Instagram skipped for [evening_reflection]: IG_* or SUPABASE_* secrets are not configured.
 2026-11-11 16:52:01,969 [INFO] ✅ Facebook published [evening_reflection]
 2026-11-11 16:52:01,969 [WARNING] ⚠️  Instagram skipped [evening_reflection]: Instagram credentials not configured.
+2026-11-11 17:44:47,433 [INFO] Failed posts list is empty.
+2026-11-11 17:44:47,552 [INFO] ──────────────────────────────────────────────────
+2026-11-11 17:44:47,552 [INFO] ▶  Running slot: morning_motivation
+2026-11-11 17:44:47,552 [INFO] ──────────────────────────────────────────────────
+2026-11-11 17:44:47,801 [INFO] 📝 Content selected: Be relentless about becoming who you were meant to be....
+2026-11-11 17:44:48,535 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_551.jpg
+2026-11-11 17:44:48,535 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_551.jpg
+2026-11-11 17:44:48,535 [INFO] Caption preview: ☀️ Be relentless about becoming who you were meant to be.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #S...
+2026-11-11 17:44:53,472 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-11 17:44:53,491 [WARNING] Instagram skipped for [morning_motivation]: IG_* or SUPABASE_* secrets are not configured.
+2026-11-11 17:44:53,491 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-11 17:44:53,491 [WARNING] ⚠️  Instagram skipped [morning_motivation]: Instagram credentials not configured.
