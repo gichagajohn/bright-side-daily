@@ -15513,3 +15513,19 @@ Share this with someone who needs it ...
 2026-11-11 22:19:38,925 [WARNING] Instagram skipped for [morning_motivation]: IG_* or SUPABASE_* secrets are not configured.
 2026-11-11 22:19:38,925 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-11 22:19:38,925 [WARNING] ⚠️  Instagram skipped [morning_motivation]: Instagram credentials not configured.
+2026-11-11 23:56:16,456 [INFO] Failed posts list is empty.
+2026-11-11 23:56:16,565 [INFO] ──────────────────────────────────────────────────
+2026-11-11 23:56:16,565 [INFO] ▶  Running slot: morning_motivation
+2026-11-11 23:56:16,565 [INFO] ──────────────────────────────────────────────────
+2026-11-11 23:56:16,943 [INFO] 📝 Content selected: A winner is a dreamer who never gives up....
+2026-11-11 23:56:17,987 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_174.jpg
+2026-11-11 23:56:17,987 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_174.jpg
+2026-11-11 23:56:17,987 [INFO] Caption preview: ☀️ A winner is a dreamer who never gives up.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Minds...
+2026-11-11 23:56:22,968 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-11 23:56:22,984 [WARNING] Instagram skipped for [morning_motivation]: IG_* or SUPABASE_* secrets are not configured.
+2026-11-11 23:56:22,984 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-11 23:56:22,984 [WARNING] ⚠️  Instagram skipped [morning_motivation]: Instagram credentials not configured.
