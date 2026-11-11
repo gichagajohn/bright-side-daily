@@ -15451,3 +15451,19 @@ Share this with someone who needs it today! 💛
 2026-11-11 18:22:34,867 [INFO] ▶  Running slot: night_inspiration
 2026-11-11 18:22:34,867 [INFO] ──────────────────────────────────────────────────
 2026-11-11 18:22:35,017 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-11-11 20:05:25,508 [INFO] Failed posts list is empty.
+2026-11-11 20:05:25,625 [INFO] ──────────────────────────────────────────────────
+2026-11-11 20:05:25,625 [INFO] ▶  Running slot: morning_motivation
+2026-11-11 20:05:25,625 [INFO] ──────────────────────────────────────────────────
+2026-11-11 20:05:25,792 [INFO] 📝 Content selected: Life begins at the end of your comfort zone....
+2026-11-11 20:05:26,710 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_209.jpg
+2026-11-11 20:05:26,710 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_209.jpg
+2026-11-11 20:05:26,710 [INFO] Caption preview: ☀️ Life begins at the end of your comfort zone.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mi...
+2026-11-11 20:05:31,500 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-11 20:05:31,518 [WARNING] Instagram skipped for [morning_motivation]: IG_* or SUPABASE_* secrets are not configured.
+2026-11-11 20:05:31,518 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-11 20:05:31,518 [WARNING] ⚠️  Instagram skipped [morning_motivation]: Instagram credentials not configured.
