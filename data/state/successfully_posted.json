@@ -22668,5 +22668,26 @@
       "post_id": "1181533578372151_122144356947364831"
     },
     "timestamp": "2026-11-11T21:50:35.866816"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You weren't given your dreams without being given the power to make them real.",
+      "content_index": 347,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T22:19:34.375185",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You weren't given your dreams without being given the power to make them real.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144361735364831",
+      "post_id": "1181533578372151_122144361759364831"
+    },
+    "timestamp": "2026-11-11T22:19:38.908141"
   }
 ]
