@@ -22647,5 +22647,26 @@
       "post_id": "1181533578372151_122144347509364831"
     },
     "timestamp": "2026-11-11T21:00:50.958344"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Stop surviving and start thriving.",
+      "content_index": 231,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T21:50:31.578937",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Stop surviving and start thriving.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144356923364831",
+      "post_id": "1181533578372151_122144356947364831"
+    },
+    "timestamp": "2026-11-11T21:50:35.866816"
   }
 ]
