@@ -15393,3 +15393,8 @@ Share this with someone who needs it today! 💛
 2026-11-11 12:27:23,098 [WARNING] Instagram skipped for [morning_motivation]: IG_* or SUPABASE_* secrets are not configured.
 2026-11-11 12:27:23,098 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-11 12:27:23,098 [WARNING] ⚠️  Instagram skipped [morning_motivation]: Instagram credentials not configured.
+2026-11-11 14:57:45,555 [INFO] Failed posts list is empty.
+2026-11-11 14:57:45,803 [INFO] ──────────────────────────────────────────────────
+2026-11-11 14:57:45,804 [INFO] ▶  Running slot: bible_world_encouragement
+2026-11-11 14:57:45,804 [INFO] ──────────────────────────────────────────────────
+2026-11-11 14:57:46,112 [ERROR] ❌ Content selection failed: 'dict' object has no attribute 'lower'
