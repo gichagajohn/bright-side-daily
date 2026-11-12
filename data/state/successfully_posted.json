@@ -22815,5 +22815,26 @@
       "post_id": "1181533578372151_122144496465364831"
     },
     "timestamp": "2026-11-12T20:43:13.301481"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Push until you can't. Then push once more.",
+      "content_index": 650,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T21:47:54.594901",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Push until you can't. Then push once more.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144504619364831",
+      "post_id": "1181533578372151_122144504643364831"
+    },
+    "timestamp": "2026-11-12T21:47:59.559493"
   }
 ]
