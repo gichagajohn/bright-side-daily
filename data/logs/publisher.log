@@ -15529,3 +15529,8 @@ Share this with someone who needs it today! 💛
 2026-11-11 23:56:22,984 [WARNING] Instagram skipped for [morning_motivation]: IG_* or SUPABASE_* secrets are not configured.
 2026-11-11 23:56:22,984 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-11 23:56:22,984 [WARNING] ⚠️  Instagram skipped [morning_motivation]: Instagram credentials not configured.
+2026-11-12 13:32:59,993 [INFO] Failed posts list is empty.
+2026-11-12 13:33:00,174 [INFO] ──────────────────────────────────────────────────
+2026-11-12 13:33:00,174 [INFO] ▶  Running slot: gratitude_moment
+2026-11-12 13:33:00,174 [INFO] ──────────────────────────────────────────────────
+2026-11-12 13:33:00,427 [ERROR] ❌ Content selection failed: 'gratitude_moment'
