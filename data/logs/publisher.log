@@ -15603,3 +15603,19 @@ Share this with someone who needs it today! 💛
 2026-11-12 18:40:23,150 [INFO] ▶  Running slot: night_inspiration
 2026-11-12 18:40:23,150 [INFO] ──────────────────────────────────────────────────
 2026-11-12 18:40:23,358 [ERROR] ❌ Content selection failed: 'night_inspiration'
+2026-11-12 20:43:01,675 [INFO] Failed posts list is empty.
+2026-11-12 20:43:01,833 [INFO] ──────────────────────────────────────────────────
+2026-11-12 20:43:01,833 [INFO] ▶  Running slot: morning_motivation
+2026-11-12 20:43:01,833 [INFO] ──────────────────────────────────────────────────
+2026-11-12 20:43:02,080 [INFO] 📝 Content selected: Build the life that makes Monday mornings exciting....
+2026-11-12 20:43:02,844 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_467.jpg
+2026-11-12 20:43:02,844 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_467.jpg
+2026-11-12 20:43:02,845 [INFO] Caption preview: ☀️ Build the life that makes Monday mornings exciting.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succ...
+2026-11-12 20:43:13,296 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-12 20:43:13,321 [WARNING] Instagram skipped for [morning_motivation]: IG_* or SUPABASE_* secrets are not configured.
+2026-11-12 20:43:13,321 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-12 20:43:13,321 [WARNING] ⚠️  Instagram skipped [morning_motivation]: Instagram credentials not configured.
