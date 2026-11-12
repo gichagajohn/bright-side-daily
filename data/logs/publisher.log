@@ -15534,3 +15534,19 @@ Share this with someone who needs it today! 💛
 2026-11-12 13:33:00,174 [INFO] ▶  Running slot: gratitude_moment
 2026-11-12 13:33:00,174 [INFO] ──────────────────────────────────────────────────
 2026-11-12 13:33:00,427 [ERROR] ❌ Content selection failed: 'gratitude_moment'
+2026-11-12 15:50:16,837 [INFO] Failed posts list is empty.
+2026-11-12 15:50:16,996 [INFO] ──────────────────────────────────────────────────
+2026-11-12 15:50:16,996 [INFO] ▶  Running slot: engagement_question
+2026-11-12 15:50:16,996 [INFO] ──────────────────────────────────────────────────
+2026-11-12 15:50:17,264 [INFO] 📝 Content selected: What has helped you stay hopeful when the world feels heavy?...
+2026-11-12 15:50:17,957 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_290.jpg
+2026-11-12 15:50:17,957 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_290.jpg
+2026-11-12 15:50:17,957 [INFO] Caption preview: 💬 What has helped you stay hopeful when the world feels heavy?
+
+Drop your answer in the comments below 👇
+
+#Community #Sh...
+2026-11-12 15:50:22,733 [INFO] ✅ Posted successfully [engagement_question]
+2026-11-12 15:50:22,757 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
+2026-11-12 15:50:22,757 [INFO] ✅ Facebook published [engagement_question]
+2026-11-12 15:50:22,757 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
