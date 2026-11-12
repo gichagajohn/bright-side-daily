@@ -22773,5 +22773,26 @@
       "post_id": "1181533578372151_122144474619364831"
     },
     "timestamp": "2026-11-12T17:19:58.103543"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your breakthrough is on the other side of your breakdown.",
+      "content_index": 364,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T17:57:34.705023",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your breakthrough is on the other side of your breakdown.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144478945364831",
+      "post_id": "1181533578372151_122144478981364831"
+    },
+    "timestamp": "2026-11-12T17:57:39.609737"
   }
 ]
