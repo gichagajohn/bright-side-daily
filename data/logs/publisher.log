@@ -15650,3 +15650,19 @@ Share this with someone who needs it today! 💛
 2026-11-12 21:56:22,459 [WARNING] Instagram skipped for [morning_motivation]: IG_* or SUPABASE_* secrets are not configured.
 2026-11-12 21:56:22,460 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-12 21:56:22,460 [WARNING] ⚠️  Instagram skipped [morning_motivation]: Instagram credentials not configured.
+2026-11-12 23:04:28,125 [INFO] Failed posts list is empty.
+2026-11-12 23:04:28,294 [INFO] ──────────────────────────────────────────────────
+2026-11-12 23:04:28,294 [INFO] ▶  Running slot: morning_motivation
+2026-11-12 23:04:28,294 [INFO] ──────────────────────────────────────────────────
+2026-11-12 23:04:28,596 [INFO] 📝 Content selected: Make today so amazing that yesterday gets jealous....
+2026-11-12 23:04:29,181 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_29.jpg
+2026-11-12 23:04:29,181 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_29.jpg
+2026-11-12 23:04:29,181 [INFO] Caption preview: ☀️ Make today so amazing that yesterday gets jealous.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Succe...
+2026-11-12 23:04:35,632 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-12 23:04:35,657 [WARNING] Instagram skipped for [morning_motivation]: IG_* or SUPABASE_* secrets are not configured.
+2026-11-12 23:04:35,657 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-12 23:04:35,658 [WARNING] ⚠️  Instagram skipped [morning_motivation]: Instagram credentials not configured.
