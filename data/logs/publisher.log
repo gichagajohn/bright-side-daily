@@ -15598,3 +15598,8 @@ Share this with someone who needs it today! 💛
 2026-11-12 17:57:39,629 [WARNING] Instagram skipped for [morning_motivation]: IG_* or SUPABASE_* secrets are not configured.
 2026-11-12 17:57:39,629 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-12 17:57:39,629 [WARNING] ⚠️  Instagram skipped [morning_motivation]: Instagram credentials not configured.
+2026-11-12 18:40:23,019 [INFO] Failed posts list is empty.
+2026-11-12 18:40:23,150 [INFO] ──────────────────────────────────────────────────
+2026-11-12 18:40:23,150 [INFO] ▶  Running slot: night_inspiration
+2026-11-12 18:40:23,150 [INFO] ──────────────────────────────────────────────────
+2026-11-12 18:40:23,358 [ERROR] ❌ Content selection failed: 'night_inspiration'
