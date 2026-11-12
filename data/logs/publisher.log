@@ -15635,3 +15635,18 @@ Share this with someone who needs it today! 💛
 2026-11-12 21:47:59,576 [WARNING] Instagram skipped for [morning_motivation]: IG_* or SUPABASE_* secrets are not configured.
 2026-11-12 21:47:59,576 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-12 21:47:59,576 [WARNING] ⚠️  Instagram skipped [morning_motivation]: Instagram credentials not configured.
+2026-11-12 21:56:15,864 [INFO] Failed posts list is empty.
+2026-11-12 21:56:16,022 [INFO] ──────────────────────────────────────────────────
+2026-11-12 21:56:16,022 [INFO] ▶  Running slot: morning_motivation
+2026-11-12 21:56:16,022 [INFO] ──────────────────────────────────────────────────
+2026-11-12 21:56:16,266 [INFO] 📝 Content selected: Work while they sleep. Learn while they party. Save while they spend....
+2026-11-12 21:56:17,128 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_680.jpg
+2026-11-12 21:56:17,128 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_680.jpg
+2026-11-12 21:56:17,128 [INFO] Caption preview: ☀️ Work while they sleep. Learn while they party. Save while they spend.
+
+Share this with someone who needs it today! 💛
+...
+2026-11-12 21:56:22,435 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-12 21:56:22,459 [WARNING] Instagram skipped for [morning_motivation]: IG_* or SUPABASE_* secrets are not configured.
+2026-11-12 21:56:22,460 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-12 21:56:22,460 [WARNING] ⚠️  Instagram skipped [morning_motivation]: Instagram credentials not configured.
