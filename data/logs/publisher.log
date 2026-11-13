@@ -15682,3 +15682,19 @@ Share this with someone who needs it today! 💛
 2026-11-13 12:52:45,043 [WARNING] Instagram skipped for [morning_motivation]: IG_* or SUPABASE_* secrets are not configured.
 2026-11-13 12:52:45,043 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-13 12:52:45,043 [WARNING] ⚠️  Instagram skipped [morning_motivation]: Instagram credentials not configured.
+2026-11-13 15:10:16,384 [INFO] Failed posts list is empty.
+2026-11-13 15:10:16,547 [INFO] ──────────────────────────────────────────────────
+2026-11-13 15:10:16,547 [INFO] ▶  Running slot: engagement_question
+2026-11-13 15:10:16,547 [INFO] ──────────────────────────────────────────────────
+2026-11-13 15:10:16,903 [INFO] 📝 Content selected: What's something you know now that you needed to know five years ago?...
+2026-11-13 15:10:17,727 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_353.jpg
+2026-11-13 15:10:17,728 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_353.jpg
+2026-11-13 15:10:17,728 [INFO] Caption preview: 💬 What's something you know now that you needed to know five years ago?
+
+Drop your answer in the comments below 👇
+
+#Comm...
+2026-11-13 15:10:22,732 [INFO] ✅ Posted successfully [engagement_question]
+2026-11-13 15:10:22,757 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
+2026-11-13 15:10:22,757 [INFO] ✅ Facebook published [engagement_question]
+2026-11-13 15:10:22,757 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
