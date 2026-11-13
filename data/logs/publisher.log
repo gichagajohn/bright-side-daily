@@ -15698,3 +15698,19 @@ Drop your answer in the comments below 👇
 2026-11-13 15:10:22,757 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
 2026-11-13 15:10:22,757 [INFO] ✅ Facebook published [engagement_question]
 2026-11-13 15:10:22,757 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
+2026-11-13 15:49:51,411 [INFO] Failed posts list is empty.
+2026-11-13 15:49:51,552 [INFO] ──────────────────────────────────────────────────
+2026-11-13 15:49:51,552 [INFO] ▶  Running slot: engagement_question
+2026-11-13 15:49:51,553 [INFO] ──────────────────────────────────────────────────
+2026-11-13 15:49:51,725 [INFO] 📝 Content selected: What's one fear that's also a sign pointing toward your calling?...
+2026-11-13 15:49:52,747 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_396.jpg
+2026-11-13 15:49:52,748 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_396.jpg
+2026-11-13 15:49:52,748 [INFO] Caption preview: 💬 What's one fear that's also a sign pointing toward your calling?
+
+Drop your answer in the comments below 👇
+
+#Community...
+2026-11-13 15:49:59,552 [INFO] ✅ Posted successfully [engagement_question]
+2026-11-13 15:49:59,572 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
+2026-11-13 15:49:59,573 [INFO] ✅ Facebook published [engagement_question]
+2026-11-13 15:49:59,573 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
