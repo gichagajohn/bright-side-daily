@@ -15714,3 +15714,19 @@ Drop your answer in the comments below 👇
 2026-11-13 15:49:59,572 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
 2026-11-13 15:49:59,573 [INFO] ✅ Facebook published [engagement_question]
 2026-11-13 15:49:59,573 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
+2026-11-13 16:55:28,843 [INFO] Failed posts list is empty.
+2026-11-13 16:55:28,945 [INFO] ──────────────────────────────────────────────────
+2026-11-13 16:55:28,945 [INFO] ▶  Running slot: evening_reflection
+2026-11-13 16:55:28,945 [INFO] ──────────────────────────────────────────────────
+2026-11-13 16:55:29,306 [INFO] 📝 Content selected: Even your hardest chapter has lines in it worth being grateful for....
+2026-11-13 16:55:29,972 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_540.jpg
+2026-11-13 16:55:29,972 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_540.jpg
+2026-11-13 16:55:29,972 [INFO] Caption preview: 🌙 Even your hardest chapter has lines in it worth being grateful for.
+
+Share this with someone who needs it today! 💛
+
+#G...
+2026-11-13 16:55:33,202 [INFO] ✅ Posted successfully [evening_reflection]
+2026-11-13 16:55:33,217 [WARNING] Instagram skipped for [evening_reflection]: IG_* or SUPABASE_* secrets are not configured.
+2026-11-13 16:55:33,217 [INFO] ✅ Facebook published [evening_reflection]
+2026-11-13 16:55:33,217 [WARNING] ⚠️  Instagram skipped [evening_reflection]: Instagram credentials not configured.
