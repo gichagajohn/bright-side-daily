@@ -23067,5 +23067,26 @@
       "post_id": "1181533578372151_122144671881364831"
     },
     "timestamp": "2026-11-13T21:41:02.640856"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "If you can believe it, the mind can achieve it.",
+      "content_index": 201,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T23:07:51.257698",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f If you can believe it, the mind can achieve it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144706783364831",
+      "post_id": "1181533578372151_122144706807364831"
+    },
+    "timestamp": "2026-11-13T23:07:56.311277"
   }
 ]
