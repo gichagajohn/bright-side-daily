@@ -23025,5 +23025,26 @@
       "post_id": "1181533578372151_122144665347364831"
     },
     "timestamp": "2026-11-13T20:42:29.754996"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Success is not a sprint. It is a marathon run with purpose.",
+      "content_index": 455,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T21:21:15.488003",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Success is not a sprint. It is a marathon run with purpose.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144668677364831",
+      "post_id": "1181533578372151_122144668701364831"
+    },
+    "timestamp": "2026-11-13T21:21:19.994832"
   }
 ]
