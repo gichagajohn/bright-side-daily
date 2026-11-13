@@ -22962,5 +22962,26 @@
       "post_id": "1181533578372151_122144639139364831"
     },
     "timestamp": "2026-11-13T16:55:33.205523"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Build so well that no one questions your worth.",
+      "content_index": 521,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T17:33:47.907456",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Build so well that no one questions your worth.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144644203364831",
+      "post_id": "1181533578372151_122144644227364831"
+    },
+    "timestamp": "2026-11-13T17:33:53.185790"
   }
 ]

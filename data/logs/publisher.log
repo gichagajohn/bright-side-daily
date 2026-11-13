@@ -15730,3 +15730,19 @@ Share this with someone who needs it today! 💛
 2026-11-13 16:55:33,217 [WARNING] Instagram skipped for [evening_reflection]: IG_* or SUPABASE_* secrets are not configured.
 2026-11-13 16:55:33,217 [INFO] ✅ Facebook published [evening_reflection]
 2026-11-13 16:55:33,217 [WARNING] ⚠️  Instagram skipped [evening_reflection]: Instagram credentials not configured.
+2026-11-13 17:33:47,611 [INFO] Failed posts list is empty.
+2026-11-13 17:33:47,731 [INFO] ──────────────────────────────────────────────────
+2026-11-13 17:33:47,731 [INFO] ▶  Running slot: morning_motivation
+2026-11-13 17:33:47,731 [INFO] ──────────────────────────────────────────────────
+2026-11-13 17:33:47,907 [INFO] 📝 Content selected: Build so well that no one questions your worth....
+2026-11-13 17:33:48,904 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_521.jpg
+2026-11-13 17:33:48,904 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_521.jpg
+2026-11-13 17:33:48,904 [INFO] Caption preview: ☀️ Build so well that no one questions your worth.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success ...
+2026-11-13 17:33:53,182 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-13 17:33:53,199 [WARNING] Instagram skipped for [morning_motivation]: IG_* or SUPABASE_* secrets are not configured.
+2026-11-13 17:33:53,200 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-13 17:33:53,200 [WARNING] ⚠️  Instagram skipped [morning_motivation]: Instagram credentials not configured.
