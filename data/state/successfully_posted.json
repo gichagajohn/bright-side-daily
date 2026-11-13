@@ -22983,5 +22983,26 @@
       "post_id": "1181533578372151_122144644227364831"
     },
     "timestamp": "2026-11-13T17:33:53.185790"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "If it scares you, it might be a good thing to try.",
+      "content_index": 259,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T20:24:48.373945",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f If it scares you, it might be a good thing to try.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144663301364831",
+      "post_id": "1181533578372151_122144663331364831"
+    },
+    "timestamp": "2026-11-13T20:24:55.350057"
   }
 ]
