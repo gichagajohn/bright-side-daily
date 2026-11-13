@@ -15767,3 +15767,19 @@ Share this with someone who needs it today! 💛
 2026-11-13 20:24:55,369 [WARNING] Instagram skipped for [morning_motivation]: IG_* or SUPABASE_* secrets are not configured.
 2026-11-13 20:24:55,369 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-13 20:24:55,369 [WARNING] ⚠️  Instagram skipped [morning_motivation]: Instagram credentials not configured.
+2026-11-13 20:42:23,697 [INFO] Failed posts list is empty.
+2026-11-13 20:42:23,829 [INFO] ──────────────────────────────────────────────────
+2026-11-13 20:42:23,829 [INFO] ▶  Running slot: morning_motivation
+2026-11-13 20:42:23,829 [INFO] ──────────────────────────────────────────────────
+2026-11-13 20:42:24,074 [INFO] 📝 Content selected: Everything counts. Everything matters....
+2026-11-13 20:42:24,473 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_377.jpg
+2026-11-13 20:42:24,473 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_377.jpg
+2026-11-13 20:42:24,473 [INFO] Caption preview: ☀️ Everything counts. Everything matters.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetM...
+2026-11-13 20:42:29,751 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-13 20:42:29,771 [WARNING] Instagram skipped for [morning_motivation]: IG_* or SUPABASE_* secrets are not configured.
+2026-11-13 20:42:29,771 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-13 20:42:29,771 [WARNING] ⚠️  Instagram skipped [morning_motivation]: Instagram credentials not configured.

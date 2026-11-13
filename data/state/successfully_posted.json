@@ -23004,5 +23004,26 @@
       "post_id": "1181533578372151_122144663331364831"
     },
     "timestamp": "2026-11-13T20:24:55.350057"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Everything counts. Everything matters.",
+      "content_index": 377,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T20:42:24.074646",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Everything counts. Everything matters.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144665293364831",
+      "post_id": "1181533578372151_122144665347364831"
+    },
+    "timestamp": "2026-11-13T20:42:29.754996"
   }
 ]
