@@ -22878,5 +22878,26 @@
       "post_id": "1181533578372151_122144516163364831"
     },
     "timestamp": "2026-11-12T23:04:35.637846"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You don't need permission to be great.",
+      "content_index": 555,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T12:52:38.380795",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You don't need permission to be great.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144605149364831",
+      "post_id": "1181533578372151_122144605173364831"
+    },
+    "timestamp": "2026-11-13T12:52:45.027405"
   }
 ]
