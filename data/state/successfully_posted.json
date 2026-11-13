@@ -23046,5 +23046,26 @@
       "post_id": "1181533578372151_122144668701364831"
     },
     "timestamp": "2026-11-13T21:21:19.994832"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The world is waiting for the version of you that doesn't quit.",
+      "content_index": 594,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T21:40:57.575318",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The world is waiting for the version of you that doesn't quit.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144671857364831",
+      "post_id": "1181533578372151_122144671881364831"
+    },
+    "timestamp": "2026-11-13T21:41:02.640856"
   }
 ]
