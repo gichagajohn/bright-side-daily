@@ -1,17 +1,28 @@
 """
 Instagram Publisher — Bright Side Daily
 
-Publishes single-image feed posts to an Instagram Business / Creator
-account through the Instagram Graph API.
+Publishes single-image feed posts to an Instagram Business / Creator account.
 
-Flow (Instagram requires two steps):
+Two login modes are supported, chosen with IG_LOGIN_MODE:
+
+  facebook  (default)
+      Instagram Graph API via a linked Facebook Page.
+      Host: graph.facebook.com
+      Needs: IG_USER_ID + IG_ACCESS_TOKEN (Page token)
+      Scopes: instagram_basic, instagram_content_publish
+
+  instagram
+      Instagram API with Instagram Login. NO Facebook Page required.
+      Host: graph.instagram.com
+      Needs: IG_ACCESS_TOKEN only (the token identifies the account)
+      Scopes: instagram_business_basic, instagram_business_content_publish
+
+Both modes use the same two-step publish flow:
     1. Create a media container from a public image URL.
     2. Publish the container.
 
-Required environment variables:
-    IG_USER_ID            Instagram Business account ID
-    IG_ACCESS_TOKEN       Long-lived token with
-                          instagram_basic + instagram_content_publish
+Other environment variables:
+    IG_API_VERSION        Graph API version, default v23.0
     SUPABASE_*            used to host the image publicly
 """
 
@@ -38,7 +49,24 @@ logging.basicConfig(
 )
 log = logging.getLogger("instagram")
 
-GRAPH_API_BASE = "https://graph.facebook.com/v19.0"
+
+def _clean(value):
+    """Strip whitespace and stray line breaks from a secret value."""
+
+    if not value:
+        return ""
+
+    return (
+        value.strip()
+        .strip("\u00a0")
+        .replace("\r", "")
+        .replace("\n", "")
+        .strip()
+    )
+
+FACEBOOK_HOST = "https://graph.facebook.com"
+INSTAGRAM_HOST = "https://graph.instagram.com"
+
 MAX_RETRIES = 3
 RETRY_DELAY = 20
 CONTAINER_POLL_INTERVAL = 5
@@ -47,14 +75,33 @@ CONTAINER_POLL_ATTEMPTS = 12
 
 class InstagramPublisher:
     def __init__(self):
-        self.user_id = os.environ.get("IG_USER_ID", "")
-        self.token = os.environ.get("IG_ACCESS_TOKEN", "")
+        self.mode = (os.environ.get("IG_LOGIN_MODE") or "facebook").strip().lower()
+        self.version = os.environ.get("IG_API_VERSION", "v23.0").strip() or "v23.0"
+        self.token = _clean(os.environ.get("IG_ACCESS_TOKEN", ""))
         self.dry_run = os.environ.get("DRY_RUN", "false").lower() == "true"
 
-        if not self.dry_run and (not self.user_id or not self.token):
-            raise EnvironmentError(
-                "Missing IG_USER_ID or IG_ACCESS_TOKEN environment variables."
+        self.user_id = _clean(os.environ.get("IG_USER_ID", ""))
+
+        if self.mode == "instagram":
+            # Instagram Login tokens identify the account, so /me is enough.
+            self.base_url = f"{INSTAGRAM_HOST}/{self.version}/me"
+        else:
+            self.mode = "facebook"
+            self.base_url = (
+                f"{FACEBOOK_HOST}/{self.version}/{self.user_id}"
             )
+
+        if not self.dry_run:
+            if not self.token:
+                raise EnvironmentError(
+                    "Missing IG_ACCESS_TOKEN environment variable."
+                )
+
+            if self.mode == "facebook" and not self.user_id:
+                raise EnvironmentError(
+                    "Missing IG_USER_ID environment variable "
+                    "(required for IG_LOGIN_MODE=facebook)."
+                )
 
     # ── Caption ───────────────────────────────────────────────────────────────
 
@@ -108,7 +155,7 @@ class InstagramPublisher:
 
     def _create_container(self, image_url, caption):
         response = requests.post(
-            f"{GRAPH_API_BASE}/{self.user_id}/media",
+            f"{self.base_url}/media",
             data={
                 "image_url": image_url,
                 "caption": caption,
@@ -133,7 +180,7 @@ class InstagramPublisher:
 
         for attempt in range(CONTAINER_POLL_ATTEMPTS):
             response = requests.get(
-                f"{GRAPH_API_BASE}/{container_id}",
+                f"{FACEBOOK_HOST}/{self.version}/{container_id}",
                 params={
                     "fields": "status_code",
                     "access_token": self.token,
@@ -168,7 +215,7 @@ class InstagramPublisher:
 
     def _publish_container(self, container_id):
         response = requests.post(
-            f"{GRAPH_API_BASE}/{self.user_id}/media_publish",
+            f"{self.base_url}/media_publish",
             data={
                 "creation_id": container_id,
                 "access_token": self.token,
@@ -289,6 +336,42 @@ class InstagramPublisher:
             # The public object is only needed while Instagram fetches it.
             if storage and public_url:
                 storage.delete(public_url)
+
+    # ── Token maintenance ─────────────────────────────────────────────────────
+
+    @staticmethod
+    def refresh_long_lived_token(token=None, version=None):
+        """
+        Exchange an Instagram Login token for a fresh 60-day token.
+
+        Only valid for IG_LOGIN_MODE=instagram.
+        Returns {"access_token": ..., "expires_in": seconds}.
+        """
+
+        token = token or os.environ.get("IG_ACCESS_TOKEN", "")
+        version = version or os.environ.get("IG_API_VERSION", "v23.0")
+
+        if not token:
+            raise EnvironmentError("IG_ACCESS_TOKEN is not set")
+
+        response = requests.get(
+            f"{INSTAGRAM_HOST}/refresh_access_token",
+            params={
+                "grant_type": "ig_refresh_token",
+                "access_token": token,
+            },
+            timeout=30,
+        )
+
+        payload = response.json()
+
+        if response.status_code != 200 or "access_token" not in payload:
+            raise RuntimeError(
+                f"Token refresh failed ({response.status_code}): "
+                f"{response.text[:300]}"
+            )
+
+        return payload
 
     # ── Logging ───────────────────────────────────────────────────────────────
 

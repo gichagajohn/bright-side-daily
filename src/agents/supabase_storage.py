@@ -26,16 +26,51 @@ logging.basicConfig(
 log = logging.getLogger("supabase_storage")
 
 
+def _clean(value):
+    """Strip surrounding whitespace and any invisible line-break characters."""
+
+    if not value:
+        return ""
+
+    return (
+        value.strip()
+        .strip("\u00a0")
+        .replace("\r", "")
+        .replace("\n", "")
+        .strip()
+    )
+
+
 class SupabaseStorage:
     def __init__(self):
-        self.url = os.environ.get("SUPABASE_URL", "").rstrip("/")
-        self.key = os.environ.get("SUPABASE_SERVICE_KEY", "")
-        self.bucket = os.environ.get("SUPABASE_BUCKET", "social-images")
+        # Secrets are frequently pasted with a trailing newline or space.
+        # HTTP headers reject those, so normalise everything up front.
+        self.url = _clean(os.environ.get("SUPABASE_URL", "")).rstrip("/")
+        self.key = _clean(os.environ.get("SUPABASE_SERVICE_KEY", ""))
+        self.bucket = _clean(os.environ.get("SUPABASE_BUCKET", "")) or "social-images"
 
         if not self.url or not self.key:
             raise EnvironmentError(
                 "SUPABASE_URL and SUPABASE_SERVICE_KEY must be set "
                 "to publish images to Instagram."
+            )
+
+        if not self.url.startswith("https://"):
+            raise EnvironmentError(
+                f"SUPABASE_URL must start with https:// (got {len(self.url)} chars)"
+            )
+
+        if not self.key.startswith("eyJ") and not self.key.startswith("sb_"):
+            raise EnvironmentError(
+                "SUPABASE_SERVICE_KEY does not look like a Supabase key. "
+                "Expected it to start with 'eyJ' (legacy JWT) or 'sb_' (new key). "
+                f"Got {len(self.key)} chars starting with "
+                f"{self.key[:3]!r}."
+            )
+
+        if any(ch.isspace() for ch in self.key):
+            raise EnvironmentError(
+                "SUPABASE_SERVICE_KEY still contains whitespace after cleaning."
             )
 
     # ── Upload ────────────────────────────────────────────────────────────────
