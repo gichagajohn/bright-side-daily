@@ -104,6 +104,7 @@ class FacebookPublisher:
             "self_improvement_quotes": "#PersonalGrowth #SelfImprovement #BetterEveryDay #GrowthMindset #Habits",
             "gratitude_quotes": "#Gratitude #Thankful #CountYourBlessings #GratefulHeart #Blessed",
             "encouragement_quotes": "#YouGotThis #KeepGoing #NeverGiveUp #StayStrong #Encouragement",
+            "relatable_quotes": "#Relatable #TooReal #ThatsSoMe #DailyLaughs #HonestlyMe",
             "meme_captions": "#RelatableLife #Funny #MondayMood #TooReal #WeekdayVibes",
             "engagement_questions": "#Community #ShareYourThoughts #QuestionOfTheDay #ChatWithUs #BrightSideFamily",
         }
@@ -117,10 +118,10 @@ class FacebookPublisher:
                 f"Drop your answer in the comments below 👇\n\n"
                 f"{hashtags} #BrightSideDaily"
             )
-        elif category == "meme_captions":
+        elif category in {"relatable_quotes", "meme_captions"}:
             caption = (
-                f"{emoji} {content}\n\n"
-                f"Tag someone who can relate! 😂\n\n"
+                f"{content}\n\n"
+                f"Send this to the person it describes exactly 😂\n\n"
                 f"{hashtags} #BrightSideDaily"
             )
         else:
