@@ -1,1204 +1,47 @@
 {
+  "translation": "King James Version",
+  "source": "KJV public domain text, text extracted programmatically",
+  "total": 457,
   "items": [
-    {
-      "reference": "Psalms 1:1",
-      "text": "Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 1:2",
-      "text": "But his delight is in the law of the LORD; and in his law doth he meditate day and night.",
-      "themes": [
-        "general"
-      ]
-    },
     {
       "reference": "Psalms 1:3",
       "text": "And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.",
       "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 1:4",
-      "text": "The ungodly are not so: but are like the chaff which the wind driveth away.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 1:5",
-      "text": "Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 1:6",
-      "text": "For the LORD knoweth the way of the righteous: but the way of the ungodly shall perish.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 2:1",
-      "text": "Why do the heathen rage, and the people imagine a vain thing?",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 2:2",
-      "text": "The kings of the earth set themselves, and the rulers take counsel together, against the LORD, and against his anointed, saying,",
-      "themes": [
-        "general",
-        "leadership"
-      ]
-    },
-    {
-      "reference": "Psalms 2:3",
-      "text": "Let us break their bands asunder, and cast away their cords from us.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 2:4",
-      "text": "He that sitteth in the heavens shall laugh: the LORD shall have them in derision.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 2:5",
-      "text": "Then shall he speak unto them in his wrath, and vex them in his sore displeasure.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 2:6",
-      "text": "Yet have I set my king upon my holy hill of Zion.",
-      "themes": [
-        "general",
-        "leadership"
-      ]
-    },
-    {
-      "reference": "Psalms 2:7",
-      "text": "I will declare the decree: the LORD hath said unto me, Thou art my Son; this day have I begotten thee.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 2:8",
-      "text": "Ask of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 2:9",
-      "text": "Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter’s vessel.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 2:10",
-      "text": "Be wise now therefore, O ye kings: be instructed, ye judges of the earth.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 2:11",
-      "text": "Serve the LORD with fear, and rejoice with trembling.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 2:12",
-      "text": "Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 3:1",
-      "text": "Lord, how are they increased that trouble me! many are they that rise up against me.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 3:2",
-      "text": "Many there be which say of my soul, There is no help for him in God. Selah.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 3:3",
-      "text": "But thou, O LORD, art a shield for me; my glory, and the lifter up of mine head.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 3:4",
-      "text": "I cried unto the LORD with my voice, and he heard me out of his holy hill. Selah.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 3:5",
-      "text": "I laid me down and slept; I awaked; for the LORD sustained me.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 3:6",
-      "text": "I will not be afraid of ten thousands of people, that have set themselves against me round about.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 3:7",
-      "text": "Arise, O LORD; save me, O my God: for thou hast smitten all mine enemies upon the cheek bone; thou hast broken the teeth of the ungodly.",
-      "themes": [
-        "general",
-        "grief"
-      ]
-    },
-    {
-      "reference": "Psalms 3:8",
-      "text": "Salvation belongeth unto the LORD: thy blessing is upon thy people. Selah.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 4:1",
-      "text": "Hear me when I call, O God of my righteousness: thou hast enlarged me when I was in distress; have mercy upon me, and hear my prayer.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 4:2",
-      "text": "O ye sons of men, how long will ye turn my glory into shame? how long will ye love vanity, and seek after leasing? Selah.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 4:3",
-      "text": "But know that the LORD hath set apart him that is godly for himself: the LORD will hear when I call unto him.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 4:4",
-      "text": "Stand in awe, and sin not: commune with your own heart upon your bed, and be still. Selah.",
-      "themes": [
-        "peace",
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 4:5",
-      "text": "Offer the sacrifices of righteousness, and put your trust in the LORD.",
-      "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 4:6",
-      "text": "There be many that say, Who will shew us any good? LORD, lift thou up the light of thy countenance upon us.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 4:7",
-      "text": "Thou hast put gladness in my heart, more than in the time that their corn and their wine increased.",
-      "themes": [
-        "general",
-        "hope"
+        "purpose",
+        "wisdom"
       ]
     },
     {
       "reference": "Psalms 4:8",
       "text": "I will both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety.",
       "themes": [
-        "peace",
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 5:1",
-      "text": "Give ear to my words, O LORD, consider my meditation.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 5:2",
-      "text": "Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray.",
-      "themes": [
+        "comfort",
         "general",
-        "faith"
+        "peace"
       ]
     },
     {
       "reference": "Psalms 5:3",
       "text": "My voice shalt thou hear in the morning, O LORD; in the morning will I direct my prayer unto thee, and will look up.",
       "themes": [
-        "general",
-        "faith"
-      ]
-    },
-    {
-      "reference": "Psalms 5:4",
-      "text": "For thou art not a God that hath pleasure in wickedness: neither shall evil dwell with thee.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 5:5",
-      "text": "The foolish shall not stand in thy sight: thou hatest all workers of iniquity.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 5:6",
-      "text": "Thou shalt destroy them that speak leasing: the LORD will abhor the bloody and deceitful man.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 5:7",
-      "text": "But as for me, I will come into thy house in the multitude of thy mercy: and in thy fear will I worship toward thy holy temple.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 5:8",
-      "text": "Lead me, O LORD, in thy righteousness because of mine enemies; make thy way straight before my face.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 5:9",
-      "text": "For there is no faithfulness in their mouth; their inward part is very wickedness; their throat is an open sepulchre; they flatter with their tongue.",
-      "themes": [
-        "general",
-        "faith"
-      ]
-    },
-    {
-      "reference": "Psalms 5:10",
-      "text": "Destroy thou them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against thee.",
-      "themes": [
-        "general",
-        "wisdom"
-      ]
-    },
-    {
-      "reference": "Psalms 5:11",
-      "text": "But let all those that put their trust in thee rejoice: let them ever shout for joy, because thou defendest them: let them also that love thy name be joyful in thee.",
-      "themes": [
-        "general",
+        "faith",
         "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 5:12",
-      "text": "For thou, LORD, wilt bless the righteous; with favour wilt thou compass him as with a shield.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 6:1",
-      "text": "O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 6:2",
-      "text": "Have mercy upon me, O LORD; for I am weak: O LORD, heal me; for my bones are vexed.",
-      "themes": [
-        "general",
-        "grief"
-      ]
-    },
-    {
-      "reference": "Psalms 6:3",
-      "text": "My soul is also sore vexed: but thou, O LORD, how long?",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 6:4",
-      "text": "Return, O LORD, deliver my soul: oh save me for thy mercies’ sake.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 6:5",
-      "text": "For in death there is no remembrance of thee: in the grave who shall give thee thanks?",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 6:6",
-      "text": "I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 6:7",
-      "text": "Mine eye is consumed because of grief; it waxeth old because of all mine enemies.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 6:8",
-      "text": "Depart from me, all ye workers of iniquity; for the LORD hath heard the voice of my weeping.",
-      "themes": [
-        "general",
-        "grief"
-      ]
-    },
-    {
-      "reference": "Psalms 6:9",
-      "text": "The LORD hath heard my supplication; the LORD will receive my prayer.",
-      "themes": [
-        "general",
-        "faith"
-      ]
-    },
-    {
-      "reference": "Psalms 6:10",
-      "text": "Let all mine enemies be ashamed and sore vexed: let them return and be ashamed suddenly.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 7:1",
-      "text": "O LORD my God, in thee do I put my trust: save me from all them that persecute me, and deliver me:",
-      "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 7:2",
-      "text": "Lest he tear my soul like a lion, rending it in pieces, while there is none to deliver.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 7:3",
-      "text": "O LORD my God, if I have done this; if there be iniquity in my hands;",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 7:4",
-      "text": "If I have rewarded evil unto him that was at peace with me; (yea, I have delivered him that without cause is mine enemy:)",
-      "themes": [
-        "peace",
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 7:5",
-      "text": "Let the enemy persecute my soul, and take it; yea, let him tread down my life upon the earth, and lay mine honour in the dust. Selah.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 7:6",
-      "text": "Arise, O LORD, in thine anger, lift up thyself because of the rage of mine enemies: and awake for me to the judgment that thou hast commanded.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 7:7",
-      "text": "So shall the congregation of the people compass thee about: for their sakes therefore return thou on high.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 7:8",
-      "text": "The LORD shall judge the people: judge me, O LORD, according to my righteousness, and according to mine integrity that is in me.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 7:9",
-      "text": "Oh let the wickedness of the wicked come to an end; but establish the just: for the righteous God trieth the hearts and reins.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 7:10",
-      "text": "My defence is of God, which saveth the upright in heart.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 7:11",
-      "text": "God judgeth the righteous, and God is angry with the wicked every day.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 7:12",
-      "text": "If he turn not, he will whet his sword; he hath bent his bow, and made it ready.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 7:13",
-      "text": "He hath also prepared for him the instruments of death; he ordaineth his arrows against the persecutors.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 7:14",
-      "text": "Behold, he travaileth with iniquity, and hath conceived mischief, and brought forth falsehood.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 7:15",
-      "text": "He made a pit, and digged it, and is fallen into the ditch which he made.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 7:16",
-      "text": "His mischief shall return upon his own head, and his violent dealing shall come down upon his own pate.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 7:17",
-      "text": "I will praise the LORD according to his righteousness: and will sing praise to the name of the LORD most high.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 8:1",
-      "text": "O LORD, our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 8:2",
-      "text": "Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.",
-      "themes": [
-        "peace",
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 8:3",
-      "text": "When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 8:4",
-      "text": "What is man, that thou art mindful of him? and the son of man, that thou visitest him?",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 8:5",
-      "text": "For thou hast made him a little lower than the angels, and hast crowned him with glory and honour.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 8:6",
-      "text": "Thou madest him to have dominion over the works of thy hands; thou hast put all things under his feet:",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 8:7",
-      "text": "All sheep and oxen, yea, and the beasts of the field;",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 8:8",
-      "text": "The fowl of the air, and the fish of the sea, and whatsoever passeth through the paths of the seas.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 8:9",
-      "text": "O LORD our Lord, how excellent is thy name in all the earth!",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 9:1",
-      "text": "I will praise thee, O LORD, with my whole heart; I will shew forth all thy marvellous works.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 9:2",
-      "text": "I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.",
-      "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 9:3",
-      "text": "When mine enemies are turned back, they shall fall and perish at thy presence.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 9:4",
-      "text": "For thou hast maintained my right and my cause; thou satest in the throne judging right.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 9:5",
-      "text": "Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 9:6",
-      "text": "O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 9:7",
-      "text": "But the LORD shall endure for ever: he hath prepared his throne for judgment.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 9:8",
-      "text": "And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness.",
-      "themes": [
-        "general",
-        "justice"
       ]
     },
     {
       "reference": "Psalms 9:9",
       "text": "The LORD also will be a refuge for the oppressed, a refuge in times of trouble.",
       "themes": [
-        "general",
-        "fear"
+        "comfort",
+        "fear",
+        "hope"
       ]
     },
     {
       "reference": "Psalms 9:10",
       "text": "And they that know thy name will put their trust in thee: for thou, LORD, hast not forsaken them that seek thee.",
       "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 9:11",
-      "text": "Sing praises to the LORD, which dwelleth in Zion: declare among the people his doings.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 9:12",
-      "text": "When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 9:13",
-      "text": "Have mercy upon me, O LORD; consider my trouble which I suffer of them that hate me, thou that liftest me up from the gates of death:",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 9:14",
-      "text": "That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 9:15",
-      "text": "The heathen are sunk down in the pit that they made: in the net which they hid is their own foot taken.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 9:16",
-      "text": "The LORD is known by the judgment which he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 9:18",
-      "text": "For the needy shall not alway be forgotten: the expectation of the poor shall not perish for ever.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 9:19",
-      "text": "Arise, O LORD; let not man prevail: let the heathen be judged in thy sight.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 9:20",
-      "text": "Put them in fear, O LORD: that the nations may know themselves to be but men. Selah.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 10:1",
-      "text": "Why standest thou afar off, O LORD? why hidest thou thyself in times of trouble?",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 10:2",
-      "text": "The wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 10:3",
-      "text": "For the wicked boasteth of his heart’s desire, and blesseth the covetous, whom the LORD abhorreth.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 10:4",
-      "text": "The wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 10:5",
-      "text": "His ways are always grievous; thy judgments are far above out of his sight: as for all his enemies, he puffeth at them.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 10:6",
-      "text": "He hath said in his heart, I shall not be moved: for I shall never be in adversity.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 10:7",
-      "text": "His mouth is full of cursing and deceit and fraud: under his tongue is mischief and vanity.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 10:9",
-      "text": "He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net.",
-      "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 10:10",
-      "text": "He croucheth, and humbleth himself, that the poor may fall by his strong ones.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 10:11",
-      "text": "He hath said in his heart, God hath forgotten: he hideth his face; he will never see it.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 10:12",
-      "text": "Arise, O LORD; O God, lift up thine hand: forget not the humble.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 10:13",
-      "text": "Wherefore doth the wicked contemn God? he hath said in his heart, Thou wilt not require it.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 10:14",
-      "text": "Thou hast seen it; for thou beholdest mischief and spite, to requite it with thy hand: the poor committeth himself unto thee; thou art the helper of the fatherless.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 10:15",
-      "text": "Break thou the arm of the wicked and the evil man: seek out his wickedness till thou find none.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 10:16",
-      "text": "The LORD is King for ever and ever: the heathen are perished out of his land.",
-      "themes": [
-        "general",
-        "leadership"
-      ]
-    },
-    {
-      "reference": "Psalms 10:17",
-      "text": "LORD, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 10:18",
-      "text": "To judge the fatherless and the oppressed, that the man of the earth may no more oppress.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 11:1",
-      "text": "In the LORD put I my trust: how say ye to my soul, Flee as a bird to your mountain?",
-      "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 11:2",
-      "text": "For, lo, the wicked bend their bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 11:3",
-      "text": "If the foundations be destroyed, what can the righteous do?",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 11:4",
-      "text": "The LORD is in his holy temple, the LORD’s throne is in heaven: his eyes behold, his eyelids try, the children of men.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 11:5",
-      "text": "The LORD trieth the righteous: but the wicked and him that loveth violence his soul hateth.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 11:6",
-      "text": "Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: this shall be the portion of their cup.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 11:7",
-      "text": "For the righteous LORD loveth righteousness; his countenance doth behold the upright.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 12:1",
-      "text": "Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 12:2",
-      "text": "They speak vanity every one with his neighbour: with flattering lips and with a double heart do they speak.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 12:3",
-      "text": "The LORD shall cut off all flattering lips, and the tongue that speaketh proud things:",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 12:4",
-      "text": "Who have said, With our tongue will we prevail; our lips are our own: who is lord over us?",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 12:5",
-      "text": "For the oppression of the poor, for the sighing of the needy, now will I arise, saith the LORD; I will set him in safety from him that puffeth at him.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 12:6",
-      "text": "The words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 12:7",
-      "text": "Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 12:8",
-      "text": "The wicked walk on every side, when the vilest men are exalted.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 13:1",
-      "text": "How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 13:2",
-      "text": "How long shall I take counsel in my soul, having sorrow in my heart daily? how long shall mine enemy be exalted over me?",
-      "themes": [
-        "general",
-        "grief"
-      ]
-    },
-    {
-      "reference": "Psalms 13:3",
-      "text": "Consider and hear me, O LORD my God: lighten mine eyes, lest I sleep the sleep of death;",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 13:4",
-      "text": "Lest mine enemy say, I have prevailed against him; and those that trouble me rejoice when I am moved.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 13:5",
-      "text": "But I have trusted in thy mercy; my heart shall rejoice in thy salvation.",
-      "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 13:6",
-      "text": "I will sing unto the LORD, because he hath dealt bountifully with me.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 14:1",
-      "text": "The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 14:2",
-      "text": "The LORD looked down from heaven upon the children of men, to see if there were any that did understand, and seek God.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 14:3",
-      "text": "They are all gone aside, they are all together become filthy: there is none that doeth good, no, not one.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 14:4",
-      "text": "Have all the workers of iniquity no knowledge? who eat up my people as they eat bread, and call not upon the LORD.",
-      "themes": [
-        "general",
-        "wisdom"
-      ]
-    },
-    {
-      "reference": "Psalms 14:5",
-      "text": "There were they in great fear: for God is in the generation of the righteous.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 14:6",
-      "text": "Ye have shamed the counsel of the poor, because the LORD is his refuge.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 14:7",
-      "text": "Oh that the salvation of Israel were come out of Zion! when the LORD bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad.",
-      "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 15:1",
-      "text": "Lord, who shall abide in thy tabernacle? who shall dwell in thy holy hill?",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 15:2",
-      "text": "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 15:3",
-      "text": "He that backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 15:4",
-      "text": "In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. He that sweareth to his own hurt, and changeth not.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 15:5",
-      "text": "He that putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these things shall never be moved.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 16:1",
-      "text": "Preserve me, O God: for in thee do I put my trust.",
-      "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 16:2",
-      "text": "O my soul, thou hast said unto the LORD, Thou art my Lord: my goodness extendeth not to thee;",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 16:3",
-      "text": "But to the saints that are in the earth, and to the excellent, in whom is all my delight.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 16:4",
-      "text": "Their sorrows shall be multiplied that hasten after another god: their drink offerings of blood will I not offer, nor take up their names into my lips.",
-      "themes": [
-        "general",
-        "grief"
-      ]
-    },
-    {
-      "reference": "Psalms 16:5",
-      "text": "The LORD is the portion of mine inheritance and of my cup: thou maintainest my lot.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 16:6",
-      "text": "The lines are fallen unto me in pleasant places; yea, I have a goodly heritage.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 16:7",
-      "text": "I will bless the LORD, who hath given me counsel: my reins also instruct me in the night seasons.",
-      "themes": [
-        "general",
-        "wisdom"
-      ]
-    },
-    {
-      "reference": "Psalms 16:8",
-      "text": "I have set the LORD always before me: because he is at my right hand, I shall not be moved.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 16:9",
-      "text": "Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope.",
-      "themes": [
-        "general",
+        "faith",
         "hope"
       ]
     },
@@ -1206,1530 +49,3675 @@
       "reference": "Psalms 16:11",
       "text": "Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore.",
       "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 17:1",
-      "text": "Hear the right, O LORD, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips.",
-      "themes": [
-        "general",
-        "faith"
-      ]
-    },
-    {
-      "reference": "Psalms 17:2",
-      "text": "Let my sentence come forth from thy presence; let thine eyes behold the things that are equal.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 17:3",
-      "text": "Thou hast proved mine heart; thou hast visited me in the night; thou hast tried me, and shalt find nothing; I am purposed that my mouth shall not transgress.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 17:4",
-      "text": "Concerning the works of men, by the word of thy lips I have kept me from the paths of the destroyer.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 17:5",
-      "text": "Hold up my goings in thy paths, that my footsteps slip not.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 17:6",
-      "text": "I have called upon thee, for thou wilt hear me, O God: incline thine ear unto me, and hear my speech.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 17:7",
-      "text": "Shew thy marvellous lovingkindness, O thou that savest by thy right hand them which put their trust in thee from those that rise up against them.",
-      "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 17:8",
-      "text": "Keep me as the apple of the eye, hide me under the shadow of thy wings,",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 17:9",
-      "text": "From the wicked that oppress me, from my deadly enemies, who compass me about.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 17:10",
-      "text": "They are inclosed in their own fat: with their mouth they speak proudly.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 17:11",
-      "text": "They have now compassed us in our steps: they have set their eyes bowing down to the earth;",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 17:12",
-      "text": "Like as a lion that is greedy of his prey, and as it were a young lion lurking in secret places.",
-      "themes": [
-        "general",
-        "leadership"
-      ]
-    },
-    {
-      "reference": "Psalms 17:13",
-      "text": "Arise, O LORD, disappoint him, cast him down: deliver my soul from the wicked, which is thy sword:",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 17:14",
-      "text": "From men which are thy hand, O LORD, from men of the world, which have their portion in this life, and whose belly thou fillest with thy hid treasure: they are full of children, and leave the rest of their substance to their babes.",
-      "themes": [
-        "peace",
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 17:15",
-      "text": "As for me, I will behold thy face in righteousness: I shall be satisfied, when I awake, with thy likeness.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 18:1",
-      "text": "I will love thee, O LORD, my strength.",
-      "themes": [
-        "general",
-        "fear"
+        "hope",
+        "joy"
       ]
     },
     {
       "reference": "Psalms 18:2",
       "text": "The LORD is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower.",
       "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 18:3",
-      "text": "I will call upon the LORD, who is worthy to be praised: so shall I be saved from mine enemies.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 18:4",
-      "text": "The sorrows of death compassed me, and the floods of ungodly men made me afraid.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 18:6",
-      "text": "In my distress I called upon the LORD, and cried unto my God: he heard my voice out of his temple, and my cry came before him, even into his ears.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:7",
-      "text": "Then the earth shook and trembled; the foundations also of the hills moved and were shaken, because he was wroth.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:8",
-      "text": "There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:9",
-      "text": "He bowed the heavens also, and came down: and darkness was under his feet.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:10",
-      "text": "And he rode upon a cherub, and did fly: yea, he did fly upon the wings of the wind.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:11",
-      "text": "He made darkness his secret place; his pavilion round about him were dark waters and thick clouds of the skies.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:12",
-      "text": "At the brightness that was before him his thick clouds passed, hail stones and coals of fire.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:13",
-      "text": "The LORD also thundered in the heavens, and the Highest gave his voice; hail stones and coals of fire.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:14",
-      "text": "Yea, he sent out his arrows, and scattered them; and he shot out lightnings, and discomfited them.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:15",
-      "text": "Then the channels of waters were seen, and the foundations of the world were discovered at thy rebuke, O LORD, at the blast of the breath of thy nostrils.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:16",
-      "text": "He sent from above, he took me, he drew me out of many waters.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:17",
-      "text": "He delivered me from my strong enemy, and from them which hated me: for they were too strong for me.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 18:18",
-      "text": "They prevented me in the day of my calamity: but the LORD was my stay.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:19",
-      "text": "He brought me forth also into a large place; he delivered me, because he delighted in me.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 18:20",
-      "text": "The LORD rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 18:21",
-      "text": "For I have kept the ways of the LORD, and have not wickedly departed from my God.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:22",
-      "text": "For all his judgments were before me, and I did not put away his statutes from me.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 18:23",
-      "text": "I was also upright before him, and I kept myself from mine iniquity.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:24",
-      "text": "Therefore hath the LORD recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 18:25",
-      "text": "With the merciful thou wilt shew thyself merciful; with an upright man thou wilt shew thyself upright;",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:26",
-      "text": "With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself froward.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:27",
-      "text": "For thou wilt save the afflicted people; but wilt bring down high looks.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:28",
-      "text": "For thou wilt light my candle: the LORD my God will enlighten my darkness.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:29",
-      "text": "For by thee I have run through a troop; and by my God have I leaped over a wall.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:30",
-      "text": "As for God, his way is perfect: the word of the LORD is tried: he is a buckler to all those that trust in him.",
-      "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 18:31",
-      "text": "For who is God save the LORD? or who is a rock save our God?",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:32",
-      "text": "It is God that girdeth me with strength, and maketh my way perfect.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 18:33",
-      "text": "He maketh my feet like hinds’ feet, and setteth me upon my high places.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:34",
-      "text": "He teacheth my hands to war, so that a bow of steel is broken by mine arms.",
-      "themes": [
-        "general",
-        "grief"
-      ]
-    },
-    {
-      "reference": "Psalms 18:35",
-      "text": "Thou hast also given me the shield of thy salvation: and thy right hand hath holden me up, and thy gentleness hath made me great.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:36",
-      "text": "Thou hast enlarged my steps under me, that my feet did not slip.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:37",
-      "text": "I have pursued mine enemies, and overtaken them: neither did I turn again till they were consumed.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:38",
-      "text": "I have wounded them that they were not able to rise: they are fallen under my feet.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:39",
-      "text": "For thou hast girded me with strength unto the battle: thou hast subdued under me those that rose up against me.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 18:40",
-      "text": "Thou hast also given me the necks of mine enemies; that I might destroy them that hate me.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:41",
-      "text": "They cried, but there was none to save them: even unto the LORD, but he answered them not.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:42",
-      "text": "Then did I beat them small as the dust before the wind: I did cast them out as the dirt in the streets.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:43",
-      "text": "Thou hast delivered me from the strivings of the people; and thou hast made me the head of the heathen: a people whom I have not known shall serve me.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 18:44",
-      "text": "As soon as they hear of me, they shall obey me: the strangers shall submit themselves unto me.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:45",
-      "text": "The strangers shall fade away, and be afraid out of their close places.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 18:46",
-      "text": "The LORD liveth; and blessed be my rock; and let the God of my salvation be exalted.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 18:47",
-      "text": "It is God that avengeth me, and subdueth the people under me.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 18:48",
-      "text": "He delivereth me from mine enemies: yea, thou liftest me up above those that rise up against me: thou hast delivered me from the violent man.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 18:49",
-      "text": "Therefore will I give thanks unto thee, O LORD, among the heathen, and sing praises unto thy name.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 18:50",
-      "text": "Great deliverance giveth he to his king; and sheweth mercy to his anointed, to David, and to his seed for evermore.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 19:1",
-      "text": "The heavens declare the glory of God; and the firmament sheweth his handywork.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 19:2",
-      "text": "Day unto day uttereth speech, and night unto night sheweth knowledge.",
-      "themes": [
-        "general",
-        "wisdom"
-      ]
-    },
-    {
-      "reference": "Psalms 19:3",
-      "text": "There is no speech nor language, where their voice is not heard.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 19:4",
-      "text": "Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun,",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 19:5",
-      "text": "Which is as a bridegroom coming out of his chamber, and rejoiceth as a strong man to run a race.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 19:6",
-      "text": "His going forth is from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 19:7",
-      "text": "The law of the LORD is perfect, converting the soul: the testimony of the LORD is sure, making wise the simple.",
-      "themes": [
-        "general",
-        "wisdom"
-      ]
-    },
-    {
-      "reference": "Psalms 19:8",
-      "text": "The statutes of the LORD are right, rejoicing the heart: the commandment of the LORD is pure, enlightening the eyes.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 19:9",
-      "text": "The fear of the LORD is clean, enduring for ever: the judgments of the LORD are true and righteous altogether.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 19:10",
-      "text": "More to be desired are they than gold, yea, than much fine gold: sweeter also than honey and the honeycomb.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 19:11",
-      "text": "Moreover by them is thy servant warned: and in keeping of them there is great reward.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 19:12",
-      "text": "Who can understand his errors? cleanse thou me from secret faults.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 19:13",
-      "text": "Keep back thy servant also from presumptuous sins; let them not have dominion over me: then shall I be upright, and I shall be innocent from the great transgression.",
-      "themes": [
-        "general"
+        "faith",
+        "fear",
+        "strength"
       ]
     },
     {
       "reference": "Psalms 19:14",
       "text": "Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer.",
       "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 20:1",
-      "text": "The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 20:2",
-      "text": "Send thee help from the sanctuary, and strengthen thee out of Zion;",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 20:3",
-      "text": "Remember all thy offerings, and accept thy burnt sacrifice; Selah.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 20:4",
-      "text": "Grant thee according to thine own heart, and fulfil all thy counsel.",
-      "themes": [
-        "general",
+        "faith",
         "wisdom"
-      ]
-    },
-    {
-      "reference": "Psalms 20:5",
-      "text": "We will rejoice in thy salvation, and in the name of our God we will set up our banners: the LORD fulfil all thy petitions.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 20:6",
-      "text": "Now know I that the LORD saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand.",
-      "themes": [
-        "general",
-        "fear"
       ]
     },
     {
       "reference": "Psalms 20:7",
       "text": "Some trust in chariots, and some in horses: but we will remember the name of the LORD our God.",
       "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 20:8",
-      "text": "They are brought down and fallen: but we are risen, and stand upright.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 20:9",
-      "text": "Save, LORD: let the king hear us when we call.",
-      "themes": [
-        "general",
-        "leadership"
-      ]
-    },
-    {
-      "reference": "Psalms 21:1",
-      "text": "The king shall joy in thy strength, O LORD; and in thy salvation how greatly shall he rejoice!",
-      "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 21:2",
-      "text": "Thou hast given him his heart’s desire, and hast not withholden the request of his lips. Selah.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 21:3",
-      "text": "For thou preventest him with the blessings of goodness: thou settest a crown of pure gold on his head.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 21:4",
-      "text": "He asked life of thee, and thou gavest it him, even length of days for ever and ever.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 21:5",
-      "text": "His glory is great in thy salvation: honour and majesty hast thou laid upon him.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 21:6",
-      "text": "For thou hast made him most blessed for ever: thou hast made him exceeding glad with thy countenance.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 21:7",
-      "text": "For the king trusteth in the LORD, and through the mercy of the most High he shall not be moved.",
-      "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 21:8",
-      "text": "Thine hand shall find out all thine enemies: thy right hand shall find out those that hate thee.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 21:9",
-      "text": "Thou shalt make them as a fiery oven in the time of thine anger: the LORD shall swallow them up in his wrath, and the fire shall devour them.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 21:10",
-      "text": "Their fruit shalt thou destroy from the earth, and their seed from among the children of men.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 21:11",
-      "text": "For they intended evil against thee: they imagined a mischievous device, which they are not able to perform.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 21:12",
-      "text": "Therefore shalt thou make them turn their back, when thou shalt make ready thine arrows upon thy strings against the face of them.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 21:13",
-      "text": "Be thou exalted, LORD, in thine own strength: so will we sing and praise thy power.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 22:1",
-      "text": "My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring?",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 22:2",
-      "text": "O my God, I cry in the day time, but thou hearest not; and in the night season, and am not silent.",
-      "themes": [
-        "peace",
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 22:3",
-      "text": "But thou art holy, O thou that inhabitest the praises of Israel.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 22:4",
-      "text": "Our fathers trusted in thee: they trusted, and thou didst deliver them.",
-      "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 22:5",
-      "text": "They cried unto thee, and were delivered: they trusted in thee, and were not confounded.",
-      "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 22:6",
-      "text": "But I am a worm, and no man; a reproach of men, and despised of the people.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 22:7",
-      "text": "All they that see me laugh me to scorn: they shoot out the lip, they shake the head, saying,",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 22:8",
-      "text": "He trusted on the LORD that he would deliver him: let him deliver him, seeing he delighted in him.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 22:9",
-      "text": "But thou art he that took me out of the womb: thou didst make me hope when I was upon my mother’s breasts.",
-      "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 22:10",
-      "text": "I was cast upon thee from the womb: thou art my God from my mother’s belly.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 22:11",
-      "text": "Be not far from me; for trouble is near; for there is none to help.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 22:12",
-      "text": "Many bulls have compassed me: strong bulls of Bashan have beset me round.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 22:13",
-      "text": "They gaped upon me with their mouths, as a ravening and a roaring lion.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 22:14",
-      "text": "I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 22:15",
-      "text": "My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 22:16",
-      "text": "For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 22:17",
-      "text": "I may tell all my bones: they look and stare upon me.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 22:18",
-      "text": "They part my garments among them, and cast lots upon my vesture.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 22:19",
-      "text": "But be not thou far from me, O LORD: O my strength, haste thee to help me.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 22:20",
-      "text": "Deliver my soul from the sword; my darling from the power of the dog.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 22:21",
-      "text": "Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 22:22",
-      "text": "I will declare thy name unto my brethren: in the midst of the congregation will I praise thee.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 22:23",
-      "text": "Ye that fear the LORD, praise him; all ye the seed of Jacob, glorify him; and fear him, all ye the seed of Israel.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 22:24",
-      "text": "For he hath not despised nor abhorred the affliction of the afflicted; neither hath he hid his face from him; but when he cried unto him, he heard.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 22:25",
-      "text": "My praise shall be of thee in the great congregation: I will pay my vows before them that fear him.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 22:26",
-      "text": "The meek shall eat and be satisfied: they shall praise the LORD that seek him: your heart shall live for ever.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 22:27",
-      "text": "All the ends of the world shall remember and turn unto the LORD: and all the kindreds of the nations shall worship before thee.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 22:28",
-      "text": "For the kingdom is the LORD’s: and he is the governor among the nations.",
-      "themes": [
-        "general",
-        "leadership"
-      ]
-    },
-    {
-      "reference": "Psalms 22:29",
-      "text": "All they that be fat upon earth shall eat and worship: all they that go down to the dust shall bow before him: and none can keep alive his own soul.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 22:30",
-      "text": "A seed shall serve him; it shall be accounted to the Lord for a generation.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 22:31",
-      "text": "They shall come, and shall declare his righteousness unto a people that shall be born, that he hath done this.",
-      "themes": [
-        "general",
-        "justice"
+        "courage",
+        "faith"
       ]
     },
     {
       "reference": "Psalms 23:1",
       "text": "The LORD is my shepherd; I shall not want.",
       "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 23:2",
-      "text": "He maketh me to lie down in green pastures: he leadeth me beside the still waters.",
-      "themes": [
-        "peace",
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 23:3",
-      "text": "He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.",
-      "themes": [
-        "peace",
-        "general"
+        "comfort",
+        "faith",
+        "provision"
       ]
     },
     {
       "reference": "Psalms 23:4",
       "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.",
       "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 23:5",
-      "text": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.",
-      "themes": [
-        "peace",
-        "general"
+        "comfort",
+        "fear",
+        "grief"
       ]
     },
     {
       "reference": "Psalms 23:6",
       "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.",
       "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 24:1",
-      "text": "The earth is the LORD’s, and the fulness thereof; the world, and they that dwell therein.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 24:2",
-      "text": "For he hath founded it upon the seas, and established it upon the floods.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 24:3",
-      "text": "Who shall ascend into the hill of the LORD? or who shall stand in his holy place?",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 24:4",
-      "text": "He that hath clean hands, and a pure heart; who hath not lifted up his soul unto vanity, nor sworn deceitfully.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 24:5",
-      "text": "He shall receive the blessing from the LORD, and righteousness from the God of his salvation.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 24:6",
-      "text": "This is the generation of them that seek him, that seek thy face, O Jacob. Selah.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 24:7",
-      "text": "Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors; and the King of glory shall come in.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 24:8",
-      "text": "Who is this King of glory? The LORD strong and mighty, the LORD mighty in battle.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 24:9",
-      "text": "Lift up your heads, O ye gates; even lift them up, ye everlasting doors; and the King of glory shall come in.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 24:10",
-      "text": "Who is this King of glory? The LORD of hosts, he is the King of glory. Selah.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 25:1",
-      "text": "Unto thee, O LORD, do I lift up my soul.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 25:2",
-      "text": "O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me.",
-      "themes": [
-        "general",
+        "gratitude",
         "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 25:3",
-      "text": "Yea, let none that wait on thee be ashamed: let them be ashamed which transgress without cause.",
-      "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 25:4",
-      "text": "Shew me thy ways, O LORD; teach me thy paths.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 25:5",
-      "text": "Lead me in thy truth, and teach me: for thou art the God of my salvation; on thee do I wait all the day.",
-      "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 25:6",
-      "text": "Remember, O LORD, thy tender mercies and thy lovingkindnesses; for they have been ever of old.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 25:7",
-      "text": "Remember not the sins of my youth, nor my transgressions: according to thy mercy remember thou me for thy goodness’ sake, O LORD.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 25:8",
-      "text": "Good and upright is the LORD: therefore will he teach sinners in the way.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 25:9",
-      "text": "The meek will he guide in judgment: and the meek will he teach his way.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 25:10",
-      "text": "All the paths of the LORD are mercy and truth unto such as keep his covenant and his testimonies.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 25:11",
-      "text": "For thy name’s sake, O LORD, pardon mine iniquity; for it is great.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 25:12",
-      "text": "What man is he that feareth the LORD? him shall he teach in the way that he shall choose.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 25:13",
-      "text": "His soul shall dwell at ease; and his seed shall inherit the earth.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 25:14",
-      "text": "The secret of the LORD is with them that fear him; and he will shew them his covenant.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 25:15",
-      "text": "Mine eyes are ever toward the LORD; for he shall pluck my feet out of the net.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 25:16",
-      "text": "Turn thee unto me, and have mercy upon me; for I am desolate and afflicted.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 25:17",
-      "text": "The troubles of my heart are enlarged: O bring thou me out of my distresses.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 25:18",
-      "text": "Look upon mine affliction and my pain; and forgive all my sins.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 25:19",
-      "text": "Consider mine enemies; for they are many; and they hate me with cruel hatred.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 25:20",
-      "text": "O keep my soul, and deliver me: let me not be ashamed; for I put my trust in thee.",
-      "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 25:21",
-      "text": "Let integrity and uprightness preserve me; for I wait on thee.",
-      "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 25:22",
-      "text": "Redeem Israel, O God, out of all his troubles.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 26:1",
-      "text": "Judge me, O LORD; for I have walked in mine integrity: I have trusted also in the LORD; therefore I shall not slide.",
-      "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 26:2",
-      "text": "Examine me, O LORD, and prove me; try my reins and my heart.",
-      "themes": [
-        "general"
       ]
     },
     {
       "reference": "Psalms 26:3",
       "text": "For thy lovingkindness is before mine eyes: and I have walked in thy truth.",
       "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 26:4",
-      "text": "I have not sat with vain persons, neither will I go in with dissemblers.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 26:5",
-      "text": "I have hated the congregation of evil doers; and will not sit with the wicked.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 26:6",
-      "text": "I will wash mine hands in innocency: so will I compass thine altar, O LORD:",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 26:7",
-      "text": "That I may publish with the voice of thanksgiving, and tell of all thy wondrous works.",
-      "themes": [
-        "general",
-        "gratitude"
-      ]
-    },
-    {
-      "reference": "Psalms 26:8",
-      "text": "LORD, I have loved the habitation of thy house, and the place where thine honour dwelleth.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 26:9",
-      "text": "Gather not my soul with sinners, nor my life with bloody men:",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 26:10",
-      "text": "In whose hands is mischief, and their right hand is full of bribes.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 26:11",
-      "text": "But as for me, I will walk in mine integrity: redeem me, and be merciful unto me.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 26:12",
-      "text": "My foot standeth in an even place: in the congregations will I bless the LORD.",
-      "themes": [
-        "general",
-        "gratitude"
+        "faith",
+        "love"
       ]
     },
     {
       "reference": "Psalms 27:1",
       "text": "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?",
       "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 27:2",
-      "text": "When the wicked, even mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 27:3",
-      "text": "Though an host should encamp against me, my heart shall not fear: though war should rise against me, in this will I be confident.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 27:4",
-      "text": "One thing have I desired of the LORD, that will I seek after; that I may dwell in the house of the LORD all the days of my life, to behold the beauty of the LORD, and to enquire in his temple.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 27:5",
-      "text": "For in the time of trouble he shall hide me in his pavilion: in the secret of his tabernacle shall he hide me; he shall set me up upon a rock.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 27:6",
-      "text": "And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the LORD.",
-      "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 27:7",
-      "text": "Hear, O LORD, when I cry with my voice: have mercy also upon me, and answer me.",
-      "themes": [
-        "general",
-        "justice"
-      ]
-    },
-    {
-      "reference": "Psalms 27:8",
-      "text": "When thou saidst, Seek ye my face; my heart said unto thee, Thy face, LORD, will I seek.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 27:9",
-      "text": "Hide not thy face far from me; put not thy servant away in anger: thou hast been my help; leave me not, neither forsake me, O God of my salvation.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 27:10",
-      "text": "When my father and my mother forsake me, then the LORD will take me up.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 27:11",
-      "text": "Teach me thy way, O LORD, and lead me in a plain path, because of mine enemies.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 27:12",
-      "text": "Deliver me not over unto the will of mine enemies: for false witnesses are risen up against me, and such as breathe out cruelty.",
-      "themes": [
-        "general",
-        "fear"
-      ]
-    },
-    {
-      "reference": "Psalms 27:13",
-      "text": "I had fainted, unless I had believed to see the goodness of the LORD in the land of the living.",
-      "themes": [
-        "general",
-        "faith"
+        "courage",
+        "fear",
+        "strength"
       ]
     },
     {
       "reference": "Psalms 27:14",
       "text": "Wait on the LORD: be of good courage, and he shall strengthen thine heart: wait, I say, on the LORD.",
       "themes": [
-        "general",
-        "hope"
-      ]
-    },
-    {
-      "reference": "Psalms 28:1",
-      "text": "Unto thee will I cry, O LORD my rock; be not silent to me: lest, if thou be silent to me, I become like them that go down into the pit.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 28:2",
-      "text": "Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 28:3",
-      "text": "Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief is in their hearts.",
-      "themes": [
-        "peace",
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 28:4",
-      "text": "Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 28:5",
-      "text": "Because they regard not the works of the LORD, nor the operation of his hands, he shall destroy them, and not build them up.",
-      "themes": [
-        "general"
-      ]
-    },
-    {
-      "reference": "Psalms 28:6",
-      "text": "Blessed be the LORD, because he hath heard the voice of my supplications.",
-      "themes": [
-        "general",
-        "gratitude"
+        "courage",
+        "patience",
+        "strength"
       ]
     },
     {
       "reference": "Psalms 28:7",
       "text": "The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.",
       "themes": [
-        "general",
+        "faith",
+        "joy",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Psalms 29:11",
+      "text": "The LORD will give strength unto his people; the LORD will bless his people with peace.",
+      "themes": [
+        "peace",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Psalms 30:5",
+      "text": "For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning.",
+      "themes": [
+        "grief",
+        "hope",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Psalms 31:24",
+      "text": "Be of good courage, and he shall strengthen your heart, all ye that hope in the LORD.",
+      "themes": [
+        "courage",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Psalms 32:8",
+      "text": "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye.",
+      "themes": [
+        "leadership",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Psalms 33:22",
+      "text": "Let thy mercy, O LORD, be upon us, according as we hope in thee.",
+      "themes": [
+        "hope",
+        "mercy"
+      ]
+    },
+    {
+      "reference": "Psalms 34:1",
+      "text": "I will bless the LORD at all times: his praise shall continually be in my mouth.",
+      "themes": [
+        "gratitude",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Psalms 34:4",
+      "text": "I sought the LORD, and he heard me, and delivered me from all my fears.",
+      "themes": [
+        "fear",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Psalms 34:8",
+      "text": "O taste and see that the LORD is good: blessed is the man that trusteth in him.",
+      "themes": [
+        "faith",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Psalms 34:18",
+      "text": "The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.",
+      "themes": [
+        "comfort",
+        "grief"
+      ]
+    },
+    {
+      "reference": "Psalms 36:9",
+      "text": "For with thee is the fountain of life: in thy light shall we see light.",
+      "themes": [
+        "hope",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Psalms 37:4",
+      "text": "Delight thyself also in the LORD: and he shall give thee the desires of thine heart.",
+      "themes": [
+        "hope",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Psalms 37:5",
+      "text": "Commit thy way unto the LORD; trust also in him; and he shall bring it to pass.",
+      "themes": [
+        "faith",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Psalms 37:23",
+      "text": "The steps of a good man are ordered by the LORD: and he delighteth in his way.",
+      "themes": [
+        "faith",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Psalms 37:24",
+      "text": "Though he fall, he shall not be utterly cast down: for the LORD upholdeth him with his hand.",
+      "themes": [
+        "comfort",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Psalms 40:1",
+      "text": "I waited patiently for the LORD; and he inclined unto me, and heard my cry.",
+      "themes": [
+        "hope",
+        "patience"
+      ]
+    },
+    {
+      "reference": "Psalms 42:11",
+      "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God.",
+      "themes": [
+        "courage",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Psalms 46:1",
+      "text": "God is our refuge and strength, a very present help in trouble.",
+      "themes": [
+        "comfort",
+        "fear",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Psalms 46:10",
+      "text": "Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth.",
+      "themes": [
+        "faith",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Psalms 48:14",
+      "text": "For this God is our God for ever and ever: he will be our guide even unto death.",
+      "themes": [
+        "comfort",
+        "faith"
+      ]
+    },
+    {
+      "reference": "Psalms 51:10",
+      "text": "Create in me a clean heart, O God; and renew a right spirit within me.",
+      "themes": [
+        "faith",
+        "forgiveness"
+      ]
+    },
+    {
+      "reference": "Psalms 55:22",
+      "text": "Cast thy burden upon the LORD, and he shall sustain thee: he shall never suffer the righteous to be moved.",
+      "themes": [
+        "comfort",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Psalms 56:3",
+      "text": "What time I am afraid, I will trust in thee.",
+      "themes": [
+        "courage",
+        "faith",
         "fear"
       ]
     },
     {
-      "reference": "Psalms 28:8",
-      "text": "The LORD is their strength, and he is the saving strength of his anointed.",
+      "reference": "Psalms 57:1",
+      "text": "Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until these calamities be overpast.",
       "themes": [
-        "general",
+        "comfort",
         "fear"
       ]
     },
     {
-      "reference": "Psalms 28:9",
-      "text": "Save thy people, and bless thine inheritance: feed them also, and lift them up for ever.",
+      "reference": "Psalms 62:1",
+      "text": "Truly my soul waiteth upon God: from him cometh my salvation.",
       "themes": [
-        "general",
+        "faith",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Psalms 62:8",
+      "text": "Trust in him at all times; ye people, pour out your heart before him: God is a refuge for us. Selah.",
+      "themes": [
+        "faith",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Psalms 63:1",
+      "text": "O God, thou art my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is;",
+      "themes": [
+        "faith",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Psalms 68:19",
+      "text": "Blessed be the Lord, who daily loadeth us with benefits, even the God of our salvation. Selah.",
+      "themes": [
+        "comfort",
         "gratitude"
+      ]
+    },
+    {
+      "reference": "Psalms 71:14",
+      "text": "But I will hope continually, and will yet praise thee more and more.",
+      "themes": [
+        "hope",
+        "patience"
+      ]
+    },
+    {
+      "reference": "Psalms 73:26",
+      "text": "My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever.",
+      "themes": [
+        "faith",
+        "hope",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Psalms 77:14",
+      "text": "Thou art the God that doest wonders: thou hast declared thy strength among the people.",
+      "themes": [
+        "faith",
+        "gratitude"
+      ]
+    },
+    {
+      "reference": "Psalms 84:11",
+      "text": "For the LORD God is a sun and shield: the LORD will give grace and glory: no good thing will he withhold from them that walk uprightly.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Psalms 86:5",
+      "text": "For thou, Lord, art good, and ready to forgive; and plenteous in mercy unto all them that call upon thee.",
+      "themes": [
+        "forgiveness",
+        "mercy"
+      ]
+    },
+    {
+      "reference": "Psalms 86:15",
+      "text": "But thou, O Lord, art a God full of compassion, and gracious, long suffering, and plenteous in mercy and truth.",
+      "themes": [
+        "comfort",
+        "mercy"
+      ]
+    },
+    {
+      "reference": "Psalms 90:12",
+      "text": "So teach us to number our days, that we may apply our hearts unto wisdom.",
+      "themes": [
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Psalms 91:1",
+      "text": "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.",
+      "themes": [
+        "comfort",
+        "faith",
+        "fear"
+      ]
+    },
+    {
+      "reference": "Psalms 91:11",
+      "text": "For he shall give his angels charge over thee, to keep thee in all thy ways.",
+      "themes": [
+        "comfort",
+        "fear"
+      ]
+    },
+    {
+      "reference": "Psalms 92:14",
+      "text": "They shall still bring forth fruit in old age; they shall be fat and flourishing;",
+      "themes": [
+        "hope",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Psalms 94:19",
+      "text": "In the multitude of my thoughts within me thy comforts delight my soul.",
+      "themes": [
+        "comfort",
+        "grief"
+      ]
+    },
+    {
+      "reference": "Psalms 98:1",
+      "text": "O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.",
+      "themes": [
+        "gratitude",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Psalms 100:4",
+      "text": "Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name.",
+      "themes": [
+        "gratitude",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Psalms 100:5",
+      "text": "For the LORD is good; his mercy is everlasting; and his truth endureth to all generations.",
+      "themes": [
+        "gratitude",
+        "mercy"
+      ]
+    },
+    {
+      "reference": "Psalms 103:2",
+      "text": "Bless the LORD, O my soul, and forget not all his benefits:",
+      "themes": [
+        "gratitude",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Psalms 103:8",
+      "text": "The LORD is merciful and gracious, slow to anger, and plenteous in mercy.",
+      "themes": [
+        "comfort",
+        "mercy"
+      ]
+    },
+    {
+      "reference": "Psalms 107:1",
+      "text": "O give thanks unto the LORD, for he is good: for his mercy endureth for ever.",
+      "themes": [
+        "gratitude",
+        "mercy"
+      ]
+    },
+    {
+      "reference": "Psalms 111:10",
+      "text": "The fear of the LORD is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.",
+      "themes": [
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Psalms 116:1",
+      "text": "I love the LORD, because he hath heard my voice and my supplications.",
+      "themes": [
+        "gratitude",
+        "love"
+      ]
+    },
+    {
+      "reference": "Psalms 118:24",
+      "text": "This is the day which the LORD hath made; we will rejoice and be glad in it.",
+      "themes": [
+        "gratitude",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Psalms 119:105",
+      "text": "Thy word is a lamp unto my feet, and a light unto my path.",
+      "themes": [
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Psalms 119:165",
+      "text": "Great peace have they which love thy law: and nothing shall offend them.",
+      "themes": [
+        "peace",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Psalms 121:1",
+      "text": "I will lift up mine eyes unto the hills, from whence cometh my help.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Psalms 121:2",
+      "text": "My help cometh from the LORD, which made heaven and earth.",
+      "themes": [
+        "faith",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Psalms 121:7",
+      "text": "The LORD shall preserve thee from all evil: he shall preserve thy soul.",
+      "themes": [
+        "comfort",
+        "fear"
+      ]
+    },
+    {
+      "reference": "Psalms 126:3",
+      "text": "The LORD hath done great things for us; whereof we are glad.",
+      "themes": [
+        "gratitude",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Psalms 127:1",
+      "text": "Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain.",
+      "themes": [
+        "faith",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Psalms 130:5",
+      "text": "I wait for the LORD, my soul doth wait, and in his word do I hope.",
+      "themes": [
+        "hope",
+        "patience"
+      ]
+    },
+    {
+      "reference": "Psalms 133:1",
+      "text": "Behold, how good and how pleasant it is for brethren to dwell together in unity!",
+      "themes": [
+        "love",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Psalms 136:1",
+      "text": "O give thanks unto the LORD; for he is good: for his mercy endureth for ever.",
+      "themes": [
+        "gratitude",
+        "mercy"
+      ]
+    },
+    {
+      "reference": "Psalms 138:8",
+      "text": "The LORD will perfect that which concerneth me: thy mercy, O LORD, endureth for ever: forsake not the works of thine own hands.",
+      "themes": [
+        "faith",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Psalms 139:14",
+      "text": "I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.",
+      "themes": [
+        "gratitude",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Psalms 143:8",
+      "text": "Cause me to hear thy lovingkindness in the morning; for in thee do I trust: cause me to know the way wherein I should walk; for I lift up my soul unto thee.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Psalms 144:15",
+      "text": "Happy is that people, that is in such a case: yea, happy is that people, whose God is the LORD.",
+      "themes": [
+        "gratitude",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Psalms 145:8",
+      "text": "The LORD is gracious, and full of compassion; slow to anger, and of great mercy.",
+      "themes": [
+        "comfort",
+        "mercy"
+      ]
+    },
+    {
+      "reference": "Psalms 145:18",
+      "text": "The LORD is nigh unto all them that call upon him, to all that call upon him in truth.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Psalms 146:5",
+      "text": "Happy is he that hath the God of Jacob for his help, whose hope is in the LORD his God:",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Psalms 147:3",
+      "text": "He healeth the broken in heart, and bindeth up their wounds.",
+      "themes": [
+        "comfort",
+        "grief",
+        "healing"
+      ]
+    },
+    {
+      "reference": "Psalms 147:11",
+      "text": "The LORD taketh pleasure in them that fear him, in those that hope in his mercy.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Psalms 150:6",
+      "text": "Let every thing that hath breath praise the LORD. Praise ye the LORD.",
+      "themes": [
+        "gratitude",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Proverbs 2:6",
+      "text": "For the LORD giveth wisdom: out of his mouth cometh knowledge and understanding.",
+      "themes": [
+        "faith",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Proverbs 3:5",
+      "text": "Trust in the LORD with all thine heart; and lean not unto thine own understanding.",
+      "themes": [
+        "faith",
+        "fear",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Proverbs 3:6",
+      "text": "In all thy ways acknowledge him, and he shall direct thy paths.",
+      "themes": [
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Proverbs 4:23",
+      "text": "Keep thy heart with all diligence; for out of it are the issues of life.",
+      "themes": [
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Proverbs 8:17",
+      "text": "I love them that love me; and those that seek me early shall find me.",
+      "themes": [
+        "love",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Proverbs 10:12",
+      "text": "Hatred stirreth up strifes: but love covereth all sins.",
+      "themes": [
+        "love",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Proverbs 11:25",
+      "text": "The liberal soul shall be made fat: and he that watereth shall be watered also himself.",
+      "themes": [
+        "joy",
+        "provision"
+      ]
+    },
+    {
+      "reference": "Proverbs 12:25",
+      "text": "Heaviness in the heart of man maketh it stoop: but a good word maketh it glad.",
+      "themes": [
+        "comfort",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Proverbs 13:20",
+      "text": "He that walketh with wise men shall be wise: but a companion of fools shall be destroyed.",
+      "themes": [
+        "leadership",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Proverbs 14:29",
+      "text": "He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly.",
+      "themes": [
+        "patience",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Proverbs 15:1",
+      "text": "A soft answer turneth away wrath: but grievous words stir up anger.",
+      "themes": [
+        "peace",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Proverbs 15:13",
+      "text": "A merry heart maketh a cheerful countenance: but by sorrow of the heart the spirit is broken.",
+      "themes": [
+        "healing",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Proverbs 16:3",
+      "text": "Commit thy works unto the LORD, and thy thoughts shall be established.",
+      "themes": [
+        "faith",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Proverbs 16:7",
+      "text": "When a man’s ways please the LORD, he maketh even his enemies to be at peace with him.",
+      "themes": [
+        "peace",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Proverbs 16:9",
+      "text": "A man’s heart deviseth his way: but the LORD directeth his steps.",
+      "themes": [
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Proverbs 16:24",
+      "text": "Pleasant words are as an honeycomb, sweet to the soul, and health to the bones.",
+      "themes": [
+        "comfort",
+        "healing"
+      ]
+    },
+    {
+      "reference": "Proverbs 17:17",
+      "text": "A friend loveth at all times, and a brother is born for adversity.",
+      "themes": [
+        "comfort",
+        "love"
+      ]
+    },
+    {
+      "reference": "Proverbs 17:22",
+      "text": "A merry heart doeth good like a medicine: but a broken spirit drieth the bones.",
+      "themes": [
+        "healing",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Proverbs 18:10",
+      "text": "The name of the LORD is a strong tower: the righteous runneth into it, and is safe.",
+      "themes": [
+        "faith",
+        "fear",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Proverbs 18:24",
+      "text": "A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother.",
+      "themes": [
+        "general",
+        "love"
+      ]
+    },
+    {
+      "reference": "Proverbs 19:17",
+      "text": "He that hath pity upon the poor lendeth unto the LORD; and that which he hath given will he pay him again.",
+      "themes": [
+        "mercy",
+        "provision"
+      ]
+    },
+    {
+      "reference": "Proverbs 19:21",
+      "text": "There are many devices in a man’s heart; nevertheless the counsel of the LORD, that shall stand.",
+      "themes": [
+        "faith",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Proverbs 21:21",
+      "text": "He that followeth after righteousness and mercy findeth life, righteousness, and honour.",
+      "themes": [
+        "hope",
+        "justice"
+      ]
+    },
+    {
+      "reference": "Proverbs 22:6",
+      "text": "Train up a child in the way he should go: and when he is old, he will not depart from it.",
+      "themes": [
+        "leadership",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Proverbs 23:12",
+      "text": "Apply thine heart unto instruction, and thine ears to the words of knowledge.",
+      "themes": [
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Proverbs 24:16",
+      "text": "For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief.",
+      "themes": [
+        "courage",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Proverbs 25:11",
+      "text": "A word fitly spoken is like apples of gold in pictures of silver.",
+      "themes": [
+        "joy",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Proverbs 27:17",
+      "text": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.",
+      "themes": [
+        "love",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Proverbs 28:20",
+      "text": "A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.",
+      "themes": [
+        "faith",
+        "justice"
+      ]
+    },
+    {
+      "reference": "Proverbs 29:25",
+      "text": "The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe.",
+      "themes": [
+        "faith",
+        "fear"
+      ]
+    },
+    {
+      "reference": "Proverbs 30:5",
+      "text": "Every word of God is pure: he is a shield unto them that put their trust in him.",
+      "themes": [
+        "comfort",
+        "faith"
+      ]
+    },
+    {
+      "reference": "Proverbs 31:25",
+      "text": "Strength and honour are her clothing; and she shall rejoice in time to come.",
+      "themes": [
+        "joy",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Proverbs 31:30",
+      "text": "Favour is deceitful, and beauty is vain: but a woman that feareth the LORD, she shall be praised.",
+      "themes": [
+        "gratitude",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Isaiah 9:6",
+      "text": "For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.",
+      "themes": [
+        "hope",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Isaiah 12:2",
+      "text": "Behold, God is my salvation; I will trust, and not be afraid: for the LORD JEHOVAH is my strength and my song; he also is become my salvation.",
+      "themes": [
+        "fear",
+        "hope",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Isaiah 12:5",
+      "text": "Sing unto the LORD; for he hath done excellent things: this is known in all the earth.",
+      "themes": [
+        "gratitude",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Isaiah 25:8",
+      "text": "He will swallow up death in victory; and the Lord GOD will wipe away tears from off all faces; and the rebuke of his people shall he take away from off all the earth: for the LORD hath spoken it.",
+      "themes": [
+        "comfort",
+        "grief",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Isaiah 26:3",
+      "text": "Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee.",
+      "themes": [
+        "faith",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Isaiah 26:4",
+      "text": "Trust ye in the LORD for ever: for in the LORD JEHOVAH is everlasting strength:",
+      "themes": [
+        "faith",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Isaiah 30:15",
+      "text": "For thus saith the Lord GOD, the Holy One of Israel; In returning and rest shall ye be saved; in quietness and in confidence shall be your strength: and ye would not.",
+      "themes": [
+        "peace",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Isaiah 32:17",
+      "text": "And the work of righteousness shall be peace; and the effect of righteousness quietness and assurance for ever.",
+      "themes": [
+        "justice",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Isaiah 33:2",
+      "text": "O LORD, be gracious unto us; we have waited for thee: be thou their arm every morning, our salvation also in the time of trouble.",
+      "themes": [
+        "hope",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Isaiah 35:4",
+      "text": "Say to them that are of a fearful heart, Be strong, fear not: behold, your God will come with vengeance, even God with a recompence; he will come and save you.",
+      "themes": [
+        "courage",
+        "fear"
+      ]
+    },
+    {
+      "reference": "Isaiah 40:8",
+      "text": "The grass withereth, the flower fadeth: but the word of our God shall stand for ever.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Isaiah 40:11",
+      "text": "He shall feed his flock like a shepherd: he shall gather the lambs with his arm, and carry them in his bosom, and shall gently lead those that are with young.",
+      "themes": [
+        "comfort",
+        "love"
+      ]
+    },
+    {
+      "reference": "Isaiah 40:29",
+      "text": "He giveth power to the faint; and to them that have no might he increaseth strength.",
+      "themes": [
+        "comfort",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Isaiah 40:31",
+      "text": "But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint.",
+      "themes": [
+        "hope",
+        "patience",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Isaiah 41:10",
+      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.",
+      "themes": [
+        "courage",
+        "fear",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Isaiah 41:13",
+      "text": "For I the LORD thy God will hold thy right hand, saying unto thee, Fear not; I will help thee.",
+      "themes": [
+        "comfort",
+        "fear"
+      ]
+    },
+    {
+      "reference": "Isaiah 41:17",
+      "text": "When the poor and needy seek water, and there is none, and their tongue faileth for thirst, I the LORD will hear them, I the God of Israel will not forsake them.",
+      "themes": [
+        "hope",
+        "provision"
+      ]
+    },
+    {
+      "reference": "Isaiah 43:1",
+      "text": "But now thus saith the LORD that created thee, O Jacob, and he that formed thee, O Israel, Fear not: for I have redeemed thee, I have called thee by thy name; thou art mine.",
+      "themes": [
+        "comfort",
+        "fear",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Isaiah 43:2",
+      "text": "When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee.",
+      "themes": [
+        "comfort",
+        "fear",
+        "grief"
+      ]
+    },
+    {
+      "reference": "Isaiah 43:18",
+      "text": "Remember ye not the former things, neither consider the things of old.",
+      "themes": [
+        "hope",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Isaiah 43:19",
+      "text": "Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness, and rivers in the desert.",
+      "themes": [
+        "hope",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Isaiah 44:3",
+      "text": "For I will pour water upon him that is thirsty, and floods upon the dry ground: I will pour my spirit upon thy seed, and my blessing upon thine offspring:",
+      "themes": [
+        "hope",
+        "provision"
+      ]
+    },
+    {
+      "reference": "Isaiah 46:4",
+      "text": "And even to your old age I am he; and even to hoar hairs will I carry you: I have made, and I will bear; even I will carry, and will deliver you.",
+      "themes": [
+        "comfort",
+        "faith"
+      ]
+    },
+    {
+      "reference": "Isaiah 48:17",
+      "text": "Thus saith the LORD, thy Redeemer, the Holy One of Israel; I am the LORD thy God which teacheth thee to profit, which leadeth thee by the way that thou shouldest go.",
+      "themes": [
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Isaiah 49:15",
+      "text": "Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.",
+      "themes": [
+        "comfort",
+        "love"
+      ]
+    },
+    {
+      "reference": "Isaiah 51:12",
+      "text": "I, even I, am he that comforteth you: who art thou, that thou shouldest be afraid of a man that shall die, and of the son of man which shall be made as grass;",
+      "themes": [
+        "comfort",
+        "fear"
+      ]
+    },
+    {
+      "reference": "Isaiah 53:5",
+      "text": "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.",
+      "themes": [
+        "healing",
+        "hope",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Isaiah 54:10",
+      "text": "For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the LORD that hath mercy on thee.",
+      "themes": [
+        "comfort",
+        "love",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Isaiah 55:6",
+      "text": "Seek ye the LORD while he may be found, call ye upon him while he is near:",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Isaiah 57:15",
+      "text": "For thus saith the high and lofty One that inhabiteth eternity, whose name is Holy; I dwell in the high and holy place, with him also that is of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite ones.",
+      "themes": [
+        "comfort",
+        "humility"
+      ]
+    },
+    {
+      "reference": "Isaiah 58:8",
+      "text": "Then shall thy light break forth as the morning, and thine health shall spring forth speedily: and thy righteousness shall go before thee; the glory of the LORD shall be thy rereward.",
+      "themes": [
+        "healing",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Isaiah 58:11",
+      "text": "And the LORD shall guide thee continually, and satisfy thy soul in drought, and make fat thy bones: and thou shalt be like a watered garden, and like a spring of water, whose waters fail not.",
+      "themes": [
+        "provision",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Isaiah 60:1",
+      "text": "Arise, shine; for thy light is come, and the glory of the LORD is risen upon thee.",
+      "themes": [
+        "hope",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Isaiah 61:1",
+      "text": "The Spirit of the Lord GOD is upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;",
+      "themes": [
+        "comfort",
+        "healing",
+        "justice"
+      ]
+    },
+    {
+      "reference": "Isaiah 61:3",
+      "text": "To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the LORD, that he might be glorified.",
+      "themes": [
+        "comfort",
+        "grief",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Isaiah 62:12",
+      "text": "And they shall call them, The holy people, The redeemed of the LORD: and thou shalt be called, Sought out, A city not forsaken.",
+      "themes": [
+        "joy",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Isaiah 66:13",
+      "text": "As one whom his mother comforteth, so will I comfort you; and ye shall be comforted in Jerusalem.",
+      "themes": [
+        "comfort",
+        "love"
+      ]
+    },
+    {
+      "reference": "Jeremiah 17:7",
+      "text": "Blessed is the man that trusteth in the LORD, and whose hope the LORD is.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Jeremiah 29:7",
+      "text": "And seek the peace of the city whither I have caused you to be carried away captives, and pray unto the LORD for it: for in the peace thereof shall ye have peace.",
+      "themes": [
+        "peace",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Jeremiah 29:11",
+      "text": "For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.",
+      "themes": [
+        "hope",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Jeremiah 29:13",
+      "text": "And ye shall seek me, and find me, when ye shall search for me with all your heart.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Jeremiah 30:17",
+      "text": "For I will restore health unto thee, and I will heal thee of thy wounds, saith the LORD; because they called thee an Outcast, saying, This is Zion, whom no man seeketh after.",
+      "themes": [
+        "grief",
+        "healing"
+      ]
+    },
+    {
+      "reference": "Jeremiah 31:3",
+      "text": "The LORD hath appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee.",
+      "themes": [
+        "comfort",
+        "love"
+      ]
+    },
+    {
+      "reference": "Jeremiah 31:13",
+      "text": "Then shall the virgin rejoice in the dance, both young men and old together: for I will turn their mourning into joy, and will comfort them, and make them rejoice from their sorrow.",
+      "themes": [
+        "comfort",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Jeremiah 32:17",
+      "text": "Ah Lord GOD! behold, thou hast made the heaven and the earth by thy great power and stretched out arm, and there is nothing too hard for thee:",
+      "themes": [
+        "faith",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Jeremiah 33:3",
+      "text": "Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Lamentations 3:22",
+      "text": "It is of the LORD’s mercies that we are not consumed, because his compassions fail not.",
+      "themes": [
+        "hope",
+        "mercy"
+      ]
+    },
+    {
+      "reference": "Lamentations 3:23",
+      "text": "They are new every morning: great is thy faithfulness.",
+      "themes": [
+        "faith",
+        "grief",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Lamentations 3:25",
+      "text": "The LORD is good unto them that wait for him, to the soul that seeketh him.",
+      "themes": [
+        "hope",
+        "patience"
+      ]
+    },
+    {
+      "reference": "Lamentations 3:26",
+      "text": "It is good that a man should both hope and quietly wait for the salvation of the LORD.",
+      "themes": [
+        "hope",
+        "patience"
+      ]
+    },
+    {
+      "reference": "Micah 6:8",
+      "text": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
+      "themes": [
+        "humility",
+        "justice",
+        "leadership"
+      ]
+    },
+    {
+      "reference": "Micah 7:7",
+      "text": "Therefore I will look unto the LORD; I will wait for the God of my salvation: my God will hear me.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Micah 7:18",
+      "text": "Who is a God like unto thee, that pardoneth iniquity, and passeth by the transgression of the remnant of his heritage? he retaineth not his anger for ever, because he delighteth in mercy.",
+      "themes": [
+        "forgiveness",
+        "mercy"
+      ]
+    },
+    {
+      "reference": "Zephaniah 3:17",
+      "text": "The LORD thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing.",
+      "themes": [
+        "comfort",
+        "joy",
+        "love"
+      ]
+    },
+    {
+      "reference": "Zephaniah 3:20",
+      "text": "At that time will I bring you again, even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, saith the LORD.",
+      "themes": [
+        "hope",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Habakkuk 2:4",
+      "text": "Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Habakkuk 3:18",
+      "text": "Yet I will rejoice in the LORD, I will joy in the God of my salvation.",
+      "themes": [
+        "hope",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Habakkuk 3:19",
+      "text": "The LORD God is my strength, and he will make my feet like hinds’ feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.",
+      "themes": [
+        "joy",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Joshua 1:8",
+      "text": "This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success.",
+      "themes": [
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Joshua 1:9",
+      "text": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.",
+      "themes": [
+        "courage",
+        "fear",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Joshua 21:45",
+      "text": "There failed not ought of any good thing which the LORD had spoken unto the house of Israel; all came to pass.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Joshua 24:15",
+      "text": "And if it seem evil unto you to serve the LORD, choose you this day whom ye will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the LORD.",
+      "themes": [
+        "faith",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Deuteronomy 6:5",
+      "text": "And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.",
+      "themes": [
+        "faith",
+        "love"
+      ]
+    },
+    {
+      "reference": "Deuteronomy 7:9",
+      "text": "Know therefore that the LORD thy God, he is God, the faithful God, which keepeth covenant and mercy with them that love him and keep his commandments to a thousand generations;",
+      "themes": [
+        "faith",
+        "love"
+      ]
+    },
+    {
+      "reference": "Deuteronomy 8:18",
+      "text": "But thou shalt remember the LORD thy God: for it is he that giveth thee power to get wealth, that he may establish his covenant which he sware unto thy fathers, as it is this day.",
+      "themes": [
+        "gratitude",
+        "provision"
+      ]
+    },
+    {
+      "reference": "Deuteronomy 10:12",
+      "text": "And now, Israel, what doth the LORD thy God require of thee, but to fear the LORD thy God, to walk in all his ways, and to love him, and to serve the LORD thy God with all thy heart and with all thy soul,",
+      "themes": [
+        "faith",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Deuteronomy 31:6",
+      "text": "Be strong and of a good courage, fear not, nor be afraid of them: for the LORD thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee.",
+      "themes": [
+        "courage",
+        "fear"
+      ]
+    },
+    {
+      "reference": "Deuteronomy 31:8",
+      "text": "And the LORD, he it is that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed.",
+      "themes": [
+        "comfort",
+        "fear"
+      ]
+    },
+    {
+      "reference": "Deuteronomy 33:27",
+      "text": "The eternal God is thy refuge, and underneath are the everlasting arms: and he shall thrust out the enemy from before thee; and shall say, Destroy them.",
+      "themes": [
+        "comfort",
+        "fear",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Exodus 14:14",
+      "text": "The LORD shall fight for you, and ye shall hold your peace.",
+      "themes": [
+        "faith",
+        "fear",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Exodus 15:2",
+      "text": "The LORD is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father’s God, and I will exalt him.",
+      "themes": [
+        "joy",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Exodus 33:14",
+      "text": "And he said, My presence shall go with thee, and I will give thee rest.",
+      "themes": [
+        "comfort",
+        "peace"
+      ]
+    },
+    {
+      "reference": "1 Samuel 2:2",
+      "text": "There is none holy as the LORD: for there is none beside thee: neither is there any rock like our God.",
+      "themes": [
+        "faith",
+        "strength"
+      ]
+    },
+    {
+      "reference": "1 Samuel 12:24",
+      "text": "Only fear the LORD, and serve him in truth with all your heart: for consider how great things he hath done for you.",
+      "themes": [
+        "faith",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "1 Samuel 16:7",
+      "text": "But the LORD said unto Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for the LORD seeth not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart.",
+      "themes": [
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "1 Samuel 17:47",
+      "text": "And all this assembly shall know that the LORD saveth not with sword and spear: for the battle is the LORD’s, and he will give you into our hands.",
+      "themes": [
+        "courage",
+        "faith"
+      ]
+    },
+    {
+      "reference": "1 Samuel 30:6",
+      "text": "And David was greatly distressed; for the people spake of stoning him, because the soul of all the people was grieved, every man for his sons and for his daughters: but David encouraged himself in the LORD his God.",
+      "themes": [
+        "courage",
+        "strength"
+      ]
+    },
+    {
+      "reference": "2 Chronicles 7:14",
+      "text": "If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.",
+      "themes": [
+        "forgiveness",
+        "healing",
+        "humility"
+      ]
+    },
+    {
+      "reference": "2 Chronicles 20:15",
+      "text": "And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith the LORD unto you, Be not afraid nor dismayed by reason of this great multitude; for the battle is not yours, but God’s.",
+      "themes": [
+        "courage",
+        "fear"
+      ]
+    },
+    {
+      "reference": "2 Chronicles 20:17",
+      "text": "Ye shall not need to fight in this battle: set yourselves, stand ye still, and see the salvation of the LORD with you, O Judah and Jerusalem: fear not, nor be dismayed; to morrow go out against them: for the LORD will be with you.",
+      "themes": [
+        "faith",
+        "fear",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Nehemiah 4:14",
+      "text": "And I looked, and rose up, and said unto the nobles, and to the rulers, and to the rest of the people, Be not ye afraid of them: remember the LORD, which is great and terrible, and fight for your brethren, your sons, and your daughters, your wives, and your houses.",
+      "themes": [
+        "courage",
+        "fear"
+      ]
+    },
+    {
+      "reference": "Nehemiah 8:10",
+      "text": "Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our LORD: neither be ye sorry; for the joy of the LORD is your strength.",
+      "themes": [
+        "joy",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Nehemiah 9:6",
+      "text": "Thou, even thou, art LORD alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all things that are therein, the seas, and all that is therein, and thou preservest them all; and the host of heaven worshippeth thee.",
+      "themes": [
+        "faith",
+        "gratitude"
+      ]
+    },
+    {
+      "reference": "Job 1:21",
+      "text": "And said, Naked came I out of my mother’s womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD.",
+      "themes": [
+        "faith",
+        "gratitude"
+      ]
+    },
+    {
+      "reference": "Job 5:11",
+      "text": "To set up on high those that be low; that those which mourn may be exalted to safety.",
+      "themes": [
+        "comfort",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Job 8:21",
+      "text": "Till he fill thy mouth with laughing, and thy lips with rejoicing.",
+      "themes": [
+        "hope",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Job 11:18",
+      "text": "And thou shalt be secure, because there is hope; yea, thou shalt dig about thee, and thou shalt take thy rest in safety.",
+      "themes": [
+        "hope",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Job 14:7",
+      "text": "For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease.",
+      "themes": [
+        "grief",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Job 19:25",
+      "text": "For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Job 22:21",
+      "text": "Acquaint now thyself with him, and be at peace: thereby good shall come unto thee.",
+      "themes": [
+        "faith",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Job 23:10",
+      "text": "But he knoweth the way that I take: when he hath tried me, I shall come forth as gold.",
+      "themes": [
+        "faith",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Job 42:2",
+      "text": "I know that thou canst do every thing, and that no thought can be withholden from thee.",
+      "themes": [
+        "faith",
+        "humility"
+      ]
+    },
+    {
+      "reference": "Ecclesiastes 3:1",
+      "text": "To every thing there is a season, and a time to every purpose under the heaven:",
+      "themes": [
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Ecclesiastes 3:11",
+      "text": "He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.",
+      "themes": [
+        "hope",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Ecclesiastes 4:9",
+      "text": "Two are better than one; because they have a good reward for their labour.",
+      "themes": [
+        "general",
+        "love"
+      ]
+    },
+    {
+      "reference": "Ecclesiastes 7:8",
+      "text": "Better is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit.",
+      "themes": [
+        "patience",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Ecclesiastes 9:10",
+      "text": "Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.",
+      "themes": [
+        "purpose",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Matthew 5:4",
+      "text": "Blessed are they that mourn: for they shall be comforted.",
+      "themes": [
+        "comfort",
+        "grief"
+      ]
+    },
+    {
+      "reference": "Matthew 5:6",
+      "text": "Blessed are they which do hunger and thirst after righteousness: for they shall be filled.",
+      "themes": [
+        "hope",
+        "justice"
+      ]
+    },
+    {
+      "reference": "Matthew 5:8",
+      "text": "Blessed are the pure in heart: for they shall see God.",
+      "themes": [
+        "hope",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Matthew 5:9",
+      "text": "Blessed are the peacemakers: for they shall be called the children of God.",
+      "themes": [
+        "justice",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Matthew 5:14",
+      "text": "Ye are the light of the world. A city that is set on an hill cannot be hid.",
+      "themes": [
+        "hope",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Matthew 5:16",
+      "text": "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.",
+      "themes": [
+        "joy",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Matthew 5:44",
+      "text": "But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;",
+      "themes": [
+        "forgiveness",
+        "love"
+      ]
+    },
+    {
+      "reference": "Matthew 5:48",
+      "text": "Be ye therefore perfect, even as your Father which is in heaven is perfect.",
+      "themes": [
+        "humility",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Matthew 6:21",
+      "text": "For where your treasure is, there will your heart be also.",
+      "themes": [
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Matthew 6:26",
+      "text": "Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?",
+      "themes": [
+        "fear",
+        "provision"
+      ]
+    },
+    {
+      "reference": "Matthew 6:33",
+      "text": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.",
+      "themes": [
+        "faith",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Matthew 6:34",
+      "text": "Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof.",
+      "themes": [
+        "fear",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Matthew 7:7",
+      "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Matthew 7:12",
+      "text": "Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.",
+      "themes": [
+        "justice",
+        "love"
+      ]
+    },
+    {
+      "reference": "Matthew 10:31",
+      "text": "Fear ye not therefore, ye are of more value than many sparrows.",
+      "themes": [
+        "comfort",
+        "fear"
+      ]
+    },
+    {
+      "reference": "Matthew 11:28",
+      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+      "themes": [
+        "comfort",
+        "grief",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Matthew 11:29",
+      "text": "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.",
+      "themes": [
+        "humility",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Matthew 18:20",
+      "text": "For where two or three are gathered together in my name, there am I in the midst of them.",
+      "themes": [
+        "comfort",
+        "faith"
+      ]
+    },
+    {
+      "reference": "Matthew 19:26",
+      "text": "But Jesus beheld them, and said unto them, With men this is impossible; but with God all things are possible.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Matthew 22:37",
+      "text": "Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.",
+      "themes": [
+        "faith",
+        "love"
+      ]
+    },
+    {
+      "reference": "Matthew 25:40",
+      "text": "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+      "themes": [
+        "justice",
+        "love"
+      ]
+    },
+    {
+      "reference": "Matthew 28:20",
+      "text": "Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.",
+      "themes": [
+        "comfort",
+        "faith",
+        "fear"
+      ]
+    },
+    {
+      "reference": "Mark 4:39",
+      "text": "And he arose, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm.",
+      "themes": [
+        "fear",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Mark 8:36",
+      "text": "For what shall it profit a man, if he shall gain the whole world, and lose his own soul?",
+      "themes": [
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Mark 9:23",
+      "text": "Jesus said unto him, If thou canst believe, all things are possible to him that believeth.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Mark 10:27",
+      "text": "And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Mark 11:24",
+      "text": "Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Mark 12:31",
+      "text": "And the second is like, namely this, Thou shalt love thy neighbour as thyself. There is none other commandment greater than these.",
+      "themes": [
+        "general",
+        "love"
+      ]
+    },
+    {
+      "reference": "Mark 16:15",
+      "text": "And he said unto them, Go ye into all the world, and preach the gospel to every creature.",
+      "themes": [
+        "courage",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Luke 1:37",
+      "text": "For with God nothing shall be impossible.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Luke 1:45",
+      "text": "And blessed is she that believed: for there shall be a performance of those things which were told her from the Lord.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Luke 2:10",
+      "text": "And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.",
+      "themes": [
+        "hope",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Luke 6:31",
+      "text": "And as ye would that men should do to you, do ye also to them likewise.",
+      "themes": [
+        "justice",
+        "love"
+      ]
+    },
+    {
+      "reference": "Luke 6:35",
+      "text": "But love ye your enemies, and do good, and lend, hoping for nothing again; and your reward shall be great, and ye shall be the children of the Highest: for he is kind unto the unthankful and to the evil.",
+      "themes": [
+        "love",
+        "mercy"
+      ]
+    },
+    {
+      "reference": "Luke 6:36",
+      "text": "Be ye therefore merciful, as your Father also is merciful.",
+      "themes": [
+        "love",
+        "mercy"
+      ]
+    },
+    {
+      "reference": "Luke 6:38",
+      "text": "Give, and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom. For with the same measure that ye mete withal it shall be measured to you again.",
+      "themes": [
+        "joy",
+        "provision"
+      ]
+    },
+    {
+      "reference": "Luke 9:62",
+      "text": "And Jesus said unto him, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God.",
+      "themes": [
+        "courage",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Luke 12:7",
+      "text": "But even the very hairs of your head are all numbered. Fear not therefore: ye are of more value than many sparrows.",
+      "themes": [
+        "comfort",
+        "fear"
+      ]
+    },
+    {
+      "reference": "Luke 12:32",
+      "text": "Fear not, little flock; for it is your Father’s good pleasure to give you the kingdom.",
+      "themes": [
+        "comfort",
+        "fear"
+      ]
+    },
+    {
+      "reference": "Luke 15:7",
+      "text": "I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.",
+      "themes": [
+        "forgiveness",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Luke 17:17",
+      "text": "And Jesus answering said, Were there not ten cleansed? but where are the nine?",
+      "themes": [
+        "gratitude",
+        "healing"
+      ]
+    },
+    {
+      "reference": "Luke 18:27",
+      "text": "And he said, The things which are impossible with men are possible with God.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "John 1:5",
+      "text": "And the light shineth in darkness; and the darkness comprehended it not.",
+      "themes": [
+        "courage",
+        "hope"
+      ]
+    },
+    {
+      "reference": "John 3:16",
+      "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.",
+      "themes": [
+        "faith",
+        "hope",
+        "love"
+      ]
+    },
+    {
+      "reference": "John 4:14",
+      "text": "But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.",
+      "themes": [
+        "hope",
+        "provision"
+      ]
+    },
+    {
+      "reference": "John 8:12",
+      "text": "Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.",
+      "themes": [
+        "hope",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "John 10:10",
+      "text": "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.",
+      "themes": [
+        "hope",
+        "joy"
+      ]
+    },
+    {
+      "reference": "John 10:11",
+      "text": "I am the good shepherd: the good shepherd giveth his life for the sheep.",
+      "themes": [
+        "love",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "John 11:25",
+      "text": "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:",
+      "themes": [
+        "faith",
+        "grief",
+        "hope"
+      ]
+    },
+    {
+      "reference": "John 13:34",
+      "text": "A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.",
+      "themes": [
+        "general",
+        "love"
+      ]
+    },
+    {
+      "reference": "John 14:1",
+      "text": "Let not your heart be troubled: ye believe in God, believe also in me.",
+      "themes": [
+        "comfort",
+        "faith",
+        "fear"
+      ]
+    },
+    {
+      "reference": "John 14:6",
+      "text": "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "John 14:27",
+      "text": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.",
+      "themes": [
+        "comfort",
+        "fear",
+        "peace"
+      ]
+    },
+    {
+      "reference": "John 15:5",
+      "text": "I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.",
+      "themes": [
+        "faith",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "John 15:9",
+      "text": "As the Father hath loved me, so have I loved you: continue ye in my love.",
+      "themes": [
+        "comfort",
+        "love"
+      ]
+    },
+    {
+      "reference": "John 15:12",
+      "text": "This is my commandment, That ye love one another, as I have loved you.",
+      "themes": [
+        "general",
+        "love"
+      ]
+    },
+    {
+      "reference": "John 16:33",
+      "text": "These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.",
+      "themes": [
+        "courage",
+        "fear",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Acts 1:8",
+      "text": "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.",
+      "themes": [
+        "courage",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Acts 16:31",
+      "text": "And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Acts 17:28",
+      "text": "For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring.",
+      "themes": [
+        "faith",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Acts 20:35",
+      "text": "I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.",
+      "themes": [
+        "joy",
+        "love"
+      ]
+    },
+    {
+      "reference": "Romans 5:3",
+      "text": "And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;",
+      "themes": [
+        "hope",
+        "patience"
+      ]
+    },
+    {
+      "reference": "Romans 5:5",
+      "text": "And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.",
+      "themes": [
+        "hope",
+        "love"
+      ]
+    },
+    {
+      "reference": "Romans 5:8",
+      "text": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.",
+      "themes": [
+        "hope",
+        "love"
+      ]
+    },
+    {
+      "reference": "Romans 8:1",
+      "text": "There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.",
+      "themes": [
+        "forgiveness",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Romans 8:18",
+      "text": "For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us.",
+      "themes": [
+        "grief",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Romans 8:28",
+      "text": "And we know that all things work together for good to them that love God, to them who are the called according to his purpose.",
+      "themes": [
+        "grief",
+        "hope",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Romans 8:31",
+      "text": "What shall we then say to these things? If God be for us, who can be against us?",
+      "themes": [
+        "courage",
+        "faith"
+      ]
+    },
+    {
+      "reference": "Romans 8:37",
+      "text": "Nay, in all these things we are more than conquerors through him that loved us.",
+      "themes": [
+        "courage",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Romans 8:38",
+      "text": "For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,",
+      "themes": [
+        "comfort",
+        "love"
+      ]
+    },
+    {
+      "reference": "Romans 10:17",
+      "text": "So then faith cometh by hearing, and hearing by the word of God.",
+      "themes": [
+        "faith",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Romans 12:2",
+      "text": "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.",
+      "themes": [
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Romans 12:6",
+      "text": "Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith;",
+      "themes": [
+        "leadership",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Romans 12:10",
+      "text": "Be kindly affectioned one to another with brotherly love; in honour preferring one another;",
+      "themes": [
+        "humility",
+        "love"
+      ]
+    },
+    {
+      "reference": "Romans 12:12",
+      "text": "Rejoicing in hope; patient in tribulation; continuing instant in prayer;",
+      "themes": [
+        "hope",
+        "patience"
+      ]
+    },
+    {
+      "reference": "Romans 12:21",
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "themes": [
+        "justice",
+        "love"
+      ]
+    },
+    {
+      "reference": "Romans 13:8",
+      "text": "Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law.",
+      "themes": [
+        "general",
+        "love"
+      ]
+    },
+    {
+      "reference": "Romans 15:7",
+      "text": "Wherefore receive ye one another, as Christ also received us to the glory of God.",
+      "themes": [
+        "humility",
+        "love"
+      ]
+    },
+    {
+      "reference": "Romans 15:13",
+      "text": "Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.",
+      "themes": [
+        "hope",
+        "joy",
+        "peace"
+      ]
+    },
+    {
+      "reference": "1 Corinthians 3:16",
+      "text": "Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?",
+      "themes": [
+        "gratitude",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "1 Corinthians 8:1",
+      "text": "Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth.",
+      "themes": [
+        "love",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "1 Corinthians 10:13",
+      "text": "There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.",
+      "themes": [
+        "faith",
+        "fear",
+        "strength"
+      ]
+    },
+    {
+      "reference": "1 Corinthians 12:27",
+      "text": "Now ye are the body of Christ, and members in particular.",
+      "themes": [
+        "general",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "1 Corinthians 13:2",
+      "text": "And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.",
+      "themes": [
+        "humility",
+        "love"
+      ]
+    },
+    {
+      "reference": "1 Corinthians 13:4",
+      "text": "Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,",
+      "themes": [
+        "love",
+        "patience"
+      ]
+    },
+    {
+      "reference": "1 Corinthians 13:7",
+      "text": "Beareth all things, believeth all things, hopeth all things, endureth all things.",
+      "themes": [
+        "hope",
+        "love"
+      ]
+    },
+    {
+      "reference": "1 Corinthians 13:13",
+      "text": "And now abideth faith, hope, charity, these three; but the greatest of these is charity.",
+      "themes": [
+        "faith",
+        "hope",
+        "love"
+      ]
+    },
+    {
+      "reference": "1 Corinthians 15:57",
+      "text": "But thanks be to God, which giveth us the victory through our Lord Jesus Christ.",
+      "themes": [
+        "hope",
+        "strength"
+      ]
+    },
+    {
+      "reference": "1 Corinthians 16:14",
+      "text": "Let all your things be done with charity.",
+      "themes": [
+        "love",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "2 Corinthians 1:3",
+      "text": "Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;",
+      "themes": [
+        "comfort",
+        "grief"
+      ]
+    },
+    {
+      "reference": "2 Corinthians 3:17",
+      "text": "Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.",
+      "themes": [
+        "hope",
+        "peace"
+      ]
+    },
+    {
+      "reference": "2 Corinthians 4:16",
+      "text": "For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day.",
+      "themes": [
+        "hope",
+        "strength"
+      ]
+    },
+    {
+      "reference": "2 Corinthians 4:18",
+      "text": "While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "2 Corinthians 5:7",
+      "text": "(For we walk by faith, not by sight:)",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "2 Corinthians 5:17",
+      "text": "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.",
+      "themes": [
+        "hope",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "2 Corinthians 9:7",
+      "text": "Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver.",
+      "themes": [
+        "gratitude",
+        "joy"
+      ]
+    },
+    {
+      "reference": "2 Corinthians 9:8",
+      "text": "And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work:",
+      "themes": [
+        "gratitude",
+        "provision"
+      ]
+    },
+    {
+      "reference": "2 Corinthians 12:9",
+      "text": "And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.",
+      "themes": [
+        "humility",
+        "strength"
+      ]
+    },
+    {
+      "reference": "2 Corinthians 13:11",
+      "text": "Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.",
+      "themes": [
+        "comfort",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Galatians 2:20",
+      "text": "I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.",
+      "themes": [
+        "faith",
+        "love"
+      ]
+    },
+    {
+      "reference": "Galatians 5:22",
+      "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,",
+      "themes": [
+        "joy",
+        "love",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Galatians 6:2",
+      "text": "Bear ye one another’s burdens, and so fulfil the law of Christ.",
+      "themes": [
+        "comfort",
+        "love"
+      ]
+    },
+    {
+      "reference": "Galatians 6:9",
+      "text": "And let us not be weary in well doing: for in due season we shall reap, if we faint not.",
+      "themes": [
+        "patience",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Galatians 6:10",
+      "text": "As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith.",
+      "themes": [
+        "love",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Ephesians 2:8",
+      "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Ephesians 2:10",
+      "text": "For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.",
+      "themes": [
+        "faith",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Ephesians 3:20",
+      "text": "Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us,",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Ephesians 4:2",
+      "text": "With all lowliness and meekness, with longsuffering, forbearing one another in love;",
+      "themes": [
+        "humility",
+        "love",
+        "patience"
+      ]
+    },
+    {
+      "reference": "Ephesians 4:15",
+      "text": "But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:",
+      "themes": [
+        "love",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Ephesians 4:32",
+      "text": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you.",
+      "themes": [
+        "forgiveness",
+        "love"
+      ]
+    },
+    {
+      "reference": "Ephesians 5:20",
+      "text": "Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;",
+      "themes": [
+        "gratitude",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Ephesians 6:10",
+      "text": "Finally, my brethren, be strong in the Lord, and in the power of his might.",
+      "themes": [
+        "courage",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Ephesians 6:18",
+      "text": "Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;",
+      "themes": [
+        "faith",
+        "patience"
+      ]
+    },
+    {
+      "reference": "Philippians 1:6",
+      "text": "Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:",
+      "themes": [
+        "hope",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Philippians 2:3",
+      "text": "Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.",
+      "themes": [
+        "humility",
+        "love"
+      ]
+    },
+    {
+      "reference": "Philippians 2:14",
+      "text": "Do all things without murmurings and disputings:",
+      "themes": [
+        "joy",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Philippians 3:13",
+      "text": "Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before,",
+      "themes": [
+        "hope",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Philippians 4:4",
+      "text": "Rejoice in the Lord alway: and again I say, Rejoice.",
+      "themes": [
+        "gratitude",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Philippians 4:6",
+      "text": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.",
+      "themes": [
+        "faith",
+        "fear",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Philippians 4:7",
+      "text": "And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.",
+      "themes": [
+        "comfort",
+        "fear",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Philippians 4:8",
+      "text": "Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.",
+      "themes": [
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "Philippians 4:11",
+      "text": "Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content.",
+      "themes": [
+        "gratitude",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Philippians 4:13",
+      "text": "I can do all things through Christ which strengtheneth me.",
+      "themes": [
+        "courage",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Philippians 4:19",
+      "text": "But my God shall supply all your need according to his riches in glory by Christ Jesus.",
+      "themes": [
+        "faith",
+        "provision"
+      ]
+    },
+    {
+      "reference": "Colossians 3:2",
+      "text": "Set your affection on things above, not on things on the earth.",
+      "themes": [
+        "hope",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Colossians 3:12",
+      "text": "Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering;",
+      "themes": [
+        "humility",
+        "love",
+        "mercy"
+      ]
+    },
+    {
+      "reference": "Colossians 3:13",
+      "text": "Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.",
+      "themes": [
+        "forgiveness",
+        "patience"
+      ]
+    },
+    {
+      "reference": "Colossians 3:15",
+      "text": "And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.",
+      "themes": [
+        "gratitude",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Colossians 3:16",
+      "text": "Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.",
+      "themes": [
+        "gratitude",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Colossians 3:17",
+      "text": "And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him.",
+      "themes": [
+        "gratitude",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Colossians 3:23",
+      "text": "And whatsoever ye do, do it heartily, as to the Lord, and not unto men;",
+      "themes": [
+        "joy",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "1 Thessalonians 5:6",
+      "text": "Therefore let us not sleep, as do others; but let us watch and be sober.",
+      "themes": [
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "1 Thessalonians 5:11",
+      "text": "Wherefore comfort yourselves together, and edify one another, even as also ye do.",
+      "themes": [
+        "comfort",
+        "love"
+      ]
+    },
+    {
+      "reference": "1 Thessalonians 5:16",
+      "text": "Rejoice evermore.",
+      "themes": [
+        "gratitude",
+        "joy"
+      ]
+    },
+    {
+      "reference": "1 Thessalonians 5:17",
+      "text": "Pray without ceasing.",
+      "themes": [
+        "faith",
+        "general"
+      ]
+    },
+    {
+      "reference": "1 Thessalonians 5:18",
+      "text": "In every thing give thanks: for this is the will of God in Christ Jesus concerning you.",
+      "themes": [
+        "gratitude",
+        "joy"
+      ]
+    },
+    {
+      "reference": "1 Thessalonians 5:24",
+      "text": "Faithful is he that calleth you, who also will do it.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "2 Thessalonians 3:3",
+      "text": "But the Lord is faithful, who shall stablish you, and keep you from evil.",
+      "themes": [
+        "comfort",
+        "faith",
+        "fear"
+      ]
+    },
+    {
+      "reference": "2 Thessalonians 3:13",
+      "text": "But ye, brethren, be not weary in well doing.",
+      "themes": [
+        "patience",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "1 Timothy 4:12",
+      "text": "Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.",
+      "themes": [
+        "courage",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "1 Timothy 6:6",
+      "text": "But godliness with contentment is great gain.",
+      "themes": [
+        "gratitude",
+        "peace"
+      ]
+    },
+    {
+      "reference": "1 Timothy 6:8",
+      "text": "And having food and raiment let us be therewith content.",
+      "themes": [
+        "gratitude",
+        "peace"
+      ]
+    },
+    {
+      "reference": "1 Timothy 6:12",
+      "text": "Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast professed a good profession before many witnesses.",
+      "themes": [
+        "courage",
+        "faith"
+      ]
+    },
+    {
+      "reference": "2 Timothy 1:7",
+      "text": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.",
+      "themes": [
+        "courage",
+        "fear",
+        "strength"
+      ]
+    },
+    {
+      "reference": "2 Timothy 1:9",
+      "text": "Who hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,",
+      "themes": [
+        "love",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "2 Timothy 2:15",
+      "text": "Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.",
+      "themes": [
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "2 Timothy 4:7",
+      "text": "I have fought a good fight, I have finished my course, I have kept the faith:",
+      "themes": [
+        "courage",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "2 Timothy 4:17",
+      "text": "Notwithstanding the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and that all the Gentiles might hear: and I was delivered out of the mouth of the lion.",
+      "themes": [
+        "courage",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Titus 2:11",
+      "text": "For the grace of God that bringeth salvation hath appeared to all men,",
+      "themes": [
+        "hope",
+        "love"
+      ]
+    },
+    {
+      "reference": "Titus 3:5",
+      "text": "Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;",
+      "themes": [
+        "hope",
+        "mercy"
+      ]
+    },
+    {
+      "reference": "Hebrews 4:16",
+      "text": "Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.",
+      "themes": [
+        "fear",
+        "hope",
+        "mercy"
+      ]
+    },
+    {
+      "reference": "Hebrews 6:19",
+      "text": "Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil;",
+      "themes": [
+        "hope",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Hebrews 10:23",
+      "text": "Let us hold fast the profession of our faith without wavering; (for he is faithful that promised;)",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Hebrews 10:24",
+      "text": "And let us consider one another to provoke unto love and to good works:",
+      "themes": [
+        "love",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Hebrews 11:1",
+      "text": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Hebrews 11:6",
+      "text": "But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Hebrews 12:1",
+      "text": "Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,",
+      "themes": [
+        "patience",
+        "purpose",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Hebrews 12:2",
+      "text": "Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.",
+      "themes": [
+        "faith",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Hebrews 13:5",
+      "text": "Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.",
+      "themes": [
+        "comfort",
+        "fear",
+        "provision"
+      ]
+    },
+    {
+      "reference": "Hebrews 13:8",
+      "text": "Jesus Christ the same yesterday, and to day, and for ever.",
+      "themes": [
+        "comfort",
+        "faith"
+      ]
+    },
+    {
+      "reference": "Hebrews 13:16",
+      "text": "But to do good and to communicate forget not: for with such sacrifices God is well pleased.",
+      "themes": [
+        "gratitude",
+        "love"
+      ]
+    },
+    {
+      "reference": "James 1:2",
+      "text": "My brethren, count it all joy when ye fall into divers temptations;",
+      "themes": [
+        "joy",
+        "patience"
+      ]
+    },
+    {
+      "reference": "James 1:5",
+      "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.",
+      "themes": [
+        "faith",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "James 1:12",
+      "text": "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.",
+      "themes": [
+        "hope",
+        "patience"
+      ]
+    },
+    {
+      "reference": "James 1:17",
+      "text": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.",
+      "themes": [
+        "gratitude",
+        "provision"
+      ]
+    },
+    {
+      "reference": "James 1:19",
+      "text": "Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:",
+      "themes": [
+        "patience",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "James 3:18",
+      "text": "And the fruit of righteousness is sown in peace of them that make peace.",
+      "themes": [
+        "peace",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "James 4:8",
+      "text": "Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded.",
+      "themes": [
+        "faith",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "James 4:14",
+      "text": "Whereas ye know not what shall be on the morrow. For what is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away.",
+      "themes": [
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "James 5:16",
+      "text": "Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.",
+      "themes": [
+        "forgiveness",
+        "healing"
+      ]
+    },
+    {
+      "reference": "1 Peter 1:3",
+      "text": "Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,",
+      "themes": [
+        "gratitude",
+        "hope"
+      ]
+    },
+    {
+      "reference": "1 Peter 2:3",
+      "text": "If so be ye have tasted that the Lord is gracious.",
+      "themes": [
+        "gratitude",
+        "joy"
+      ]
+    },
+    {
+      "reference": "1 Peter 2:9",
+      "text": "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:",
+      "themes": [
+        "joy",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "1 Peter 3:8",
+      "text": "Finally, be ye all of one mind, having compassion one of another, love as brethren, be pitiful, be courteous:",
+      "themes": [
+        "love",
+        "peace"
+      ]
+    },
+    {
+      "reference": "1 Peter 4:8",
+      "text": "And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.",
+      "themes": [
+        "forgiveness",
+        "love"
+      ]
+    },
+    {
+      "reference": "1 Peter 4:9",
+      "text": "Use hospitality one to another without grudging.",
+      "themes": [
+        "general",
+        "love"
+      ]
+    },
+    {
+      "reference": "1 Peter 5:7",
+      "text": "Casting all your care upon him; for he careth for you.",
+      "themes": [
+        "comfort",
+        "fear",
+        "peace"
+      ]
+    },
+    {
+      "reference": "1 Peter 5:10",
+      "text": "But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you.",
+      "themes": [
+        "hope",
+        "strength"
+      ]
+    },
+    {
+      "reference": "2 Peter 1:5",
+      "text": "And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;",
+      "themes": [
+        "purpose",
+        "wisdom"
+      ]
+    },
+    {
+      "reference": "2 Peter 3:9",
+      "text": "The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.",
+      "themes": [
+        "mercy",
+        "patience"
+      ]
+    },
+    {
+      "reference": "1 John 1:9",
+      "text": "If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.",
+      "themes": [
+        "forgiveness",
+        "hope"
+      ]
+    },
+    {
+      "reference": "1 John 3:1",
+      "text": "Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.",
+      "themes": [
+        "gratitude",
+        "love"
+      ]
+    },
+    {
+      "reference": "1 John 3:18",
+      "text": "My little children, let us not love in word, neither in tongue; but in deed and in truth.",
+      "themes": [
+        "love",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "1 John 4:7",
+      "text": "Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God.",
+      "themes": [
+        "general",
+        "love"
+      ]
+    },
+    {
+      "reference": "1 John 4:8",
+      "text": "He that loveth not knoweth not God; for God is love.",
+      "themes": [
+        "general",
+        "love"
+      ]
+    },
+    {
+      "reference": "1 John 4:18",
+      "text": "There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.",
+      "themes": [
+        "courage",
+        "fear",
+        "love"
+      ]
+    },
+    {
+      "reference": "1 John 4:19",
+      "text": "We love him, because he first loved us.",
+      "themes": [
+        "gratitude",
+        "love"
+      ]
+    },
+    {
+      "reference": "1 John 5:14",
+      "text": "And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us:",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Revelation 3:20",
+      "text": "Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.",
+      "themes": [
+        "hope",
+        "love"
+      ]
+    },
+    {
+      "reference": "Revelation 7:17",
+      "text": "For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes.",
+      "themes": [
+        "comfort",
+        "grief",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Revelation 21:4",
+      "text": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.",
+      "themes": [
+        "comfort",
+        "grief",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Revelation 21:5",
+      "text": "And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful.",
+      "themes": [
+        "hope",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Revelation 21:6",
+      "text": "And he said unto me, It is done. I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely.",
+      "themes": [
+        "hope",
+        "provision"
+      ]
+    },
+    {
+      "reference": "Revelation 21:27",
+      "text": "And there shall in no wise enter into it any thing that defileth, neither whatsoever worketh abomination, or maketh a lie: but they which are written in the Lamb’s book of life.",
+      "themes": [
+        "hope",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Revelation 22:13",
+      "text": "I am Alpha and Omega, the beginning and the end, the first and the last.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Genesis 1:27",
+      "text": "So God created man in his own image, in the image of God created he him; male and female created he them.",
+      "themes": [
+        "love",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Genesis 1:31",
+      "text": "And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.",
+      "themes": [
+        "gratitude",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Genesis 9:13",
+      "text": "I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth.",
+      "themes": [
+        "hope",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Genesis 28:15",
+      "text": "And, behold, I am with thee, and will keep thee in all places whither thou goest, and will bring thee again into this land; for I will not leave thee, until I have done that which I have spoken to thee of.",
+      "themes": [
+        "comfort",
+        "fear"
+      ]
+    },
+    {
+      "reference": "Genesis 50:20",
+      "text": "But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive.",
+      "themes": [
+        "hope",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Numbers 6:24",
+      "text": "The LORD bless thee, and keep thee:",
+      "themes": [
+        "comfort",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Numbers 6:26",
+      "text": "The LORD lift up his countenance upon thee, and give thee peace.",
+      "themes": [
+        "joy",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Numbers 23:19",
+      "text": "God is not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do it? or hath he spoken, and shall he not make it good?",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Judges 6:12",
+      "text": "And the angel of the LORD appeared unto him, and said unto him, The LORD is with thee, thou mighty man of valour.",
+      "themes": [
+        "courage",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Ruth 1:16",
+      "text": "And Ruth said, Intreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God:",
+      "themes": [
+        "faith",
+        "love"
+      ]
+    },
+    {
+      "reference": "Ruth 2:12",
+      "text": "The LORD recompense thy work, and a full reward be given thee of the LORD God of Israel, under whose wings thou art come to trust.",
+      "themes": [
+        "comfort",
+        "hope"
+      ]
+    },
+    {
+      "reference": "2 Samuel 22:2",
+      "text": "And he said, The LORD is my rock, and my fortress, and my deliverer;",
+      "themes": [
+        "faith",
+        "strength"
+      ]
+    },
+    {
+      "reference": "2 Samuel 22:31",
+      "text": "As for God, his way is perfect; the word of the LORD is tried: he is a buckler to all them that trust in him.",
+      "themes": [
+        "comfort",
+        "faith"
+      ]
+    },
+    {
+      "reference": "1 Kings 8:57",
+      "text": "The LORD our God be with us, as he was with our fathers: let him not leave us, nor forsake us:",
+      "themes": [
+        "comfort",
+        "faith"
+      ]
+    },
+    {
+      "reference": "1 Kings 18:21",
+      "text": "And Elijah came unto all the people, and said, How long halt ye between two opinions? if the LORD be God, follow him: but if Baal, then follow him. And the people answered him not a word.",
+      "themes": [
+        "faith",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "2 Kings 6:16",
+      "text": "And he answered, Fear not: for they that be with us are more than they that be with them.",
+      "themes": [
+        "courage",
+        "fear"
+      ]
+    },
+    {
+      "reference": "1 Chronicles 16:11",
+      "text": "Seek the LORD and his strength, seek his face continually.",
+      "themes": [
+        "faith",
+        "strength"
+      ]
+    },
+    {
+      "reference": "1 Chronicles 16:34",
+      "text": "O give thanks unto the LORD; for he is good; for his mercy endureth for ever.",
+      "themes": [
+        "gratitude",
+        "mercy"
+      ]
+    },
+    {
+      "reference": "1 Chronicles 29:11",
+      "text": "Thine, O LORD, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the earth is thine; thine is the kingdom, O LORD, and thou art exalted as head above all.",
+      "themes": [
+        "gratitude",
+        "leadership"
+      ]
+    },
+    {
+      "reference": "Ezra 8:22",
+      "text": "For I was ashamed to require of the king a band of soldiers and horsemen to help us against the enemy in the way: because we had spoken unto the king, saying, The hand of our God is upon all them for good that seek him; but his power and his wrath is against all them that forsake him.",
+      "themes": [
+        "courage",
+        "faith"
+      ]
+    },
+    {
+      "reference": "Esther 4:14",
+      "text": "For if thou altogether holdest thy peace at this time, then shall there enlargement and deliverance arise to the Jews from another place; but thou and thy father’s house shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?",
+      "themes": [
+        "courage",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Song of Solomon 2:11",
+      "text": "For, lo, the winter is past, the rain is over and gone;",
+      "themes": [
+        "hope",
+        "joy"
+      ]
+    },
+    {
+      "reference": "Song of Solomon 8:7",
+      "text": "Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned.",
+      "themes": [
+        "love",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Daniel 3:17",
+      "text": "If it be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of thine hand, O king.",
+      "themes": [
+        "courage",
+        "faith"
+      ]
+    },
+    {
+      "reference": "Daniel 6:23",
+      "text": "Then was the king exceeding glad for him, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no manner of hurt was found upon him, because he believed in his God.",
+      "themes": [
+        "courage",
+        "faith"
+      ]
+    },
+    {
+      "reference": "Daniel 12:3",
+      "text": "And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.",
+      "themes": [
+        "hope",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "Hosea 6:3",
+      "text": "Then shall we know, if we follow on to know the LORD: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth.",
+      "themes": [
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Joel 2:13",
+      "text": "And rend your heart, and not your garments, and turn unto the LORD your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil.",
+      "themes": [
+        "forgiveness",
+        "mercy"
+      ]
+    },
+    {
+      "reference": "Joel 2:25",
+      "text": "And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you.",
+      "themes": [
+        "healing",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Amos 5:24",
+      "text": "But let judgment run down as waters, and righteousness as a mighty stream.",
+      "themes": [
+        "justice",
+        "leadership"
+      ]
+    },
+    {
+      "reference": "Jonah 2:2",
+      "text": "And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, and thou heardest my voice.",
+      "themes": [
+        "comfort",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Nahum 1:7",
+      "text": "The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him.",
+      "themes": [
+        "comfort",
+        "faith",
+        "fear"
+      ]
+    },
+    {
+      "reference": "Haggai 2:9",
+      "text": "The glory of this latter house shall be greater than of the former, saith the LORD of hosts: and in this place will I give peace, saith the LORD of hosts.",
+      "themes": [
+        "hope",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Zechariah 4:6",
+      "text": "Then he answered and spake unto me, saying, This is the word of the LORD unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the LORD of hosts.",
+      "themes": [
+        "faith",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Zechariah 9:9",
+      "text": "Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.",
+      "themes": [
+        "joy",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Malachi 3:6",
+      "text": "For I am the LORD, I change not; therefore ye sons of Jacob are not consumed.",
+      "themes": [
+        "comfort",
+        "faith"
+      ]
+    },
+    {
+      "reference": "Malachi 3:10",
+      "text": "Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.",
+      "themes": [
+        "faith",
+        "provision"
+      ]
+    },
+    {
+      "reference": "Jude 1:24",
+      "text": "Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy,",
+      "themes": [
+        "hope",
+        "strength"
+      ]
+    },
+    {
+      "reference": "Philemon 1:7",
+      "text": "For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother.",
+      "themes": [
+        "joy",
+        "love"
+      ]
+    },
+    {
+      "reference": "2John 1:3",
+      "text": "Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.",
+      "themes": [
+        "love",
+        "peace"
+      ]
+    },
+    {
+      "reference": "2John 1:6",
+      "text": "And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it.",
+      "themes": [
+        "love",
+        "purpose"
+      ]
+    },
+    {
+      "reference": "3John 1:2",
+      "text": "Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth.",
+      "themes": [
+        "healing",
+        "joy"
+      ]
+    },
+    {
+      "reference": "3John 1:4",
+      "text": "I have no greater joy than to hear that my children walk in truth.",
+      "themes": [
+        "joy",
+        "love"
+      ]
+    },
+    {
+      "reference": "Leviticus 19:18",
+      "text": "Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the LORD.",
+      "themes": [
+        "general",
+        "love"
+      ]
+    },
+    {
+      "reference": "Leviticus 26:6",
+      "text": "And I will give peace in the land, and ye shall lie down, and none shall make you afraid: and I will rid evil beasts out of the land, neither shall the sword go through your land.",
+      "themes": [
+        "comfort",
+        "peace"
+      ]
+    },
+    {
+      "reference": "Ezekiel 34:16",
+      "text": "I will seek that which was lost, and bring again that which was driven away, and will bind up that which was broken, and will strengthen that which was sick: but I will destroy the fat and the strong; I will feed them with judgment.",
+      "themes": [
+        "comfort",
+        "grief",
+        "healing"
+      ]
+    },
+    {
+      "reference": "Ezekiel 36:26",
+      "text": "A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.",
+      "themes": [
+        "forgiveness",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Ezekiel 37:5",
+      "text": "Thus saith the Lord GOD unto these bones; Behold, I will cause breath to enter into you, and ye shall live:",
+      "themes": [
+        "healing",
+        "hope"
+      ]
+    },
+    {
+      "reference": "Obadiah 1:15",
+      "text": "For the day of the LORD is near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head.",
+      "themes": [
+        "justice",
+        "leadership"
       ]
     }
   ]

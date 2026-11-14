@@ -62,14 +62,14 @@ KEYWORDS = {
 # These aliases connect each news theme to verse themes that actually exist in
 # the library, otherwise selection silently falls back to a random verse.
 THEME_ALIASES = {
-    "conflict": ["peace", "hope", "faith", "wisdom"],
-    "disaster": ["hope", "faith", "grief", "gratitude"],
-    "grief": ["grief", "hope", "faith"],
-    "injustice": ["justice", "hope", "wisdom"],
-    "leadership": ["leadership", "wisdom", "justice"],
-    "hope": ["hope", "gratitude", "faith", "peace"],
-    "fear": ["fear", "hope", "faith", "peace"],
-    "general": ["hope", "gratitude", "faith", "wisdom"],
+    "conflict": ["peace", "courage", "hope", "faith", "strength", "comfort"],
+    "disaster": ["comfort", "hope", "provision", "strength", "faith", "healing"],
+    "grief": ["grief", "comfort", "hope", "healing", "faith"],
+    "injustice": ["justice", "hope", "courage", "faith", "mercy"],
+    "leadership": ["leadership", "wisdom", "justice", "humility", "purpose"],
+    "hope": ["hope", "joy", "faith", "gratitude", "purpose"],
+    "fear": ["fear", "courage", "peace", "strength", "comfort"],
+    "general": ["hope", "gratitude", "love", "joy", "faith", "purpose"],
 }
 
 # Rank verses by how they actually read, so an encouragement card gets
