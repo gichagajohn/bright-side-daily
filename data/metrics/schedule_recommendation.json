@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-11-14T16:50:46.699480",
+  "sample_posts": 0,
+  "hourly_averages": {},
+  "hours": {
+    "morning_motivation": 5,
+    "positive_quote": 7,
+    "self_improvement": 11,
+    "midday_encouragement": 13,
+    "evening_reflection": 16,
+    "bible_world_encouragement": 14
+  },
+  "confident": false,
+  "notes": [
+    "Not enough published data yet. Keeping the default schedule."
+  ]
+}
