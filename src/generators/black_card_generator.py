@@ -1,13 +1,30 @@
 """
 Black Card Generator — Bright Side Daily (Instagram edition)
 
-Creates elegant black-background quote cards for Instagram:
+Creates black-background quote cards for Instagram:
   - 1080 x 1350 (4:5 portrait, the best-performing Instagram ratio)
   - Pure near-black background with a soft radial glow
   - Category-specific typography (modern / elegant / playful)
-  - A stylish "JG" monogram signature at the bottom of every card
-    (no brand name is printed on the image)
   - Automatic text fitting so nothing ever overflows
+
+Two layouts, chosen with IG_CARD_STYLE:
+
+    tweet    (default) modelled on a social post: left aligned, regular
+             weight, generous black space, no label, no monogram.
+    plain    just the words, centred. No category label, no rule, no
+             monogram. The quote is the whole card.
+    branded  the earlier layout: small caps label, accent rule, divider
+             and the JG monogram.
+
+IG_MONOGRAM=on brings the monogram back on its own, in either layout.
+
+Tweet layout tuning (all measure against a 1080px wide card):
+    IG_CARD_FONT_SIZE    51    ~4.8% of the card width
+    IG_CARD_LINE_HEIGHT  1.30
+    IG_CARD_PADDING      72    left and right inset
+    IG_CARD_HANDLE       ""    optional grey line under the quote
+A Bible reference is always printed regardless of layout — a verse
+without its citation is not publishable.
 
 Instagram has no text-only posts, so every slot still produces
 a real, fully designed image — it is simply a designed card
@@ -73,6 +90,58 @@ FONT_STYLES = {
     },
 }
 
+# Every style resolves through this list as a last resort. Without it, a
+# missing font silently degrades to Pillow's 11px bitmap default, which puts a
+# speck of text on a 1080px card and still reports success.
+FONT_FALLBACK_BOLD = [
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+    "/usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf",
+    "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
+    "/usr/share/fonts/truetype/freefont/FreeSansBold.ttf",
+    "/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf",
+    "/usr/share/fonts/truetype/ubuntu/Ubuntu-B.ttf",
+]
+
+FONT_FALLBACK_REGULAR = [
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+    "/usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf",
+    "/usr/share/fonts/truetype/liberation/LiberationSans.ttf",
+    "/usr/share/fonts/truetype/freefont/FreeSans.ttf",
+    "/usr/share/fonts/truetype/noto/NotoSans-Regular.ttf",
+    "/usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf",
+]
+
+
+def resolve_font(candidates, size, bold):
+    """Return the first font that exists, or raise RuntimeError.
+
+    Raising is deliberate: a missing font must fail the run, not silently
+    publish a card with an 11px speck on it.
+    """
+
+    chain = list(candidates) + (
+        FONT_FALLBACK_BOLD if bold else FONT_FALLBACK_REGULAR
+    )
+
+    tried = []
+
+    for path in chain:
+        if Path(path).exists():
+            try:
+                return ImageFont.truetype(path, size)
+            except Exception as exc:            # unreadable or corrupt file
+                tried.append(f"{path} ({exc})")
+                continue
+        tried.append(path)
+
+    raise RuntimeError(
+        "No usable TrueType font found. Install fonts-dejavu-core "
+        "(sudo apt-get install -y fonts-dejavu-core). Tried: "
+        + ", ".join(tried[:4])
+        + ("..." if len(tried) > 4 else "")
+    )
+
+
 CATEGORY_STYLES = {
     "motivational_quotes": "modern",
     "self_improvement_quotes": "modern",
@@ -105,6 +174,26 @@ class BlackCardGenerator:
             os.getenv("IG_SIGNATURE", "JG").strip().upper() or "JG"
         )
 
+        style = (os.getenv("IG_CARD_STYLE") or "tweet").strip().lower()
+        self.style = style
+        self.tweet = style == "tweet"
+        self.plain = style in {"plain", "tweet"}
+
+        # Tweet layout: left aligned, regular weight, lots of black.
+        # Defaults are scaled from a measured reference (51px on a 1080 card,
+        # 1.30 line height, left aligned) so the proportions match exactly.
+        self.tweet_size = int(os.getenv("IG_CARD_FONT_SIZE", "51"))
+        self.tweet_leading = float(os.getenv("IG_CARD_LINE_HEIGHT", "1.30"))
+        self.tweet_pad = int(os.getenv("IG_CARD_PADDING", "72"))
+        self.handle = (os.getenv("IG_CARD_HANDLE") or "").strip()
+
+        # Monogram defaults off in plain layout, on in branded.
+        monogram = os.getenv("IG_MONOGRAM")
+        if monogram is None:
+            self.monogram = not self.plain
+        else:
+            self.monogram = monogram.strip().lower() in {"1", "on", "true", "yes"}
+
     # ── Helpers ───────────────────────────────────────────────────────────────
 
     def _style_name(self, post):
@@ -112,22 +201,14 @@ class BlackCardGenerator:
 
     @staticmethod
     def _font(style_name, size, bold=True):
-        style = FONT_STYLES[style_name]
+        style = FONT_STYLES.get(style_name, FONT_STYLES["modern"])
         candidates = style["bold"] if bold else style["regular"]
 
-        for path in candidates:
-            if Path(path).exists():
-                return ImageFont.truetype(path, size)
-
-        return ImageFont.load_default()
+        return resolve_font(candidates, size, bold)
 
     @staticmethod
     def _signature_font(size):
-        for path in SIGNATURE_FONT:
-            if Path(path).exists():
-                return ImageFont.truetype(path, size)
-
-        return ImageFont.load_default()
+        return resolve_font(SIGNATURE_FONT, size, bold=True)
 
     def _draw_signature(self, draw, accent):
         """Draw a stylish circled monogram (e.g. JG) as the signature."""
@@ -257,7 +338,9 @@ class BlackCardGenerator:
             raise ValueError("Post has no content to render")
 
         # Bible posts read better with the reference separated from the verse.
-        verse_reference = post.get("bible_reference", "")
+        verse_reference = (
+            post.get("bible_reference") or post.get("reference") or ""
+        )
 
         if verse_reference and content.startswith(verse_reference):
             content = content[len(verse_reference):].lstrip()
@@ -281,53 +364,76 @@ class BlackCardGenerator:
             "TODAY'S POST",
         )
 
-        # ── Top label ─────────────────────────────────────────────────────────
-        label_font = self._font(style_name, 26, bold=True)
-        label_spacing = self._spaced(label)
+        if not self.plain:
+            # ── Top label ─────────────────────────────────────────────────────
+            label_font = self._font(style_name, 26, bold=True)
+            label_spacing = self._spaced(label)
 
-        label_width = draw.textbbox((0, 0), label_spacing, font=label_font)[2]
-        draw.text(
-            ((WIDTH - label_width) // 2, 150),
-            label_spacing,
-            font=label_font,
-            fill=style["accent"],
-        )
+            label_width = draw.textbbox((0, 0), label_spacing, font=label_font)[2]
+            draw.text(
+                ((WIDTH - label_width) // 2, 150),
+                label_spacing,
+                font=label_font,
+                fill=style["accent"],
+            )
 
-        # ── Short accent rule ─────────────────────────────────────────────────
-        rule_y = 210
-        draw.line(
-            (WIDTH // 2 - 45, rule_y, WIDTH // 2 + 45, rule_y),
-            fill=style["accent"],
-            width=3,
-        )
+            # ── Short accent rule ─────────────────────────────────────────────
+            rule_y = 210
+            draw.line(
+                (WIDTH // 2 - 45, rule_y, WIDTH // 2 + 45, rule_y),
+                fill=style["accent"],
+                width=3,
+            )
 
         # ── Bible reference (accent line above the verse) ─────────────────────
-        if verse_reference:
+        if verse_reference and not self.tweet:
             reference_font = self._font(style_name, 40, bold=True)
             reference_text = verse_reference
             reference_width = draw.textbbox(
                 (0, 0), reference_text, font=reference_font
             )[2]
 
+            reference_y = 400 if self.plain else 262
             draw.text(
-                ((WIDTH - reference_width) // 2, 262),
+                ((WIDTH - reference_width) // 2, reference_y),
                 reference_text,
                 font=reference_font,
                 fill=style["accent"],
             )
 
+        # ── Tweet layout: words only, left aligned ────────────────────────────
+        if self.tweet:
+            self._render_tweet(image, draw, content, style, verse_reference)
+
+            if output_path is None:
+                slot = post.get("slot", "post")
+                index = post.get("content_index", 0)
+                output_path = OUTPUT_DIR / f"{slot}_{index}.jpg"
+
+            output_path = Path(output_path)
+            output_path.parent.mkdir(parents=True, exist_ok=True)
+            image.save(output_path, "JPEG", quality=92, optimize=True)
+            return str(output_path)
+
         # ── Main quote ────────────────────────────────────────────────────────
-        max_width = WIDTH - (MARGIN * 2)
+        # Plain layout has the whole frame to itself, so it can run wider and
+        # taller than the branded one.
+        max_width = WIDTH - (MARGIN * (1 if self.plain else 2))
+        max_height = 900 if self.plain else (640 if verse_reference else 700)
+
         font, lines, line_height = self._fit(
             draw,
             content,
             style_name,
             max_width,
-            max_height=640 if verse_reference else 700,
+            max_height=max_height,
         )
 
         total_height = line_height * len(lines)
         y = (HEIGHT - total_height) // 2 - (60 if verse_reference else 10)
+
+        if self.plain and verse_reference:
+            y -= 30
 
         for line in lines:
             width = draw.textbbox((0, 0), line, font=font)[2]
@@ -339,15 +445,16 @@ class BlackCardGenerator:
             )
             y += line_height
 
-        # ── Divider above the signature ───────────────────────────────────────
-        draw.line(
-            (MARGIN, HEIGHT - 232, WIDTH - MARGIN, HEIGHT - 232),
-            fill=RULE,
-            width=2,
-        )
+        if self.monogram:
+            # ── Divider above the signature ───────────────────────────────────
+            draw.line(
+                (MARGIN, HEIGHT - 232, WIDTH - MARGIN, HEIGHT - 232),
+                fill=RULE,
+                width=2,
+            )
 
-        # ── JG monogram signature (the only branding on the card) ─────────────
-        self._draw_signature(draw, style["accent"])
+            # ── JG monogram (the only branding on the card) ───────────────────
+            self._draw_signature(draw, style["accent"])
 
         # ── Save ──────────────────────────────────────────────────────────────
         if output_path is None:
@@ -360,6 +467,67 @@ class BlackCardGenerator:
 
         image.save(output_path, "JPEG", quality=92, optimize=True)
         return str(output_path)
+
+    # ── Tweet-style layout ────────────────────────────────────────────────────
+
+    def _tweet_lines(self, draw, content):
+        """Wrap at the tweet font size, left aligned."""
+
+        font = self._font("modern", self.tweet_size, bold=False)
+        max_width = WIDTH - (self.tweet_pad * 2)
+
+        words = content.split()
+        lines, current = [], ""
+
+        for word in words:
+            trial = f"{current} {word}".strip()
+
+            if draw.textbbox((0, 0), trial, font=font)[2] <= max_width or not current:
+                current = trial
+            else:
+                lines.append(current)
+                current = word
+
+        if current:
+            lines.append(current)
+
+        return font, lines
+
+    def _render_tweet(self, image, draw, content, style, reference=""):
+        """Left-aligned, regular weight, generous black space.
+
+        Deliberately has no label, rule or monogram: the words are the card.
+        """
+
+        font, lines = self._tweet_lines(draw, content)
+        pitch = int(self.tweet_size * self.tweet_leading)
+
+        block_height = pitch * len(lines)
+
+        # Attribution line under the quote: the verse reference if there is
+        # one, otherwise the optional IG_CARD_HANDLE. Left aligned, grey.
+        attribution = reference or self.handle
+
+        handle_font = self._font("modern", int(self.tweet_size * 0.82), bold=False)
+        handle_gap = int(self.tweet_size * 1.9) if attribution else 0
+
+        total = block_height + handle_gap
+
+        y = (HEIGHT - total) // 2
+        if y < self.tweet_pad * 2:
+            y = self.tweet_pad * 2
+
+        for line in lines:
+            draw.text((self.tweet_pad, y), line, font=font, fill=TEXT)
+            y += pitch
+
+        if attribution:
+            draw.text(
+                (self.tweet_pad, y + int(self.tweet_size * 0.45)),
+                attribution,
+                font=handle_font,
+                fill=SUBTLE,
+            )
 
     @staticmethod
     def _spaced(text, amount=3):

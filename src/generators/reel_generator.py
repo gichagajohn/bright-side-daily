@@ -50,6 +50,7 @@ from generators.black_card_generator import (
     CATEGORY_LABELS,
     CATEGORY_STYLES,
     FONT_STYLES,
+    resolve_font,
 )
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -348,11 +349,7 @@ def _font(style_name, size, bold=True):
     style = FONT_STYLES.get(style_name, FONT_STYLES["modern"])
     candidates = style["bold"] if bold else style["regular"]
 
-    for path in candidates:
-        if Path(path).exists():
-            return ImageFont.truetype(path, size)
-
-    return ImageFont.load_default()
+    return resolve_font(candidates, size, bold)
 
 
 def _spaced(text, tracking=1):

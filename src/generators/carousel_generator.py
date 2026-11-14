@@ -20,6 +20,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
 from generators.black_card_generator import (
+    resolve_font,
     BlackCardGenerator,
     CATEGORY_STYLES,
     FONT_STYLES,
@@ -210,11 +211,7 @@ def _font(style_name, size, bold=True):
     style = FONT_STYLES.get(style_name, FONT_STYLES["modern"])
     candidates = style["bold"] if bold else style["regular"]
 
-    for path in candidates:
-        if Path(path).exists():
-            return ImageFont.truetype(path, size)
-
-    return ImageFont.load_default()
+    return resolve_font(candidates, size, bold)
 
 
 def _spaced(text, tracking=1):
@@ -309,8 +306,6 @@ def _slide_actions(post, accent, style_name):
             line_y += 46
 
         y = line_y + 62
-
-    draw.line((MARGIN, HEIGHT - 232, WIDTH - MARGIN, HEIGHT - 232), fill=RULE, width=2)
 
     return image
 
