@@ -23088,5 +23088,26 @@
       "post_id": "1181533578372151_122144706807364831"
     },
     "timestamp": "2026-11-13T23:07:56.311277"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Big results are just small habits that refused to quit.",
+      "content_index": 703,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T11:46:46.918153",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Big results are just small habits that refused to quit.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144785305364831",
+      "post_id": "1181533578372151_122144785329364831"
+    },
+    "timestamp": "2026-11-14T11:46:53.357800"
   }
 ]
