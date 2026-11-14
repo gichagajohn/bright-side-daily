@@ -151,6 +151,7 @@ CATEGORY_STYLES = {
     "bible_quotes": "elegant",
     "meme_captions": "playful",
     "engagement_questions": "playful",
+    "relatable_quotes": "modern",
 }
 
 CATEGORY_LABELS = {
@@ -162,6 +163,7 @@ CATEGORY_LABELS = {
     "bible_quotes": "VERSE OF THE DAY",
     "meme_captions": "TODAY'S MOOD",
     "engagement_questions": "QUESTION OF THE DAY",
+    "relatable_quotes": "RELATABLE",
 }
 
 

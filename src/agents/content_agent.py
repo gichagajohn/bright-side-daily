@@ -21,7 +21,7 @@ LOW_THRESHOLD = 30  # regenerate when fewer than this remain
 SLOT_CATEGORY = {
     "morning_motivation": "motivational_quotes",
     "positive_quote": "positive_life_quotes",
-    "funny_meme": "meme_captions",
+    "funny_meme": "relatable_quotes",
     "self_improvement": "self_improvement_quotes",
     "midday_encouragement": "encouragement_quotes",
     "evening_reflection": "gratitude_quotes",
@@ -31,6 +31,7 @@ SLOT_CATEGORY = {
     "afternoon_wisdom": "positive_life_quotes",
     "gratitude_moment": "gratitude_quotes",
     "night_inspiration": "motivational_quotes",
+    "relatable_meme": "relatable_quotes",
 }
 
 CATEGORY_FILE = {
@@ -42,6 +43,7 @@ CATEGORY_FILE = {
     "meme_captions": CONTENT_DIR / "memes" / "captions.json",
     "engagement_questions": CONTENT_DIR / "questions" / "engagement.json",
     "bible_quotes": CONTENT_DIR / "bible" / "verses.json",
+    "relatable_quotes": CONTENT_DIR / "memes" / "relatable.json",
 }
 
 # Engagement performance weights (start equal, updated by performance agent)
@@ -54,6 +56,7 @@ DEFAULT_WEIGHTS = {
     "meme_captions": 1.0,
     "engagement_questions": 1.0,
     "bible_quotes": 1.0,
+    "relatable_quotes": 1.0,
 }
 
 

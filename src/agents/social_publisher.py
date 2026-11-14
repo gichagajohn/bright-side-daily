@@ -38,11 +38,13 @@ log = logging.getLogger("social_publisher")
 
 # These slots stay Facebook-only.
 INSTAGRAM_EXCLUDED_SLOTS = {
-    "funny_meme",
+    # funny_meme now carries the relatable bank and does run on Instagram.
     "engagement_question",
 }
 
 INSTAGRAM_EXCLUDED_CATEGORIES = {
+    # meme_captions is retired; kept here so it can never reach Instagram
+    # if a slot is ever pointed back at it by mistake.
     "meme_captions",
     "engagement_questions",
 }

@@ -180,6 +180,11 @@ ACTIONS = {
          "Tag someone who does this and denies it.",
          "Save it for Monday morning."],
     ],
+    "relatable_quotes": [
+        ["Send this to the one person it describes exactly.",
+         "Tag them. Do not explain.",
+         "Save it for when you need to win an argument."],
+    ],
     "engagement_questions": [
         ["Answer in one honest sentence.",
          "Read the comments before you reply to anyone.",
