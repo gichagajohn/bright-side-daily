@@ -23172,5 +23172,26 @@
       "post_id": "1181533578372151_122144800539364831"
     },
     "timestamp": "2026-11-14T13:58:51.943546"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Keep going until it becomes your success story.",
+      "content_index": 539,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T14:06:29.540789",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Keep going until it becomes your success story.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144801433364831",
+      "post_id": "1181533578372151_122144801457364831"
+    },
+    "timestamp": "2026-11-14T14:06:35.212447"
   }
 ]
