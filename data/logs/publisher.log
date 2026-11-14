@@ -16049,3 +16049,35 @@ Send this to the person it describes exactly 😂
 2026-11-14 17:47:19,993 [INFO] Instagram post published [funny_meme]
 2026-11-14 17:47:20,258 [INFO] ✅ Facebook published [funny_meme]
 2026-11-14 17:47:20,258 [INFO] ✅ Instagram published [funny_meme]
+2026-11-14 19:50:52,199 [INFO] Failed posts list is empty.
+2026-11-14 19:50:52,315 [INFO] ──────────────────────────────────────────────────
+2026-11-14 19:50:52,315 [INFO] ▶  Running slot: morning_motivation
+2026-11-14 19:50:52,315 [INFO] ──────────────────────────────────────────────────
+2026-11-14 19:50:52,475 [INFO] 📝 Content selected: Be stubborn about the goal and flexible about the method....
+2026-11-14 19:50:53,444 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_747.jpg
+2026-11-14 19:50:53,445 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_747.jpg
+2026-11-14 19:50:53,445 [INFO] Caption preview: ☀️ Be stubborn about the goal and flexible about the method.
+
+Share this with someone who needs it today! 💛
+
+#Motivation...
+2026-11-14 19:50:57,002 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-14 19:50:58,218 [INFO] Voice-over: en-KE-ChilembaNeural (10 words timed)
+2026-11-14 19:50:58,239 [INFO] Rendering reel: 8.0s, 10 words
+2026-11-14 19:51:11,582 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_747.mp4 (240 KB, 8.0s, 240 frames)
+2026-11-14 19:51:11,588 [INFO] Instagram reel [morning_motivation] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_747.mp4
+2026-11-14 19:51:12,414 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/26d1abc4cb1b482691c5542e89aa7662.mp4
+2026-11-14 19:51:14,649 [INFO] Container 18057723008804035 status: IN_PROGRESS (1/12)
+2026-11-14 19:51:20,085 [INFO] Container 18057723008804035 status: IN_PROGRESS (2/12)
+2026-11-14 19:51:25,546 [INFO] Container 18057723008804035 status: IN_PROGRESS (3/12)
+2026-11-14 19:51:31,000 [INFO] Container 18057723008804035 status: IN_PROGRESS (4/12)
+2026-11-14 19:51:36,299 [INFO] Container 18057723008804035 status: IN_PROGRESS (5/12)
+2026-11-14 19:51:41,577 [INFO] Container 18057723008804035 status: IN_PROGRESS (6/12)
+2026-11-14 19:51:46,892 [INFO] Container 18057723008804035 status: IN_PROGRESS (7/12)
+2026-11-14 19:51:52,279 [INFO] Container 18057723008804035 status: IN_PROGRESS (8/12)
+2026-11-14 19:51:57,697 [INFO] Container 18057723008804035 status: IN_PROGRESS (9/12)
+2026-11-14 19:52:03,022 [INFO] Container 18057723008804035 status: IN_PROGRESS (10/12)
+2026-11-14 19:52:08,472 [INFO] Container 18057723008804035 status: IN_PROGRESS (11/12)
+2026-11-14 19:52:13,895 [INFO] Container 18057723008804035 status: IN_PROGRESS (12/12)
+2026-11-14 19:52:19,523 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-14 19:52:19,523 [ERROR] ❌ Instagram failed [morning_motivation]: Container did not finish processing.

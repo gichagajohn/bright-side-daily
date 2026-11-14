@@ -23277,5 +23277,26 @@
       "post_id": "1181533578372151_122144828211364831"
     },
     "timestamp": "2026-11-14T17:47:05.952967"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Be stubborn about the goal and flexible about the method.",
+      "content_index": 747,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T19:50:52.475737",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Be stubborn about the goal and flexible about the method.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144840013364831",
+      "post_id": "1181533578372151_122144840037364831"
+    },
+    "timestamp": "2026-11-14T19:50:57.004858"
   }
 ]
