@@ -8,10 +8,13 @@ Publishes one post to every enabled platform:
     Instagram → every slot EXCEPT funny_meme (daily humor) and
                 engagement_question (question of the day).
 
-                Format is chosen with IG_MEDIA_TYPE:
-                  IMAGE    (default) black card with JG monogram
-                  CAROUSEL three slides — quote, actions, signature
-                  REELS    15s vertical video built from the card
+                Format is chosen per slot by DEFAULT_FORMAT_PLAN:
+                  REELS    morning_motivation, night_inspiration
+                  CAROUSEL positive_quote, evening_reflection
+                  IMAGE    everything else
+                Override with IG_REEL_SLOTS / IG_CAROUSEL_SLOTS, or
+                IG_MEDIA_TYPE_<SLOT> for a single slot, or IG_MEDIA_TYPE for
+                everything at once.
 
 Instagram failures never block a Facebook post. If Instagram is not
 configured, it is simply skipped.
@@ -66,19 +69,109 @@ def _instagram_enabled():
     return bool(has_account and has_storage)
 
 
+# ── Format plan ───────────────────────────────────────────────────────────────
+# A slot posts exactly one format. The default plan keeps carousels to two a
+# day and gives reels the two bookend slots, where they earn the most reach.
+#
+#   REELS     morning + night — video is the discovery format
+#   CAROUSEL  mid-morning + evening — carousels are the save format
+#   IMAGE     everything else — the cheap, reliable default
+#
+# Override without touching code:
+#   IG_REEL_SLOTS      comma separated slot names to render as reels
+#   IG_CAROUSEL_SLOTS  comma separated slot names to render as carousels
+#   IG_MEDIA_TYPE_<SLOT>  one slot, exact wins (e.g. IG_MEDIA_TYPE_BIBLE_...)
+#   IG_MEDIA_TYPE      force one format everywhere, ignoring the plan
+
+DEFAULT_FORMAT_PLAN = {
+    "REELS": {"morning_motivation", "night_inspiration"},
+    "CAROUSEL": {"positive_quote", "evening_reflection"},
+}
+
+VALID_FORMATS = {"IMAGE", "CAROUSEL", "REELS"}
+
+
+def _clean(value):
+    """Normalise a format name, or return None when it is not one."""
+
+    if not value:
+        return None
+
+    candidate = value.strip().upper()
+    return candidate if candidate in VALID_FORMATS else None
+
+
+def _slot_list(variable):
+    """Parse a comma separated slot list from the environment."""
+
+    raw = os.environ.get(variable)
+
+    if not raw:
+        return None
+
+    return {
+        name.strip().lower()
+        for name in raw.split(",")
+        if name.strip()
+    }
+
+
+def _media_type_for(slot):
+    """Decide this slot's format.
+
+    Order of precedence:
+        1. IG_MEDIA_TYPE_<SLOT>   one slot, exact
+        2. IG_REEL_SLOTS / IG_CAROUSEL_SLOTS   a custom plan
+        3. IG_MEDIA_TYPE          a global override
+        4. DEFAULT_FORMAT_PLAN    what ships in the repo
+    """
+
+    name = str(slot or "").strip().lower()
+
+    exact = _clean(os.environ.get(f"IG_MEDIA_TYPE_{name.upper()}"))
+
+    if exact:
+        return exact
+
+    reels = _slot_list("IG_REEL_SLOTS")
+    carousels = _slot_list("IG_CAROUSEL_SLOTS")
+
+    if reels is not None or carousels is not None:
+        if name in (carousels or set()):
+            return "CAROUSEL"
+        if name in (reels or set()):
+            return "REELS"
+        return "IMAGE"
+
+    forced = _clean(os.environ.get("IG_MEDIA_TYPE"))
+
+    if forced:
+        return forced
+
+    if name in DEFAULT_FORMAT_PLAN["CAROUSEL"]:
+        return "CAROUSEL"
+
+    if name in DEFAULT_FORMAT_PLAN["REELS"]:
+        return "REELS"
+
+    return "IMAGE"
+
+
 def _publish_instagram(post):
     """Publish to Instagram using the configured media type."""
 
-    media_type = (os.environ.get("IG_MEDIA_TYPE") or "IMAGE").strip().upper()
+    media_type = _media_type_for(post.get("slot"))
     publisher = InstagramPublisher()
 
     if media_type == "REELS":
         try:
-            card = BlackCardGenerator().generate(post)
-            video = generate_reel(card)
+            # The animated reel draws its own frames, so it needs the post,
+            # not a card. It still returns None if it cannot render.
+            video = generate_reel(post)
 
             if not video:
                 log.warning("Reel rendering unavailable; posting the card instead.")
+                card = BlackCardGenerator().generate(post)
                 return publisher.publish(post, card)
 
             return publisher.publish_reel(post, video)

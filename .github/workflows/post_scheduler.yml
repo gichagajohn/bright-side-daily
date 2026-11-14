@@ -5,15 +5,15 @@ on:
     # ── All times UTC. Kenya EAT = UTC+3 ──────────────────────────────────
     # Facebook allows up to ~25 posts/day. 10 posts is well within limits.
     #
+    # Seven Instagram posts, one per category, with motivational bookending
+    # the day 13 hours apart. Bible is posted by bible_post.yml at 0 14.
+    #
     #  UTC   →  EAT      Slot
     - cron: '0 5 * * *'   # 08:00 AM EAT — Morning Motivation
     - cron: '0 7 * * *'   # 10:00 AM EAT — Positive Quote
     - cron: '0 8 * * *'   # 11:00 AM EAT — Self Improvement
     - cron: '0 9 * * *'   # 12:00 PM EAT — Funny Meme
     - cron: '0 10 * * *'  # 01:00 PM EAT — Midday Encouragement
-    - cron: '0 11 * * *'  # 02:00 PM EAT — Afternoon Wisdom
-    - cron: '0 13 * * *'  # 04:00 PM EAT — Gratitude Moment
-    - cron: '0 14 * * *'  # 05:00 PM EAT — Bible World Encouragement
     - cron: '0 15 * * *'  # 06:00 PM EAT — Engagement Question
     - cron: '0 16 * * *'  # 07:00 PM EAT — Evening Reflection
     - cron: '0 18 * * *'  # 09:00 PM EAT — Night Inspiration
@@ -88,12 +88,6 @@ jobs:
             SLOT="funny_meme"
           elif [ "$HOUR" = "10" ]; then
             SLOT="midday_encouragement"
-          elif [ "$HOUR" = "11" ]; then
-            SLOT="afternoon_wisdom"
-          elif [ "$HOUR" = "13" ]; then
-            SLOT="gratitude_moment"
-          elif [ "$HOUR" = "14" ]; then
-            SLOT="bible_world_encouragement"
           elif [ "$HOUR" = "15" ]; then
             SLOT="engagement_question"
           elif [ "$HOUR" = "16" ]; then

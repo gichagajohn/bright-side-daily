@@ -27,6 +27,10 @@ SLOT_CATEGORY = {
     "evening_reflection": "gratitude_quotes",
     "engagement_question": "engagement_questions",
     "bible_world_encouragement": "bible_quotes",
+    # Aliases used by the post_scheduler workflow's later crons.
+    "afternoon_wisdom": "positive_life_quotes",
+    "gratitude_moment": "gratitude_quotes",
+    "night_inspiration": "motivational_quotes",
 }
 
 CATEGORY_FILE = {
@@ -150,7 +154,17 @@ class ContentAgent:
 
         # Weighted random selection (prefer unseen, recent gets slight penalty)
         chosen_idx = random.choice(remaining)
-        content = items[chosen_idx]
+        raw = items[chosen_idx]
+
+        # Bible verses are stored as {reference, text}; every other category is
+        # a plain string. Normalise here so everything downstream can assume
+        # `content` is text and the citation travels separately.
+        if isinstance(raw, dict):
+            content = str(raw.get("text") or raw.get("content") or "").strip()
+            reference = raw.get("reference")
+        else:
+            content = raw
+            reference = None
 
         # Mark as posted
         self.state["posted"].setdefault(category, [])
@@ -161,7 +175,8 @@ class ContentAgent:
 
         # Build post payload
         visual_theme = self._pick_visual_theme(category, content)
-        return {
+
+        post = {
             "slot": slot,
             "category": category,
             "content": content,
@@ -171,6 +186,11 @@ class ContentAgent:
             "timestamp": datetime.utcnow().isoformat(),
             "weight_used": self.weights.get(category, 1.0),
         }
+
+        if reference:
+            post["reference"] = reference
+
+        return post
 
     def pick_all_daily(self) -> list:
         """Pick content for all 7 daily slots."""
