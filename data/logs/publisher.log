@@ -16107,3 +16107,29 @@ Share this with someone who needs it today! 💛
 2026-11-14 20:11:41,449 [INFO] Instagram post published [morning_motivation]
 2026-11-14 20:11:41,646 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-14 20:11:41,646 [INFO] ✅ Instagram published [morning_motivation]
+2026-11-14 21:53:07,008 [INFO] Failed posts list is empty.
+2026-11-14 21:53:07,194 [INFO] ──────────────────────────────────────────────────
+2026-11-14 21:53:07,195 [INFO] ▶  Running slot: morning_motivation
+2026-11-14 21:53:07,195 [INFO] ──────────────────────────────────────────────────
+2026-11-14 21:53:07,454 [INFO] 📝 Content selected: You can be tired and still be moving. Both are allowed....
+2026-11-14 21:53:08,179 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_710.jpg
+2026-11-14 21:53:08,179 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_710.jpg
+2026-11-14 21:53:08,180 [INFO] Caption preview: ☀️ You can be tired and still be moving. Both are allowed.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #...
+2026-11-14 21:53:11,963 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-14 21:53:13,495 [INFO] Voice-over: en-KE-ChilembaNeural (11 words timed)
+2026-11-14 21:53:13,525 [INFO] Rendering reel: 8.2s, 11 words
+2026-11-14 21:53:38,200 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_710.mp4 (241 KB, 8.2s, 244 frames)
+2026-11-14 21:53:38,208 [INFO] Instagram reel [morning_motivation] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_710.mp4
+2026-11-14 21:53:38,904 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/3834277d90b148c18e1f0a2ca682e14e.mp4
+2026-11-14 21:53:40,775 [INFO] Container 18057733019804035 status: IN_PROGRESS (1/12)
+2026-11-14 21:53:46,136 [INFO] Container 18057733019804035 status: IN_PROGRESS (2/12)
+2026-11-14 21:53:51,404 [INFO] Container 18057733019804035 status: IN_PROGRESS (3/12)
+2026-11-14 21:53:56,691 [INFO] Container 18057733019804035 status: IN_PROGRESS (4/12)
+2026-11-14 21:54:02,111 [INFO] Container 18057733019804035 status: IN_PROGRESS (5/12)
+2026-11-14 21:54:16,476 [INFO] Instagram post published [morning_motivation]
+2026-11-14 21:54:16,771 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-14 21:54:16,772 [INFO] ✅ Instagram published [morning_motivation]
