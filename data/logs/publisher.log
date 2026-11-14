@@ -15867,3 +15867,19 @@ Share this with someone who needs it today! 💛
 2026-11-14 11:47:58,411 [INFO] Instagram post published [morning_motivation]
 2026-11-14 11:47:58,655 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-14 11:47:58,655 [INFO] ✅ Instagram published [morning_motivation]
+2026-11-14 11:51:44,494 [INFO] Failed posts list is empty.
+2026-11-14 11:51:44,665 [INFO] ──────────────────────────────────────────────────
+2026-11-14 11:51:44,665 [INFO] ▶  Running slot: afternoon_wisdom
+2026-11-14 11:51:44,665 [INFO] ──────────────────────────────────────────────────
+2026-11-14 11:51:44,927 [INFO] 📝 Content selected: Cherish the little things. One day you'll look back and realize they were the bi...
+2026-11-14 11:51:45,895 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/afternoon_wisdom_159.jpg
+2026-11-14 11:51:45,896 [INFO] Publishing [afternoon_wisdom] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/afternoon_wisdom_159.jpg
+2026-11-14 11:51:45,896 [INFO] Caption preview: ✨ Cherish the little things. One day you'll look back and realize they were the big things.
+
+Share this with someone who...
+2026-11-14 11:51:49,671 [INFO] ✅ Posted successfully [afternoon_wisdom]
+2026-11-14 11:51:49,715 [INFO] Instagram publish [afternoon_wisdom] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/instagram/afternoon_wisdom_159.jpg
+2026-11-14 11:51:50,375 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/b56800c692b9478e963d733aecf90f1d.jpg
+2026-11-14 11:52:02,783 [INFO] Instagram post published [afternoon_wisdom]
+2026-11-14 11:52:03,100 [INFO] ✅ Facebook published [afternoon_wisdom]
+2026-11-14 11:52:03,100 [INFO] ✅ Instagram published [afternoon_wisdom]
