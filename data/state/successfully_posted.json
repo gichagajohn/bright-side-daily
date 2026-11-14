@@ -23298,5 +23298,26 @@
       "post_id": "1181533578372151_122144840037364831"
     },
     "timestamp": "2026-11-14T19:50:57.004858"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your biggest obstacle is the story you keep telling yourself.",
+      "content_index": 42,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T20:10:33.747446",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your biggest obstacle is the story you keep telling yourself.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144841879364831",
+      "post_id": "1181533578372151_122144841915364831"
+    },
+    "timestamp": "2026-11-14T20:10:38.529599"
   }
 ]

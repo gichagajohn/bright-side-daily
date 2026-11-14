@@ -16081,3 +16081,29 @@ Share this with someone who needs it today! 💛
 2026-11-14 19:52:13,895 [INFO] Container 18057723008804035 status: IN_PROGRESS (12/12)
 2026-11-14 19:52:19,523 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-14 19:52:19,523 [ERROR] ❌ Instagram failed [morning_motivation]: Container did not finish processing.
+2026-11-14 20:10:33,246 [INFO] Failed posts list is empty.
+2026-11-14 20:10:33,425 [INFO] ──────────────────────────────────────────────────
+2026-11-14 20:10:33,425 [INFO] ▶  Running slot: morning_motivation
+2026-11-14 20:10:33,425 [INFO] ──────────────────────────────────────────────────
+2026-11-14 20:10:33,747 [INFO] 📝 Content selected: Your biggest obstacle is the story you keep telling yourself....
+2026-11-14 20:10:34,349 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_42.jpg
+2026-11-14 20:10:34,349 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_42.jpg
+2026-11-14 20:10:34,349 [INFO] Caption preview: ☀️ Your biggest obstacle is the story you keep telling yourself.
+
+Share this with someone who needs it today! 💛
+
+#Motiva...
+2026-11-14 20:10:38,524 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-14 20:10:39,955 [INFO] Voice-over: en-KE-ChilembaNeural (10 words timed)
+2026-11-14 20:10:39,985 [INFO] Rendering reel: 8.0s, 10 words
+2026-11-14 20:11:05,044 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_42.mp4 (245 KB, 8.0s, 240 frames)
+2026-11-14 20:11:05,053 [INFO] Instagram reel [morning_motivation] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_42.mp4
+2026-11-14 20:11:05,836 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/5f7380b3b7834891a422be95a95b4bd3.mp4
+2026-11-14 20:11:07,082 [INFO] Container 18057724112804035 status: IN_PROGRESS (1/12)
+2026-11-14 20:11:12,282 [INFO] Container 18057724112804035 status: IN_PROGRESS (2/12)
+2026-11-14 20:11:17,404 [INFO] Container 18057724112804035 status: IN_PROGRESS (3/12)
+2026-11-14 20:11:22,536 [INFO] Container 18057724112804035 status: IN_PROGRESS (4/12)
+2026-11-14 20:11:28,571 [INFO] Container 18057724112804035 status: IN_PROGRESS (5/12)
+2026-11-14 20:11:41,449 [INFO] Instagram post published [morning_motivation]
+2026-11-14 20:11:41,646 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-14 20:11:41,646 [INFO] ✅ Instagram published [morning_motivation]
