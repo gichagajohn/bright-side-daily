@@ -23130,5 +23130,26 @@
       "post_id": "1181533578372151_122144785881364831"
     },
     "timestamp": "2026-11-14T11:51:49.675849"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Let your work speak for itself in the loudest possible way.",
+      "content_index": 585,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T11:57:03.850310",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Let your work speak for itself in the loudest possible way.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144786277364831",
+      "post_id": "1181533578372151_122144786301364831"
+    },
+    "timestamp": "2026-11-14T11:57:08.465989"
   }
 ]
