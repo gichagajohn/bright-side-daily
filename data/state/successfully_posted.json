@@ -23193,5 +23193,26 @@
       "post_id": "1181533578372151_122144801457364831"
     },
     "timestamp": "2026-11-14T14:06:35.212447"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The gold is waiting for those who refuse to leave the mine.",
+      "content_index": 565,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T14:40:59.339531",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The gold is waiting for those who refuse to leave the mine.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144805045364831",
+      "post_id": "1181533578372151_122144805069364831"
+    },
+    "timestamp": "2026-11-14T14:41:06.218445"
   }
 ]

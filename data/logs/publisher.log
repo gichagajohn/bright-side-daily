@@ -15967,3 +15967,29 @@ Share this with someone who needs it today! 💛
 2026-11-14 14:07:52,533 [INFO] Container 18057675284804035 status: IN_PROGRESS (12/12)
 2026-11-14 14:07:57,774 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-14 14:07:57,774 [ERROR] ❌ Instagram failed [morning_motivation]: Container did not finish processing.
+2026-11-14 14:40:58,868 [INFO] Failed posts list is empty.
+2026-11-14 14:40:59,050 [INFO] ──────────────────────────────────────────────────
+2026-11-14 14:40:59,050 [INFO] ▶  Running slot: morning_motivation
+2026-11-14 14:40:59,050 [INFO] ──────────────────────────────────────────────────
+2026-11-14 14:40:59,339 [INFO] 📝 Content selected: The gold is waiting for those who refuse to leave the mine....
+2026-11-14 14:41:00,122 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_565.jpg
+2026-11-14 14:41:00,122 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_565.jpg
+2026-11-14 14:41:00,122 [INFO] Caption preview: ☀️ The gold is waiting for those who refuse to leave the mine.
+
+Share this with someone who needs it today! 💛
+
+#Motivati...
+2026-11-14 14:41:06,213 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-14 14:41:07,863 [INFO] Voice-over: en-KE-ChilembaNeural (12 words timed)
+2026-11-14 14:41:07,891 [INFO] Rendering reel: 8.0s, 12 words
+2026-11-14 14:41:31,795 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_565.mp4 (240 KB, 8.0s, 240 frames)
+2026-11-14 14:41:31,804 [INFO] Instagram reel [morning_motivation] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_565.mp4
+2026-11-14 14:41:33,268 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/b695758f0293454589be925a99fb7ec9.mp4
+2026-11-14 14:41:35,077 [INFO] Container 18057681497804035 status: IN_PROGRESS (1/12)
+2026-11-14 14:41:40,471 [INFO] Container 18057681497804035 status: IN_PROGRESS (2/12)
+2026-11-14 14:41:45,892 [INFO] Container 18057681497804035 status: IN_PROGRESS (3/12)
+2026-11-14 14:41:51,397 [INFO] Container 18057681497804035 status: IN_PROGRESS (4/12)
+2026-11-14 14:41:56,824 [INFO] Container 18057681497804035 status: IN_PROGRESS (5/12)
+2026-11-14 14:42:10,589 [INFO] Instagram post published [morning_motivation]
+2026-11-14 14:42:11,171 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-14 14:42:11,171 [INFO] ✅ Instagram published [morning_motivation]
