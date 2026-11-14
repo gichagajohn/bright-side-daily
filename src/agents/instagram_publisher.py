@@ -23,7 +23,10 @@ Both modes use the same two-step publish flow:
 
 Other environment variables:
     IG_API_VERSION        Graph API version, default v23.0
-    SUPABASE_*            used to host the image publicly
+    IG_MEDIA_TYPE         IMAGE | CAROUSEL | REELS   (default IMAGE)
+    IG_REEL_DURATION      seconds for generated reels (default 15)
+    IG_COLLABORATORS      comma-separated usernames for Collab posts
+    SUPABASE_*            used to host the media publicly
 """
 
 import json
@@ -73,6 +76,152 @@ CONTAINER_POLL_INTERVAL = 5
 CONTAINER_POLL_ATTEMPTS = 12
 
 
+# ── Hashtag strategy ─────────────────────────────────────────────────────────
+# Repeating one identical hashtag block on every post suppresses reach, so each
+# category rotates through several sets. Every set mixes broad discovery tags
+# with niche ones the account can realistically rank for.
+
+HASHTAG_SETS = {
+    "motivational_quotes": [
+        ["#motivation", "#dailyMotivation", "#mindset", "#selfBelief",
+         "#growthMindset", "#discipline", "#successMindset", "#morningMotivation",
+         "#keepGoing", "#innerStrength"],
+        ["#motivationalQuotes", "#dailyInspiration", "#lifeGoals", "#levelUp",
+         "#dreambig", "#hardWork", "#neverGiveUp", "#stayFocused",
+         "#positiveMindset", "#progress"],
+        ["#beInspired", "#dailyHustle", "#selfGrowth", "#ambition",
+         "#winTheDay", "#smallSteps", "#keepShowing",
+         "#mindsetshift", "#motivateYourself", "#dailyQuotes"],
+    ],
+    "positive_life_quotes": [
+        ["#positiveVibes", "#goodVibes", "#happyLife", "#joyfulliving",
+         "#simpleJoys", "#gratitudeDaily", "#brightSide", "#positiveEnergy",
+         "#sunnydays", "#mindfulLiving"],
+        ["#chooseJoy", "#everydayMagic", "#littleThings", "#slowliving",
+         "#goodEnergy", "#lifeIsBeautiful", "#smileMore", "#kindnessMatters",
+         "#hopeful", "#peacefulMind"],
+        ["#positiveThinking", "#lifelately", "#dailyHappiness", "#beautifulLife",
+         "#joyInTheJourney", "#presentMoment", "#softLife", "#innerPeace",
+         "#goodDaysAhead", "#contentment"],
+    ],
+    "self_improvement_quotes": [
+        ["#selfImprovement", "#growthMindset", "#personalDevelopment", "#habits",
+         "#discipline", "#betterEveryDay", "#selfDiscipline", "#goalSetting",
+         "#productivity", "#learnEveryDay"],
+        ["#selfGrowth", "#improvement", "#dailyHabits", "#focusAndDiscipline",
+         "#levelUpYourself", "#mindsetshift", "#personalGrowth", "#selfMastery",
+         "#consistency", "#becomeBetter"],
+        ["#selfDevelopment", "#habitBuilding", "#motivatedMindset", "#deepWork",
+         "#selfAwareness", "#buildYourself", "#dailyProgress", "#growthJourney",
+         "#learnAndGrow", "#futureYou"],
+    ],
+    "gratitude_quotes": [
+        ["#gratitude", "#thankful", "#gratefulHeart", "#blessed",
+         "#countYourBlessings", "#gratitudeDaily", "#thankfulHeart", "#appreciation",
+         "#gratefulLiving", "#joyfulHeart"],
+        ["#gratitudePractice", "#dailyGratitude", "#thankYouGod", "#blessedLife",
+         "#gratefulFor", "#simpleBlessings", "#thankfulness", "#heartFullOfThanks",
+         "#noticeTheGood", "#gratitudeAttitude"],
+        ["#thankfulEveryday",
+         "#gratefulMoments", "#blessingsOnBlessings", "#gratitudeJournal",
+         "#appreciateLife", "#goodnessOfGod", "#smallBlessings", "#thankfulLiving",
+         "#gratefulSoul", "#alreadyEnough"],
+    ],
+    "encouragement_quotes": [
+        ["#encouragement", "#youGotThis", "#keepGoing", "#stayStrong",
+         "#neverGiveUp", "#dontGiveUp", "#keepTheFaith", "#strengthAndCourage",
+         "#youAreEnough", "#brightSideDaily"],
+        ["#encouragingWords", "#dailyEncouragement", "#holdOn", "#keepPushing",
+         "#youMatter", "#strongerThanYouThink", "#oneDayAtATime", "#hopeDealer",
+         "#beKindToYourself", "#keepBelieving"],
+        ["#wordsOfEncouragement", "#youCanDoIt", "#stayHopeful", "#littleByLittle",
+         "#progressNotPerfection", "#beGentleWithYourself", "#youAreLoved",
+         "#faithOverFear", "#keepShowingUp", "#courage"],
+    ],
+    "meme_captions": [
+        ["#relatable", "#funnyMemes", "#dailyLaughs", "#memeLife",
+         "#thatisSoMe", "#humour", "#lol", "#relatableMemes",
+         "#lifeHumor", "#funnyPost"],
+        ["#memeOfTheDay", "#relatableContent", "#adultingMemes",
+         "#justForLaughs", "#comedyPost", "#sarcasm", "#sameHere",
+         "#mondayMood", "#workLifeMemes", "#genZHumour"],
+        ["#funnyQuotes", "#relatableQuotes", "#humourDaily", "#laughingOutLoud",
+         "#tiredButHappy", "#busyLife", "#everydayStruggles", "#reallifeMemes",
+         "#funnyLife", "#memesDaily"],
+    ],
+    "engagement_questions": [
+        ["#questionOfTheDay", "#communityPost", "#shareYourThoughts", "#letsTalk",
+         "#commentBelow", "#dailyQuestion", "#talkToMe", "#yourOpinion",
+         "#engagement", "#joinTheConversation"],
+        ["#askTheCommunity", "#whatDoYouThink", "#conversationStarter", "#yourAnswer",
+         "#communityLove", "#brightSideFamily", "#tellMe", "#discussion",
+         "#dailychat", "#friendlyDebate"],
+        ["#questionTime", "#communityQuestion",
+         "#shareYourStory", "#yourTake", "#openQuestion", "#talkToUs",
+         "#weekendChat", "#goodConversation", "#thoughts", "#replyBelow"],
+    ],
+    "bible_quotes": [
+        ["#bibleVerse", "#KJV", "#dailyVerse", "#faith", "#hope",
+         "#scripture", "#bibleQuotes", "#wordOfGod", "#christianInspiration",
+         "#verseOfTheDay"],
+        ["#kjvBible", "#bibleDaily", "#faithJourney", "#prayerWarrior", "#blessed",
+         "#godIsGood", "#walkByFaith", "#scriptureOfTheDay", "#trustGod",
+         "#dailyScripture"],
+        ["#bibleTruth", "#christianLiving", "#faithOverFear", "#prayersUp",
+         "#wordForToday", "#bibleEncouragement", "#hopeInGod", "#stillStanding",
+         "#verseForToday", "#faithfulGod"],
+    ],
+}
+
+# Extra tags attached only to Bible posts, chosen from the detected news theme.
+THEME_TAGS = {
+    "conflict": ["#prayForPeace", "#worldPeace"],
+    "disaster": ["#prayForTheWorld", "#hopeInHardTimes"],
+    "grief": ["#comfortInGrief", "#prayerForComfort"],
+    "injustice": ["#justiceAndMercy", "#prayForJustice"],
+    "leadership": ["#prayForLeaders", "#wisdomForLeaders"],
+    "hope": ["#hopeRestored", "#dailyHope"],
+    "fear": ["#fearNot", "#courageInFaith"],
+    "general": ["#dailyFaith", "#beEncouraged"],
+}
+
+# A short human line between the quote and the call to action. Kept specific
+# per category so a meme never gets a motivational closer.
+CONTEXT_LINE = {
+    "motivational_quotes": "You do not need more time. You need one honest hour. 💛",
+    "positive_life_quotes": "A small reminder for an ordinary day ☀️",
+    "self_improvement_quotes": "One change, repeated daily, becomes a different life. 📈",
+    "gratitude_quotes": "Take a second to notice what is already good 🌿",
+    "encouragement_quotes": "For whoever needed to read this today 💛",
+    "meme_captions": "",
+    "engagement_questions": "",
+    "bible_quotes": "",
+}
+
+# One clear ask per category. Saves and shares are the strongest ranking
+# signals Instagram uses for quote accounts.
+SAVE_CTA = {
+    "motivational_quotes": "Save this for the day you need a push 📌",
+    "positive_life_quotes": "Save this for a slow morning ☀️",
+    "self_improvement_quotes": "Save this and try it this week 📌",
+    "gratitude_quotes": "Save this and come back to it tonight 🌙",
+    "encouragement_quotes": "Save this for someone who needs it 💛",
+    "meme_captions": "Tag someone who will relate 😂",
+    "engagement_questions": "Answer in the comments 👇",
+    "bible_quotes": "Save this verse and share it with someone who needs it 🙏",
+}
+
+
+def _rotate(items, salt):
+    """Deterministic daily rotation so the same set never repeats twice running."""
+
+    from datetime import date
+
+    index = (date.today().toordinal() + abs(hash(salt)) % 97) % len(items)
+
+    return items[index]
+
+
 class InstagramPublisher:
     def __init__(self):
         self.mode = (os.environ.get("IG_LOGIN_MODE") or "facebook").strip().lower()
@@ -106,60 +255,71 @@ class InstagramPublisher:
     # ── Caption ───────────────────────────────────────────────────────────────
 
     def build_caption(self, post):
-        """Instagram caption: quote, context, hashtags, handle."""
+        """
+        Build a caption optimised for discovery.
+
+        Structure:
+          1. The quote itself on the first line (Instagram indexes this text
+             for search, and it is what shows before "more").
+          2. A short human line of context.
+          3. One clear call to action (save or comment).
+          4. Rotating hashtag sets, capped well under the 30 limit.
+        """
 
         content = post.get("content", "").strip()
         category = post.get("category", "")
         theme = post.get("world_theme", "")
 
-        hashtags = {
-            "motivational_quotes":
-                "#Motivation #Mindset #DailyMotivation #Growth",
-            "positive_life_quotes":
-                "#PositiveVibes #GoodVibes #HappyLife #Positivity",
-            "self_improvement_quotes":
-                "#SelfImprovement #GrowthMindset #Discipline #Habits",
-            "gratitude_quotes":
-                "#Gratitude #Thankful #GratefulHeart #Blessed",
-            "encouragement_quotes":
-                "#YouGotThis #KeepGoing #StayStrong #Encouragement",
-            "meme_captions":
-                "#Relatable #Funny #Mood #DailyLaughs",
-            "engagement_questions":
-                "#Community #QuestionOfTheDay #ShareYourThoughts",
-            "bible_quotes":
-                "#BibleVerse #KJV #Faith #Hope #DailyVerse",
-        }.get(category, "#BrightSideDaily #DailyQuotes")
-
         parts = [content]
 
-        if category == "engagement_questions":
-            parts.append("Drop your answer in the comments 👇")
-        elif category == "bible_quotes":
-            # The world agent already adds a theme-aware, respectful message.
-            pass
-        else:
-            parts.append(
-                "Share this with someone who needs it today 💛"
-            )
+        if category == "bible_quotes":
+            pass  # the world agent already adds a respectful, theme-aware line
+        elif category == "engagement_questions":
+            pass  # the question is already the call to action
+        elif CONTEXT_LINE.get(category):
+            parts.append(CONTEXT_LINE[category])
 
-        if theme and category == "bible_quotes":
-            parts.append(f"#WorldNews #Theme_{theme.title()}")
+        cta = SAVE_CTA.get(category)
 
-        parts.append(f"{hashtags} #BrightSideDaily")
+        if cta:
+            parts.append(cta)
+
+        tags = list(_rotate(HASHTAG_SETS.get(category, HASHTAG_SETS["motivational_quotes"]), category))
+
+        if category == "bible_quotes" and theme:
+            tags = THEME_TAGS.get(theme, []) + tags
+
+        # Always keep the community tag last so the set reads consistently.
+        tags.append("#BrightSideDaily")
+
+        # Instagram allows 30; staying near 15 protects reach.
+        parts.append(" ".join(tag.lower() for tag in tags[:16]))
 
         return "\n\n".join(parts)
 
     # ── API calls ─────────────────────────────────────────────────────────────
 
     def _create_container(self, image_url, caption):
+        payload_data = {
+            "image_url": image_url,
+            "caption": caption,
+            "access_token": self.token,
+        }
+
+        # Instagram Collab posts reach both accounts' followers. Opt in by
+        # setting IG_COLLABORATORS to a comma-separated list of usernames.
+        collaborators = [
+            name.strip().lstrip("@")
+            for name in (os.environ.get("IG_COLLABORATORS") or "").split(",")
+            if name.strip()
+        ]
+
+        if collaborators:
+            payload_data["collaborators"] = json.dumps(collaborators)
+
         response = requests.post(
             f"{self.base_url}/media",
-            data={
-                "image_url": image_url,
-                "caption": caption,
-                "access_token": self.token,
-            },
+            data=payload_data,
             timeout=60,
         )
 
@@ -232,6 +392,234 @@ class InstagramPublisher:
             "error": payload.get("error", payload),
             "status_code": response.status_code,
         }
+
+    # ── Reels and carousels ───────────────────────────────────────────────────
+
+    def _create_reel_container(self, video_url, caption):
+        payload_data = {
+            "media_type": "REELS",
+            "video_url": video_url,
+            "caption": caption,
+            "access_token": self.token,
+        }
+
+        collaborators = [
+            name.strip().lstrip("@")
+            for name in (os.environ.get("IG_COLLABORATORS") or "").split(",")
+            if name.strip()
+        ]
+
+        if collaborators:
+            payload_data["collaborators"] = json.dumps(collaborators)
+
+        response = requests.post(
+            f"{self.base_url}/media",
+            data=payload_data,
+            timeout=60,
+        )
+
+        payload = response.json()
+
+        if response.status_code != 200 or "id" not in payload:
+            return {
+                "success": False,
+                "error": payload.get("error", payload),
+                "status_code": response.status_code,
+            }
+
+        return {"success": True, "container_id": payload["id"]}
+
+    def _create_carousel_container(self, image_urls, caption):
+        children = []
+
+        for url in image_urls:
+            response = requests.post(
+                f"{self.base_url}/media",
+                data={
+                    "image_url": url,
+                    "is_carousel_item": "true",
+                    "access_token": self.token,
+                },
+                timeout=60,
+            )
+
+            payload = response.json()
+
+            if response.status_code != 200 or "id" not in payload:
+                return {
+                    "success": False,
+                    "error": payload.get("error", payload),
+                    "status_code": response.status_code,
+                }
+
+            children.append(payload["id"])
+
+        payload_data = {
+            "media_type": "CAROUSEL",
+            "children": ",".join(children),
+            "caption": caption,
+            "access_token": self.token,
+        }
+
+        collaborators = [
+            name.strip().lstrip("@")
+            for name in (os.environ.get("IG_COLLABORATORS") or "").split(",")
+            if name.strip()
+        ]
+
+        if collaborators:
+            payload_data["collaborators"] = json.dumps(collaborators)
+
+        response = requests.post(
+            f"{self.base_url}/media",
+            data=payload_data,
+            timeout=60,
+        )
+
+        payload = response.json()
+
+        if response.status_code != 200 or "id" not in payload:
+            return {
+                "success": False,
+                "error": payload.get("error", payload),
+                "status_code": response.status_code,
+            }
+
+        return {"success": True, "container_id": payload["id"]}
+
+    def _publish_media(self, post, caption, build_container, storage):
+        """Shared publish loop for image, reel and carousel containers."""
+
+        for attempt in range(1, MAX_RETRIES + 1):
+            container = build_container()
+
+            if not container["success"]:
+                log.warning(
+                    "Attempt %d/%d container failed: %s",
+                    attempt,
+                    MAX_RETRIES,
+                    container.get("error"),
+                )
+
+                if attempt < MAX_RETRIES:
+                    time.sleep(RETRY_DELAY)
+                    continue
+
+                return {"success": False, "platform": "instagram", **container}
+
+            container_id = container["container_id"]
+
+            if not self._wait_for_container(container_id):
+                return {
+                    "success": False,
+                    "platform": "instagram",
+                    "error": "Container did not finish processing.",
+                }
+
+            result = self._publish_container(container_id)
+
+            if result["success"]:
+                log.info("Instagram post published [%s]", post.get("slot"))
+                self._log_success(post, caption, result.get("data", {}))
+                return {"success": True, "platform": "instagram", **result}
+
+            log.warning(
+                "Attempt %d/%d publish failed: %s",
+                attempt,
+                MAX_RETRIES,
+                result.get("error"),
+            )
+
+            if attempt < MAX_RETRIES:
+                time.sleep(RETRY_DELAY)
+
+        return {
+            "success": False,
+            "platform": "instagram",
+            "error": "All retries exhausted.",
+        }
+
+    def publish_reel(self, post, video_path):
+        """Publish a vertical MP4 as a Reel."""
+
+        slot = post.get("slot", "unknown")
+        caption = self.build_caption(post)
+
+        log.info("Instagram reel [%s] | video: %s", slot, video_path)
+
+        if self.dry_run:
+            log.info("[DRY RUN] Reel caption:\n%s", caption)
+            return {
+                "success": True,
+                "dry_run": True,
+                "platform": "instagram",
+                "media_type": "REELS",
+                "slot": slot,
+            }
+
+        if not video_path or not Path(video_path).exists():
+            return {
+                "success": False,
+                "platform": "instagram",
+                "error": "Reel video not found.",
+            }
+
+        storage = SupabaseStorage()
+        public_url = storage.upload(video_path)
+
+        try:
+            return self._publish_media(
+                post,
+                caption,
+                lambda: self._create_reel_container(public_url, caption),
+                storage,
+            )
+        finally:
+            storage.delete(public_url)
+
+    def publish_carousel(self, post, image_paths):
+        """Publish 2-10 images as a carousel."""
+
+        slot = post.get("slot", "unknown")
+        caption = self.build_caption(post)
+
+        log.info(
+            "Instagram carousel [%s] | %d slides",
+            slot,
+            len(image_paths or []),
+        )
+
+        if self.dry_run:
+            log.info("[DRY RUN] Carousel caption:\n%s", caption)
+            return {
+                "success": True,
+                "dry_run": True,
+                "platform": "instagram",
+                "media_type": "CAROUSEL",
+                "slides": len(image_paths or []),
+                "slot": slot,
+            }
+
+        if not image_paths or len(image_paths) < 2:
+            return {
+                "success": False,
+                "platform": "instagram",
+                "error": "A carousel needs at least two images.",
+            }
+
+        storage = SupabaseStorage()
+        urls = [storage.upload(path) for path in image_paths]
+
+        try:
+            return self._publish_media(
+                post,
+                caption,
+                lambda: self._create_carousel_container(urls, caption),
+                storage,
+            )
+        finally:
+            for url in urls:
+                storage.delete(url)
 
     # ── Public API ────────────────────────────────────────────────────────────
 
@@ -371,6 +759,156 @@ class InstagramPublisher:
             )
 
         return payload
+
+    # ── Stories, insights, comments ───────────────────────────────────────────
+
+    def publish_story(self, story_path):
+        """Publish a 9:16 image as a Story."""
+
+        if self.dry_run:
+            log.info("[DRY RUN] Story would publish: %s", story_path)
+            return {"success": True, "dry_run": True, "platform": "instagram"}
+
+        if not story_path or not Path(story_path).exists():
+            return {
+                "success": False,
+                "platform": "instagram",
+                "error": "Story image not found.",
+            }
+
+        storage = SupabaseStorage()
+        public_url = storage.upload(story_path, folder="stories")
+
+        try:
+            response = requests.post(
+                f"{self.base_url}/media",
+                data={
+                    "media_type": "STORIES",
+                    "image_url": public_url,
+                    "access_token": self.token,
+                },
+                timeout=60,
+            )
+
+            payload = response.json()
+
+            if response.status_code != 200 or "id" not in payload:
+                return {
+                    "success": False,
+                    "platform": "instagram",
+                    "error": payload.get("error", payload),
+                }
+
+            container_id = payload["id"]
+
+            if not self._wait_for_container(container_id):
+                return {
+                    "success": False,
+                    "platform": "instagram",
+                    "error": "Story container did not finish processing.",
+                }
+
+            result = self._publish_container(container_id)
+            result["platform"] = "instagram"
+            result["media_type"] = "STORIES"
+
+            if result["success"]:
+                log.info("Instagram story published")
+
+            return result
+
+        finally:
+            storage.delete(public_url)
+
+    def fetch_media_insights(self, media_id, media_product_type="FEED"):
+        """
+        Pull saves, shares, reach and engagement for one published post.
+
+        Some metrics are only valid for certain media products, so failures are
+        tolerated per metric rather than failing the whole call.
+        """
+
+        if media_product_type == "REELS":
+            metrics = "reach,likes,comments,shares,saved"
+        else:
+            metrics = "reach,likes,comments,shares,saved"
+
+        response = requests.get(
+            f"{FACEBOOK_HOST}/{self.version}/{media_id}/insights",
+            params={
+                "metric": metrics,
+                "access_token": self.token,
+            },
+            timeout=30,
+        )
+
+        payload = response.json()
+
+        if response.status_code != 200:
+            # Retry with the baseline metric set some tokens are limited to.
+            response = requests.get(
+                f"{FACEBOOK_HOST}/{self.version}/{media_id}/insights",
+                params={
+                    "metric": "reach,likes,comments,shares",
+                    "access_token": self.token,
+                },
+                timeout=30,
+            )
+            payload = response.json()
+
+        if response.status_code != 200:
+            return {
+                "success": False,
+                "error": payload.get("error", payload),
+            }
+
+        values = {}
+
+        for item in payload.get("data", []):
+            values[item.get("name")] = item.get("values", [{}])[0].get("value")
+
+        return {"success": True, "metrics": values}
+
+    def fetch_comments(self, media_id, limit=50):
+        """Return recent comments on a published post."""
+
+        response = requests.get(
+            f"{FACEBOOK_HOST}/{self.version}/{media_id}/comments",
+            params={
+                "fields": "id,text,username,timestamp,replies{id,username}",
+                "limit": limit,
+                "access_token": self.token,
+            },
+            timeout=30,
+        )
+
+        if response.status_code != 200:
+            return []
+
+        return response.json().get("data", [])
+
+    def reply_to_comment(self, comment_id, message):
+        """Post a reply to a comment."""
+
+        if self.dry_run:
+            log.info("[DRY RUN] reply to %s: %s", comment_id, message)
+            return {"success": True, "dry_run": True}
+
+        response = requests.post(
+            f"{FACEBOOK_HOST}/{self.version}/{comment_id}/replies",
+            data={
+                "message": message,
+                "access_token": self.token,
+            },
+            timeout=30,
+        )
+
+        payload = response.json()
+
+        if response.status_code == 200 and "id" in payload:
+            return {"success": True, "id": payload["id"]}
+
+        return {"success": False, "error": payload.get("error", payload)}
 
     # ── Logging ───────────────────────────────────────────────────────────────
 

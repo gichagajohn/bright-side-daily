@@ -87,7 +87,8 @@ class SupabaseStorage:
         object_name = f"{folder}/{uuid.uuid4().hex}{extension}"
 
         content_type = (
-            mimetypes.guess_type(path.name)[0] or "image/jpeg"
+            mimetypes.guess_type(path.name)[0]
+            or ("video/mp4" if extension == ".mp4" else "image/jpeg")
         )
 
         endpoint = (

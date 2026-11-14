@@ -3,10 +3,15 @@ Social Publisher — Bright Side Daily
 
 Publishes one post to every enabled platform:
 
-    Facebook   → every slot, real Pexels photo (unchanged)
-    Instagram  → every slot EXCEPT funny_meme (daily humor) and
-                 engagement_question (question of the day), using an
-                 elegant black-background card with a JG monogram
+    Facebook  → every slot, real Pexels photo (unchanged)
+
+    Instagram → every slot EXCEPT funny_meme (daily humor) and
+                engagement_question (question of the day).
+
+                Format is chosen with IG_MEDIA_TYPE:
+                  IMAGE    (default) black card with JG monogram
+                  CAROUSEL three slides — quote, actions, signature
+                  REELS    15s vertical video built from the card
 
 Instagram failures never block a Facebook post. If Instagram is not
 configured, it is simply skipped.
@@ -18,6 +23,8 @@ import os
 from agents.facebook_publisher import FacebookPublisher
 from agents.instagram_publisher import InstagramPublisher
 from generators.black_card_generator import BlackCardGenerator
+from generators.carousel_generator import generate as generate_carousel
+from generators.reel_generator import generate as generate_reel
 
 logging.basicConfig(
     level=logging.INFO,
@@ -39,12 +46,59 @@ INSTAGRAM_EXCLUDED_CATEGORIES = {
 
 
 def _instagram_enabled():
-    return bool(
-        os.environ.get("IG_USER_ID")
-        and os.environ.get("IG_ACCESS_TOKEN")
-        and os.environ.get("SUPABASE_URL")
+    """True when the platform has everything it needs for the chosen mode."""
+
+    mode = (os.environ.get("IG_LOGIN_MODE") or "facebook").strip().lower()
+
+    has_account = bool(
+        os.environ.get("IG_ACCESS_TOKEN")
+        and (
+            mode == "instagram"
+            or os.environ.get("IG_USER_ID")
+        )
+    )
+
+    has_storage = bool(
+        os.environ.get("SUPABASE_URL")
         and os.environ.get("SUPABASE_SERVICE_KEY")
     )
+
+    return bool(has_account and has_storage)
+
+
+def _publish_instagram(post):
+    """Publish to Instagram using the configured media type."""
+
+    media_type = (os.environ.get("IG_MEDIA_TYPE") or "IMAGE").strip().upper()
+    publisher = InstagramPublisher()
+
+    if media_type == "REELS":
+        try:
+            card = BlackCardGenerator().generate(post)
+            video = generate_reel(card)
+
+            if not video:
+                log.warning("Reel rendering unavailable; posting the card instead.")
+                return publisher.publish(post, card)
+
+            return publisher.publish_reel(post, video)
+
+        except Exception as exc:
+            log.warning("Reel path failed (%s); falling back to a card.", exc)
+            card = BlackCardGenerator().generate(post)
+            return publisher.publish(post, card)
+
+    if media_type == "CAROUSEL":
+        try:
+            slides = generate_carousel(post)
+            return publisher.publish_carousel(post, slides)
+        except Exception as exc:
+            log.warning("Carousel path failed (%s); falling back to a card.", exc)
+            card = BlackCardGenerator().generate(post)
+            return publisher.publish(post, card)
+
+    card = BlackCardGenerator().generate(post)
+    return publisher.publish(post, card)
 
 
 class SocialPublisher:
@@ -113,11 +167,7 @@ class SocialPublisher:
                 }
             else:
                 try:
-                    ig_image = BlackCardGenerator().generate(post)
-                    results["instagram"] = InstagramPublisher().publish(
-                        post,
-                        ig_image,
-                    )
+                    results["instagram"] = _publish_instagram(post)
                 except Exception as exc:
                     log.exception("Instagram publishing failed: %s", exc)
                     results["instagram"] = {

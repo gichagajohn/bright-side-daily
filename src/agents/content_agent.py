@@ -83,6 +83,19 @@ class ContentAgent:
             with open(METRICS_FILE) as f:
                 metrics = json.load(f)
             weights = DEFAULT_WEIGHTS.copy()
+
+            # Written by instagram_insights.py (preferred: save/share weighted)
+            direct = metrics.get("weights") or {}
+            for cat, value in direct.items():
+                if cat in weights:
+                    try:
+                        weights[cat] = max(0.5, min(2.0, float(value)))
+                    except (TypeError, ValueError):
+                        continue
+
+            if direct:
+                return weights
+
             avg_engagement = metrics.get("avg_engagement_by_category", {})
             if avg_engagement:
                 global_avg = sum(avg_engagement.values()) / len(avg_engagement)
