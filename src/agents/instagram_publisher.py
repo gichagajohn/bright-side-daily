@@ -136,9 +136,8 @@ class InstagramPublisher:
         if category == "engagement_questions":
             parts.append("Drop your answer in the comments 👇")
         elif category == "bible_quotes":
-            parts.append(
-                "Shared with respect for everyone facing difficult news today. 🙏"
-            )
+            # The world agent already adds a theme-aware, respectful message.
+            pass
         else:
             parts.append(
                 "Share this with someone who needs it today 💛"

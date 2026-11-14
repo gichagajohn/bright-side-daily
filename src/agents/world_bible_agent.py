@@ -1,4 +1,4 @@
-"""Create a daily Bible encouragement post from world-news themes."""
+"""Create a respectful daily KJV Bible post informed by world headlines."""
 
 import json
 import logging
@@ -8,12 +8,10 @@ from pathlib import Path
 
 import feedparser
 
-
 ROOT = Path(__file__).resolve().parents[2]
 
 VERSES_FILE = ROOT / "content" / "bible" / "verses.json"
 STATE_FILE = ROOT / "data" / "state" / "bible_used.json"
-
 
 logging.basicConfig(
     level=logging.INFO,
@@ -28,75 +26,106 @@ WORLD_FEEDS = [
     "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
 ]
 
-
+# Keywords used to classify the day's headlines.
 KEYWORDS = {
     "conflict": [
-        "war",
-        "conflict",
-        "attack",
-        "fighting",
-        "missile",
-        "ceasefire",
-        "troops",
-        "battle",
+        "war", "conflict", "attack", "fighting", "missile",
+        "ceasefire", "troops", "battle", "airstrike", "invasion",
     ],
     "disaster": [
-        "earthquake",
-        "flood",
-        "storm",
-        "wildfire",
-        "hurricane",
-        "disaster",
-        "rescue",
-        "eruption",
+        "earthquake", "flood", "storm", "wildfire", "hurricane",
+        "disaster", "rescue", "eruption", "landslide", "drought",
     ],
     "grief": [
-        "death",
-        "killed",
-        "mourning",
-        "victims",
-        "tragedy",
-        "funeral",
-        "dead",
+        "death", "killed", "mourning", "victims", "tragedy",
+        "funeral", "dead", "loss",
     ],
     "injustice": [
-        "rights",
-        "justice",
-        "protest",
-        "violence",
-        "abuse",
-        "discrimination",
-        "oppression",
+        "rights", "justice", "protest", "violence", "abuse",
+        "discrimination", "oppression", "corruption",
     ],
     "leadership": [
-        "president",
-        "government",
-        "leaders",
-        "election",
-        "parliament",
-        "minister",
-        "leader",
+        "president", "government", "leaders", "election",
+        "parliament", "minister", "summit", "official",
     ],
     "hope": [
-        "peace",
-        "recovery",
-        "help",
-        "aid",
-        "agreement",
-        "hope",
-        "support",
+        "peace", "recovery", "help", "aid", "agreement",
+        "hope", "support", "truce", "breakthrough",
     ],
     "fear": [
-        "warning",
-        "threat",
-        "crisis",
-        "uncertainty",
-        "fear",
-        "danger",
-        "emergency",
+        "warning", "threat", "crisis", "uncertainty", "fear",
+        "danger", "emergency", "alert",
     ],
 }
 
+# Verse tags come from keywords, not tone, so a lament can carry a "peace" tag.
+# These aliases connect each news theme to verse themes that actually exist in
+# the library, otherwise selection silently falls back to a random verse.
+THEME_ALIASES = {
+    "conflict": ["peace", "hope", "faith", "wisdom"],
+    "disaster": ["hope", "faith", "grief", "gratitude"],
+    "grief": ["grief", "hope", "faith"],
+    "injustice": ["justice", "hope", "wisdom"],
+    "leadership": ["leadership", "wisdom", "justice"],
+    "hope": ["hope", "gratitude", "faith", "peace"],
+    "fear": ["fear", "hope", "faith", "peace"],
+    "general": ["hope", "gratitude", "faith", "wisdom"],
+}
+
+# Rank verses by how they actually read, so an encouragement card gets
+# encouragement rather than a psalm about ambush.
+UPLIFTING_MARKERS = [
+    "trust in the lord",
+    "hope thou in god",
+    "be of good courage",
+    "fear not",
+    "the lord is my shepherd",
+    "my refuge",
+    "he restoreth my soul",
+    "peace i leave",
+    "the lord is my light",
+    "the lord is my strength",
+    "he healeth",
+    "his mercy endureth",
+    "rejoice and be glad",
+    "cast thy burden",
+    "wait on the lord",
+    "perfect peace",
+    "the joy of the lord",
+    "he giveth power to the faint",
+    "everlasting arms",
+    "god is our refuge and strength",
+    "goodness and mercy",
+    "shall give thee light",
+    "sing praise",
+    "glad and rejoice",
+    "lovingkindness",
+    "put gladness in my heart",
+    "will put their trust in thee",
+]
+
+HARSH_MARKERS = [
+    "lieth in wait",
+    "wicked",
+    "mine enemies",
+    "my enemies",
+    "lion",
+    "blood",
+    "smite",
+    "cut off",
+    "destruction",
+    "desolate",
+    "hast thou forsaken",
+    "hearest not",
+    "slay",
+    "destroy me",
+    "wretched man",
+    "iniquity",
+    "abomination",
+    "grievous",
+    "croucheth",
+    "dried up",
+]
 
 THEME_MESSAGES = {
     "conflict": (
@@ -134,205 +163,174 @@ THEME_MESSAGES = {
 }
 
 
-def load_verses():
-    """Load the verified KJV verse library."""
-
-    if not VERSES_FILE.exists():
-        raise FileNotFoundError(
-            f"Bible verse file not found: {VERSES_FILE}"
-        )
-
-    with open(VERSES_FILE, "r", encoding="utf-8") as file:
-        data = json.load(file)
-
-    verses = data.get("items", [])
-
-    if not verses:
-        raise RuntimeError("Bible verse library is empty")
-
-    return verses
+def _load_verses():
+    with open(VERSES_FILE, encoding="utf-8") as handle:
+        return json.load(handle)["items"]
 
 
-def load_used_references():
-    """Load references already used by previous Bible posts."""
-
+def _load_used():
     if not STATE_FILE.exists():
         return set()
 
     try:
-        with open(STATE_FILE, "r", encoding="utf-8") as file:
-            values = json.load(file)
-
-        return set(values)
-
+        return set(json.loads(STATE_FILE.read_text(encoding="utf-8")))
     except Exception as exc:
-        logger.warning(
-            "Could not read Bible history. Starting safely: %s",
-            exc,
-        )
+        logger.warning("Could not read Bible history: %s", exc)
         return set()
 
 
-def save_used_references(references):
-    """Save used verse references."""
-
-    STATE_FILE.parent.mkdir(
-        parents=True,
-        exist_ok=True,
+def _save_used(used):
+    STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
+    STATE_FILE.write_text(
+        json.dumps(sorted(used), indent=2),
+        encoding="utf-8",
     )
 
-    with open(STATE_FILE, "w", encoding="utf-8") as file:
-        json.dump(
-            sorted(references),
-            file,
-            indent=2,
-        )
+
+def _tier(verse):
+    """
+    Rank a verse for tone.
+
+    0 = explicitly encouraging wording
+    1 = neutral
+    2 = harsh or despairing wording
+    """
+
+    text = verse.get("text", "").lower()
+
+    if any(marker in text for marker in HARSH_MARKERS):
+        return 2
+
+    if any(marker in text for marker in UPLIFTING_MARKERS):
+        return 0
+
+    return 1
 
 
-def fetch_world_headlines():
-    """Fetch short world-news headlines from RSS feeds."""
+def _candidates_for(theme, verses):
+    """Verses for a theme, ordered by relevance through the alias chain."""
 
-    headlines = []
+    wanted = [theme] + THEME_ALIASES.get(theme, [])
 
-    for feed_url in WORLD_FEEDS:
+    seen = set()
+    ordered = []
+
+    for wanted_theme in wanted:
+        for verse in verses:
+            reference = verse["reference"]
+
+            if reference in seen:
+                continue
+
+            if wanted_theme in verse.get("themes", []):
+                seen.add(reference)
+                ordered.append(verse)
+
+    return ordered
+
+
+def _choose_unused(candidates, all_verses):
+    """Pick an unused verse, preferring the most encouraging wording."""
+
+    used = _load_used()
+
+    tiers = {0: [], 1: [], 2: []}
+
+    for verse in candidates:
+        tiers[_tier(verse)].append(verse)
+
+    for tier in (0, 1, 2):
+        available = [v for v in tiers[tier] if v["reference"] not in used]
+
+        if available:
+            verse = random.choice(available)
+            used.add(verse["reference"])
+            _save_used(used)
+            return verse
+
+    available = [v for v in all_verses if v["reference"] not in used]
+
+    if not available:
+        logger.info("All Bible verses used. Starting a new cycle.")
+        used = set()
+        available = candidates or all_verses
+
+    verse = random.choice(available)
+    used.add(verse["reference"])
+    _save_used(used)
+
+    return verse
+
+
+def _headlines():
+    stories = []
+
+    for url in WORLD_FEEDS:
         try:
-            feed = feedparser.parse(feed_url)
+            feed = feedparser.parse(url)
 
             for entry in feed.entries[:8]:
                 title = entry.get("title", "").strip()
 
                 if title:
-                    headlines.append(title)
+                    stories.append(title)
 
         except Exception as exc:
-            logger.warning(
-                "World news feed failed: %s",
-                exc,
-            )
+            logger.warning("World feed failed: %s", exc)
 
-    logger.info(
-        "World headlines collected: %d",
-        len(headlines),
-    )
-
-    return headlines
+    return stories
 
 
-def detect_theme(headlines):
-    """Choose the strongest theme found in the headlines."""
+def _theme_for(headlines):
+    text = " ".join(headlines).lower()
 
-    combined_text = " ".join(headlines).lower()
-
-    scores = {}
-
-    for theme, words in KEYWORDS.items():
-        score = 0
-
-        for word in words:
-            if word in combined_text:
-                score += 1
-
-        scores[theme] = score
+    scores = {
+        theme: sum(1 for word in words if word in text)
+        for theme, words in KEYWORDS.items()
+    }
 
     if not scores:
         return "general"
 
-    best_theme = max(
-        scores,
-        key=scores.get,
-    )
+    best = max(scores, key=scores.get)
 
-    if scores[best_theme] == 0:
-        return "general"
-
-    return best_theme
-
-
-def choose_unused_verse(theme, verses):
-    """
-    Select a verse without repeating until the full library is used.
-    """
-
-    used_references = load_used_references()
-
-    theme_candidates = [
-        verse
-        for verse in verses
-        if theme in verse.get("themes", [])
-    ]
-
-    if not theme_candidates:
-        theme_candidates = verses
-
-    unused_theme_candidates = [
-        verse
-        for verse in theme_candidates
-        if verse.get("reference") not in used_references
-    ]
-
-    if unused_theme_candidates:
-        candidates = unused_theme_candidates
-    else:
-        candidates = [
-            verse
-            for verse in verses
-            if verse.get("reference") not in used_references
-        ]
-
-    if not candidates:
-        logger.info(
-            "All Bible verses have been used. Starting a new cycle."
-        )
-
-        used_references = set()
-        candidates = theme_candidates or verses
-
-    selected = random.choice(candidates)
-
-    used_references.add(selected["reference"])
-    save_used_references(used_references)
-
-    return selected
+    return best if scores.get(best, 0) else "general"
 
 
 def build_bible_post(post):
-    """
-    Build the Bible post.
+    headlines = _headlines()
+    theme = _theme_for(headlines)
 
-    The Bible verse comes only from the verified local KJV library.
-    World headlines are used only to choose the theme.
-    """
+    verses = _load_verses()
 
-    verses = load_verses()
-    headlines = fetch_world_headlines()
-    theme = detect_theme(headlines)
-    verse = choose_unused_verse(theme, verses)
+    candidates = _candidates_for(theme, verses)
 
-    message = THEME_MESSAGES.get(
-        theme,
-        THEME_MESSAGES["general"],
-    )
+    if not candidates:
+        logger.warning("No tagged verses for %s; using full library.", theme)
+        candidates = verses
 
-    result = dict(post)
+    verse = _choose_unused(candidates, verses)
 
-    result["slot"] = "bible_world_encouragement"
-    result["category"] = "bible_quotes"
+    context = THEME_MESSAGES.get(theme, THEME_MESSAGES["general"])
 
-    result["content"] = (
+    post = dict(post)
+    post["category"] = "bible_quotes"
+    post["content"] = (
         f"{verse['reference']} KJV\n\n"
         f"{verse['text']}\n\n"
-        f"{message}"
+        f"{context}"
     )
-
-    result["bible_reference"] = verse["reference"]
-    result["world_theme"] = theme
-    result["source_headlines_count"] = len(headlines)
-    result["date"] = date.today().isoformat()
+    post["bible_reference"] = verse["reference"]
+    post["world_theme"] = theme
+    post["source_headlines_count"] = len(headlines)
+    post["date"] = date.today().isoformat()
 
     logger.info(
-        "Bible post prepared: %s | theme: %s",
+        "Bible post prepared: %s | theme: %s | candidates: %d | tone: %d",
         verse["reference"],
         theme,
+        len(candidates),
+        _tier(verse),
     )
 
-    return result
+    return post
