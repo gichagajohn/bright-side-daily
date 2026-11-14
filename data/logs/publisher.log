@@ -16009,3 +16009,24 @@ Drop your answer in the comments below 👇
 2026-11-14 15:31:04,942 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
 2026-11-14 15:31:04,942 [INFO] ✅ Facebook published [engagement_question]
 2026-11-14 15:31:04,942 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
+2026-11-14 16:25:10,715 [INFO] Failed posts list is empty.
+2026-11-14 16:25:10,830 [INFO] ──────────────────────────────────────────────────
+2026-11-14 16:25:10,830 [INFO] ▶  Running slot: evening_reflection
+2026-11-14 16:25:10,830 [INFO] ──────────────────────────────────────────────────
+2026-11-14 16:25:11,020 [INFO] 📝 Content selected: Make gratitude not a gesture but a way of life....
+2026-11-14 16:25:11,605 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_499.jpg
+2026-11-14 16:25:11,606 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_499.jpg
+2026-11-14 16:25:11,606 [INFO] Caption preview: 🌙 Make gratitude not a gesture but a way of life.
+
+Share this with someone who needs it today! 💛
+
+#Gratitude #Thankful #...
+2026-11-14 16:25:18,779 [INFO] ✅ Posted successfully [evening_reflection]
+2026-11-14 16:25:18,813 [INFO] Carousel ready: 2 slides for evening_reflection
+2026-11-14 16:25:18,813 [INFO] Instagram carousel [evening_reflection] | 2 slides
+2026-11-14 16:25:19,499 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/4d5b5f1be63f41bebcbc11e8b4bb9134.jpg
+2026-11-14 16:25:19,824 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/ae5d1b10a46f40ba99da594047c11583.jpg
+2026-11-14 16:25:35,582 [INFO] Container 18057696683804035 status: IN_PROGRESS (1/12)
+2026-11-14 16:25:45,690 [INFO] Instagram post published [evening_reflection]
+2026-11-14 16:25:47,125 [INFO] ✅ Facebook published [evening_reflection]
+2026-11-14 16:25:47,125 [INFO] ✅ Instagram published [evening_reflection]
