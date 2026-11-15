@@ -16189,3 +16189,19 @@ Share this with someone who needs it t...
 2026-11-15 14:36:10,453 [INFO] Container 18057847166804035 status: IN_PROGRESS (12/12)
 2026-11-15 14:36:15,960 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-15 14:36:15,960 [ERROR] ❌ Instagram failed [morning_motivation]: Container did not finish processing.
+2026-11-15 15:10:22,018 [INFO] Failed posts list is empty.
+2026-11-15 15:10:22,158 [INFO] ──────────────────────────────────────────────────
+2026-11-15 15:10:22,158 [INFO] ▶  Running slot: engagement_question
+2026-11-15 15:10:22,158 [INFO] ──────────────────────────────────────────────────
+2026-11-15 15:10:22,349 [INFO] 📝 Content selected: What are you choosing to let go of this month?...
+2026-11-15 15:10:22,891 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_19.jpg
+2026-11-15 15:10:22,891 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_19.jpg
+2026-11-15 15:10:22,891 [INFO] Caption preview: 💬 What are you choosing to let go of this month?
+
+Drop your answer in the comments below 👇
+
+#Community #ShareYourThought...
+2026-11-15 15:10:26,942 [INFO] ✅ Posted successfully [engagement_question]
+2026-11-15 15:10:26,962 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
+2026-11-15 15:10:26,962 [INFO] ✅ Facebook published [engagement_question]
+2026-11-15 15:10:26,962 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
