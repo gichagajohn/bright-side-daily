@@ -23466,5 +23466,26 @@
       "post_id": "1181533578372151_122144990313364831"
     },
     "timestamp": "2026-11-15T20:16:46.961069"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Train hard. Recover harder. Win inevitably.",
+      "content_index": 480,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-15",
+      "timestamp": "2026-11-15T20:36:42.603156",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Train hard. Recover harder. Win inevitably.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144991855364831",
+      "post_id": "1181533578372151_122144991879364831"
+    },
+    "timestamp": "2026-11-15T20:36:48.426664"
   }
 ]
