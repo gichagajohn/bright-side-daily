@@ -23361,5 +23361,26 @@
       "post_id": "1181533578372151_122144940759364831"
     },
     "timestamp": "2026-11-15T12:30:58.720103"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The first step is not the hardest. The ninth one is, when nobody is watching.",
+      "content_index": 737,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-11-15",
+      "timestamp": "2026-11-15T14:34:30.529634",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The first step is not the hardest. The ninth one is, when nobody is watching.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122144952453364831",
+      "post_id": "1181533578372151_122144952483364831"
+    },
+    "timestamp": "2026-11-15T14:34:37.196927"
   }
 ]
