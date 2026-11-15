@@ -16133,3 +16133,29 @@ Share this with someone who needs it today! 💛
 2026-11-14 21:54:16,476 [INFO] Instagram post published [morning_motivation]
 2026-11-14 21:54:16,771 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-14 21:54:16,772 [INFO] ✅ Instagram published [morning_motivation]
+2026-11-15 12:30:51,037 [INFO] Failed posts list is empty.
+2026-11-15 12:30:51,196 [INFO] ──────────────────────────────────────────────────
+2026-11-15 12:30:51,196 [INFO] ▶  Running slot: morning_motivation
+2026-11-15 12:30:51,196 [INFO] ──────────────────────────────────────────────────
+2026-11-15 12:30:51,442 [INFO] 📝 Content selected: Discomfort is the fee for becoming someone new....
+2026-11-15 12:30:52,234 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_757.jpg
+2026-11-15 12:30:52,234 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_757.jpg
+2026-11-15 12:30:52,234 [INFO] Caption preview: ☀️ Discomfort is the fee for becoming someone new.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success ...
+2026-11-15 12:30:58,715 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-15 12:31:00,744 [INFO] Voice-over: en-KE-ChilembaNeural (8 words timed)
+2026-11-15 12:31:00,772 [INFO] Rendering reel: 8.0s, 8 words
+2026-11-15 12:31:21,242 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_757.mp4 (226 KB, 8.0s, 240 frames)
+2026-11-15 12:31:21,246 [INFO] Instagram reel [morning_motivation] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_757.mp4
+2026-11-15 12:31:22,016 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/4ea9afe725414721b4267f0f70633e73.mp4
+2026-11-15 12:31:24,155 [INFO] Container 18057828242804035 status: IN_PROGRESS (1/12)
+2026-11-15 12:31:29,387 [INFO] Container 18057828242804035 status: IN_PROGRESS (2/12)
+2026-11-15 12:31:34,683 [INFO] Container 18057828242804035 status: IN_PROGRESS (3/12)
+2026-11-15 12:31:39,987 [INFO] Container 18057828242804035 status: IN_PROGRESS (4/12)
+2026-11-15 12:31:45,365 [INFO] Container 18057828242804035 status: IN_PROGRESS (5/12)
+2026-11-15 12:32:03,214 [INFO] Instagram post published [morning_motivation]
+2026-11-15 12:32:03,596 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-15 12:32:03,596 [INFO] ✅ Instagram published [morning_motivation]
