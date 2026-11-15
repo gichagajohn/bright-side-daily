@@ -16205,3 +16205,24 @@ Drop your answer in the comments below 👇
 2026-11-15 15:10:26,962 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
 2026-11-15 15:10:26,962 [INFO] ✅ Facebook published [engagement_question]
 2026-11-15 15:10:26,962 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
+2026-11-15 16:03:03,204 [INFO] Failed posts list is empty.
+2026-11-15 16:03:03,353 [INFO] ──────────────────────────────────────────────────
+2026-11-15 16:03:03,353 [INFO] ▶  Running slot: evening_reflection
+2026-11-15 16:03:03,353 [INFO] ──────────────────────────────────────────────────
+2026-11-15 16:03:03,555 [INFO] 📝 Content selected: There is grace in every season if you are willing to seek it....
+2026-11-15 16:03:04,260 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_308.jpg
+2026-11-15 16:03:04,261 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_308.jpg
+2026-11-15 16:03:04,261 [INFO] Caption preview: 🌙 There is grace in every season if you are willing to seek it.
+
+Share this with someone who needs it today! 💛
+
+#Gratitu...
+2026-11-15 16:03:08,921 [INFO] ✅ Posted successfully [evening_reflection]
+2026-11-15 16:03:09,027 [INFO] Carousel ready: 2 slides for evening_reflection
+2026-11-15 16:03:09,027 [INFO] Instagram carousel [evening_reflection] | 2 slides
+2026-11-15 16:03:10,035 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/88c666459306434a8c89065f3626f39b.jpg
+2026-11-15 16:03:10,760 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/3a3aa4db07734f08b9347f0811549433.jpg
+2026-11-15 16:03:22,417 [INFO] Container 18057859907804035 status: IN_PROGRESS (1/12)
+2026-11-15 16:03:31,993 [INFO] Instagram post published [evening_reflection]
+2026-11-15 16:03:33,245 [INFO] ✅ Facebook published [evening_reflection]
+2026-11-15 16:03:33,245 [INFO] ✅ Instagram published [evening_reflection]
