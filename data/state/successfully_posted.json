@@ -23487,5 +23487,26 @@
       "post_id": "1181533578372151_122144991879364831"
     },
     "timestamp": "2026-11-15T20:36:48.426664"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The mind is everything. What you think you become.",
+      "content_index": 296,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-15",
+      "timestamp": "2026-11-15T22:23:07.692894",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The mind is everything. What you think you become.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145001293364831",
+      "post_id": "1181533578372151_122145001317364831"
+    },
+    "timestamp": "2026-11-15T22:23:12.151258"
   }
 ]
