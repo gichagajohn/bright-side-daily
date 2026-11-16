@@ -16435,3 +16435,30 @@ Share this with someone who needs it today! 💛
 2026-11-16 19:15:53,199 [INFO] Container 18058040408804035 status: IN_PROGRESS (12/12)
 2026-11-16 19:15:58,465 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-16 19:15:58,466 [ERROR] ❌ Instagram failed [morning_motivation]: Container did not finish processing.
+2026-11-16 20:02:25,260 [INFO] Failed posts list is empty.
+2026-11-16 20:02:25,441 [INFO] ──────────────────────────────────────────────────
+2026-11-16 20:02:25,441 [INFO] ▶  Running slot: morning_motivation
+2026-11-16 20:02:25,441 [INFO] ──────────────────────────────────────────────────
+2026-11-16 20:02:25,831 [INFO] 📝 Content selected: Be the proof that hard work pays off....
+2026-11-16 20:02:26,673 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_666.jpg
+2026-11-16 20:02:26,673 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_666.jpg
+2026-11-16 20:02:26,673 [INFO] Caption preview: ☀️ Be the proof that hard work pays off.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMa...
+2026-11-16 20:02:31,629 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-16 20:02:33,414 [INFO] Voice-over: en-KE-ChilembaNeural (8 words timed)
+2026-11-16 20:02:33,441 [INFO] Rendering reel: 8.0s, 8 words
+2026-11-16 20:02:57,957 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_666.mp4 (211 KB, 8.0s, 240 frames)
+2026-11-16 20:02:57,965 [INFO] Instagram reel [morning_motivation] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_666.mp4
+2026-11-16 20:02:58,686 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/d1d683e388ef497aa6e4b7bcf230b81f.mp4
+2026-11-16 20:03:00,748 [INFO] Container 18058045997804035 status: IN_PROGRESS (1/12)
+2026-11-16 20:03:06,096 [INFO] Container 18058045997804035 status: IN_PROGRESS (2/12)
+2026-11-16 20:03:11,587 [INFO] Container 18058045997804035 status: IN_PROGRESS (3/12)
+2026-11-16 20:03:17,028 [INFO] Container 18058045997804035 status: IN_PROGRESS (4/12)
+2026-11-16 20:03:22,552 [INFO] Container 18058045997804035 status: IN_PROGRESS (5/12)
+2026-11-16 20:03:27,985 [INFO] Container 18058045997804035 status: IN_PROGRESS (6/12)
+2026-11-16 20:03:42,559 [INFO] Instagram post published [morning_motivation]
+2026-11-16 20:03:43,167 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-16 20:03:43,167 [INFO] ✅ Instagram published [morning_motivation]
