@@ -23634,5 +23634,26 @@
       "post_id": "1181533578372151_122145181803364831"
     },
     "timestamp": "2026-11-16T23:41:52.114683"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Small steps still count as forward.",
+      "content_index": 729,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-16",
+      "timestamp": "2026-11-16T23:52:09.943945",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Small steps still count as forward.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145182325364831",
+      "post_id": "1181533578372151_122145182349364831"
+    },
+    "timestamp": "2026-11-16T23:52:15.654982"
   }
 ]
