@@ -23508,5 +23508,26 @@
       "post_id": "1181533578372151_122145001317364831"
     },
     "timestamp": "2026-11-15T22:23:12.151258"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Motivation gets you started. Structure keeps you going.",
+      "content_index": 726,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-11-16",
+      "timestamp": "2026-11-16T13:23:13.178098",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Motivation gets you started. Structure keeps you going.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145105213364831",
+      "post_id": "1181533578372151_122145105237364831"
+    },
+    "timestamp": "2026-11-16T13:23:19.270649"
   }
 ]
