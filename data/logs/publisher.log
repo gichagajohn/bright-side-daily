@@ -16359,3 +16359,24 @@ Share this with someone who needs it today! 💛
 2026-11-16 13:24:51,044 [INFO] Container 18057994037804035 status: IN_PROGRESS (12/12)
 2026-11-16 13:24:56,299 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-16 13:24:56,299 [ERROR] ❌ Instagram failed [morning_motivation]: Container did not finish processing.
+2026-11-16 16:49:34,914 [INFO] Failed posts list is empty.
+2026-11-16 16:49:35,029 [INFO] ──────────────────────────────────────────────────
+2026-11-16 16:49:35,029 [INFO] ▶  Running slot: evening_reflection
+2026-11-16 16:49:35,029 [INFO] ──────────────────────────────────────────────────
+2026-11-16 16:49:35,189 [INFO] 📝 Content selected: Appreciate the people who have shaped you....
+2026-11-16 16:49:35,947 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_184.jpg
+2026-11-16 16:49:35,948 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_184.jpg
+2026-11-16 16:49:35,948 [INFO] Caption preview: 🌙 Appreciate the people who have shaped you.
+
+Share this with someone who needs it today! 💛
+
+#Gratitude #Thankful #Count...
+2026-11-16 16:49:39,909 [INFO] ✅ Posted successfully [evening_reflection]
+2026-11-16 16:49:39,985 [INFO] Carousel ready: 2 slides for evening_reflection
+2026-11-16 16:49:39,985 [INFO] Instagram carousel [evening_reflection] | 2 slides
+2026-11-16 16:49:40,668 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/c19b9295f10b4039be1b4b0047f86827.jpg
+2026-11-16 16:49:41,058 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/8a33500aaabc45c5a338ed5b80d56e5f.jpg
+2026-11-16 16:50:00,760 [INFO] Container 18058023071804035 status: IN_PROGRESS (1/12)
+2026-11-16 16:50:10,656 [INFO] Instagram post published [evening_reflection]
+2026-11-16 16:50:11,630 [INFO] ✅ Facebook published [evening_reflection]
+2026-11-16 16:50:11,630 [INFO] ✅ Instagram published [evening_reflection]
