@@ -16403,3 +16403,35 @@ Share this with someone who needs it today! 💛...
 2026-11-16 17:45:32,962 [INFO] Instagram post published [morning_motivation]
 2026-11-16 17:45:33,361 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-16 17:45:33,361 [INFO] ✅ Instagram published [morning_motivation]
+2026-11-16 19:14:18,145 [INFO] Failed posts list is empty.
+2026-11-16 19:14:18,306 [INFO] ──────────────────────────────────────────────────
+2026-11-16 19:14:18,306 [INFO] ▶  Running slot: morning_motivation
+2026-11-16 19:14:18,306 [INFO] ──────────────────────────────────────────────────
+2026-11-16 19:14:18,628 [INFO] 📝 Content selected: You are not behind. You are on a different timeline, still moving....
+2026-11-16 19:14:19,293 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_736.jpg
+2026-11-16 19:14:19,294 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_736.jpg
+2026-11-16 19:14:19,294 [INFO] Caption preview: ☀️ You are not behind. You are on a different timeline, still moving.
+
+Share this with someone who needs it today! 💛
+
+#M...
+2026-11-16 19:14:25,022 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-16 19:14:26,972 [INFO] Voice-over: en-KE-ChilembaNeural (12 words timed)
+2026-11-16 19:14:27,001 [INFO] Rendering reel: 9.2s, 12 words
+2026-11-16 19:14:50,555 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_736.mp4 (295 KB, 9.2s, 276 frames)
+2026-11-16 19:14:50,560 [INFO] Instagram reel [morning_motivation] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_736.mp4
+2026-11-16 19:14:51,216 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/791a7783895447d3a509e0e0a8e3e95a.mp4
+2026-11-16 19:14:53,604 [INFO] Container 18058040408804035 status: IN_PROGRESS (1/12)
+2026-11-16 19:14:58,994 [INFO] Container 18058040408804035 status: IN_PROGRESS (2/12)
+2026-11-16 19:15:04,347 [INFO] Container 18058040408804035 status: IN_PROGRESS (3/12)
+2026-11-16 19:15:10,290 [INFO] Container 18058040408804035 status: IN_PROGRESS (4/12)
+2026-11-16 19:15:15,645 [INFO] Container 18058040408804035 status: IN_PROGRESS (5/12)
+2026-11-16 19:15:21,134 [INFO] Container 18058040408804035 status: IN_PROGRESS (6/12)
+2026-11-16 19:15:26,495 [INFO] Container 18058040408804035 status: IN_PROGRESS (7/12)
+2026-11-16 19:15:31,853 [INFO] Container 18058040408804035 status: IN_PROGRESS (8/12)
+2026-11-16 19:15:37,255 [INFO] Container 18058040408804035 status: IN_PROGRESS (9/12)
+2026-11-16 19:15:42,461 [INFO] Container 18058040408804035 status: IN_PROGRESS (10/12)
+2026-11-16 19:15:47,838 [INFO] Container 18058040408804035 status: IN_PROGRESS (11/12)
+2026-11-16 19:15:53,199 [INFO] Container 18058040408804035 status: IN_PROGRESS (12/12)
+2026-11-16 19:15:58,465 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-16 19:15:58,466 [ERROR] ❌ Instagram failed [morning_motivation]: Container did not finish processing.
