@@ -23781,5 +23781,26 @@
       "post_id": "1181533578372151_122145301767364831"
     },
     "timestamp": "2026-11-17T18:58:51.359018"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your potential is not a guarantee. It is an invitation.",
+      "content_index": 748,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T22:49:46.339579",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your potential is not a guarantee. It is an invitation.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145325419364831",
+      "post_id": "1181533578372151_122145325443364831"
+    },
+    "timestamp": "2026-11-17T22:49:51.134010"
   }
 ]
