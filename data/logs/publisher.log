@@ -16612,3 +16612,35 @@ Share this with someone who needs it today! 💛
 2026-11-17 17:17:30,127 [INFO] Instagram post published [morning_motivation]
 2026-11-17 17:17:30,401 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-17 17:17:30,401 [INFO] ✅ Instagram published [morning_motivation]
+2026-11-17 18:07:16,355 [INFO] Failed posts list is empty.
+2026-11-17 18:07:16,537 [INFO] ──────────────────────────────────────────────────
+2026-11-17 18:07:16,537 [INFO] ▶  Running slot: night_inspiration
+2026-11-17 18:07:16,537 [INFO] ──────────────────────────────────────────────────
+2026-11-17 18:07:16,808 [INFO] 📝 Content selected: The things you avoid are usually the things that change you....
+2026-11-17 18:07:17,442 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/night_inspiration_745.jpg
+2026-11-17 18:07:17,443 [INFO] Publishing [night_inspiration] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/night_inspiration_745.jpg
+2026-11-17 18:07:17,443 [INFO] Caption preview: ✨ The things you avoid are usually the things that change you.
+
+Share this with someone who needs it today! 💛
+
+#Motivati...
+2026-11-17 18:07:23,814 [INFO] ✅ Posted successfully [night_inspiration]
+2026-11-17 18:07:25,445 [INFO] Voice-over: en-KE-ChilembaNeural (11 words timed)
+2026-11-17 18:07:25,475 [INFO] Rendering reel: 8.0s, 11 words
+2026-11-17 18:07:50,287 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/night_inspiration_745.mp4 (241 KB, 8.0s, 240 frames)
+2026-11-17 18:07:50,295 [INFO] Instagram reel [night_inspiration] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/night_inspiration_745.mp4
+2026-11-17 18:07:51,165 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/5caa357f9a474c1293388d1bd7ac9c98.mp4
+2026-11-17 18:07:53,642 [INFO] Container 18058180496804035 status: IN_PROGRESS (1/12)
+2026-11-17 18:07:59,182 [INFO] Container 18058180496804035 status: IN_PROGRESS (2/12)
+2026-11-17 18:08:04,688 [INFO] Container 18058180496804035 status: IN_PROGRESS (3/12)
+2026-11-17 18:08:10,177 [INFO] Container 18058180496804035 status: IN_PROGRESS (4/12)
+2026-11-17 18:08:15,621 [INFO] Container 18058180496804035 status: IN_PROGRESS (5/12)
+2026-11-17 18:08:21,100 [INFO] Container 18058180496804035 status: IN_PROGRESS (6/12)
+2026-11-17 18:08:26,627 [INFO] Container 18058180496804035 status: IN_PROGRESS (7/12)
+2026-11-17 18:08:32,115 [INFO] Container 18058180496804035 status: IN_PROGRESS (8/12)
+2026-11-17 18:08:37,536 [INFO] Container 18058180496804035 status: IN_PROGRESS (9/12)
+2026-11-17 18:08:43,092 [INFO] Container 18058180496804035 status: IN_PROGRESS (10/12)
+2026-11-17 18:08:48,518 [INFO] Container 18058180496804035 status: IN_PROGRESS (11/12)
+2026-11-17 18:08:54,008 [INFO] Container 18058180496804035 status: IN_PROGRESS (12/12)
+2026-11-17 18:08:59,217 [INFO] ✅ Facebook published [night_inspiration]
+2026-11-17 18:08:59,218 [ERROR] ❌ Instagram failed [night_inspiration]: Container did not finish processing.

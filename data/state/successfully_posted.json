@@ -23739,5 +23739,26 @@
       "post_id": "1181533578372151_122145290961364831"
     },
     "timestamp": "2026-11-17T17:16:22.595829"
+  },
+  {
+    "post": {
+      "slot": "night_inspiration",
+      "category": "motivational_quotes",
+      "content": "The things you avoid are usually the things that change you.",
+      "content_index": 745,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T18:07:16.808147",
+      "weight_used": 1.0
+    },
+    "caption": "\u2728 The things you avoid are usually the things that change you.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145294843364831",
+      "post_id": "1181533578372151_122145294867364831"
+    },
+    "timestamp": "2026-11-17T18:07:23.819357"
   }
 ]
