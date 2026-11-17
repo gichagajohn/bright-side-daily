@@ -23802,5 +23802,26 @@
       "post_id": "1181533578372151_122145325443364831"
     },
     "timestamp": "2026-11-17T22:49:51.134010"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are the author of your own story.",
+      "content_index": 47,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T23:11:17.859073",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are the author of your own story.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145327693364831",
+      "post_id": "1181533578372151_122145327717364831"
+    },
+    "timestamp": "2026-11-17T23:11:23.550297"
   }
 ]
