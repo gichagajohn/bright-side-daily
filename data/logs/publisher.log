@@ -16586,3 +16586,29 @@ Share this with someone who needs it today! 💛
 2026-11-17 16:45:25,094 [INFO] Instagram post published [evening_reflection]
 2026-11-17 16:45:40,161 [INFO] ✅ Facebook published [evening_reflection]
 2026-11-17 16:45:40,161 [INFO] ✅ Instagram published [evening_reflection]
+2026-11-17 17:16:15,986 [INFO] Failed posts list is empty.
+2026-11-17 17:16:16,165 [INFO] ──────────────────────────────────────────────────
+2026-11-17 17:16:16,165 [INFO] ▶  Running slot: morning_motivation
+2026-11-17 17:16:16,165 [INFO] ──────────────────────────────────────────────────
+2026-11-17 17:16:16,597 [INFO] 📝 Content selected: Build a life you do not need a holiday from....
+2026-11-17 17:16:17,508 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_752.jpg
+2026-11-17 17:16:17,508 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_752.jpg
+2026-11-17 17:16:17,508 [INFO] Caption preview: ☀️ Build a life you do not need a holiday from.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mi...
+2026-11-17 17:16:22,591 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-17 17:16:24,395 [INFO] Voice-over: en-KE-ChilembaNeural (10 words timed)
+2026-11-17 17:16:24,422 [INFO] Rendering reel: 8.0s, 10 words
+2026-11-17 17:16:47,804 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_752.mp4 (207 KB, 8.0s, 240 frames)
+2026-11-17 17:16:47,811 [INFO] Instagram reel [morning_motivation] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_752.mp4
+2026-11-17 17:16:48,920 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/04fb45b5ceac4c7fb6ff21d708b21724.mp4
+2026-11-17 17:16:51,937 [INFO] Container 18058175204804035 status: IN_PROGRESS (1/12)
+2026-11-17 17:16:57,516 [INFO] Container 18058175204804035 status: IN_PROGRESS (2/12)
+2026-11-17 17:17:02,933 [INFO] Container 18058175204804035 status: IN_PROGRESS (3/12)
+2026-11-17 17:17:08,449 [INFO] Container 18058175204804035 status: IN_PROGRESS (4/12)
+2026-11-17 17:17:13,905 [INFO] Container 18058175204804035 status: IN_PROGRESS (5/12)
+2026-11-17 17:17:30,127 [INFO] Instagram post published [morning_motivation]
+2026-11-17 17:17:30,401 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-17 17:17:30,401 [INFO] ✅ Instagram published [morning_motivation]

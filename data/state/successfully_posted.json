@@ -23718,5 +23718,26 @@
       "post_id": "1181533578372151_122145288429364831"
     },
     "timestamp": "2026-11-17T16:44:59.746246"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Build a life you do not need a holiday from.",
+      "content_index": 752,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T17:16:16.597353",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Build a life you do not need a holiday from.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145290937364831",
+      "post_id": "1181533578372151_122145290961364831"
+    },
+    "timestamp": "2026-11-17T17:16:22.595829"
   }
 ]
