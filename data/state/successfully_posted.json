@@ -23655,5 +23655,26 @@
       "post_id": "1181533578372151_122145182349364831"
     },
     "timestamp": "2026-11-16T23:52:15.654982"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "When you feel like quitting, think about why you started.",
+      "content_index": 126,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T01:25:45.592747",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f When you feel like quitting, think about why you started.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145188373364831",
+      "post_id": "1181533578372151_122145188397364831"
+    },
+    "timestamp": "2026-11-17T01:25:51.966012"
   }
 ]
