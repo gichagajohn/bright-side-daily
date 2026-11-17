@@ -23760,5 +23760,26 @@
       "post_id": "1181533578372151_122145294867364831"
     },
     "timestamp": "2026-11-17T18:07:23.819357"
+  },
+  {
+    "post": {
+      "slot": "night_inspiration",
+      "category": "motivational_quotes",
+      "content": "You are the only person who can unlock your full potential.",
+      "content_index": 591,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T18:58:45.098722",
+      "weight_used": 1.0
+    },
+    "caption": "\u2728 You are the only person who can unlock your full potential.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145301737364831",
+      "post_id": "1181533578372151_122145301767364831"
+    },
+    "timestamp": "2026-11-17T18:58:51.359018"
   }
 ]
