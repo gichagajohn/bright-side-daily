@@ -23844,5 +23844,26 @@
       "post_id": "1181533578372151_122145333111364831"
     },
     "timestamp": "2026-11-18T00:21:48.309506"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Show up even when the results are still invisible.",
+      "content_index": 759,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T13:40:54.018684",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Show up even when the results are still invisible.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145433155364831",
+      "post_id": "1181533578372151_122145433179364831"
+    },
+    "timestamp": "2026-11-18T13:40:59.269938"
   }
 ]
