@@ -23865,5 +23865,26 @@
       "post_id": "1181533578372151_122145433179364831"
     },
     "timestamp": "2026-11-18T13:40:59.269938"
+  },
+  {
+    "post": {
+      "slot": "evening_reflection",
+      "category": "gratitude_quotes",
+      "content": "Thank the road that was hard. It made you strong.",
+      "content_index": 262,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "warm coffee mug on table beside rainy window"
+      },
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T16:16:13.810801",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83c\udf19 Thank the road that was hard. It made you strong.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Gratitude #Thankful #CountYourBlessings #GratefulHeart #Blessed #BrightSideDaily",
+    "fb_response": {
+      "id": "122145453399364831",
+      "post_id": "1181533578372151_122145453423364831"
+    },
+    "timestamp": "2026-11-18T16:16:20.290998"
   }
 ]

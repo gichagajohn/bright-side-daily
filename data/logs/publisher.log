@@ -16772,3 +16772,24 @@ Share this with someone who needs it today! 💛
 2026-11-18 13:41:53,933 [INFO] Instagram post published [morning_motivation]
 2026-11-18 13:41:54,196 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-18 13:41:54,196 [INFO] ✅ Instagram published [morning_motivation]
+2026-11-18 16:16:13,477 [INFO] Failed posts list is empty.
+2026-11-18 16:16:13,603 [INFO] ──────────────────────────────────────────────────
+2026-11-18 16:16:13,603 [INFO] ▶  Running slot: evening_reflection
+2026-11-18 16:16:13,603 [INFO] ──────────────────────────────────────────────────
+2026-11-18 16:16:13,810 [INFO] 📝 Content selected: Thank the road that was hard. It made you strong....
+2026-11-18 16:16:14,428 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_262.jpg
+2026-11-18 16:16:14,428 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_262.jpg
+2026-11-18 16:16:14,428 [INFO] Caption preview: 🌙 Thank the road that was hard. It made you strong.
+
+Share this with someone who needs it today! 💛
+
+#Gratitude #Thankful...
+2026-11-18 16:16:20,287 [INFO] ✅ Posted successfully [evening_reflection]
+2026-11-18 16:16:20,402 [INFO] Carousel ready: 2 slides for evening_reflection
+2026-11-18 16:16:20,402 [INFO] Instagram carousel [evening_reflection] | 2 slides
+2026-11-18 16:16:21,086 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/750b17778244499c9f401a5be81c6857.jpg
+2026-11-18 16:16:21,413 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/c89770f0947a4a5e99657d216173338f.jpg
+2026-11-18 16:16:34,059 [INFO] Container 18058286891804035 status: IN_PROGRESS (1/12)
+2026-11-18 16:16:43,060 [INFO] Instagram post published [evening_reflection]
+2026-11-18 16:16:43,506 [INFO] ✅ Facebook published [evening_reflection]
+2026-11-18 16:16:43,506 [INFO] ✅ Instagram published [evening_reflection]
