@@ -23907,5 +23907,26 @@
       "post_id": "1181533578372151_122145456207364831"
     },
     "timestamp": "2026-11-18T16:52:04.227274"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Keep going. You're closer than you think.",
+      "content_index": 31,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T17:45:51.753844",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Keep going. You're closer than you think.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145481785364831",
+      "post_id": "1181533578372151_122145481809364831"
+    },
+    "timestamp": "2026-11-18T17:45:57.970442"
   }
 ]
