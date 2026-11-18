@@ -16793,3 +16793,23 @@ Share this with someone who needs it today! 💛
 2026-11-18 16:16:43,060 [INFO] Instagram post published [evening_reflection]
 2026-11-18 16:16:43,506 [INFO] ✅ Facebook published [evening_reflection]
 2026-11-18 16:16:43,506 [INFO] ✅ Instagram published [evening_reflection]
+2026-11-18 16:52:00,046 [INFO] Failed posts list is empty.
+2026-11-18 16:52:00,195 [INFO] ──────────────────────────────────────────────────
+2026-11-18 16:52:00,195 [INFO] ▶  Running slot: evening_reflection
+2026-11-18 16:52:00,195 [INFO] ──────────────────────────────────────────────────
+2026-11-18 16:52:00,348 [INFO] 📝 Content selected: In a world of noise, gratitude is the quiet miracle....
+2026-11-18 16:52:00,918 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_124.jpg
+2026-11-18 16:52:00,918 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_124.jpg
+2026-11-18 16:52:00,918 [INFO] Caption preview: 🌙 In a world of noise, gratitude is the quiet miracle.
+
+Share this with someone who needs it today! 💛
+
+#Gratitude #Thank...
+2026-11-18 16:52:04,224 [INFO] ✅ Posted successfully [evening_reflection]
+2026-11-18 16:52:04,256 [INFO] Carousel ready: 2 slides for evening_reflection
+2026-11-18 16:52:04,256 [INFO] Instagram carousel [evening_reflection] | 2 slides
+2026-11-18 16:52:04,831 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/b22c7ef042df4bdf8231aaaac4453ef5.jpg
+2026-11-18 16:52:05,413 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/c6125cab91e24f9684c6bea855aa0221.jpg
+2026-11-18 16:52:25,894 [INFO] Instagram post published [evening_reflection]
+2026-11-18 16:52:26,377 [INFO] ✅ Facebook published [evening_reflection]
+2026-11-18 16:52:26,377 [INFO] ✅ Instagram published [evening_reflection]
