@@ -23970,5 +23970,26 @@
       "post_id": "1181533578372151_122145515463364831"
     },
     "timestamp": "2026-11-18T22:31:52.702598"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are allowed to start badly. You are not allowed to stay still.",
+      "content_index": 707,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T22:43:09.961123",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are allowed to start badly. You are not allowed to stay still.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145516297364831",
+      "post_id": "1181533578372151_122145516321364831"
+    },
+    "timestamp": "2026-11-18T22:43:15.739665"
   }
 ]
