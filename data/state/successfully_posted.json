@@ -23949,5 +23949,26 @@
       "post_id": "1181533578372151_122145487401364831"
     },
     "timestamp": "2026-11-18T18:42:49.144463"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your habits are voting on your future every single day.",
+      "content_index": 734,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T22:31:48.215801",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your habits are voting on your future every single day.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145515439364831",
+      "post_id": "1181533578372151_122145515463364831"
+    },
+    "timestamp": "2026-11-18T22:31:52.702598"
   }
 ]
