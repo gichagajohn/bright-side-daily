@@ -23928,5 +23928,26 @@
       "post_id": "1181533578372151_122145481809364831"
     },
     "timestamp": "2026-11-18T17:45:57.970442"
+  },
+  {
+    "post": {
+      "slot": "night_inspiration",
+      "category": "motivational_quotes",
+      "content": "Some days the win is simply not giving up.",
+      "content_index": 755,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T18:42:42.699608",
+      "weight_used": 1.0
+    },
+    "caption": "\u2728 Some days the win is simply not giving up.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145487371364831",
+      "post_id": "1181533578372151_122145487401364831"
+    },
+    "timestamp": "2026-11-18T18:42:49.144463"
   }
 ]
