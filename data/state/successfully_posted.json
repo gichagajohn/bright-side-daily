@@ -23823,5 +23823,26 @@
       "post_id": "1181533578372151_122145327717364831"
     },
     "timestamp": "2026-11-17T23:11:23.550297"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are not starting over. You are starting wiser.",
+      "content_index": 756,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T00:21:42.106455",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are not starting over. You are starting wiser.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145333081364831",
+      "post_id": "1181533578372151_122145333111364831"
+    },
+    "timestamp": "2026-11-18T00:21:48.309506"
   }
 ]
