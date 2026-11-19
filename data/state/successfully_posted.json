@@ -24012,5 +24012,26 @@
       "post_id": "1181533578372151_122145522369364831"
     },
     "timestamp": "2026-11-18T23:47:31.133127"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You do not need a new plan. You need the same plan, repeated on the days you do not feel like it.",
+      "content_index": 701,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T14:08:25.488513",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You do not need a new plan. You need the same plan, repeated on the days you do not feel like it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145599223364831",
+      "post_id": "1181533578372151_122145599247364831"
+    },
+    "timestamp": "2026-11-19T14:08:31.769742"
   }
 ]
