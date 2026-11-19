@@ -24117,5 +24117,26 @@
       "post_id": "1181533578372151_122145633189364831"
     },
     "timestamp": "2026-11-19T18:54:40.684176"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The work is the way. There is no shortcut around it.",
+      "content_index": 758,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T22:38:02.630840",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The work is the way. There is no shortcut around it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145657123364831",
+      "post_id": "1181533578372151_122145657159364831"
+    },
+    "timestamp": "2026-11-19T22:38:09.577495"
   }
 ]
