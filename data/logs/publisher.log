@@ -17000,3 +17000,23 @@ Share this with someone who needs it today! 💛
 2026-11-19 16:24:56,863 [INFO] Instagram post published [evening_reflection]
 2026-11-19 16:24:57,858 [INFO] ✅ Facebook published [evening_reflection]
 2026-11-19 16:24:57,858 [INFO] ✅ Instagram published [evening_reflection]
+2026-11-19 16:58:45,571 [INFO] Failed posts list is empty.
+2026-11-19 16:58:45,735 [INFO] ──────────────────────────────────────────────────
+2026-11-19 16:58:45,735 [INFO] ▶  Running slot: evening_reflection
+2026-11-19 16:58:45,735 [INFO] ──────────────────────────────────────────────────
+2026-11-19 16:58:45,989 [INFO] 📝 Content selected: Appreciate the people who choose to stay in your life....
+2026-11-19 16:58:46,888 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_71.jpg
+2026-11-19 16:58:46,888 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_71.jpg
+2026-11-19 16:58:46,888 [INFO] Caption preview: 🌙 Appreciate the people who choose to stay in your life.
+
+Share this with someone who needs it today! 💛
+
+#Gratitude #Tha...
+2026-11-19 16:58:52,459 [INFO] ✅ Posted successfully [evening_reflection]
+2026-11-19 16:58:52,544 [INFO] Carousel ready: 2 slides for evening_reflection
+2026-11-19 16:58:52,544 [INFO] Instagram carousel [evening_reflection] | 2 slides
+2026-11-19 16:58:53,173 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/2f643000c2c2454d992da4946ea2dbe7.jpg
+2026-11-19 16:58:53,687 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/cfebbea5cde7458fb1e85271a8c2024d.jpg
+2026-11-19 16:59:17,053 [INFO] Instagram post published [evening_reflection]
+2026-11-19 16:59:17,953 [INFO] ✅ Facebook published [evening_reflection]
+2026-11-19 16:59:17,953 [INFO] ✅ Instagram published [evening_reflection]
