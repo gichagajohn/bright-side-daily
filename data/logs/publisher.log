@@ -16979,3 +16979,24 @@ Share this with so...
 2026-11-19 14:09:34,532 [INFO] Instagram post published [morning_motivation]
 2026-11-19 14:09:35,127 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-19 14:09:35,127 [INFO] ✅ Instagram published [morning_motivation]
+2026-11-19 16:24:26,745 [INFO] Failed posts list is empty.
+2026-11-19 16:24:26,887 [INFO] ──────────────────────────────────────────────────
+2026-11-19 16:24:26,887 [INFO] ▶  Running slot: evening_reflection
+2026-11-19 16:24:26,888 [INFO] ──────────────────────────────────────────────────
+2026-11-19 16:24:27,105 [INFO] 📝 Content selected: Gratitude turns what we have into enough and more....
+2026-11-19 16:24:27,471 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_0.jpg
+2026-11-19 16:24:27,471 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_0.jpg
+2026-11-19 16:24:27,472 [INFO] Caption preview: 🌙 Gratitude turns what we have into enough and more.
+
+Share this with someone who needs it today! 💛
+
+#Gratitude #Thankfu...
+2026-11-19 16:24:32,302 [INFO] ✅ Posted successfully [evening_reflection]
+2026-11-19 16:24:32,350 [INFO] Carousel ready: 2 slides for evening_reflection
+2026-11-19 16:24:32,350 [INFO] Instagram carousel [evening_reflection] | 2 slides
+2026-11-19 16:24:33,033 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/a8fe71812f5e4d7a9586bfffacf241a6.jpg
+2026-11-19 16:24:33,302 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/a34b5bcca0714e1bbb18fc1587de9817.jpg
+2026-11-19 16:24:46,727 [INFO] Container 18058406012804035 status: IN_PROGRESS (1/12)
+2026-11-19 16:24:56,863 [INFO] Instagram post published [evening_reflection]
+2026-11-19 16:24:57,858 [INFO] ✅ Facebook published [evening_reflection]
+2026-11-19 16:24:57,858 [INFO] ✅ Instagram published [evening_reflection]
