@@ -24096,5 +24096,26 @@
       "post_id": "1181533578372151_122145626343364831"
     },
     "timestamp": "2026-11-19T17:57:04.247419"
+  },
+  {
+    "post": {
+      "slot": "night_inspiration",
+      "category": "motivational_quotes",
+      "content": "If opportunity doesn't knock, build a door.",
+      "content_index": 108,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T18:54:35.357583",
+      "weight_used": 1.0
+    },
+    "caption": "\u2728 If opportunity doesn't knock, build a door.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145633165364831",
+      "post_id": "1181533578372151_122145633189364831"
+    },
+    "timestamp": "2026-11-19T18:54:40.684176"
   }
 ]

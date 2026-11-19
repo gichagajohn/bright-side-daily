@@ -17052,3 +17052,29 @@ Share this with someone who needs it today! 💛
 2026-11-19 17:58:30,367 [INFO] Container 18058415714804035 status: IN_PROGRESS (12/12)
 2026-11-19 17:58:35,733 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-19 17:58:35,733 [ERROR] ❌ Instagram failed [morning_motivation]: Container did not finish processing.
+2026-11-19 18:54:34,990 [INFO] Failed posts list is empty.
+2026-11-19 18:54:35,143 [INFO] ──────────────────────────────────────────────────
+2026-11-19 18:54:35,143 [INFO] ▶  Running slot: night_inspiration
+2026-11-19 18:54:35,143 [INFO] ──────────────────────────────────────────────────
+2026-11-19 18:54:35,357 [INFO] 📝 Content selected: If opportunity doesn't knock, build a door....
+2026-11-19 18:54:36,242 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/night_inspiration_108.jpg
+2026-11-19 18:54:36,242 [INFO] Publishing [night_inspiration] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/night_inspiration_108.jpg
+2026-11-19 18:54:36,242 [INFO] Caption preview: ✨ If opportunity doesn't knock, build a door.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Mind...
+2026-11-19 18:54:40,681 [INFO] ✅ Posted successfully [night_inspiration]
+2026-11-19 18:54:41,561 [INFO] Voice-over: en-KE-ChilembaNeural (7 words timed)
+2026-11-19 18:54:41,585 [INFO] Rendering reel: 8.0s, 7 words
+2026-11-19 18:54:55,712 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/night_inspiration_108.mp4 (218 KB, 8.0s, 240 frames)
+2026-11-19 18:54:55,719 [INFO] Instagram reel [night_inspiration] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/night_inspiration_108.mp4
+2026-11-19 18:54:56,419 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/3a600f86c9a1412ba7e557ec2945f087.mp4
+2026-11-19 18:54:58,817 [INFO] Container 18058419689804035 status: IN_PROGRESS (1/12)
+2026-11-19 18:55:04,113 [INFO] Container 18058419689804035 status: IN_PROGRESS (2/12)
+2026-11-19 18:55:09,272 [INFO] Container 18058419689804035 status: IN_PROGRESS (3/12)
+2026-11-19 18:55:14,490 [INFO] Container 18058419689804035 status: IN_PROGRESS (4/12)
+2026-11-19 18:55:19,662 [INFO] Container 18058419689804035 status: IN_PROGRESS (5/12)
+2026-11-19 18:55:32,543 [INFO] Instagram post published [night_inspiration]
+2026-11-19 18:55:32,835 [INFO] ✅ Facebook published [night_inspiration]
+2026-11-19 18:55:32,835 [INFO] ✅ Instagram published [night_inspiration]
