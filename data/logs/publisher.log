@@ -17603,3 +17603,35 @@ Share this with someone who needs it today! 💛
 2026-11-20 22:13:54,634 [INFO] Container 18058558412804035 status: IN_PROGRESS (12/12)
 2026-11-20 22:13:59,884 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-20 22:13:59,884 [ERROR] ❌ Instagram failed [morning_motivation]: Container did not finish processing.
+2026-11-20 22:23:19,987 [INFO] Failed posts list is empty.
+2026-11-20 22:23:20,126 [INFO] ──────────────────────────────────────────────────
+2026-11-20 22:23:20,126 [INFO] ▶  Running slot: morning_motivation
+2026-11-20 22:23:20,126 [INFO] ──────────────────────────────────────────────────
+2026-11-20 22:23:20,395 [INFO] 📝 Content selected: Nobody hands you confidence. You build it by keeping small promises to yourself....
+2026-11-20 22:23:21,662 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_706.jpg
+2026-11-20 22:23:21,662 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_706.jpg
+2026-11-20 22:23:21,662 [INFO] Caption preview: ☀️ Nobody hands you confidence. You build it by keeping small promises to yourself.
+
+Share this with someone who needs i...
+2026-11-20 22:23:26,002 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-20 22:23:27,579 [INFO] Voice-over: en-KE-ChilembaNeural (13 words timed)
+2026-11-20 22:23:27,605 [INFO] Rendering reel: 9.7s, 13 words
+2026-11-20 22:23:48,588 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_706.mp4 (341 KB, 9.7s, 290 frames)
+2026-11-20 22:23:48,630 [INFO] Facebook reel [morning_motivation] | /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_706.mp4
+2026-11-20 22:23:49,731 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side-reels/c973bc499d5c4877983554fba7975cfe.mp4
+2026-11-20 22:23:55,495 [INFO] Instagram reel [morning_motivation] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_706.mp4
+2026-11-20 22:23:56,537 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/44abc2a4c03d45f991678c3a4a743bf6.mp4
+2026-11-20 22:23:58,769 [INFO] Container 18058559075804035 status: IN_PROGRESS (1/12)
+2026-11-20 22:24:04,108 [INFO] Container 18058559075804035 status: IN_PROGRESS (2/12)
+2026-11-20 22:24:09,335 [INFO] Container 18058559075804035 status: IN_PROGRESS (3/12)
+2026-11-20 22:24:14,598 [INFO] Container 18058559075804035 status: IN_PROGRESS (4/12)
+2026-11-20 22:24:19,876 [INFO] Container 18058559075804035 status: IN_PROGRESS (5/12)
+2026-11-20 22:24:25,313 [INFO] Container 18058559075804035 status: IN_PROGRESS (6/12)
+2026-11-20 22:24:30,559 [INFO] Container 18058559075804035 status: IN_PROGRESS (7/12)
+2026-11-20 22:24:35,757 [INFO] Container 18058559075804035 status: IN_PROGRESS (8/12)
+2026-11-20 22:24:40,986 [INFO] Container 18058559075804035 status: IN_PROGRESS (9/12)
+2026-11-20 22:24:46,330 [INFO] Container 18058559075804035 status: IN_PROGRESS (10/12)
+2026-11-20 22:24:51,614 [INFO] Container 18058559075804035 status: IN_PROGRESS (11/12)
+2026-11-20 22:24:56,916 [INFO] Container 18058559075804035 status: IN_PROGRESS (12/12)
+2026-11-20 22:25:02,223 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-20 22:25:02,223 [ERROR] ❌ Instagram failed [morning_motivation]: Container did not finish processing.
