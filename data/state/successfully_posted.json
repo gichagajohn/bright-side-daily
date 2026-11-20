@@ -24243,5 +24243,46 @@
       "post_id": "1181533578372151_122145770205364831"
     },
     "timestamp": "2026-11-20T16:34:19.279440"
+  },
+  {
+    "post": {
+      "slot": "evening_reflection",
+      "category": "gratitude_quotes",
+      "content": "Gratitude turns painful experiences into powerful lessons.",
+      "content_index": 32,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "person watching golden sunset over water"
+      },
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T16:34:15.211128",
+      "weight_used": 1.0
+    },
+    "caption": "\ud83c\udf19 Gratitude turns painful experiences into powerful lessons.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Gratitude #Thankful #CountYourBlessings #GratefulHeart #Blessed #BrightSideDaily",
+    "fb_response": {
+      "id": "1181533578372151_122145774813364831"
+    },
+    "timestamp": "2026-11-20T17:30:37.305877"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "One day at a time. One step at a time.",
+      "content_index": 272,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T17:30:37.955026",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f One day at a time. One step at a time.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145774843364831",
+      "post_id": "1181533578372151_122145774873364831"
+    },
+    "timestamp": "2026-11-20T17:30:43.517255"
   }
 ]

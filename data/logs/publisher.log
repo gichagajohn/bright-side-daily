@@ -17365,3 +17365,180 @@ Traceback (most recent call last):
 requests.exceptions.ConnectionError: HTTPSConnectionPool(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Max retries exceeded with url: /storage/v1/object/social-images/bright-side/4fae920821134bb6ae3d4242cc753c4b.jpg (Caused by NameResolutionError("HTTPSConnection(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Failed to resolve 'lvadrzrbfxpizvwimqtf.supabase.co' ([Errno -2] Name or service not known)"))
 2026-11-20 16:34:43,599 [INFO] ✅ Facebook published [evening_reflection]
 2026-11-20 16:34:43,599 [ERROR] ❌ Instagram failed [evening_reflection]: HTTPSConnectionPool(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Max retries exceeded with url: /storage/v1/object/social-images/bright-side/4fae920821134bb6ae3d4242cc753c4b.jpg (Caused by NameResolutionError("HTTPSConnection(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Failed to resolve 'lvadrzrbfxpizvwimqtf.supabase.co' ([Errno -2] Name or service not known)"))
+2026-11-20 17:30:34,196 [INFO] Retrying 1 failed posts...
+2026-11-20 17:30:34,196 [INFO] Publishing [evening_reflection] | image: none
+2026-11-20 17:30:34,196 [INFO] Caption preview: 🌙 Gratitude turns painful experiences into powerful lessons.
+
+Share this with someone who needs it today! 💛
+
+#Gratitude ...
+2026-11-20 17:30:34,196 [WARNING] No image found — posting text only.
+2026-11-20 17:30:37,300 [INFO] ✅ Posted successfully [evening_reflection]
+2026-11-20 17:30:37,426 [INFO] Retry complete. 0 still failing.
+2026-11-20 17:30:37,712 [INFO] ──────────────────────────────────────────────────
+2026-11-20 17:30:37,712 [INFO] ▶  Running slot: morning_motivation
+2026-11-20 17:30:37,713 [INFO] ──────────────────────────────────────────────────
+2026-11-20 17:30:37,955 [INFO] 📝 Content selected: One day at a time. One step at a time....
+2026-11-20 17:30:39,694 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_272.jpg
+2026-11-20 17:30:39,694 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_272.jpg
+2026-11-20 17:30:39,695 [INFO] Caption preview: ☀️ One day at a time. One step at a time.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetM...
+2026-11-20 17:30:43,513 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-20 17:30:45,018 [INFO] Voice-over: en-KE-ChilembaNeural (10 words timed)
+2026-11-20 17:30:45,042 [INFO] Rendering reel: 8.0s, 10 words
+2026-11-20 17:31:03,814 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_272.mp4 (218 KB, 8.0s, 240 frames)
+2026-11-20 17:31:03,818 [INFO] Facebook reel [morning_motivation] | /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_272.mp4
+2026-11-20 17:31:03,860 [ERROR] Facebook reel failed: HTTPSConnectionPool(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Max retries exceeded with url: /storage/v1/object/social-images/bright-side-reels/18a60b1b9aaa49279df1e01b2f36bad8.mp4 (Caused by NameResolutionError("HTTPSConnection(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Failed to resolve 'lvadrzrbfxpizvwimqtf.supabase.co' ([Errno -2] Name or service not known)"))
+2026-11-20 17:31:03,861 [INFO] Instagram reel [morning_motivation] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_272.mp4
+2026-11-20 17:31:03,883 [WARNING] Reel path failed (HTTPSConnectionPool(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Max retries exceeded with url: /storage/v1/object/social-images/bright-side/e6adddc90d584629bdc37b8399cd3557.mp4 (Caused by NameResolutionError("HTTPSConnection(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Failed to resolve 'lvadrzrbfxpizvwimqtf.supabase.co' ([Errno -2] Name or service not known)"))); falling back to a card.
+2026-11-20 17:31:03,909 [INFO] Instagram publish [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/instagram/morning_motivation_272.jpg
+2026-11-20 17:31:03,933 [ERROR] Instagram publishing failed: HTTPSConnectionPool(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Max retries exceeded with url: /storage/v1/object/social-images/bright-side/157f5f15a0b54254a140befe579adfd0.jpg (Caused by NameResolutionError("HTTPSConnection(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Failed to resolve 'lvadrzrbfxpizvwimqtf.supabase.co' ([Errno -2] Name or service not known)"))
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connection.py", line 239, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/socket.py", line 974, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connectionpool.py", line 494, in _make_request
+    raise new_e
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connectionpool.py", line 470, in _make_request
+    self._validate_conn(conn)
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1125, in _validate_conn
+    conn.connect()
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connection.py", line 827, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connection.py", line 246, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: HTTPSConnection(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Failed to resolve 'lvadrzrbfxpizvwimqtf.supabase.co' ([Errno -2] Name or service not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/util/retry.py", line 555, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Max retries exceeded with url: /storage/v1/object/social-images/bright-side/e6adddc90d584629bdc37b8399cd3557.mp4 (Caused by NameResolutionError("HTTPSConnection(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Failed to resolve 'lvadrzrbfxpizvwimqtf.supabase.co' ([Errno -2] Name or service not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/work/bright-side-daily/bright-side-daily/src/agents/social_publisher.py", line 191, in _publish_instagram
+    return publisher.publish_reel(post, video)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/bright-side-daily/bright-side-daily/src/agents/instagram_publisher.py", line 581, in publish_reel
+    public_url = storage.upload(video_path)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/bright-side-daily/bright-side-daily/src/agents/supabase_storage.py", line 100, in upload
+    response = requests.post(
+               ^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/api.py", line 134, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/adapters.py", line 729, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Max retries exceeded with url: /storage/v1/object/social-images/bright-side/e6adddc90d584629bdc37b8399cd3557.mp4 (Caused by NameResolutionError("HTTPSConnection(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Failed to resolve 'lvadrzrbfxpizvwimqtf.supabase.co' ([Errno -2] Name or service not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connection.py", line 239, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/socket.py", line 974, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connectionpool.py", line 494, in _make_request
+    raise new_e
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connectionpool.py", line 470, in _make_request
+    self._validate_conn(conn)
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1125, in _validate_conn
+    conn.connect()
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connection.py", line 827, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connection.py", line 246, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: HTTPSConnection(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Failed to resolve 'lvadrzrbfxpizvwimqtf.supabase.co' ([Errno -2] Name or service not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/util/retry.py", line 555, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Max retries exceeded with url: /storage/v1/object/social-images/bright-side/157f5f15a0b54254a140befe579adfd0.jpg (Caused by NameResolutionError("HTTPSConnection(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Failed to resolve 'lvadrzrbfxpizvwimqtf.supabase.co' ([Errno -2] Name or service not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/work/bright-side-daily/bright-side-daily/src/agents/instagram_publisher.py", line 668, in publish
+    public_url = storage.upload(image_path)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/bright-side-daily/bright-side-daily/src/agents/supabase_storage.py", line 100, in upload
+    response = requests.post(
+               ^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/api.py", line 134, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/adapters.py", line 729, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Max retries exceeded with url: /storage/v1/object/social-images/bright-side/157f5f15a0b54254a140befe579adfd0.jpg (Caused by NameResolutionError("HTTPSConnection(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Failed to resolve 'lvadrzrbfxpizvwimqtf.supabase.co' ([Errno -2] Name or service not known)"))
+2026-11-20 17:31:03,987 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-20 17:31:03,987 [ERROR] ❌ Instagram failed [morning_motivation]: HTTPSConnectionPool(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Max retries exceeded with url: /storage/v1/object/social-images/bright-side/157f5f15a0b54254a140befe579adfd0.jpg (Caused by NameResolutionError("HTTPSConnection(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Failed to resolve 'lvadrzrbfxpizvwimqtf.supabase.co' ([Errno -2] Name or service not known)"))

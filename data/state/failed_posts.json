@@ -1,19 +1,19 @@
 [
   {
     "post": {
-      "slot": "evening_reflection",
-      "category": "gratitude_quotes",
-      "content": "Gratitude turns painful experiences into powerful lessons.",
-      "content_index": 32,
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "One day at a time. One step at a time.",
+      "content_index": 272,
       "visual_theme": {
-        "style": "minimalist",
-        "theme": "person watching golden sunset over water"
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
       },
       "date": "2026-11-20",
-      "timestamp": "2026-11-20T16:34:15.211128",
+      "timestamp": "2026-11-20T17:30:37.955026",
       "weight_used": 1.0
     },
-    "caption": "\ud83c\udf19 Gratitude turns painful experiences into powerful lessons.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Gratitude #Thankful #CountYourBlessings #GratefulHeart #Blessed #BrightSideDaily",
-    "timestamp": "2026-11-20T16:34:43.529095"
+    "caption": "\u2600\ufe0f One day at a time. One step at a time.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "timestamp": "2026-11-20T17:31:03.861058"
   }
 ]
