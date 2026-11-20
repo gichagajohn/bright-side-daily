@@ -17569,3 +17569,37 @@ Share this with someone who needs it today! 💛
 2026-11-20 18:24:16,534 [INFO] Instagram post published [night_inspiration]
 2026-11-20 18:24:16,860 [INFO] ✅ Facebook published [night_inspiration]
 2026-11-20 18:24:16,860 [INFO] ✅ Instagram published [night_inspiration]
+2026-11-20 22:12:13,508 [INFO] Failed posts list is empty.
+2026-11-20 22:12:13,676 [INFO] ──────────────────────────────────────────────────
+2026-11-20 22:12:13,676 [INFO] ▶  Running slot: morning_motivation
+2026-11-20 22:12:13,676 [INFO] ──────────────────────────────────────────────────
+2026-11-20 22:12:13,947 [INFO] 📝 Content selected: The version of you that quits is not the version you have to become....
+2026-11-20 22:12:15,075 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_751.jpg
+2026-11-20 22:12:15,075 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_751.jpg
+2026-11-20 22:12:15,076 [INFO] Caption preview: ☀️ The version of you that quits is not the version you have to become.
+
+Share this with someone who needs it today! 💛
+
+...
+2026-11-20 22:12:20,966 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-20 22:12:22,115 [INFO] Voice-over: en-KE-ChilembaNeural (14 words timed)
+2026-11-20 22:12:22,144 [INFO] Rendering reel: 8.0s, 14 words
+2026-11-20 22:12:47,087 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_751.mp4 (245 KB, 8.0s, 240 frames)
+2026-11-20 22:12:47,095 [INFO] Facebook reel [morning_motivation] | /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_751.mp4
+2026-11-20 22:12:47,948 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side-reels/684254f45f9141769bbc3f2c8e727530.mp4
+2026-11-20 22:12:53,190 [INFO] Instagram reel [morning_motivation] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_751.mp4
+2026-11-20 22:12:53,916 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/12f51f9c100e4d7cbfd644b461ffd8c4.mp4
+2026-11-20 22:12:55,518 [INFO] Container 18058558412804035 status: IN_PROGRESS (1/12)
+2026-11-20 22:13:00,875 [INFO] Container 18058558412804035 status: IN_PROGRESS (2/12)
+2026-11-20 22:13:06,212 [INFO] Container 18058558412804035 status: IN_PROGRESS (3/12)
+2026-11-20 22:13:11,492 [INFO] Container 18058558412804035 status: IN_PROGRESS (4/12)
+2026-11-20 22:13:16,790 [INFO] Container 18058558412804035 status: IN_PROGRESS (5/12)
+2026-11-20 22:13:22,449 [INFO] Container 18058558412804035 status: IN_PROGRESS (6/12)
+2026-11-20 22:13:27,703 [INFO] Container 18058558412804035 status: IN_PROGRESS (7/12)
+2026-11-20 22:13:32,988 [INFO] Container 18058558412804035 status: IN_PROGRESS (8/12)
+2026-11-20 22:13:38,413 [INFO] Container 18058558412804035 status: IN_PROGRESS (9/12)
+2026-11-20 22:13:43,708 [INFO] Container 18058558412804035 status: IN_PROGRESS (10/12)
+2026-11-20 22:13:49,249 [INFO] Container 18058558412804035 status: IN_PROGRESS (11/12)
+2026-11-20 22:13:54,634 [INFO] Container 18058558412804035 status: IN_PROGRESS (12/12)
+2026-11-20 22:13:59,884 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-20 22:13:59,884 [ERROR] ❌ Instagram failed [morning_motivation]: Container did not finish processing.

@@ -24325,5 +24325,46 @@
       "post_id": "1181533578372151_122145780531364831"
     },
     "timestamp": "2026-11-20T18:24:04.592225"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The version of you that quits is not the version you have to become.",
+      "content_index": 751,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T22:12:13.947267",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The version of you that quits is not the version you have to become.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145807555364831",
+      "post_id": "1181533578372151_122145807579364831"
+    },
+    "timestamp": "2026-11-20T22:12:20.971750"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The version of you that quits is not the version you have to become.",
+      "content_index": 751,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T22:12:13.947267",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The version of you that quits is not the version you have to become.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "1167479732442696"
+    },
+    "timestamp": "2026-11-20T22:12:52.851855"
   }
 ]
