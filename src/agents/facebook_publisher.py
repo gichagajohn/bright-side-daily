@@ -71,6 +71,49 @@ class FacebookPublisher:
                 "status_code": response.status_code,
             }
 
+    # ── Reels ─────────────────────────────────────────────────────────────────
+
+    def _reel_endpoint(self) -> str:
+        """Page videos go to /videos; /video_reels needs the newer upload flow."""
+
+        if os.environ.get("FB_REEL_ENDPOINT", "videos").strip().lower() == "reels":
+            return f"{GRAPH_API_BASE}/{self.page_id}/video_reels"
+
+        return f"{GRAPH_API_BASE}/{self.page_id}/videos"
+
+    def _post_video(self, video_url: str, caption: str) -> dict:
+        """Publish an MP4 to the Page by handing Facebook a public URL.
+
+        Facebook fetches the file itself, so the upload must be reachable from
+        the internet — which is why the reel goes to Supabase storage first.
+        """
+
+        payload = {
+            "file_url": video_url,
+            "description": caption,
+            "title": caption[:90],
+            "access_token": self.access_token,
+        }
+
+        response = requests.post(
+            self._reel_endpoint(), data=payload, timeout=180
+        )
+
+        if response.status_code == 200:
+            return {"success": True, "data": response.json()}
+
+        error = {}
+        try:
+            error = response.json().get("error", {})
+        except Exception:
+            error = {"message": response.text[:300]}
+
+        return {
+            "success": False,
+            "error": error,
+            "status_code": response.status_code,
+        }
+
     def _post_text_only(self, message: str) -> dict:
         """Post a text-only message (fallback)."""
         url = f"{GRAPH_API_BASE}/{self.page_id}/feed"
@@ -132,6 +175,54 @@ class FacebookPublisher:
             )
 
         return caption
+
+    # ── Reel publish ───────────────────────────────────────────────────────────
+
+    def publish_reel(self, post: dict, video_path: str) -> dict:
+        """Publish an MP4 to the Page as a video post.
+
+        Facebook pulls the file from a public URL rather than accepting a
+        multipart upload for large files, so the reel is staged in Supabase
+        storage and removed again afterwards.
+        """
+
+        slot = post.get("slot", "unknown")
+        caption = self._build_caption(post)
+
+        log.info("Facebook reel [%s] | %s", slot, video_path)
+
+        if self.dry_run:
+            log.info("[DRY RUN] Reel would be published:\n%s", caption)
+            return {
+                "success": True,
+                "dry_run": True,
+                "platform": "facebook",
+                "media_type": "REELS",
+                "slot": slot,
+            }
+
+        from agents.supabase_storage import SupabaseStorage
+
+        storage = SupabaseStorage()
+        url = None
+
+        try:
+            url = storage.upload(video_path, folder="bright-side-reels")
+            result = self._post_video(url, caption)
+
+            if result.get("success"):
+                self._log_success(post, result, caption)
+
+            return result
+
+        except Exception as exc:
+            log.error("Facebook reel failed: %s", exc)
+            self._log_failure(post, caption)
+            return {"success": False, "error": str(exc)}
+
+        finally:
+            if url:
+                storage.delete(url)
 
     # ── Retry logic ────────────────────────────────────────────────────────────
 

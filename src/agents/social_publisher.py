@@ -9,7 +9,8 @@ Publishes one post to every enabled platform:
                 engagement_question (question of the day).
 
                 Format is chosen per slot by DEFAULT_FORMAT_PLAN:
-                  REELS    morning_motivation
+                  REELS    morning_motivation, midday_encouragement,
+                           evening_reflection
                   CAROUSEL none (switched off)
                   IMAGE    everything else
                 Override with IG_REEL_SLOTS / IG_CAROUSEL_SLOTS, or
@@ -87,7 +88,7 @@ def _instagram_enabled():
 
 DEFAULT_FORMAT_PLAN = {
     # One reel a day, on the slot with the most reach.
-    "REELS": {"morning_motivation"},
+    "REELS": {"morning_motivation", "midday_encouragement", "evening_reflection"},
     # Carousels are switched off. The generator still exists — set
     # IG_CAROUSEL_SLOTS or IG_MEDIA_TYPE to bring them back.
     "CAROUSEL": set(),
@@ -178,6 +179,14 @@ def _publish_instagram(post):
                 log.warning("Reel rendering unavailable; posting the card instead.")
                 card = BlackCardGenerator().generate(post)
                 return publisher.publish(post, card)
+
+            # The renderer runs once; both platforms get the same file.
+            from agents.facebook_publisher import FacebookPublisher as _FB
+
+            try:
+                _FB().publish_reel(post, video)
+            except Exception as exc:
+                log.warning("Facebook reel failed (%s); Facebook keeps its photo.", exc)
 
             return publisher.publish_reel(post, video)
 
