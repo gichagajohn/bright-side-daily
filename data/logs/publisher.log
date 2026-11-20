@@ -17181,3 +17181,19 @@ Share this with someone who needs it today! 💛
 2026-11-20 13:52:27,859 [INFO] Instagram post published [morning_motivation]
 2026-11-20 13:52:28,743 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-20 13:52:28,743 [INFO] ✅ Instagram published [morning_motivation]
+2026-11-20 15:57:10,225 [INFO] Failed posts list is empty.
+2026-11-20 15:57:10,386 [INFO] ──────────────────────────────────────────────────
+2026-11-20 15:57:10,386 [INFO] ▶  Running slot: engagement_question
+2026-11-20 15:57:10,386 [INFO] ──────────────────────────────────────────────────
+2026-11-20 15:57:10,631 [INFO] 📝 Content selected: Who made you feel brave when you were younger?...
+2026-11-20 15:57:11,370 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_761.jpg
+2026-11-20 15:57:11,370 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_761.jpg
+2026-11-20 15:57:11,370 [INFO] Caption preview: 💬 Who made you feel brave when you were younger?
+
+Drop your answer in the comments below 👇
+
+#Community #ShareYourThought...
+2026-11-20 15:57:16,518 [INFO] ✅ Posted successfully [engagement_question]
+2026-11-20 15:57:16,541 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
+2026-11-20 15:57:16,541 [INFO] ✅ Facebook published [engagement_question]
+2026-11-20 15:57:16,541 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
