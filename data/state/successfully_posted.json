@@ -24284,5 +24284,46 @@
       "post_id": "1181533578372151_122145774873364831"
     },
     "timestamp": "2026-11-20T17:30:43.517255"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "One day at a time. One step at a time.",
+      "content_index": 272,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T17:30:37.955026",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f One day at a time. One step at a time.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "1181533578372151_122145780435364831"
+    },
+    "timestamp": "2026-11-20T18:23:59.781702"
+  },
+  {
+    "post": {
+      "slot": "night_inspiration",
+      "category": "motivational_quotes",
+      "content": "The only bad day is the one you don't learn from.",
+      "content_index": 616,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open book and coffee in a cozy reading nook"
+      },
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T18:24:00.081825",
+      "weight_used": 1.0
+    },
+    "caption": "\u2728 The only bad day is the one you don't learn from.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145780501364831",
+      "post_id": "1181533578372151_122145780531364831"
+    },
+    "timestamp": "2026-11-20T18:24:04.592225"
   }
 ]

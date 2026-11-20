@@ -17542,3 +17542,30 @@ Traceback (most recent call last):
 requests.exceptions.ConnectionError: HTTPSConnectionPool(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Max retries exceeded with url: /storage/v1/object/social-images/bright-side/157f5f15a0b54254a140befe579adfd0.jpg (Caused by NameResolutionError("HTTPSConnection(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Failed to resolve 'lvadrzrbfxpizvwimqtf.supabase.co' ([Errno -2] Name or service not known)"))
 2026-11-20 17:31:03,987 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-20 17:31:03,987 [ERROR] ❌ Instagram failed [morning_motivation]: HTTPSConnectionPool(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Max retries exceeded with url: /storage/v1/object/social-images/bright-side/157f5f15a0b54254a140befe579adfd0.jpg (Caused by NameResolutionError("HTTPSConnection(host='lvadrzrbfxpizvwimqtf.supabase.co', port=443): Failed to resolve 'lvadrzrbfxpizvwimqtf.supabase.co' ([Errno -2] Name or service not known)"))
+2026-11-20 18:23:56,911 [INFO] Retrying 1 failed posts...
+2026-11-20 18:23:56,912 [INFO] Publishing [morning_motivation] | image: none
+2026-11-20 18:23:56,912 [INFO] Caption preview: ☀️ One day at a time. One step at a time.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetM...
+2026-11-20 18:23:56,912 [WARNING] No image found — posting text only.
+2026-11-20 18:23:59,777 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-20 18:23:59,794 [INFO] Retry complete. 0 still failing.
+2026-11-20 18:23:59,907 [INFO] ──────────────────────────────────────────────────
+2026-11-20 18:23:59,907 [INFO] ▶  Running slot: night_inspiration
+2026-11-20 18:23:59,907 [INFO] ──────────────────────────────────────────────────
+2026-11-20 18:24:00,081 [INFO] 📝 Content selected: The only bad day is the one you don't learn from....
+2026-11-20 18:24:00,966 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/night_inspiration_616.jpg
+2026-11-20 18:24:00,966 [INFO] Publishing [night_inspiration] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/night_inspiration_616.jpg
+2026-11-20 18:24:00,966 [INFO] Caption preview: ✨ The only bad day is the one you don't learn from.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success...
+2026-11-20 18:24:04,588 [INFO] ✅ Posted successfully [night_inspiration]
+2026-11-20 18:24:04,612 [INFO] Instagram publish [night_inspiration] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/instagram/night_inspiration_616.jpg
+2026-11-20 18:24:05,197 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/3ed6e98c9c104787b49f512b5f6bc433.jpg
+2026-11-20 18:24:16,534 [INFO] Instagram post published [night_inspiration]
+2026-11-20 18:24:16,860 [INFO] ✅ Facebook published [night_inspiration]
+2026-11-20 18:24:16,860 [INFO] ✅ Instagram published [night_inspiration]
