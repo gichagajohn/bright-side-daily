@@ -9,8 +9,8 @@ Publishes one post to every enabled platform:
                 engagement_question (question of the day).
 
                 Format is chosen per slot by DEFAULT_FORMAT_PLAN:
-                  REELS    morning_motivation, night_inspiration
-                  CAROUSEL positive_quote, evening_reflection
+                  REELS    morning_motivation
+                  CAROUSEL none (switched off)
                   IMAGE    everything else
                 Override with IG_REEL_SLOTS / IG_CAROUSEL_SLOTS, or
                 IG_MEDIA_TYPE_<SLOT> for a single slot, or IG_MEDIA_TYPE for
@@ -86,8 +86,11 @@ def _instagram_enabled():
 #   IG_MEDIA_TYPE      force one format everywhere, ignoring the plan
 
 DEFAULT_FORMAT_PLAN = {
-    "REELS": {"morning_motivation", "night_inspiration"},
-    "CAROUSEL": {"positive_quote", "evening_reflection"},
+    # One reel a day, on the slot with the most reach.
+    "REELS": {"morning_motivation"},
+    # Carousels are switched off. The generator still exists — set
+    # IG_CAROUSEL_SLOTS or IG_MEDIA_TYPE to bring them back.
+    "CAROUSEL": set(),
 }
 
 VALID_FORMATS = {"IMAGE", "CAROUSEL", "REELS"}
