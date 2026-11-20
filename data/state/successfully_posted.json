@@ -24407,5 +24407,46 @@
       "id": "1717456543386143"
     },
     "timestamp": "2026-11-20T22:23:55.052120"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your future is built in the hours nobody claps for.",
+      "content_index": 723,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T23:34:00.213981",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your future is built in the hours nobody claps for.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145815283364831",
+      "post_id": "1181533578372151_122145815319364831"
+    },
+    "timestamp": "2026-11-20T23:34:06.932629"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your future is built in the hours nobody claps for.",
+      "content_index": 723,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T23:34:00.213981",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your future is built in the hours nobody claps for.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "1178783111179088"
+    },
+    "timestamp": "2026-11-20T23:34:39.071216"
   }
 ]
