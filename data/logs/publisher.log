@@ -17704,3 +17704,19 @@ Drop your answer in the comments below 👇
 2026-11-21 15:09:18,272 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
 2026-11-21 15:09:18,272 [INFO] ✅ Facebook published [engagement_question]
 2026-11-21 15:09:18,272 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
+2026-11-21 15:50:23,718 [INFO] Failed posts list is empty.
+2026-11-21 15:50:23,889 [INFO] ──────────────────────────────────────────────────
+2026-11-21 15:50:23,889 [INFO] ▶  Running slot: engagement_question
+2026-11-21 15:50:23,889 [INFO] ──────────────────────────────────────────────────
+2026-11-21 15:50:24,273 [INFO] 📝 Content selected: What's something you hope to experience for the first time this year?...
+2026-11-21 15:50:25,138 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_177.jpg
+2026-11-21 15:50:25,139 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_177.jpg
+2026-11-21 15:50:25,139 [INFO] Caption preview: 💬 What's something you hope to experience for the first time this year?
+
+Drop your answer in the comments below 👇
+
+#Comm...
+2026-11-21 15:50:30,334 [INFO] ✅ Posted successfully [engagement_question]
+2026-11-21 15:50:30,360 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
+2026-11-21 15:50:30,360 [INFO] ✅ Facebook published [engagement_question]
+2026-11-21 15:50:30,360 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
