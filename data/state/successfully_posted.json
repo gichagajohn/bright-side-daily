@@ -24654,5 +24654,46 @@
       "id": "1811025596828421"
     },
     "timestamp": "2026-11-21T20:51:57.134437"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You will never feel fully ready. Go anyway.",
+      "content_index": 713,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "open book and coffee in a cozy reading nook"
+      },
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T21:14:18.443567",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You will never feel fully ready. Go anyway.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145954849364831",
+      "post_id": "1181533578372151_122145954873364831"
+    },
+    "timestamp": "2026-11-21T21:14:23.249904"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You will never feel fully ready. Go anyway.",
+      "content_index": 713,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "open book and coffee in a cozy reading nook"
+      },
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T21:14:18.443567",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You will never feel fully ready. Go anyway.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "1663326525180605"
+    },
+    "timestamp": "2026-11-21T21:14:49.220677"
   }
 ]
