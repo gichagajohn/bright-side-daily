@@ -24613,5 +24613,46 @@
       "id": "1137505252216107"
     },
     "timestamp": "2026-11-21T17:10:41.660719"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The fastest way out of a rut is one small action taken today.",
+      "content_index": 711,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T20:51:18.213301",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The fastest way out of a rut is one small action taken today.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145952305364831",
+      "post_id": "1181533578372151_122145952329364831"
+    },
+    "timestamp": "2026-11-21T20:51:24.517819"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "The fastest way out of a rut is one small action taken today.",
+      "content_index": 711,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T20:51:18.213301",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f The fastest way out of a rut is one small action taken today.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "1811025596828421"
+    },
+    "timestamp": "2026-11-21T20:51:57.134437"
   }
 ]
