@@ -17720,3 +17720,30 @@ Drop your answer in the comments below 👇
 2026-11-21 15:50:30,360 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
 2026-11-21 15:50:30,360 [INFO] ✅ Facebook published [engagement_question]
 2026-11-21 15:50:30,360 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
+2026-11-21 16:35:06,094 [INFO] Failed posts list is empty.
+2026-11-21 16:35:06,289 [INFO] ──────────────────────────────────────────────────
+2026-11-21 16:35:06,289 [INFO] ▶  Running slot: evening_reflection
+2026-11-21 16:35:06,289 [INFO] ──────────────────────────────────────────────────
+2026-11-21 16:35:06,653 [INFO] 📝 Content selected: No blessing is too small to be grateful for....
+2026-11-21 16:35:07,655 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_37.jpg
+2026-11-21 16:35:07,656 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_37.jpg
+2026-11-21 16:35:07,656 [INFO] Caption preview: 🌙 No blessing is too small to be grateful for.
+
+Share this with someone who needs it today! 💛
+
+#Gratitude #Thankful #Cou...
+2026-11-21 16:35:11,856 [INFO] ✅ Posted successfully [evening_reflection]
+2026-11-21 16:35:12,986 [INFO] Voice-over: en-KE-ChilembaNeural (9 words timed)
+2026-11-21 16:35:13,015 [INFO] Rendering reel: 8.0s, 9 words
+2026-11-21 16:35:37,154 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/evening_reflection_37.mp4 (221 KB, 8.0s, 240 frames)
+2026-11-21 16:35:37,167 [INFO] Facebook reel [evening_reflection] | /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/evening_reflection_37.mp4
+2026-11-21 16:35:38,289 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side-reels/87ec1690aadd4bec9583f4e38e6f5bb8.mp4
+2026-11-21 16:35:44,796 [INFO] Instagram reel [evening_reflection] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/evening_reflection_37.mp4
+2026-11-21 16:35:46,873 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/0d8e253341a4499c964cb5d979ef4f50.mp4
+2026-11-21 16:35:48,984 [INFO] Container 18058663010804035 status: IN_PROGRESS (1/12)
+2026-11-21 16:35:54,272 [INFO] Container 18058663010804035 status: IN_PROGRESS (2/12)
+2026-11-21 16:35:59,616 [INFO] Container 18058663010804035 status: IN_PROGRESS (3/12)
+2026-11-21 16:36:04,954 [INFO] Container 18058663010804035 status: IN_PROGRESS (4/12)
+2026-11-21 16:36:26,459 [INFO] Instagram post published [evening_reflection]
+2026-11-21 16:36:26,750 [INFO] ✅ Facebook published [evening_reflection]
+2026-11-21 16:36:26,750 [INFO] ✅ Instagram published [evening_reflection]
