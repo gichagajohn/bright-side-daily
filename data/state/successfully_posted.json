@@ -24572,5 +24572,46 @@
       "id": "1645258443726637"
     },
     "timestamp": "2026-11-21T16:35:44.286064"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Do not wait for the storm to calm. Learn to work in the rain.",
+      "content_index": 731,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "open book and coffee in a cozy reading nook"
+      },
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T17:10:10.047495",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Do not wait for the storm to calm. Learn to work in the rain.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145931917364831",
+      "post_id": "1181533578372151_122145931941364831"
+    },
+    "timestamp": "2026-11-21T17:10:15.357093"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Do not wait for the storm to calm. Learn to work in the rain.",
+      "content_index": 731,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "open book and coffee in a cozy reading nook"
+      },
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T17:10:10.047495",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Do not wait for the storm to calm. Learn to work in the rain.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "1137505252216107"
+    },
+    "timestamp": "2026-11-21T17:10:41.660719"
   }
 ]

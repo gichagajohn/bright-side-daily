@@ -17747,3 +17747,36 @@ Share this with someone who needs it today! 💛
 2026-11-21 16:36:26,459 [INFO] Instagram post published [evening_reflection]
 2026-11-21 16:36:26,750 [INFO] ✅ Facebook published [evening_reflection]
 2026-11-21 16:36:26,750 [INFO] ✅ Instagram published [evening_reflection]
+2026-11-21 17:10:09,638 [INFO] Failed posts list is empty.
+2026-11-21 17:10:09,779 [INFO] ──────────────────────────────────────────────────
+2026-11-21 17:10:09,780 [INFO] ▶  Running slot: morning_motivation
+2026-11-21 17:10:09,780 [INFO] ──────────────────────────────────────────────────
+2026-11-21 17:10:10,047 [INFO] 📝 Content selected: Do not wait for the storm to calm. Learn to work in the rain....
+2026-11-21 17:10:10,864 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_731.jpg
+2026-11-21 17:10:10,864 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_731.jpg
+2026-11-21 17:10:10,864 [INFO] Caption preview: ☀️ Do not wait for the storm to calm. Learn to work in the rain.
+
+Share this with someone who needs it today! 💛
+
+#Motiva...
+2026-11-21 17:10:15,352 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-21 17:10:17,103 [INFO] Voice-over: en-KE-ChilembaNeural (14 words timed)
+2026-11-21 17:10:17,129 [INFO] Rendering reel: 8.4s, 14 words
+2026-11-21 17:10:35,042 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_731.mp4 (256 KB, 8.4s, 253 frames)
+2026-11-21 17:10:35,047 [INFO] Facebook reel [morning_motivation] | /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_731.mp4
+2026-11-21 17:10:35,898 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side-reels/89b404bb0d054b4ea4325ec7e990a175.mp4
+2026-11-21 17:10:42,096 [INFO] Instagram reel [morning_motivation] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_731.mp4
+2026-11-21 17:10:42,541 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/838d87a564fe4c7dbdc9877f86452070.mp4
+2026-11-21 17:10:44,510 [INFO] Container 18058667750804035 status: IN_PROGRESS (1/12)
+2026-11-21 17:10:49,808 [INFO] Container 18058667750804035 status: IN_PROGRESS (2/12)
+2026-11-21 17:10:55,301 [INFO] Container 18058667750804035 status: IN_PROGRESS (3/12)
+2026-11-21 17:11:00,526 [INFO] Container 18058667750804035 status: IN_PROGRESS (4/12)
+2026-11-21 17:11:05,720 [INFO] Container 18058667750804035 status: IN_PROGRESS (5/12)
+2026-11-21 17:11:10,975 [INFO] Container 18058667750804035 status: IN_PROGRESS (6/12)
+2026-11-21 17:11:16,302 [INFO] Container 18058667750804035 status: IN_PROGRESS (7/12)
+2026-11-21 17:11:21,641 [INFO] Container 18058667750804035 status: IN_PROGRESS (8/12)
+2026-11-21 17:11:27,024 [INFO] Container 18058667750804035 status: IN_PROGRESS (9/12)
+2026-11-21 17:11:32,267 [INFO] Container 18058667750804035 status: IN_PROGRESS (10/12)
+2026-11-21 17:11:46,273 [INFO] Instagram post published [morning_motivation]
+2026-11-21 17:11:46,752 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-21 17:11:46,752 [INFO] ✅ Instagram published [morning_motivation]
