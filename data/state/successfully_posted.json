@@ -24448,5 +24448,46 @@
       "id": "1178783111179088"
     },
     "timestamp": "2026-11-20T23:34:39.071216"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Fuel your fire with your purpose.",
+      "content_index": 451,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T13:15:40.863481",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Fuel your fire with your purpose.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122145901797364831",
+      "post_id": "1181533578372151_122145901827364831"
+    },
+    "timestamp": "2026-11-21T13:15:46.567302"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Fuel your fire with your purpose.",
+      "content_index": 451,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "mountain climber reaching summit at sunrise"
+      },
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T13:15:40.863481",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Fuel your fire with your purpose.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "1664276175179575"
+    },
+    "timestamp": "2026-11-21T13:16:11.708879"
   }
 ]

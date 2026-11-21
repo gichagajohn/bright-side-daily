@@ -17661,3 +17661,30 @@ Share this with someone who needs it today! 💛
 2026-11-20 23:35:05,416 [INFO] Instagram post published [morning_motivation]
 2026-11-20 23:35:05,704 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-20 23:35:05,704 [INFO] ✅ Instagram published [morning_motivation]
+2026-11-21 13:15:40,488 [INFO] Failed posts list is empty.
+2026-11-21 13:15:40,627 [INFO] ──────────────────────────────────────────────────
+2026-11-21 13:15:40,627 [INFO] ▶  Running slot: morning_motivation
+2026-11-21 13:15:40,627 [INFO] ──────────────────────────────────────────────────
+2026-11-21 13:15:40,863 [INFO] 📝 Content selected: Fuel your fire with your purpose....
+2026-11-21 13:15:41,739 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_451.jpg
+2026-11-21 13:15:41,739 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_451.jpg
+2026-11-21 13:15:41,739 [INFO] Caption preview: ☀️ Fuel your fire with your purpose.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatter...
+2026-11-21 13:15:46,563 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-21 13:15:48,253 [INFO] Voice-over: en-KE-ChilembaNeural (6 words timed)
+2026-11-21 13:15:48,279 [INFO] Rendering reel: 8.0s, 6 words
+2026-11-21 13:16:06,139 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_451.mp4 (198 KB, 8.0s, 240 frames)
+2026-11-21 13:16:06,146 [INFO] Facebook reel [morning_motivation] | /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_451.mp4
+2026-11-21 13:16:07,039 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side-reels/ad83fdda3b164da1808151cbae5d13f2.mp4
+2026-11-21 13:16:11,949 [INFO] Instagram reel [morning_motivation] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_451.mp4
+2026-11-21 13:16:12,300 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/bf165b77323b437c97da82571daf9ea2.mp4
+2026-11-21 13:16:14,198 [INFO] Container 18058639781804035 status: IN_PROGRESS (1/12)
+2026-11-21 13:16:19,475 [INFO] Container 18058639781804035 status: IN_PROGRESS (2/12)
+2026-11-21 13:16:24,778 [INFO] Container 18058639781804035 status: IN_PROGRESS (3/12)
+2026-11-21 13:16:29,921 [INFO] Container 18058639781804035 status: IN_PROGRESS (4/12)
+2026-11-21 13:16:43,617 [INFO] Instagram post published [morning_motivation]
+2026-11-21 13:16:43,818 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-21 13:16:43,818 [INFO] ✅ Instagram published [morning_motivation]
