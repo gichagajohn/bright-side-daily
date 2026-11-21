@@ -17688,3 +17688,19 @@ Share this with someone who needs it today! 💛
 2026-11-21 13:16:43,617 [INFO] Instagram post published [morning_motivation]
 2026-11-21 13:16:43,818 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-21 13:16:43,818 [INFO] ✅ Instagram published [morning_motivation]
+2026-11-21 15:09:12,702 [INFO] Failed posts list is empty.
+2026-11-21 15:09:12,815 [INFO] ──────────────────────────────────────────────────
+2026-11-21 15:09:12,815 [INFO] ▶  Running slot: engagement_question
+2026-11-21 15:09:12,815 [INFO] ──────────────────────────────────────────────────
+2026-11-21 15:09:12,981 [INFO] 📝 Content selected: What is a hobby you have never tried but always been curious about?...
+2026-11-21 15:09:13,640 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_745.jpg
+2026-11-21 15:09:13,640 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_745.jpg
+2026-11-21 15:09:13,640 [INFO] Caption preview: 💬 What is a hobby you have never tried but always been curious about?
+
+Drop your answer in the comments below 👇
+
+#Commun...
+2026-11-21 15:09:18,256 [INFO] ✅ Posted successfully [engagement_question]
+2026-11-21 15:09:18,272 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
+2026-11-21 15:09:18,272 [INFO] ✅ Facebook published [engagement_question]
+2026-11-21 15:09:18,272 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
