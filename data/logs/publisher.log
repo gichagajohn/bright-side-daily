@@ -17929,3 +17929,31 @@ Drop your answer in the comments below 👇
 2026-11-22 15:50:37,666 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
 2026-11-22 15:50:37,666 [INFO] ✅ Facebook published [engagement_question]
 2026-11-22 15:50:37,667 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
+2026-11-22 16:52:19,881 [INFO] Failed posts list is empty.
+2026-11-22 16:52:20,030 [INFO] ──────────────────────────────────────────────────
+2026-11-22 16:52:20,030 [INFO] ▶  Running slot: evening_reflection
+2026-11-22 16:52:20,030 [INFO] ──────────────────────────────────────────────────
+2026-11-22 16:52:20,300 [INFO] 📝 Content selected: Every blessing you count is a blessing that counts back....
+2026-11-22 16:52:21,048 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_469.jpg
+2026-11-22 16:52:21,048 [INFO] Publishing [evening_reflection] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/evening_reflection_469.jpg
+2026-11-22 16:52:21,048 [INFO] Caption preview: 🌙 Every blessing you count is a blessing that counts back.
+
+Share this with someone who needs it today! 💛
+
+#Gratitude #T...
+2026-11-22 16:52:26,452 [INFO] ✅ Posted successfully [evening_reflection]
+2026-11-22 16:52:28,201 [INFO] Voice-over: en-KE-ChilembaNeural (10 words timed)
+2026-11-22 16:52:28,226 [INFO] Rendering reel: 8.0s, 10 words
+2026-11-22 16:52:46,419 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/evening_reflection_469.mp4 (244 KB, 8.0s, 240 frames)
+2026-11-22 16:52:46,426 [INFO] Facebook reel [evening_reflection] | /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/evening_reflection_469.mp4
+2026-11-22 16:52:47,102 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side-reels/2e494b2cd90f44b5a50bf5719dab71bc.mp4
+2026-11-22 16:52:52,526 [INFO] Instagram reel [evening_reflection] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/evening_reflection_469.mp4
+2026-11-22 16:52:53,236 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/313747a48816436c8b8a13ebf140ca4b.mp4
+2026-11-22 16:52:55,116 [INFO] Container 18058793069804035 status: IN_PROGRESS (1/12)
+2026-11-22 16:53:00,449 [INFO] Container 18058793069804035 status: IN_PROGRESS (2/12)
+2026-11-22 16:53:05,757 [INFO] Container 18058793069804035 status: IN_PROGRESS (3/12)
+2026-11-22 16:53:11,054 [INFO] Container 18058793069804035 status: IN_PROGRESS (4/12)
+2026-11-22 16:53:16,358 [INFO] Container 18058793069804035 status: IN_PROGRESS (5/12)
+2026-11-22 16:53:30,461 [INFO] Instagram post published [evening_reflection]
+2026-11-22 16:53:30,758 [INFO] ✅ Facebook published [evening_reflection]
+2026-11-22 16:53:30,759 [INFO] ✅ Instagram published [evening_reflection]
