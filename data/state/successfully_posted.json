@@ -24860,5 +24860,46 @@
       "id": "1860690738451436"
     },
     "timestamp": "2026-11-22T16:52:52.170563"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your story deserves to be told in full.",
+      "content_index": 441,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T17:39:36.280539",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your story deserves to be told in full.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122146074849364831",
+      "post_id": "1181533578372151_122146074879364831"
+    },
+    "timestamp": "2026-11-22T17:39:42.228617"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Your story deserves to be told in full.",
+      "content_index": 441,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T17:39:36.280539",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Your story deserves to be told in full.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "1160779026314914"
+    },
+    "timestamp": "2026-11-22T17:40:15.375156"
   }
 ]
