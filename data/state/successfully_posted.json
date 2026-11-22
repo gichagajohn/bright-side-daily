@@ -24983,5 +24983,46 @@
       "id": "1109356088589216"
     },
     "timestamp": "2026-11-22T21:20:40.702562"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Let your standards speak louder than your moods.",
+      "content_index": 754,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T23:05:24.425018",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Let your standards speak louder than your moods.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122146109529364831",
+      "post_id": "1181533578372151_122146109553364831"
+    },
+    "timestamp": "2026-11-22T23:05:29.080897"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Let your standards speak louder than your moods.",
+      "content_index": 754,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T23:05:24.425018",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Let your standards speak louder than your moods.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "28927185236977436"
+    },
+    "timestamp": "2026-11-22T23:05:59.039354"
   }
 ]
