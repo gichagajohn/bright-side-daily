@@ -17897,3 +17897,19 @@ Share this with someone who needs it today! 💛
 2026-11-22 13:06:32,438 [INFO] Instagram post published [morning_motivation]
 2026-11-22 13:06:32,743 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-22 13:06:32,743 [INFO] ✅ Instagram published [morning_motivation]
+2026-11-22 15:06:44,947 [INFO] Failed posts list is empty.
+2026-11-22 15:06:45,092 [INFO] ──────────────────────────────────────────────────
+2026-11-22 15:06:45,092 [INFO] ▶  Running slot: engagement_question
+2026-11-22 15:06:45,092 [INFO] ──────────────────────────────────────────────────
+2026-11-22 15:06:45,292 [INFO] 📝 Content selected: What song never fails to lift your mood?...
+2026-11-22 15:06:46,175 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_706.jpg
+2026-11-22 15:06:46,175 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_706.jpg
+2026-11-22 15:06:46,175 [INFO] Caption preview: 💬 What song never fails to lift your mood?
+
+Drop your answer in the comments below 👇
+
+#Community #ShareYourThoughts #Que...
+2026-11-22 15:06:50,424 [INFO] ✅ Posted successfully [engagement_question]
+2026-11-22 15:06:50,445 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
+2026-11-22 15:06:50,445 [INFO] ✅ Facebook published [engagement_question]
+2026-11-22 15:06:50,445 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
