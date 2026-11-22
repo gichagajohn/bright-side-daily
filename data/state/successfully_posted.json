@@ -24942,5 +24942,46 @@
       "id": "2372219903514319"
     },
     "timestamp": "2026-11-22T20:59:11.051963"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Show up even when it hurts. That's what legends do.",
+      "content_index": 639,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T21:20:05.479288",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Show up even when it hurts. That's what legends do.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122146098081364831",
+      "post_id": "1181533578372151_122146098105364831"
+    },
+    "timestamp": "2026-11-22T21:20:09.775171"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Show up even when it hurts. That's what legends do.",
+      "content_index": 639,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T21:20:05.479288",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Show up even when it hurts. That's what legends do.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "1109356088589216"
+    },
+    "timestamp": "2026-11-22T21:20:40.702562"
   }
 ]
