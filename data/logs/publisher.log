@@ -17913,3 +17913,19 @@ Drop your answer in the comments below 👇
 2026-11-22 15:06:50,445 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
 2026-11-22 15:06:50,445 [INFO] ✅ Facebook published [engagement_question]
 2026-11-22 15:06:50,445 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
+2026-11-22 15:50:31,764 [INFO] Failed posts list is empty.
+2026-11-22 15:50:31,926 [INFO] ──────────────────────────────────────────────────
+2026-11-22 15:50:31,926 [INFO] ▶  Running slot: engagement_question
+2026-11-22 15:50:31,927 [INFO] ──────────────────────────────────────────────────
+2026-11-22 15:50:32,153 [INFO] 📝 Content selected: What's something you've recently started to love about being you?...
+2026-11-22 15:50:32,844 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_439.jpg
+2026-11-22 15:50:32,844 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_439.jpg
+2026-11-22 15:50:32,845 [INFO] Caption preview: 💬 What's something you've recently started to love about being you?
+
+Drop your answer in the comments below 👇
+
+#Communit...
+2026-11-22 15:50:37,643 [INFO] ✅ Posted successfully [engagement_question]
+2026-11-22 15:50:37,666 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
+2026-11-22 15:50:37,666 [INFO] ✅ Facebook published [engagement_question]
+2026-11-22 15:50:37,667 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
