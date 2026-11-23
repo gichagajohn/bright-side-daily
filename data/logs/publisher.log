@@ -18069,3 +18069,19 @@ Share this with someone who needs it today! 💛
 2026-11-22 23:06:37,763 [INFO] Instagram post published [morning_motivation]
 2026-11-22 23:06:38,194 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-22 23:06:38,194 [INFO] ✅ Instagram published [morning_motivation]
+2026-11-23 15:42:45,295 [INFO] Failed posts list is empty.
+2026-11-23 15:42:45,403 [INFO] ──────────────────────────────────────────────────
+2026-11-23 15:42:45,403 [INFO] ▶  Running slot: engagement_question
+2026-11-23 15:42:45,403 [INFO] ──────────────────────────────────────────────────
+2026-11-23 15:42:45,549 [INFO] 📝 Content selected: Which skill do you wish you had learned at school?...
+2026-11-23 15:42:46,139 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_719.jpg
+2026-11-23 15:42:46,140 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_719.jpg
+2026-11-23 15:42:46,140 [INFO] Caption preview: 💬 Which skill do you wish you had learned at school?
+
+Drop your answer in the comments below 👇
+
+#Community #ShareYourTho...
+2026-11-23 15:42:50,641 [INFO] ✅ Posted successfully [engagement_question]
+2026-11-23 15:42:50,657 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
+2026-11-23 15:42:50,657 [INFO] ✅ Facebook published [engagement_question]
+2026-11-23 15:42:50,657 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
