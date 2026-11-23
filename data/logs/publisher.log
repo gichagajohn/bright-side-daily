@@ -18144,3 +18144,29 @@ Share this with someone who needs it ...
 2026-11-23 19:44:09,692 [INFO] Container 18058936049804035 status: IN_PROGRESS (12/12)
 2026-11-23 19:44:15,344 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-23 19:44:15,344 [ERROR] ❌ Instagram failed [morning_motivation]: Container did not finish processing.
+2026-11-23 20:51:05,258 [INFO] Failed posts list is empty.
+2026-11-23 20:51:05,418 [INFO] ──────────────────────────────────────────────────
+2026-11-23 20:51:05,418 [INFO] ▶  Running slot: morning_motivation
+2026-11-23 20:51:05,418 [INFO] ──────────────────────────────────────────────────
+2026-11-23 20:51:05,762 [INFO] 📝 Content selected: You cannot think your way into a better life. You have to act your way there....
+2026-11-23 20:51:06,508 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_750.jpg
+2026-11-23 20:51:06,508 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_750.jpg
+2026-11-23 20:51:06,508 [INFO] Caption preview: ☀️ You cannot think your way into a better life. You have to act your way there.
+
+Share this with someone who needs it t...
+2026-11-23 20:51:10,772 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-23 20:51:12,583 [INFO] Voice-over: en-KE-ChilembaNeural (16 words timed)
+2026-11-23 20:51:12,610 [INFO] Rendering reel: 9.0s, 16 words
+2026-11-23 20:51:36,948 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_750.mp4 (305 KB, 9.0s, 270 frames)
+2026-11-23 20:51:36,954 [INFO] Facebook reel [morning_motivation] | /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_750.mp4
+2026-11-23 20:51:38,282 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side-reels/3c31e26175634bcda5abf37be7f3e9ff.mp4
+2026-11-23 20:51:43,287 [INFO] Instagram reel [morning_motivation] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_750.mp4
+2026-11-23 20:51:44,513 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/be5f362de4ee4813ba2d4b0eb9d6af30.mp4
+2026-11-23 20:51:46,427 [INFO] Container 18058940957804035 status: IN_PROGRESS (1/12)
+2026-11-23 20:51:51,810 [INFO] Container 18058940957804035 status: IN_PROGRESS (2/12)
+2026-11-23 20:51:57,222 [INFO] Container 18058940957804035 status: IN_PROGRESS (3/12)
+2026-11-23 20:52:02,542 [INFO] Container 18058940957804035 status: IN_PROGRESS (4/12)
+2026-11-23 20:52:07,858 [INFO] Container 18058940957804035 status: IN_PROGRESS (5/12)
+2026-11-23 20:52:22,927 [INFO] Instagram post published [morning_motivation]
+2026-11-23 20:52:23,282 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-23 20:52:23,282 [INFO] ✅ Instagram published [morning_motivation]

@@ -25127,5 +25127,46 @@
       "id": "1789684532101788"
     },
     "timestamp": "2026-11-23T19:43:07.688955"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You cannot think your way into a better life. You have to act your way there.",
+      "content_index": 750,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-11-23",
+      "timestamp": "2026-11-23T20:51:05.762190",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You cannot think your way into a better life. You have to act your way there.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122146249953364831",
+      "post_id": "1181533578372151_122146249977364831"
+    },
+    "timestamp": "2026-11-23T20:51:10.777672"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You cannot think your way into a better life. You have to act your way there.",
+      "content_index": 750,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-11-23",
+      "timestamp": "2026-11-23T20:51:05.762190",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You cannot think your way into a better life. You have to act your way there.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "29400191466266372"
+    },
+    "timestamp": "2026-11-23T20:51:42.963286"
   }
 ]
