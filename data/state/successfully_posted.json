@@ -25168,5 +25168,46 @@
       "id": "29400191466266372"
     },
     "timestamp": "2026-11-23T20:51:42.963286"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Work in silence. Win in public.",
+      "content_index": 567,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-23",
+      "timestamp": "2026-11-23T21:55:45.758990",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Work in silence. Win in public.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122146256571364831",
+      "post_id": "1181533578372151_122146256595364831"
+    },
+    "timestamp": "2026-11-23T21:55:50.900212"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Work in silence. Win in public.",
+      "content_index": 567,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-23",
+      "timestamp": "2026-11-23T21:55:45.758990",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Work in silence. Win in public.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "1008690778329166"
+    },
+    "timestamp": "2026-11-23T21:56:14.485511"
   }
 ]
