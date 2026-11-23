@@ -18085,3 +18085,30 @@ Drop your answer in the comments below 👇
 2026-11-23 15:42:50,657 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
 2026-11-23 15:42:50,657 [INFO] ✅ Facebook published [engagement_question]
 2026-11-23 15:42:50,657 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
+2026-11-23 19:02:41,859 [INFO] Failed posts list is empty.
+2026-11-23 19:02:42,029 [INFO] ──────────────────────────────────────────────────
+2026-11-23 19:02:42,029 [INFO] ▶  Running slot: morning_motivation
+2026-11-23 19:02:42,029 [INFO] ──────────────────────────────────────────────────
+2026-11-23 19:02:42,307 [INFO] 📝 Content selected: The best success stories are written in the language of persistence....
+2026-11-23 19:02:43,011 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_474.jpg
+2026-11-23 19:02:43,011 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_474.jpg
+2026-11-23 19:02:43,011 [INFO] Caption preview: ☀️ The best success stories are written in the language of persistence.
+
+Share this with someone who needs it today! 💛
+
+...
+2026-11-23 19:02:46,929 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-23 19:02:48,848 [INFO] Voice-over: en-KE-ChilembaNeural (11 words timed)
+2026-11-23 19:02:48,875 [INFO] Rendering reel: 8.0s, 11 words
+2026-11-23 19:03:11,724 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_474.mp4 (263 KB, 8.0s, 240 frames)
+2026-11-23 19:03:11,731 [INFO] Facebook reel [morning_motivation] | /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_474.mp4
+2026-11-23 19:03:13,022 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side-reels/06c5edf9d70f4a91b7fc777e5d11c8f3.mp4
+2026-11-23 19:03:18,556 [INFO] Instagram reel [morning_motivation] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_474.mp4
+2026-11-23 19:03:19,126 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/c1b900b165554c0ebc418e80cc94742f.mp4
+2026-11-23 19:03:20,976 [INFO] Container 18058932026804035 status: IN_PROGRESS (1/12)
+2026-11-23 19:03:26,413 [INFO] Container 18058932026804035 status: IN_PROGRESS (2/12)
+2026-11-23 19:03:31,763 [INFO] Container 18058932026804035 status: IN_PROGRESS (3/12)
+2026-11-23 19:03:37,114 [INFO] Container 18058932026804035 status: IN_PROGRESS (4/12)
+2026-11-23 19:03:50,158 [INFO] Instagram post published [morning_motivation]
+2026-11-23 19:03:50,512 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-23 19:03:50,513 [INFO] ✅ Instagram published [morning_motivation]
