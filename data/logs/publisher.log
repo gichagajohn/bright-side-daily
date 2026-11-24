@@ -18288,3 +18288,19 @@ Share this with someone who needs it today! 💛
 2026-11-24 03:43:28,454 [INFO] Instagram post published [morning_motivation]
 2026-11-24 03:43:28,933 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-24 03:43:28,933 [INFO] ✅ Instagram published [morning_motivation]
+2026-11-24 15:33:38,828 [INFO] Failed posts list is empty.
+2026-11-24 15:33:39,001 [INFO] ──────────────────────────────────────────────────
+2026-11-24 15:33:39,001 [INFO] ▶  Running slot: engagement_question
+2026-11-24 15:33:39,002 [INFO] ──────────────────────────────────────────────────
+2026-11-24 15:33:39,323 [INFO] 📝 Content selected: What's one thing that always makes you smile, no matter what?...
+2026-11-24 15:33:39,880 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_7.jpg
+2026-11-24 15:33:39,880 [INFO] Publishing [engagement_question] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/engagement_question_7.jpg
+2026-11-24 15:33:39,880 [INFO] Caption preview: 💬 What's one thing that always makes you smile, no matter what?
+
+Drop your answer in the comments below 👇
+
+#Community #S...
+2026-11-24 15:33:44,179 [INFO] ✅ Posted successfully [engagement_question]
+2026-11-24 15:33:44,205 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
+2026-11-24 15:33:44,206 [INFO] ✅ Facebook published [engagement_question]
+2026-11-24 15:33:44,206 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
