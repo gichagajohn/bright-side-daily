@@ -25291,5 +25291,46 @@
       "id": "1768513538232690"
     },
     "timestamp": "2026-11-24T02:37:53.290739"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Grow strong enough that the noise stops mattering.",
+      "content_index": 743,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-11-24",
+      "timestamp": "2026-11-24T03:42:24.564402",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Grow strong enough that the noise stops mattering.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122146283655364831",
+      "post_id": "1181533578372151_122146283679364831"
+    },
+    "timestamp": "2026-11-24T03:42:30.994971"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Grow strong enough that the noise stops mattering.",
+      "content_index": 743,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-11-24",
+      "timestamp": "2026-11-24T03:42:24.564402",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Grow strong enough that the noise stops mattering.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "1536290505021342"
+    },
+    "timestamp": "2026-11-24T03:42:50.990069"
   }
 ]
