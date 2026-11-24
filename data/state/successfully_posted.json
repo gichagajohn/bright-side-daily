@@ -25497,5 +25497,46 @@
       "id": "2229846694606119"
     },
     "timestamp": "2026-11-24T20:32:06.904831"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Change begins the moment honesty replaces excuse.",
+      "content_index": 749,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-11-24",
+      "timestamp": "2026-11-24T23:49:23.183657",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Change begins the moment honesty replaces excuse.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122146425057364831",
+      "post_id": "1181533578372151_122146425081364831"
+    },
+    "timestamp": "2026-11-24T23:49:28.522842"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Change begins the moment honesty replaces excuse.",
+      "content_index": 749,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-11-24",
+      "timestamp": "2026-11-24T23:49:23.183657",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Change begins the moment honesty replaces excuse.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "1883113159798651"
+    },
+    "timestamp": "2026-11-24T23:50:00.637120"
   }
 ]
