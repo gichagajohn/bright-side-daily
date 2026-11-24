@@ -18349,3 +18349,32 @@ Share this with someone who needs it today! 💛...
 2026-11-24 19:16:43,417 [INFO] Instagram post published [morning_motivation]
 2026-11-24 19:16:43,814 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-24 19:16:43,814 [INFO] ✅ Instagram published [morning_motivation]
+2026-11-24 19:55:02,441 [INFO] Failed posts list is empty.
+2026-11-24 19:55:02,665 [INFO] ──────────────────────────────────────────────────
+2026-11-24 19:55:02,666 [INFO] ▶  Running slot: morning_motivation
+2026-11-24 19:55:02,666 [INFO] ──────────────────────────────────────────────────
+2026-11-24 19:55:02,959 [INFO] 📝 Content selected: Work until your idols become your rivals....
+2026-11-24 19:55:03,875 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_339.jpg
+2026-11-24 19:55:03,875 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_339.jpg
+2026-11-24 19:55:03,875 [INFO] Caption preview: ☀️ Work until your idols become your rivals.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #Minds...
+2026-11-24 19:55:08,805 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-24 19:55:10,415 [INFO] Voice-over: en-KE-ChilembaNeural (7 words timed)
+2026-11-24 19:55:10,446 [INFO] Rendering reel: 8.0s, 7 words
+2026-11-24 19:55:32,691 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_339.mp4 (216 KB, 8.0s, 240 frames)
+2026-11-24 19:55:32,698 [INFO] Facebook reel [morning_motivation] | /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_339.mp4
+2026-11-24 19:55:33,595 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side-reels/10a709c9723b463d8480eeede97f3103.mp4
+2026-11-24 19:55:38,639 [INFO] Instagram reel [morning_motivation] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_339.mp4
+2026-11-24 19:55:39,655 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/22d085b602664db1b225e356a307fd72.mp4
+2026-11-24 19:55:41,155 [INFO] Container 18059061932804035 status: IN_PROGRESS (1/12)
+2026-11-24 19:55:46,456 [INFO] Container 18059061932804035 status: IN_PROGRESS (2/12)
+2026-11-24 19:55:51,812 [INFO] Container 18059061932804035 status: IN_PROGRESS (3/12)
+2026-11-24 19:55:57,095 [INFO] Container 18059061932804035 status: IN_PROGRESS (4/12)
+2026-11-24 19:56:02,372 [INFO] Container 18059061932804035 status: IN_PROGRESS (5/12)
+2026-11-24 19:56:07,714 [INFO] Container 18059061932804035 status: IN_PROGRESS (6/12)
+2026-11-24 19:56:21,850 [INFO] Instagram post published [morning_motivation]
+2026-11-24 19:56:22,499 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-24 19:56:22,500 [INFO] ✅ Instagram published [morning_motivation]
