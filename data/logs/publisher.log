@@ -18322,3 +18322,30 @@ Share this with someone who needs it today! 💛
 2026-11-24 18:42:52,880 [INFO] Instagram post published [night_inspiration]
 2026-11-24 18:42:53,310 [INFO] ✅ Facebook published [night_inspiration]
 2026-11-24 18:42:53,310 [INFO] ✅ Instagram published [night_inspiration]
+2026-11-24 19:15:14,794 [INFO] Failed posts list is empty.
+2026-11-24 19:15:14,993 [INFO] ──────────────────────────────────────────────────
+2026-11-24 19:15:14,993 [INFO] ▶  Running slot: morning_motivation
+2026-11-24 19:15:14,993 [INFO] ──────────────────────────────────────────────────
+2026-11-24 19:15:15,325 [INFO] 📝 Content selected: The gap between where you are and where you want to be is called work....
+2026-11-24 19:15:15,751 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_728.jpg
+2026-11-24 19:15:15,752 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_728.jpg
+2026-11-24 19:15:15,752 [INFO] Caption preview: ☀️ The gap between where you are and where you want to be is called work.
+
+Share this with someone who needs it today! 💛...
+2026-11-24 19:15:20,447 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-24 19:15:21,529 [INFO] Voice-over: en-KE-ChilembaNeural (15 words timed)
+2026-11-24 19:15:21,560 [INFO] Rendering reel: 8.0s, 15 words
+2026-11-24 19:15:45,902 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_728.mp4 (262 KB, 8.0s, 240 frames)
+2026-11-24 19:15:45,912 [INFO] Facebook reel [morning_motivation] | /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_728.mp4
+2026-11-24 19:15:46,626 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side-reels/4205f1fb9a9a4fa79ba2ab9ffbb139f9.mp4
+2026-11-24 19:15:54,323 [INFO] Instagram reel [morning_motivation] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_728.mp4
+2026-11-24 19:15:58,501 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/90fe7db26b0c461a9d25318f8133c468.mp4
+2026-11-24 19:15:59,503 [INFO] Container 18059059490804035 status: IN_PROGRESS (1/12)
+2026-11-24 19:16:04,596 [INFO] Container 18059059490804035 status: IN_PROGRESS (2/12)
+2026-11-24 19:16:09,711 [INFO] Container 18059059490804035 status: IN_PROGRESS (3/12)
+2026-11-24 19:16:14,805 [INFO] Container 18059059490804035 status: IN_PROGRESS (4/12)
+2026-11-24 19:16:20,527 [INFO] Container 18059059490804035 status: IN_PROGRESS (5/12)
+2026-11-24 19:16:25,954 [INFO] Container 18059059490804035 status: IN_PROGRESS (6/12)
+2026-11-24 19:16:43,417 [INFO] Instagram post published [morning_motivation]
+2026-11-24 19:16:43,814 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-24 19:16:43,814 [INFO] ✅ Instagram published [morning_motivation]
