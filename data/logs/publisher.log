@@ -18304,3 +18304,21 @@ Drop your answer in the comments below 👇
 2026-11-24 15:33:44,205 [INFO] Instagram skipped for [engagement_question]: this slot is Facebook-only.
 2026-11-24 15:33:44,206 [INFO] ✅ Facebook published [engagement_question]
 2026-11-24 15:33:44,206 [WARNING] ⚠️  Instagram skipped [engagement_question]: Slot is Facebook-only.
+2026-11-24 18:42:36,415 [INFO] Failed posts list is empty.
+2026-11-24 18:42:36,631 [INFO] ──────────────────────────────────────────────────
+2026-11-24 18:42:36,631 [INFO] ▶  Running slot: night_inspiration
+2026-11-24 18:42:36,631 [INFO] ──────────────────────────────────────────────────
+2026-11-24 18:42:36,970 [INFO] 📝 Content selected: Challenge yourself harder than anyone else could....
+2026-11-24 18:42:37,618 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/night_inspiration_535.jpg
+2026-11-24 18:42:37,618 [INFO] Publishing [night_inspiration] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/night_inspiration_535.jpg
+2026-11-24 18:42:37,618 [INFO] Caption preview: ✨ Challenge yourself harder than anyone else could.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success...
+2026-11-24 18:42:41,533 [INFO] ✅ Posted successfully [night_inspiration]
+2026-11-24 18:42:41,582 [INFO] Instagram publish [night_inspiration] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/instagram/night_inspiration_535.jpg
+2026-11-24 18:42:42,718 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/2e04db4c631f422288cff19ac20e757c.jpg
+2026-11-24 18:42:52,880 [INFO] Instagram post published [night_inspiration]
+2026-11-24 18:42:53,310 [INFO] ✅ Facebook published [night_inspiration]
+2026-11-24 18:42:53,310 [INFO] ✅ Instagram published [night_inspiration]

@@ -25353,5 +25353,26 @@
       "post_id": "1181533578372151_122146356585364831"
     },
     "timestamp": "2026-11-24T15:33:44.184649"
+  },
+  {
+    "post": {
+      "slot": "night_inspiration",
+      "category": "motivational_quotes",
+      "content": "Challenge yourself harder than anyone else could.",
+      "content_index": 535,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-11-24",
+      "timestamp": "2026-11-24T18:42:36.970681",
+      "weight_used": 1.0
+    },
+    "caption": "\u2728 Challenge yourself harder than anyone else could.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122146381167364831",
+      "post_id": "1181533578372151_122146381191364831"
+    },
+    "timestamp": "2026-11-24T18:42:41.539678"
   }
 ]
