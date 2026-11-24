@@ -25456,5 +25456,46 @@
       "id": "1182974800891352"
     },
     "timestamp": "2026-11-24T19:55:38.320100"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are closer than you think. Don't stop now.",
+      "content_index": 379,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-11-24",
+      "timestamp": "2026-11-24T20:31:35.517789",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are closer than you think. Don't stop now.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122146396797364831",
+      "post_id": "1181533578372151_122146396821364831"
+    },
+    "timestamp": "2026-11-24T20:31:41.757930"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are closer than you think. Don't stop now.",
+      "content_index": 379,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "runner crossing finish line triumphantly"
+      },
+      "date": "2026-11-24",
+      "timestamp": "2026-11-24T20:31:35.517789",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are closer than you think. Don't stop now.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "2229846694606119"
+    },
+    "timestamp": "2026-11-24T20:32:06.904831"
   }
 ]
