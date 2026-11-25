@@ -25641,5 +25641,46 @@
       "post_id": "1181533578372151_122146518675364831"
     },
     "timestamp": "2026-11-25T15:19:01.990859"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Pick the goal that scares you slightly and start today.",
+      "content_index": 753,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T17:51:16.692838",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Pick the goal that scares you slightly and start today.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122146534197364831",
+      "post_id": "1181533578372151_122146534233364831"
+    },
+    "timestamp": "2026-11-25T17:51:21.496931"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Pick the goal that scares you slightly and start today.",
+      "content_index": 753,
+      "visual_theme": {
+        "style": "minimalist",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T17:51:16.692838",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Pick the goal that scares you slightly and start today.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "1073686922399231"
+    },
+    "timestamp": "2026-11-25T17:51:49.502464"
   }
 ]
