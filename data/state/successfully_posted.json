@@ -25579,5 +25579,46 @@
       "id": "2338157136976059"
     },
     "timestamp": "2026-11-25T00:10:49.461160"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are growing even when you can't see it.",
+      "content_index": 674,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T01:49:44.236693",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are growing even when you can't see it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122146439259364831",
+      "post_id": "1181533578372151_122146439289364831"
+    },
+    "timestamp": "2026-11-25T01:49:50.311715"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "You are growing even when you can't see it.",
+      "content_index": 674,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "person standing on cliff watching sunrise"
+      },
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T01:49:44.236693",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f You are growing even when you can't see it.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "3044895852525657"
+    },
+    "timestamp": "2026-11-25T01:50:21.691080"
   }
 ]
