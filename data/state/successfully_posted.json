@@ -25806,5 +25806,46 @@
       "id": "907220549083603"
     },
     "timestamp": "2026-11-25T23:32:50.491906"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Nothing changes until your habits do.",
+      "content_index": 721,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T23:49:09.318069",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Nothing changes until your habits do.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122146565925364831",
+      "post_id": "1181533578372151_122146565949364831"
+    },
+    "timestamp": "2026-11-25T23:49:16.329919"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Nothing changes until your habits do.",
+      "content_index": 721,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "eagle soaring above clouds"
+      },
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T23:49:09.318069",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Nothing changes until your habits do.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "1578232887659168"
+    },
+    "timestamp": "2026-11-25T23:49:41.914799"
   }
 ]
