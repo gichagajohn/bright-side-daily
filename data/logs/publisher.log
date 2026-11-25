@@ -18599,3 +18599,31 @@ Share this with someone who needs it today! 💛
 2026-11-25 19:49:52,817 [INFO] Instagram post published [morning_motivation]
 2026-11-25 19:49:53,080 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-25 19:49:53,080 [INFO] ✅ Instagram published [morning_motivation]
+2026-11-25 23:32:09,179 [INFO] Failed posts list is empty.
+2026-11-25 23:32:09,370 [INFO] ──────────────────────────────────────────────────
+2026-11-25 23:32:09,371 [INFO] ▶  Running slot: morning_motivation
+2026-11-25 23:32:09,371 [INFO] ──────────────────────────────────────────────────
+2026-11-25 23:32:09,827 [INFO] 📝 Content selected: The greatest risk is not taking one....
+2026-11-25 23:32:10,831 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_407.jpg
+2026-11-25 23:32:10,831 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_407.jpg
+2026-11-25 23:32:10,831 [INFO] Caption preview: ☀️ The greatest risk is not taking one.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMat...
+2026-11-25 23:32:15,047 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-25 23:32:18,803 [INFO] Voice-over: en-KE-ChilembaNeural (7 words timed)
+2026-11-25 23:32:18,835 [INFO] Rendering reel: 8.0s, 7 words
+2026-11-25 23:32:44,663 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_407.mp4 (208 KB, 8.0s, 240 frames)
+2026-11-25 23:32:44,672 [INFO] Facebook reel [morning_motivation] | /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_407.mp4
+2026-11-25 23:32:45,489 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side-reels/73d3138c254b4251b8271c4a1e32e3c8.mp4
+2026-11-25 23:32:50,744 [INFO] Instagram reel [morning_motivation] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_407.mp4
+2026-11-25 23:32:51,272 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/55d5b8f856a14851afd1dc0d2f1ffba2.mp4
+2026-11-25 23:32:52,515 [INFO] Container 18059183828804035 status: IN_PROGRESS (1/12)
+2026-11-25 23:32:57,724 [INFO] Container 18059183828804035 status: IN_PROGRESS (2/12)
+2026-11-25 23:33:02,992 [INFO] Container 18059183828804035 status: IN_PROGRESS (3/12)
+2026-11-25 23:33:08,148 [INFO] Container 18059183828804035 status: IN_PROGRESS (4/12)
+2026-11-25 23:33:13,340 [INFO] Container 18059183828804035 status: IN_PROGRESS (5/12)
+2026-11-25 23:33:28,693 [INFO] Instagram post published [morning_motivation]
+2026-11-25 23:33:28,940 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-25 23:33:28,940 [INFO] ✅ Instagram published [morning_motivation]
