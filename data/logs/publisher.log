@@ -18535,3 +18535,20 @@ Share this with someone who needs it today! 💛
 2026-11-25 17:52:27,756 [INFO] Instagram post published [morning_motivation]
 2026-11-25 17:52:28,070 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-25 17:52:28,070 [INFO] ✅ Instagram published [morning_motivation]
+2026-11-25 18:20:10,911 [INFO] Failed posts list is empty.
+2026-11-25 18:20:11,079 [INFO] ──────────────────────────────────────────────────
+2026-11-25 18:20:11,079 [INFO] ▶  Running slot: night_inspiration
+2026-11-25 18:20:11,079 [INFO] ──────────────────────────────────────────────────
+2026-11-25 18:20:11,548 [INFO] 📝 Content selected: Success is not just about making money. It's about making a difference....
+2026-11-25 18:20:12,406 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/night_inspiration_213.jpg
+2026-11-25 18:20:12,407 [INFO] Publishing [night_inspiration] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/night_inspiration_213.jpg
+2026-11-25 18:20:12,407 [INFO] Caption preview: ✨ Success is not just about making money. It's about making a difference.
+
+Share this with someone who needs it today! 💛...
+2026-11-25 18:20:17,288 [INFO] ✅ Posted successfully [night_inspiration]
+2026-11-25 18:20:17,331 [INFO] Instagram publish [night_inspiration] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/instagram/night_inspiration_213.jpg
+2026-11-25 18:20:17,753 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/3a914bca32314cdbaf5eac0bfd1ffb3a.jpg
+2026-11-25 18:20:23,492 [INFO] Container 18059162270804035 status: IN_PROGRESS (1/12)
+2026-11-25 18:20:32,757 [INFO] Instagram post published [night_inspiration]
+2026-11-25 18:20:32,988 [INFO] ✅ Facebook published [night_inspiration]
+2026-11-25 18:20:32,988 [INFO] ✅ Instagram published [night_inspiration]

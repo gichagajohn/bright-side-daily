@@ -25682,5 +25682,26 @@
       "id": "1073686922399231"
     },
     "timestamp": "2026-11-25T17:51:49.502464"
+  },
+  {
+    "post": {
+      "slot": "night_inspiration",
+      "category": "motivational_quotes",
+      "content": "Success is not just about making money. It's about making a difference.",
+      "content_index": 213,
+      "visual_theme": {
+        "style": "illustration",
+        "theme": "staircase leading to bright light"
+      },
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T18:20:11.548255",
+      "weight_used": 1.0
+    },
+    "caption": "\u2728 Success is not just about making money. It's about making a difference.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122146538085364831",
+      "post_id": "1181533578372151_122146538109364831"
+    },
+    "timestamp": "2026-11-25T18:20:17.294048"
   }
 ]
