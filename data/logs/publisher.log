@@ -18552,3 +18552,22 @@ Share this with someone who needs it today! 💛...
 2026-11-25 18:20:32,757 [INFO] Instagram post published [night_inspiration]
 2026-11-25 18:20:32,988 [INFO] ✅ Facebook published [night_inspiration]
 2026-11-25 18:20:32,988 [INFO] ✅ Instagram published [night_inspiration]
+2026-11-25 18:57:38,529 [INFO] Failed posts list is empty.
+2026-11-25 18:57:38,671 [INFO] ──────────────────────────────────────────────────
+2026-11-25 18:57:38,671 [INFO] ▶  Running slot: night_inspiration
+2026-11-25 18:57:38,671 [INFO] ──────────────────────────────────────────────────
+2026-11-25 18:57:38,959 [INFO] 📝 Content selected: Momentum is louder than motivation. Start before you feel ready....
+2026-11-25 18:57:39,526 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/night_inspiration_702.jpg
+2026-11-25 18:57:39,526 [INFO] Publishing [night_inspiration] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/night_inspiration_702.jpg
+2026-11-25 18:57:39,526 [INFO] Caption preview: ✨ Momentum is louder than motivation. Start before you feel ready.
+
+Share this with someone who needs it today! 💛
+
+#Moti...
+2026-11-25 18:57:44,086 [INFO] ✅ Posted successfully [night_inspiration]
+2026-11-25 18:57:44,120 [INFO] Instagram publish [night_inspiration] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/instagram/night_inspiration_702.jpg
+2026-11-25 18:57:44,510 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/f2bef9699a78470daa5f62074617cf60.jpg
+2026-11-25 18:57:49,173 [INFO] Container 18059165495804035 status: IN_PROGRESS (1/12)
+2026-11-25 18:57:57,333 [INFO] Instagram post published [night_inspiration]
+2026-11-25 18:57:57,571 [INFO] ✅ Facebook published [night_inspiration]
+2026-11-25 18:57:57,571 [INFO] ✅ Instagram published [night_inspiration]
