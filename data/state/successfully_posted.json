@@ -25724,5 +25724,46 @@
       "post_id": "1181533578372151_122146541301364831"
     },
     "timestamp": "2026-11-25T18:57:44.090710"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Chase what sets your soul ablaze.",
+      "content_index": 429,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T19:48:37.401902",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Chase what sets your soul ablaze.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "122146546281364831",
+      "post_id": "1181533578372151_122146546305364831"
+    },
+    "timestamp": "2026-11-25T19:48:43.407132"
+  },
+  {
+    "post": {
+      "slot": "morning_motivation",
+      "category": "motivational_quotes",
+      "content": "Chase what sets your soul ablaze.",
+      "content_index": 429,
+      "visual_theme": {
+        "style": "photography",
+        "theme": "open road stretching to horizon at dawn"
+      },
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T19:48:37.401902",
+      "weight_used": 1.0
+    },
+    "caption": "\u2600\ufe0f Chase what sets your soul ablaze.\n\nShare this with someone who needs it today! \ud83d\udc9b\n\n#Motivation #Success #MindsetMatters #DailyMotivation #GoalSetter #BrightSideDaily",
+    "fb_response": {
+      "id": "2597310614029577"
+    },
+    "timestamp": "2026-11-25T19:49:16.534932"
   }
 ]

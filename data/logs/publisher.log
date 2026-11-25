@@ -18571,3 +18571,31 @@ Share this with someone who needs it today! 💛
 2026-11-25 18:57:57,333 [INFO] Instagram post published [night_inspiration]
 2026-11-25 18:57:57,571 [INFO] ✅ Facebook published [night_inspiration]
 2026-11-25 18:57:57,571 [INFO] ✅ Instagram published [night_inspiration]
+2026-11-25 19:48:36,976 [INFO] Failed posts list is empty.
+2026-11-25 19:48:37,146 [INFO] ──────────────────────────────────────────────────
+2026-11-25 19:48:37,146 [INFO] ▶  Running slot: morning_motivation
+2026-11-25 19:48:37,146 [INFO] ──────────────────────────────────────────────────
+2026-11-25 19:48:37,401 [INFO] 📝 Content selected: Chase what sets your soul ablaze....
+2026-11-25 19:48:38,035 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_429.jpg
+2026-11-25 19:48:38,036 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_429.jpg
+2026-11-25 19:48:38,036 [INFO] Caption preview: ☀️ Chase what sets your soul ablaze.
+
+Share this with someone who needs it today! 💛
+
+#Motivation #Success #MindsetMatter...
+2026-11-25 19:48:43,401 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-25 19:48:44,858 [INFO] Voice-over: en-KE-ChilembaNeural (6 words timed)
+2026-11-25 19:48:44,885 [INFO] Rendering reel: 8.0s, 6 words
+2026-11-25 19:49:09,403 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_429.mp4 (201 KB, 8.0s, 240 frames)
+2026-11-25 19:49:09,411 [INFO] Facebook reel [morning_motivation] | /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_429.mp4
+2026-11-25 19:49:10,474 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side-reels/1eb333a2bc224c51a5de66911766f374.mp4
+2026-11-25 19:49:17,110 [INFO] Instagram reel [morning_motivation] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_429.mp4
+2026-11-25 19:49:18,178 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/189bea5ffca94b348272d5c94b5386ab.mp4
+2026-11-25 19:49:19,707 [INFO] Container 18059170097804035 status: IN_PROGRESS (1/12)
+2026-11-25 19:49:24,984 [INFO] Container 18059170097804035 status: IN_PROGRESS (2/12)
+2026-11-25 19:49:30,281 [INFO] Container 18059170097804035 status: IN_PROGRESS (3/12)
+2026-11-25 19:49:35,556 [INFO] Container 18059170097804035 status: IN_PROGRESS (4/12)
+2026-11-25 19:49:40,856 [INFO] Container 18059170097804035 status: IN_PROGRESS (5/12)
+2026-11-25 19:49:52,817 [INFO] Instagram post published [morning_motivation]
+2026-11-25 19:49:53,080 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-25 19:49:53,080 [INFO] ✅ Instagram published [morning_motivation]
