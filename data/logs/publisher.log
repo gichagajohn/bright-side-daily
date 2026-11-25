@@ -18438,3 +18438,29 @@ Share this with someone who needs it today! 💛
 2026-11-24 23:50:33,375 [INFO] Instagram post published [morning_motivation]
 2026-11-24 23:50:33,766 [INFO] ✅ Facebook published [morning_motivation]
 2026-11-24 23:50:33,767 [INFO] ✅ Instagram published [morning_motivation]
+2026-11-25 00:10:18,748 [INFO] Failed posts list is empty.
+2026-11-25 00:10:18,888 [INFO] ──────────────────────────────────────────────────
+2026-11-25 00:10:18,888 [INFO] ▶  Running slot: morning_motivation
+2026-11-25 00:10:18,888 [INFO] ──────────────────────────────────────────────────
+2026-11-25 00:10:19,054 [INFO] 📝 Content selected: Your standards decide your ceiling. Raise them quietly and keep working....
+2026-11-25 00:10:19,685 [INFO] 🖼️  Photo ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_704.jpg
+2026-11-25 00:10:19,685 [INFO] Publishing [morning_motivation] | image: /home/runner/work/bright-side-daily/bright-side-daily/images/output/morning_motivation_704.jpg
+2026-11-25 00:10:19,685 [INFO] Caption preview: ☀️ Your standards decide your ceiling. Raise them quietly and keep working.
+
+Share this with someone who needs it today!...
+2026-11-25 00:10:23,031 [INFO] ✅ Posted successfully [morning_motivation]
+2026-11-25 00:10:25,785 [INFO] Voice-over: en-KE-ChilembaNeural (11 words timed)
+2026-11-25 00:10:25,810 [INFO] Rendering reel: 9.1s, 11 words
+2026-11-25 00:10:41,593 [INFO] Reel ready: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_704.mp4 (321 KB, 9.1s, 271 frames)
+2026-11-25 00:10:41,601 [INFO] Facebook reel [morning_motivation] | /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_704.mp4
+2026-11-25 00:10:42,610 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side-reels/6b97f01ff047415bb76bdab40f7309c8.mp4
+2026-11-25 00:10:52,640 [INFO] Instagram reel [morning_motivation] | video: /home/runner/work/bright-side-daily/bright-side-daily/images/output/reels/morning_motivation_704.mp4
+2026-11-25 00:10:55,455 [INFO] Uploaded to Supabase: https://lvadrzrbfxpizvwimqtf.supabase.co/storage/v1/object/public/social-images/bright-side/2ed402eb5e4349a5bae9bdf5e2a7390a.mp4
+2026-11-25 00:10:57,137 [INFO] Container 18059077538804035 status: IN_PROGRESS (1/12)
+2026-11-25 00:11:02,275 [INFO] Container 18059077538804035 status: IN_PROGRESS (2/12)
+2026-11-25 00:11:07,472 [INFO] Container 18059077538804035 status: IN_PROGRESS (3/12)
+2026-11-25 00:11:12,683 [INFO] Container 18059077538804035 status: IN_PROGRESS (4/12)
+2026-11-25 00:11:17,936 [INFO] Container 18059077538804035 status: IN_PROGRESS (5/12)
+2026-11-25 00:11:30,041 [INFO] Instagram post published [morning_motivation]
+2026-11-25 00:11:30,331 [INFO] ✅ Facebook published [morning_motivation]
+2026-11-25 00:11:30,331 [INFO] ✅ Instagram published [morning_motivation]
