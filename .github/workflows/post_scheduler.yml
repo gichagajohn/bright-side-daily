@@ -10,6 +10,10 @@ on:
         type: choice
         default: auto
         options: [auto, morning_motivation, positive_quote, midday_encouragement, bible_world_encouragement, engagement_question, evening_reflection]
+      story_id:
+        description: Render-only story ID (ignored for live publishing)
+        type: string
+        default: bsd-story-010
       dry_run:
         description: Render only; no Facebook or database writes
         type: boolean
@@ -71,6 +75,7 @@ jobs:
         if: steps.plan.outputs.run == 'true'
         env:
           INPUT_SLOT: ${{ inputs.slot }}
+          BSD_PREVIEW_STORY_ID: ${{ inputs.story_id || 'bsd-story-010' }}
         run: |
           if [ -n "$INPUT_SLOT" ] && [ "$INPUT_SLOT" != "auto" ]; then
             python src/scheduler.py --slot "$INPUT_SLOT"

@@ -8,6 +8,7 @@ import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 from bsd.common import config, file_hash, probe
+from bsd.editorial import footage_score
 
 class Footage:
     def __init__(self, cache, ledger=None, job_key=None):
@@ -18,14 +19,17 @@ class Footage:
             status_forcelist=[429,500,502,503],allowed_methods=['GET'])))
         self.used=ledger.recent_clips(config()['reels']['clip_cooldown_days']) if ledger else set()
 
-    def choose(self, query, min_seconds=9):
+    def choose(self, query, min_seconds=9, rule=None):
         key=os.environ.get('PEXELS_API_KEY')
         if not key: raise RuntimeError('PEXELS_API_KEY required for footage')
-        for page in random.sample(range(1,6),5):
+        for page in range(1,6):
             r=self.session.get('https://api.pexels.com/videos/search',headers={'Authorization':key},
                 params={'query':query,'orientation':'portrait','per_page':30,'page':page},timeout=30)
             if not r.ok: raise RuntimeError('Pexels HTTP '+str(r.status_code))
-            clips=r.json().get('videos',[]);random.shuffle(clips)
+            clips=r.json().get('videos',[])
+            ranked=[(footage_score(c,query,rule),c) for c in clips]
+            clips=[c for score,c in sorted(ranked,key=lambda item: item[0] if item[0] is not None else -1,reverse=True)
+                   if score is not None]
             for clip in clips:
                 cid=str(clip['id'])
                 if cid in self.used or clip.get('duration',0)<min_seconds: continue
@@ -38,6 +42,7 @@ class Footage:
                 provenance={'id':cid,'source_url':clip['url'],'creator':clip.get('user',{}).get('name'),
                     'license_url':'https://www.pexels.com/license/','provider':'pexels','query':query,
                     'retrieved_at':datetime.now(timezone.utc).isoformat(),
+                    'relevance':{'method':'title_keyword_filter','score':footage_score(clip,query,rule),'rule':rule or {}},
                     'rights_note':'Pexels licence; no endorsement implied. Review identifiable people/brands.'}
                 path=self.cache/(cid+'.mp4')
                 if not path.exists():

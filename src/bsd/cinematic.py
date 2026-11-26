@@ -6,6 +6,7 @@ from pathlib import Path
 from PIL import ImageFont
 from bsd.common import config, run, probe, duration, file_hash, write_json
 from bsd.narration import validate_marks
+from bsd.editorial import phrase_groups, wrap_balanced, emphasized
 
 FONT='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
 LEAD=0.35
@@ -16,13 +17,9 @@ def stamp(t):
 def escape(s):
     return s.replace('\\','').replace('{','').replace('}','').replace('\n',' ')
 
-def captions(marks, folder, total):
+def captions(marks, folder, total, emphasis=()):
     font=ImageFont.truetype(FONT,54)
-    groups=[]
-    for mark in marks:
-        if not groups or len(groups[-1])>=5 or mark['end']-groups[-1][0]['start']>2.5:
-            groups.append([])
-        groups[-1].append(mark)
+    groups=phrase_groups(marks)
     lines=['[Script Info]','ScriptType: v4.00+','PlayResX: 1080','PlayResY: 1920',
         '[V4+ Styles]',
         'Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding',
@@ -32,23 +29,25 @@ def captions(marks, folder, total):
         f'Dialogue: 0,0:00:00.00,{stamp(total)},Brand,,0,0,0,,BRIGHT SIDE DAILY']
     bounds=[]
     for i,g in enumerate(groups):
-        words=[escape(m['text']) for m in g]; rows=[[]]
-        for word in words:
-            if font.getlength(word)>760: raise ValueError('Unbreakable caption word exceeds safe width')
-            if font.getlength(' '.join(rows[-1]+[word]))>760: rows.append([])
-            rows[-1].append(word)
-        if len(rows)>2: raise ValueError('Caption exceeds two safe lines')
+        words=[escape(m['text']) for m in g]
+        rows=wrap_balanced(words,font)
         plain=[' '.join(row) for row in rows]
-        # Small accent on the last word, without flashing or word-by-word jumps.
-        rows[-1][-1]='{\\c&H66D9FF&}'+rows[-1][-1]+'{\\c&HFFFFFF&}'
+        highlights=emphasized(words,emphasis)
+        cursor=0
+        for row in rows:
+            for j,word in enumerate(row):
+                if cursor in highlights:
+                    row[j]='{\\c&H66D9FF&}'+word+'{\\c&HFFFFFF&}'
+                cursor+=1
         text='\\N'.join(' '.join(row) for row in rows)
         start=g[0]['start']+LEAD
         next_start=groups[i+1][0]['start']+LEAD if i+1<len(groups) else total-0.4
-        end=min(max(g[-1]['end']+LEAD,next_start),total-0.25)
+        end=min(g[-1]['end']+LEAD+0.18,next_start,total-0.25)
         if end<=start: raise ValueError('Caption interval invalid')
         lines.append(f'Dialogue: 1,{stamp(start)},{stamp(end)},Caption,,0,0,0,,{text}')
         bounds.append({'start':start,'end':end,'text':' '.join(words),'lines':plain,
-                       'max_width':max(font.getlength(s) for s in plain),'bottom':1440})
+                       'max_width':max(font.getlength(s) for s in plain),'bottom':1440,
+                       'highlighted_words':[words[j] for j in sorted(highlights)]})
     path=Path(folder)/'captions.ass';path.write_text('\n'.join(lines))
     return path,bounds
 
@@ -61,7 +60,9 @@ def render(post, clips, voice, marks, folder, voice_meta, provenance):
         raise ValueError(f'Narration duration {total:.1f}s outside 20–35s; revise script')
     validate_marks(post['content'],marks,speech)
     if len(clips)!=3: raise ValueError('Exactly three scenes required')
-    ass,bounds=captions(marks,folder,total)
+    if ' '.join(m['text'] for m in marks) != ' '.join(post['content'].split()):
+        raise ValueError('Caption words must match the approved script exactly')
+    ass,bounds=captions(marks,folder,total,post.get('emphasis',[]))
     segment=(total+1.0)/3; overlap=0.5
     normalized=[]
     # Sequential normalisation bounds RAM; libass overlays captions after transitions.

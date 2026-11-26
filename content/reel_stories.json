@@ -144,12 +144,50 @@
       "body": "You check the time again. You replay the minute you spent searching for your keys. But the next ten minutes do not have to become another argument with yourself. Let someone know you are delayed. Take a breath. Decide what is still within your control.",
       "conclusion": "A rough beginning does not have to write the rest of your day.",
       "queries": [
-        "city morning",
-        "person waiting",
-        "sunrise street"
+        "commuter waiting bus stop",
+        "person checking time phone",
+        "morning city traffic"
       ],
       "style": "warm",
-      "source": "original editorial seed; illustrative scenarios, not claimed real events"
+      "source": "original editorial seed; illustrative scenarios, not claimed real events",
+      "scene_rules": [
+        {
+          "required_any": [
+            "bus",
+            "buses",
+            "commuter",
+            "commuters",
+            "station",
+            "transport"
+          ]
+        },
+        {
+          "required_any": [
+            "phone",
+            "smartphone",
+            "watch",
+            "waiting"
+          ]
+        },
+        {
+          "required_any": [
+            "traffic",
+            "street",
+            "commuters",
+            "commuter",
+            "bus",
+            "road"
+          ]
+        }
+      ],
+      "emphasis": [
+        "missed bus",
+        "morning",
+        "keys",
+        "breath",
+        "control",
+        "rough beginning"
+      ]
     },
     {
       "id": "bsd-story-011",

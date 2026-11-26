@@ -67,7 +67,7 @@ def run_slot(slot, day, dry_run=True):
     try:
         history=[j['payload'].get('post',{}) for j in ledger.jobs(days=3650)] if ledger else []
         # Dry preview never writes a production history, ledger, asset reservation or Facebook API.
-        post=payload.get('post') or (choose(slot['name'],history) if slot['format']=='REELS'
+        post=payload.get('post') or (choose(slot['name'],history,os.getenv('BSD_PREVIEW_STORY_ID') if dry_run else None) if slot['format']=='REELS'
                                         else image_post(slot['name'],history,folder))
         post['date']=day;post['posting_time']=slot['time'];post['timezone']=config()['timezone']
         payload.update({'post':post,'format':slot['format'],'job_key':key})
@@ -76,8 +76,10 @@ def run_slot(slot, day, dry_run=True):
             voice,marks,voice_meta=narrate(post['content'],folder,post.get('style','warm'))
             source=Footage(ROOT/'.cache/bsd-footage',ledger,key)
             clips=[];provenance=[]
-            for query in post['queries']:
-                path,metadata=source.choose(query,min_seconds=max(9,(duration(voice)+2.15)/3))
+            for scene_index,query in enumerate(post['queries']):
+                rules=post.get('scene_rules',[])
+                rule=rules[scene_index] if scene_index<len(rules) else None
+                path,metadata=source.choose(query,min_seconds=max(9,(duration(voice)+2.15)/3),rule=rule)
                 clips.append(path);provenance.append(metadata)
             asset,manifest=render(post,clips,voice,marks,folder,voice_meta,provenance)
             payload['qc']=quality(asset,manifest)

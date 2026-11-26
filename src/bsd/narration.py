@@ -4,6 +4,7 @@ import re
 from pathlib import Path
 from difflib import SequenceMatcher
 from bsd.common import duration, config, write_json
+from bsd.editorial import script_marks
 
 
 def tokens(text):
@@ -44,7 +45,9 @@ def narrate(text, folder, style='warm'):
         try:
             marks=asyncio.run(edge(text,voice,rate,path))
             seconds=duration(path);validate_marks(text,marks,seconds)
-            return path,marks,{'provider':'edge-tts','voice':voice,'style':style,'timing':'provider'}
+            marks,changes=script_marks(text,marks)
+            return path,marks,{'provider':'edge-tts','voice':voice,'style':style,'timing':'provider',
+                              'caption_source':'approved_script','alignment_changes':changes}
         except Exception:
             path.unlink(missing_ok=True)
     # Independent service fallback. ASR timestamps are validated against the script;
@@ -58,6 +61,8 @@ def narrate(text, folder, style='warm'):
         marks=[{'text':w.word.strip(),'start':w.start,'end':w.end}
                for s in segments for w in s.words or []]
         validate_marks(text,marks,duration(path))
-        return path,marks,{'provider':'gtts','voice':'en','style':style,'timing':'asr-validated'}
+        marks,changes=script_marks(text,marks)
+        return path,marks,{'provider':'gtts','voice':'en','style':style,'timing':'asr-validated',
+                          'caption_source':'approved_script','alignment_changes':changes}
     except Exception:
         raise RuntimeError('All narration/alignment options failed; Reel withheld') from None

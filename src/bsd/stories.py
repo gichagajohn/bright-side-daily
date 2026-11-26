@@ -32,14 +32,17 @@ def validate(story, history):
         if old.get('hook','').lower()==story['hook'].lower(): raise ValueError('Repeated hook')
     return script
 
-def choose(slot, history):
+def choose(slot, history, story_id=None):
     seeds=json.loads((ROOT/'content/reel_stories.json').read_text())['stories']
+    if story_id:
+        seeds=[s for s in seeds if s['id']==story_id]
+        if not seeds: raise ValueError('Unknown preview story ID')
     random.shuffle(seeds)
     # Prefer underrepresented categories; do not change daily frequency.
     counts={c:sum(h.get('category')==c for h in history) for c in CATEGORIES}
     seeds.sort(key=lambda s:counts[s['category']])
     candidates=seeds
-    if os.environ.get('BSD_LOCAL_MODEL'):
+    if os.environ.get('BSD_LOCAL_MODEL') and not story_id:
         # Explicit opt-in for a local open-source model. No arbitrary remote API URLs.
         import requests
         category=min(counts,key=counts.get)
