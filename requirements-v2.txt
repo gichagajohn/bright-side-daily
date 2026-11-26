@@ -1,0 +1,7 @@
+# Tested direct dependency pins. Legacy requirements remain unchanged for rollback.
+Pillow==13.0.0
+requests==2.34.2
+feedparser==6.0.12
+edge-tts==7.2.7
+gTTS==2.5.4
+faster-whisper==1.2.1

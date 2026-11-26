@@ -151,10 +151,30 @@ class PexelsPhotoGenerator:
             width = 32 if len(caption) < 110 else 42
             font_size = 58 if len(caption) < 100 else 46
 
-        font = self._font(style_name, font_size, bold=True)
-        lines = textwrap.wrap(caption, width=width) or [caption]
-        line_height = font_size + 12
-        box_height = len(lines) * line_height + 80
+        if not caption:
+            raise ValueError("Empty image caption")
+        # Pixel-measured layout: never truncate a verse or overflow the card.
+        for size in range(font_size, 27, -2):
+            font = self._font(style_name, size, bold=True)
+            lines = []
+            for paragraph in caption.splitlines():
+                current = ""
+                for word in paragraph.split():
+                    if draw.textbbox((0, 0), word, font=font)[2] > 920:
+                        raise ValueError("Image caption contains an oversized word")
+                    trial = (current + " " + word).strip()
+                    if draw.textbbox((0, 0), trial, font=font)[2] > 920 and current:
+                        lines.append(current)
+                        current = word
+                    else:
+                        current = trial
+                lines.append(current)
+            line_height = size + 12
+            box_height = len(lines) * line_height + 80
+            if box_height <= 850:
+                break
+        else:
+            raise ValueError("Image caption cannot fit safely; publication withheld")
         y = 45
 
         draw.rounded_rectangle(

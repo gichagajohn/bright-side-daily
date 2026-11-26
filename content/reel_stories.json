@@ -1,0 +1,343 @@
+{
+  "schema": 1,
+  "stories": [
+    {
+      "id": "bsd-story-001",
+      "category": "life_lessons",
+      "title": "The unfinished list",
+      "hook": "You can finish a busy day and still feel behind.",
+      "body": "Before you add another task tonight, look at what you carried. You answered a difficult message. You showed up when you were tired. You made one decision you had been avoiding. Those things rarely fit neatly on a checklist.",
+      "conclusion": "Write down one thing you handled well. Let that count, too.",
+      "queries": [
+        "person writing notebook",
+        "quiet city evening",
+        "sunset landscape"
+      ],
+      "style": "warm",
+      "source": "original editorial seed; illustrative scenarios, not claimed real events"
+    },
+    {
+      "id": "bsd-story-002",
+      "category": "motivational_storytelling",
+      "title": "The first length",
+      "hook": "The first lap is not a promise to run a marathon.",
+      "body": "Picture someone standing outside a swimming pool, convinced everyone inside belongs there except them. Their goal today is not speed. It is one length, with a rest at the end. By choosing something small enough to finish, they give themselves a reason to return.",
+      "conclusion": "Choose your first length today. You can decide about the marathon later.",
+      "queries": [
+        "swimming pool",
+        "person walking outdoors",
+        "sunrise water"
+      ],
+      "style": "warm",
+      "source": "original editorial seed; illustrative scenarios, not claimed real events"
+    },
+    {
+      "id": "bsd-story-003",
+      "category": "personal_growth",
+      "title": "The awkward beginning",
+      "hook": "Being a beginner can feel surprisingly personal.",
+      "body": "Your hands hesitate. Your first attempt looks nothing like the example. It is easy to turn that awkward moment into a verdict about yourself. But a difficult first try only tells you where practice starts. It does not tell you where practice can take you.",
+      "conclusion": "Keep the first attempt. Someday it may show you how far you have come.",
+      "queries": [
+        "person learning craft",
+        "hands working pottery",
+        "mountain landscape"
+      ],
+      "style": "warm",
+      "source": "original editorial seed; illustrative scenarios, not claimed real events"
+    },
+    {
+      "id": "bsd-story-004",
+      "category": "discipline_consistency",
+      "title": "A smaller promise",
+      "hook": "On a difficult day, make the promise smaller.",
+      "body": "You planned an hour of reading, but the day took more from you than expected. Try one page. Not because one page will change everything, but because a manageable action can keep your relationship with a habit alive. Rest is allowed. Starting again is allowed.",
+      "conclusion": "Choose the version you can do kindly and consistently, not the version that looks impressive.",
+      "queries": [
+        "reading book",
+        "cozy window",
+        "forest morning"
+      ],
+      "style": "warm",
+      "source": "original editorial seed; illustrative scenarios, not claimed real events"
+    },
+    {
+      "id": "bsd-story-005",
+      "category": "overcoming_challenges",
+      "title": "The next safe step",
+      "hook": "You do not need a complete map to take the next safe step.",
+      "body": "When a problem feels enormous, your mind may try to solve the whole future at once. Bring it back to something close. Make the appointment. Ask someone you trust for help. Write down what you know and what you still need to learn.",
+      "conclusion": "One practical step will not erase the difficulty. It can give you somewhere to begin.",
+      "queries": [
+        "hiker forest",
+        "person writing desk",
+        "path sunrise"
+      ],
+      "style": "warm",
+      "source": "original editorial seed; illustrative scenarios, not claimed real events"
+    },
+    {
+      "id": "bsd-story-006",
+      "category": "emotional_intelligence",
+      "title": "Before the reply",
+      "hook": "A quick reply is not always your best reply.",
+      "body": "You read a message and feel your shoulders tighten. Before you answer, put the phone down for a moment. Name what you are feeling without turning it into an accusation. You can be honest about being hurt and still choose words that leave room for a conversation.",
+      "conclusion": "A pause is not weakness. Sometimes it is how you protect what matters.",
+      "queries": [
+        "person looking window",
+        "peaceful lake",
+        "people conversation"
+      ],
+      "style": "reflective",
+      "source": "original editorial seed; illustrative scenarios, not claimed real events"
+    },
+    {
+      "id": "bsd-story-007",
+      "category": "relationships_kindness",
+      "title": "The unnoticed kindness",
+      "hook": "Some of the kindest things never become a story.",
+      "body": "Someone holds a door without checking whether they are thanked. Someone remembers a name. Someone notices the quiet person and makes room at the table. Small acts do not fix every hard day, but they can make a person feel less invisible inside one.",
+      "conclusion": "Look for one quiet way to make room for someone today.",
+      "queries": [
+        "people walking",
+        "friends table",
+        "warm sunlight trees"
+      ],
+      "style": "warm",
+      "source": "original editorial seed; illustrative scenarios, not claimed real events"
+    },
+    {
+      "id": "bsd-story-008",
+      "category": "gratitude",
+      "title": "Nothing extraordinary",
+      "hook": "What if today does not need to be extraordinary to be worth noticing?",
+      "body": "There is clean water in your glass. A breeze reaches the room. Someone sends a message just to ask how you are. Gratitude does not require pretending everything is fine. It means allowing something good to exist beside what is difficult.",
+      "conclusion": "Before the day ends, name one ordinary thing you would miss if it disappeared.",
+      "queries": [
+        "glass water",
+        "curtains sunlight",
+        "peaceful sunset"
+      ],
+      "style": "reflective",
+      "source": "original editorial seed; illustrative scenarios, not claimed real events"
+    },
+    {
+      "id": "bsd-story-009",
+      "category": "faith_encouragement",
+      "title": "Room for an honest prayer",
+      "hook": "You do not have to hide your tiredness to make room for faith.",
+      "body": "An honest prayer can begin with uncertainty. It can be quiet, unfinished, and full of questions. You can seek encouragement while also asking for practical help from people you trust. Needing support does not make your hope less sincere.",
+      "conclusion": "Tonight, leave room for an honest prayer and one gentle act of care.",
+      "queries": [
+        "quiet church",
+        "hands journal",
+        "sunrise mountains"
+      ],
+      "style": "reflective",
+      "source": "original editorial seed; illustrative scenarios, not claimed real events"
+    },
+    {
+      "id": "bsd-story-010",
+      "category": "everyday_experiences",
+      "title": "The missed bus",
+      "hook": "A missed bus can make the whole morning feel ruined.",
+      "body": "You check the time again. You replay the minute you spent searching for your keys. But the next ten minutes do not have to become another argument with yourself. Let someone know you are delayed. Take a breath. Decide what is still within your control.",
+      "conclusion": "A rough beginning does not have to write the rest of your day.",
+      "queries": [
+        "commuter waiting bus stop",
+        "person checking time phone",
+        "morning city traffic"
+      ],
+      "style": "warm",
+      "source": "original editorial seed; illustrative scenarios, not claimed real events",
+      "scene_rules": [
+        {
+          "required_any": [
+            "bus",
+            "buses",
+            "commuter",
+            "commuters",
+            "station",
+            "transport"
+          ]
+        },
+        {
+          "required_any": [
+            "phone",
+            "smartphone",
+            "watch",
+            "waiting"
+          ]
+        },
+        {
+          "required_any": [
+            "traffic",
+            "street",
+            "commuters",
+            "commuter",
+            "bus",
+            "road"
+          ]
+        }
+      ],
+      "emphasis": [
+        "missed bus",
+        "morning",
+        "keys",
+        "breath",
+        "control",
+        "rough beginning"
+      ]
+    },
+    {
+      "id": "bsd-story-011",
+      "category": "life_lessons",
+      "title": "Changing your mind",
+      "hook": "Changing your mind can be a sign that you were paying attention.",
+      "body": "Perhaps you chose a path with the information you had, and now you know more. You do not have to defend every old decision forever. Keep what you learned. Be honest about what no longer fits. Then make the next choice with the understanding you have today.",
+      "conclusion": "Growth sometimes looks like a thoughtful change of direction.",
+      "queries": [
+        "crossroads path",
+        "person notebook",
+        "mountain sunrise"
+      ],
+      "style": "warm",
+      "source": "original editorial seed; illustrative scenarios, not claimed real events"
+    },
+    {
+      "id": "bsd-story-012",
+      "category": "motivational_storytelling",
+      "title": "The empty chair",
+      "hook": "An empty chair can be the beginning of a friendship.",
+      "body": "Imagine arriving at a gathering where every conversation seems to have started without you. Then someone shifts their bag and says there is space. Nothing dramatic happens. You sit down. You answer one question. A room that felt closed becomes a little easier to enter.",
+      "conclusion": "Today, you could be the person who makes that space.",
+      "queries": [
+        "friends outdoors",
+        "chairs cafe",
+        "people smiling"
+      ],
+      "style": "warm",
+      "source": "original editorial seed; illustrative scenarios, not claimed real events"
+    },
+    {
+      "id": "bsd-story-013",
+      "category": "personal_growth",
+      "title": "Learning to ask",
+      "hook": "Asking a clear question can take more courage than pretending to understand.",
+      "body": "At work, in a classroom, or during a difficult conversation, you may feel pressure to nod along. Try saying what you need explained. A question gives people a chance to meet you where you are. Pretending can leave you carrying confusion alone.",
+      "conclusion": "You are allowed to learn out loud. Start with the question you have been holding back.",
+      "queries": [
+        "person studying",
+        "people working together",
+        "library books"
+      ],
+      "style": "warm",
+      "source": "original editorial seed; illustrative scenarios, not claimed real events"
+    },
+    {
+      "id": "bsd-story-014",
+      "category": "discipline_consistency",
+      "title": "Preparing the doorway",
+      "hook": "Make tomorrow easier before you ask yourself to be stronger.",
+      "body": "Put the walking shoes near the door. Leave the book where your phone usually sits. Write the first task on a small piece of paper. A helpful environment cannot do the work for you, but it can remove one unnecessary decision when your energy is low.",
+      "conclusion": "Tonight, prepare one small doorway into the habit you want to keep.",
+      "queries": [
+        "walking shoes",
+        "book desk",
+        "morning doorway"
+      ],
+      "style": "warm",
+      "source": "original editorial seed; illustrative scenarios, not claimed real events"
+    },
+    {
+      "id": "bsd-story-015",
+      "category": "overcoming_challenges",
+      "title": "Not starting from nothing",
+      "hook": "Starting again is not the same as starting from nothing.",
+      "body": "A plan fell apart, and now you are looking at a blank page. It may feel as though the effort disappeared. But you still know what was harder than expected. You know which support helped. You know something about your limits that you did not know before.",
+      "conclusion": "Bring that knowledge with you. The next attempt can begin differently.",
+      "queries": [
+        "blank notebook",
+        "hiker resting",
+        "sunrise valley"
+      ],
+      "style": "warm",
+      "source": "original editorial seed; illustrative scenarios, not claimed real events"
+    },
+    {
+      "id": "bsd-story-016",
+      "category": "emotional_intelligence",
+      "title": "A feeling and a fact",
+      "hook": "A feeling deserves attention, but it is not always the whole picture.",
+      "body": "When you feel left out, your mind may decide that nobody cares. Before accepting that conclusion, ask what you actually know. Perhaps a message was missed. Perhaps you need to tell someone that you want to be included. Curiosity can create possibilities that certainty closes.",
+      "conclusion": "Listen to your feelings, then make room for another explanation.",
+      "queries": [
+        "person thoughtful",
+        "friends walking",
+        "calm ocean"
+      ],
+      "style": "reflective",
+      "source": "original editorial seed; illustrative scenarios, not claimed real events"
+    },
+    {
+      "id": "bsd-story-017",
+      "category": "relationships_kindness",
+      "title": "A useful offer",
+      "hook": "Sometimes kindness is a specific offer, not a perfect sentence.",
+      "body": "When someone is having a difficult week, it can be hard for them to explain what they need. Instead of promising anything at all, offer something you can genuinely do. A short walk. A meal. Help with one errand. Let them choose without pressure.",
+      "conclusion": "Care does not have to be grand. It helps when it is clear and dependable.",
+      "queries": [
+        "cooking meal",
+        "friends walking park",
+        "hands helping"
+      ],
+      "style": "warm",
+      "source": "original editorial seed; illustrative scenarios, not claimed real events"
+    },
+    {
+      "id": "bsd-story-018",
+      "category": "gratitude",
+      "title": "The familiar voice",
+      "hook": "A familiar voice can become background noise until you stop to listen.",
+      "body": "Maybe someone calls to tell you something ordinary. You are busy, and you almost rush through it. If you have a moment, ask one more question. Let their answer take its time. Attention can turn a routine conversation into a small reminder that you belong to each other.",
+      "conclusion": "Who could you listen to a little more closely today?",
+      "queries": [
+        "person phone",
+        "family outdoors",
+        "sunset window"
+      ],
+      "style": "reflective",
+      "source": "original editorial seed; illustrative scenarios, not claimed real events"
+    },
+    {
+      "id": "bsd-story-019",
+      "category": "faith_encouragement",
+      "title": "Quiet encouragement",
+      "hook": "Encouragement does not always arrive as certainty.",
+      "body": "Sometimes it is a friend who stays, a moment of stillness, or enough courage to ask for help. If faith is part of your life, you can bring your questions with you. You do not need a polished explanation for every difficult season before you seek comfort and community.",
+      "conclusion": "Take one gentle step toward the support that helps you keep going.",
+      "queries": [
+        "church window",
+        "friends nature",
+        "sunrise lake"
+      ],
+      "style": "reflective",
+      "source": "original editorial seed; illustrative scenarios, not claimed real events"
+    },
+    {
+      "id": "bsd-story-020",
+      "category": "everyday_experiences",
+      "title": "The imperfect home",
+      "hook": "Your home does not have to look finished before you are allowed to rest.",
+      "body": "There are dishes waiting and clothes on a chair. You can notice them without turning them into evidence against yourself. Choose one small thing that would make the room easier to use. Then decide whether what you need next is another task or a pause.",
+      "conclusion": "Caring for your space should include caring for the person who lives there.",
+      "queries": [
+        "cozy home",
+        "person cleaning",
+        "warm window"
+      ],
+      "style": "warm",
+      "source": "original editorial seed; illustrative scenarios, not claimed real events"
+    }
+  ]
+}

@@ -1,91 +1,9 @@
-name: Bright Side Daily - Bible World Encouragement
-
+name: Bible slot moved to unified Facebook scheduler
 on:
-  schedule:
-    # 14:00 UTC = 17:00 EAT / Nairobi time
-    - cron: "0 14 * * *"
-
   workflow_dispatch:
-
-permissions:
-  contents: write
-
-concurrency:
-  group: bright-side-bible-post
-  cancel-in-progress: false
-
+permissions: {}
 jobs:
-  bible-post:
-    name: Post Daily Bible Encouragement
+  notice:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-          cache: pip
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Install fonts and ffmpeg
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y fonts-dejavu-core ffmpeg
-
-      - name: Publish Bible world encouragement
-        env:
-          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
-          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-          IG_USER_ID: ${{ secrets.IG_USER_ID }}
-          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
-          IG_MEDIA_TYPE: ${{ secrets.IG_MEDIA_TYPE }}
-          IG_COLLABORATORS: ${{ secrets.IG_COLLABORATORS }}
-          IG_SIGNATURE: ${{ secrets.IG_SIGNATURE }}
-          IG_LOGIN_MODE: ${{ secrets.IG_LOGIN_MODE }}
-          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
-          SUPABASE_BUCKET: ${{ secrets.SUPABASE_BUCKET }}
-          DRY_RUN: "false"
-        run: |
-          python scripts/post_bible.py
-
-      - name: Save Bible verse history
-        if: always()
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          if [ -f "data/state/bible_used.json" ]; then
-            git add data/state/bible_used.json
-
-            if ! git diff --staged --quiet; then
-              git commit -m "chore: save Bible verse history [skip ci]"
-              git push
-            else
-              echo "No Bible verse state changes."
-            fi
-          else
-            echo "Bible history file was not created."
-          fi
-
-      - name: Upload post images
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: bible-post-${{ github.run_number }}
-          path: |
-            images/output/bible_world_encouragement.jpg
-            images/output/instagram/
-          if-no-files-found: ignore
-          retention-days: 14
+      - run: echo 'Bible images run at 17:00 EAT through post_scheduler.yml. This workflow no longer publishes.'
