@@ -1,171 +1,87 @@
-name: 🌟 Bright Side Daily — Auto Poster
-
+name: Bright Side Daily - Facebook production
 on:
   schedule:
-    # ── All times UTC. Kenya EAT = UTC+3 ──────────────────────────────────
-    # Facebook allows up to ~25 posts/day. 10 posts is well within limits.
-    #
-    # Seven Instagram posts, one per category, with motivational bookending
-    # the day 13 hours apart. Bible is posted by bible_post.yml at 0 14.
-    #
-    #  UTC   →  EAT      Slot
-    - cron: '0 5 * * *'   # 08:00 AM EAT — Morning Motivation
-    - cron: '0 7 * * *'   # 10:00 AM EAT — Positive Quote
-    - cron: '0 8 * * *'   # 11:00 AM EAT — Self Improvement
-    - cron: '0 9 * * *'   # 12:00 PM EAT — Funny Meme
-    - cron: '0 10 * * *'  # 01:00 PM EAT — Midday Encouragement
-    - cron: '0 15 * * *'  # 06:00 PM EAT — Engagement Question
-    - cron: '0 16 * * *'  # 07:00 PM EAT — Evening Reflection
-    - cron: '0 18 * * *'  # 09:00 PM EAT — Night Inspiration
-
+    # UTC heartbeat; config/publishing.json determines local due slots, including DST.
+    - cron: '0,30 * * * *'
   workflow_dispatch:
     inputs:
       slot:
-        description: 'Slot to post (leave empty for auto-detect)'
-        required: false
-        default: ''
+        description: Slot (auto selects currently due slots)
+        type: choice
+        default: auto
+        options: [auto, morning_motivation, positive_quote, midday_encouragement, bible_world_encouragement, engagement_question, evening_reflection]
       dry_run:
-        description: 'Dry run — true skips actual Facebook posting'
-        required: false
-        default: 'false'
-
+        description: Render only; no Facebook or database writes
+        type: boolean
+        default: true
 permissions:
-  contents: write
-
+  contents: read
+concurrency:
+  group: bright-side-facebook-production
+  cancel-in-progress: false
 jobs:
-  post:
-    name: 📢 Post to Facebook
+  publish:
+    # Branch workflows cannot publish; manual previews work before merge.
+    if: github.event_name == 'workflow_dispatch' || vars.BSD_ENABLE_PUBLISH == 'true'
     runs-on: ubuntu-latest
-    timeout-minutes: 15
-
+    timeout-minutes: 40
+    environment: facebook-production
+    env:
+      BSD_ENABLE_PUBLISH: ${{ github.ref == format('refs/heads/{0}', github.event.repository.default_branch) && vars.BSD_ENABLE_PUBLISH == 'true' && (github.event_name != 'workflow_dispatch' || !inputs.dry_run) && 'true' || 'false' }}
+      BSD_ENABLE_REELS: ${{ vars.BSD_ENABLE_REELS || 'false' }}
+      DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && 'true' || 'false' }}
+      FB_API_VERSION: ${{ vars.FB_API_VERSION || 'v26.0' }}
+      FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+      FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+      PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
     steps:
-      # ── 1. Checkout ────────────────────────────────────────────────────────
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
-
-      # ── 2. Python setup ────────────────────────────────────────────────────
-      - name: Set up Python 3.11
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Skip idle heartbeats before installing media dependencies
+        id: plan
+        env:
+          INPUT_SLOT: ${{ inputs.slot }}
+        run: |
+          if [ -n "$INPUT_SLOT" ] && [ "$INPUT_SLOT" != "auto" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            RESULT=$(PYTHONPATH=src python3 -c "from bsd.schedule import due; print('true' if due() else 'false')")
+            echo "run=$RESULT" >> "$GITHUB_OUTPUT"
+          fi
+          echo "cache_day=$(date -u +%F)" >> "$GITHUB_OUTPUT"
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        if: steps.plan.outputs.run == 'true'
         with:
           python-version: '3.11'
-          cache: 'pip'
-
-      # ── 3. Dependencies ────────────────────────────────────────────────────
-      - name: Install dependencies
-        run: |
-          pip install --upgrade pip
-          pip install -r requirements.txt
-
-      # ── 4. Content library check ───────────────────────────────────────────
-      - name: Generate content library (if missing)
-        run: |
-          if [ ! -f "content/library.json" ]; then
-            echo "Content library missing — generating..."
-            python scripts/generate_content_library.py
-          else
-            echo "Content library exists."
-          fi
-
-      # ── 5. Detect slot ─────────────────────────────────────────────────────
-      - name: Determine slot
-        id: slot_detect
-        run: |
-          HOUR=$(date -u +%H)
-          INPUT_SLOT="${{ github.event.inputs.slot }}"
-
-          if [ -n "$INPUT_SLOT" ]; then
-            SLOT="$INPUT_SLOT"
-            echo "Manual slot: $SLOT"
-          elif [ "$HOUR" = "05" ]; then
-            SLOT="morning_motivation"
-          elif [ "$HOUR" = "07" ]; then
-            SLOT="positive_quote"
-          elif [ "$HOUR" = "08" ]; then
-            SLOT="self_improvement"
-          elif [ "$HOUR" = "09" ]; then
-            SLOT="funny_meme"
-          elif [ "$HOUR" = "10" ]; then
-            SLOT="midday_encouragement"
-          elif [ "$HOUR" = "15" ]; then
-            SLOT="engagement_question"
-          elif [ "$HOUR" = "16" ]; then
-            SLOT="evening_reflection"
-          elif [ "$HOUR" = "18" ]; then
-            SLOT="night_inspiration"
-          else
-            SLOT="morning_motivation"
-            echo "Unknown hour $HOUR — defaulting to morning_motivation"
-          fi
-
-          echo "slot=$SLOT" >> $GITHUB_OUTPUT
-          echo "Selected slot: $SLOT"
-
-      # ── 6. Retry failed posts ──────────────────────────────────────────────
-      - name: Retry failed posts
-        env:
-          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
-          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
-        run: |
-          python src/scheduler.py --retry-failed || echo "No failed posts to retry."
-
-      # ── 7. Post to Facebook ────────────────────────────────────────────────
-      - name: Post to Facebook
-        id: post
-        env:
-          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
-          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-          IG_USER_ID: ${{ secrets.IG_USER_ID }}
-          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
-          IG_MEDIA_TYPE: ${{ secrets.IG_MEDIA_TYPE }}
-          IG_COLLABORATORS: ${{ secrets.IG_COLLABORATORS }}
-          IG_SIGNATURE: ${{ secrets.IG_SIGNATURE }}
-          IG_LOGIN_MODE: ${{ secrets.IG_LOGIN_MODE }}
-          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
-          SUPABASE_BUCKET: ${{ secrets.SUPABASE_BUCKET }}
-          DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
-        run: |
-          SLOT="${{ steps.slot_detect.outputs.slot }}"
-          echo "Posting slot: $SLOT"
-          python src/scheduler.py --slot "$SLOT"
-
-      # ── 8. Collect metrics ─────────────────────────────────────────────────
-      - name: Collect engagement metrics
-        env:
-          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
-          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
-        run: |
-          python src/agents/performance_agent.py || echo "Metrics skipped."
-        continue-on-error: true
-
-      # ── 9. Commit state ────────────────────────────────────────────────────
-      - name: Commit state files
-        run: |
-          git config --local user.email "brightside-bot@users.noreply.github.com"
-          git config --local user.name "Bright Side Daily Bot"
-          git add data/ content/ --force
-          git diff --staged --quiet || git commit -m "🤖 Auto: state update $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git push
-        continue-on-error: true
-
-      # ── 10. Upload images ──────────────────────────────────────────────────
-      - name: Upload post images
-        uses: actions/upload-artifact@v4
-        if: always()
+          cache: pip
+      - if: steps.plan.outputs.run == 'true'
+        run: pip install --require-hashes -r requirements-v2.lock
+      - if: steps.plan.outputs.run == 'true'
+        run: sudo apt-get update -qq && sudo apt-get install -y ffmpeg fonts-dejavu-core
+      - uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
+        if: steps.plan.outputs.run == 'true'
         with:
-          name: post-images-${{ steps.slot_detect.outputs.slot }}-${{ github.run_number }}
           path: |
-            images/output/
-          retention-days: 30
-
-      # ── 11. Upload logs ────────────────────────────────────────────────────
-      - name: Upload logs
-        uses: actions/upload-artifact@v4
+            .cache/bsd-footage
+            ~/.cache/huggingface
+          key: bsd-assets-v2-${{ steps.plan.outputs.cache_day }}
+          restore-keys: bsd-assets-v2-
+      - name: Render or publish due jobs
+        if: steps.plan.outputs.run == 'true'
+        env:
+          INPUT_SLOT: ${{ inputs.slot }}
+        run: |
+          if [ -n "$INPUT_SLOT" ] && [ "$INPUT_SLOT" != "auto" ]; then
+            python src/scheduler.py --slot "$INPUT_SLOT"
+          else
+            python src/scheduler.py --due
+          fi
+      - name: Review artifacts (no tokens or raw HTTP logs)
         if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:
-          name: logs-${{ steps.slot_detect.outputs.slot }}-${{ github.run_number }}
-          path: data/logs/
-          retention-days: 14
+          name: facebook-${{ github.run_id }}
+          path: artifacts/
+          retention-days: 7
+          if-no-files-found: ignore

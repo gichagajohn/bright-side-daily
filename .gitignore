@@ -10,3 +10,14 @@ dist/
 build/
 .venv/
 venv/
+
+# v2 generated artifacts, local caches and credentials
+artifacts/
+.cache/
+.env.*
+!.env.example
+*.mp4
+*.mp3
+*.wav
+
+!.env.v2.example

@@ -1,0 +1,14 @@
+{
+  "timezone": "Africa/Nairobi",
+  "max_lateness_minutes": 90,
+  "slots": [
+    {"name": "morning_motivation", "time": "08:00", "format": "REELS"},
+    {"name": "positive_quote", "time": "10:00", "format": "IMAGE"},
+    {"name": "midday_encouragement", "time": "16:00", "format": "REELS"},
+    {"name": "bible_world_encouragement", "time": "17:00", "format": "IMAGE"},
+    {"name": "engagement_question", "time": "18:00", "format": "IMAGE"},
+    {"name": "evening_reflection", "time": "19:00", "format": "REELS"}
+  ],
+  "voice": {"primary": "en-US-JennyNeural", "fallback": "en-GB-SoniaNeural", "rate": "-5%"},
+  "reels": {"min_seconds": 20, "max_seconds": 35, "clip_cooldown_days": 30, "max_bytes": 50000000}
+}

@@ -267,7 +267,10 @@ def _headlines():
 
     for url in WORLD_FEEDS:
         try:
-            feed = feedparser.parse(url)
+            import requests
+            response = requests.get(url, timeout=(10, 20))
+            response.raise_for_status()
+            feed = feedparser.parse(response.content)
 
             for entry in feed.entries[:8]:
                 title = entry.get("title", "").strip()
