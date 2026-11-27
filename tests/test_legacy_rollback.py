@@ -31,3 +31,14 @@ class RollbackTests(unittest.TestCase):
         with patch.object(legacy,'generate',return_value=None):
             with self.assertRaisesRegex(RuntimeError,'no video'):
                 render_legacy({'content':'A quote'},Path('/tmp'))
+
+    def test_kenyan_voice_required(self):
+        from generators import reel_generator as legacy
+        from bsd.legacy_reels import render_legacy
+        def generate(*args, **kwargs):
+            legacy._speak('A quote')
+            return None
+        with patch.object(legacy, '_speak', return_value=('voice.mp3', [(0,'A')])) as speak, patch.object(legacy, 'generate', side_effect=generate):
+            with self.assertRaisesRegex(RuntimeError, 'no video'):
+                render_legacy({'content':'A quote'}, Path('/tmp'))
+            speak.assert_called_once_with('A quote', voice='en-KE-ChilembaNeural', rate='+0%', strict=True)
