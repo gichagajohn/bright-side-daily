@@ -441,9 +441,9 @@ ctranslate2==4.9.1 \
     --hash=sha256:f9204ac4956ab909f7abbe5c58335c1d2f78cdd89430b178c4924f95276b4b10 \
     --hash=sha256:fca79a49cf9e3afe9fde85307643c74b5221e8854146803b7f9c9cd68af169e4
     # via faster-whisper
-edge-tts==7.2.7 \
-    --hash=sha256:0127fba57a742bc48ff0a2a3b24b8324f7859260185274c335b4e54735aff325 \
-    --hash=sha256:ac11d9e834347e5ee62cbe72e8a56ffd65d3c4e795be14b1e593b72cf6480dd9
+edge-tts==7.3.1 \
+    --hash=sha256:2a3c79d6235a7a736d681233823ce5492e829b43eb47beae49aa181237a8f9a4 \
+    --hash=sha256:ee1fabf911b9ea83b38ae93aee5619ee41eaf0b109fef6e65d797dc4ebf1f20f
     # via -r requirements-v2.txt
 faster-whisper==1.2.1 \
     --hash=sha256:79a66ad50688c0b794dd501dc340a736992a6342f7f95e5811be60b5224a26a7
