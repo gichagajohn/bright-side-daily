@@ -9,6 +9,7 @@ def render_legacy(post, folder):
     original_speak = legacy._speak
 
     def require_speech(*args, **kwargs):
+        kwargs.update(voice='en-KE-ChilembaNeural', rate='+0%', strict=True)
         spoken = original_speak(*args, **kwargs)
         if not spoken:
             raise RuntimeError('Legacy narration unavailable; publication withheld')

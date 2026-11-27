@@ -126,7 +126,7 @@ def _own_track():
     return random.choice(tracks) if tracks else None
 
 
-def _speak(text, voice=None, rate=None):
+def _speak(text, voice=None, rate=None, strict=False):
     """Read `text` aloud. Returns (mp3_path, [(seconds, word), ...]) or None.
 
     Tries edge-tts first because it reports word boundaries, which is what
@@ -165,12 +165,16 @@ def _speak(text, voice=None, rate=None):
 
         marks = asyncio.run(_collect())
 
-        if target.exists() and target.stat().st_size > 1000:
+        if target.exists() and target.stat().st_size > 1000 and (marks or not strict):
             log.info("Voice-over: %s (%d words timed)", voice or DEFAULT_VOICE, len(marks))
             return target, marks
 
-    except Exception as exc:
-        log.warning("edge-tts unavailable (%s); trying gTTS.", exc)
+    except Exception:
+        log.warning("Edge narration unavailable; provider details omitted.")
+
+    if strict:
+        shutil.rmtree(target.parent, ignore_errors=True)
+        raise RuntimeError("Kenyan male narration or word timings unavailable; no substitute voice allowed")
 
     try:
         from gtts import gTTS
