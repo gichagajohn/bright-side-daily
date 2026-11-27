@@ -30,7 +30,7 @@ def test_scripture_not_invented():
 
 
 def test_nairobi_requested_reels():
-    for hour,name in [(5,'morning_motivation'),(13,'midday_encouragement'),(16,'evening_reflection')]:
+    for hour,name in [(5,'morning_motivation'),(10,'midday_encouragement'),(16,'evening_reflection')]:
         selected=schedule.due(datetime(2026,11,26,hour,7,tzinfo=timezone.utc))
         assert any(s['name']==name and s['format']=='REELS' and d=='2026-11-26' for s,d in selected)
 

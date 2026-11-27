@@ -1,15 +1,23 @@
 name: Bright Side Daily - Facebook production
 on:
   schedule:
-    # UTC heartbeat; config/publishing.json determines local due slots, including DST.
-    - cron: '0,30 * * * *'
+    # Restore explicit legacy slots; dispatch by cron, not runner start hour.
+    - cron: '0 5 * * *'
+    - cron: '0 7 * * *'
+    - cron: '0 8 * * *'
+    - cron: '0 9 * * *'
+    - cron: '0 10 * * *'
+    - cron: '0 14 * * *'
+    - cron: '0 15 * * *'
+    - cron: '0 16 * * *'
+    - cron: '0 18 * * *'
   workflow_dispatch:
     inputs:
       slot:
         description: Slot (auto selects currently due slots)
         type: choice
         default: auto
-        options: [auto, morning_motivation, positive_quote, midday_encouragement, bible_world_encouragement, engagement_question, evening_reflection]
+        options: [auto, morning_motivation, positive_quote, midday_encouragement, self_improvement, funny_meme, night_inspiration, bible_world_encouragement, engagement_question, evening_reflection]
       story_id:
         description: Render-only story ID (ignored for live publishing)
         type: string
@@ -42,11 +50,19 @@ jobs:
       SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Select scheduled slot
+        if: github.event_name == 'schedule'
+        env:
+          SCHEDULE_CRON: ${{ github.event.schedule }}
+        run: |
+          PYTHONPATH=src python -m bsd.legacy_schedule >> "$GITHUB_ENV"
+
       - name: Skip idle heartbeats before installing media dependencies
         id: plan
         env:
           INPUT_SLOT: ${{ inputs.slot }}
         run: |
+          INPUT_SLOT="${SCHEDULED_SLOT:-$INPUT_SLOT}"
           if [ -n "$INPUT_SLOT" ] && [ "$INPUT_SLOT" != "auto" ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
           else
@@ -77,6 +93,7 @@ jobs:
           INPUT_SLOT: ${{ inputs.slot }}
           BSD_PREVIEW_STORY_ID: ${{ inputs.story_id || 'bsd-story-010' }}
         run: |
+          INPUT_SLOT="${SCHEDULED_SLOT:-$INPUT_SLOT}"
           if [ -n "$INPUT_SLOT" ] && [ "$INPUT_SLOT" != "auto" ]; then
             python src/scheduler.py --slot "$INPUT_SLOT"
           else

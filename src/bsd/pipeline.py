@@ -67,12 +67,17 @@ def run_slot(slot, day, dry_run=True):
     try:
         history=[j['payload'].get('post',{}) for j in ledger.jobs(days=3650)] if ledger else []
         # Dry preview never writes a production history, ledger, asset reservation or Facebook API.
-        post=payload.get('post') or (choose(slot['name'],history,os.getenv('BSD_PREVIEW_STORY_ID') if dry_run else None) if slot['format']=='REELS'
+        legacy_mode=config().get('reel_renderer')=='legacy'
+        post=payload.get('post') or (choose(slot['name'],history,os.getenv('BSD_PREVIEW_STORY_ID') if dry_run else None) if slot['format']=='REELS' and not legacy_mode
                                         else image_post(slot['name'],history,folder))
         post['date']=day;post['posting_time']=slot['time'];post['timezone']=config()['timezone']
         payload.update({'post':post,'format':slot['format'],'job_key':key})
         if ledger: ledger.update(key,'rendering',payload,content_hash=digest(post['content']))
-        if slot['format']=='REELS':
+        if slot['format']=='REELS' and legacy_mode:
+            from bsd.legacy_reels import render_legacy
+            asset, qc=render_legacy(post,folder)
+            payload['qc']=qc;payload['duration']=qc['duration']
+        elif slot['format']=='REELS':
             voice,marks,voice_meta=narrate(post['content'],folder,post.get('style','warm'))
             source=Footage(ROOT/'.cache/bsd-footage',ledger,key)
             clips=[];provenance=[]
